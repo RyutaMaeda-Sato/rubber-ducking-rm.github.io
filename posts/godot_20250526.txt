@@ -1,0 +1,203 @@
+3:I[4707,[],""]
+5:I[6423,[],""]
+6:I[4888,["972","static/chunks/972-f241a8fd644428c6.js","70","static/chunks/70-f52c2ad284c6cd86.js","185","static/chunks/app/layout-97d049cf0fc78146.js"],"GoogleAnalytics"]
+7:I[6806,["972","static/chunks/972-f241a8fd644428c6.js","70","static/chunks/70-f52c2ad284c6cd86.js","185","static/chunks/app/layout-97d049cf0fc78146.js"],"default"]
+8:I[7213,["972","static/chunks/972-f241a8fd644428c6.js","70","static/chunks/70-f52c2ad284c6cd86.js","185","static/chunks/app/layout-97d049cf0fc78146.js"],"default"]
+9:I[2972,["972","static/chunks/972-f241a8fd644428c6.js","333","static/chunks/app/posts/%5Bslug%5D/page-acd6669982df1354.js"],""]
+a:I[5878,["972","static/chunks/972-f241a8fd644428c6.js","70","static/chunks/70-f52c2ad284c6cd86.js","185","static/chunks/app/layout-97d049cf0fc78146.js"],"Image"]
+b:I[2374,["972","static/chunks/972-f241a8fd644428c6.js","70","static/chunks/70-f52c2ad284c6cd86.js","185","static/chunks/app/layout-97d049cf0fc78146.js"],"default"]
+4:["slug","godot_20250526","d"]
+0:["0oJGNGFmzz_LorUWHIimP",[[["",{"children":["posts",{"children":[["slug","godot_20250526","d"],{"children":["__PAGE__?{\"slug\":\"godot_20250526\"}",{}]}]}]},"$undefined","$undefined",true],["",{"children":["posts",{"children":[["slug","godot_20250526","d"],{"children":["__PAGE__",{},[["$L1","$L2",null],null],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","posts","children","$4","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","posts","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/3add334ee59f67ac.css","precedence":"next","crossOrigin":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/css/cec3dd424af6abe7.css","precedence":"next","crossOrigin":"$undefined"}],["$","link","2",{"rel":"stylesheet","href":"/_next/static/css/31924b81bd2c71c2.css","precedence":"next","crossOrigin":"$undefined"}]],["$","html",null,{"lang":"jp","className":"__variable_f367f3 __variable_8c8862 __variable_6beb74 __variable_b784c9 __variable_d575de","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){try{var s=localStorage.getItem('darkMode');var p=window.matchMedia('(prefers-color-scheme: dark)').matches;if(s!==null?s==='true':p){document.documentElement.classList.add('dark');}}catch(e){}})();"}}],["$","$L6",null,{"gaId":"G-FWRP8962MB"}]]}],["$","body",null,{"className":"__className_f367f3","children":["$","$L7",null,{"children":[["$","header",null,{"children":["$","$L8",null,{"children":["$","div",null,{"className":"fixed top-0 left-0 w-full z-50 bg-green-700 dark:bg-gray-900 shadow-md border-b border-green-600/50 dark:border-gray-800","children":["$","div",null,{"className":"max-w-7xl mx-auto","children":["$","div",null,{"className":"flex items-center justify-between px-6 md:px-8 h-20 md:h-24","children":[["$","$L9",null,{"href":"/","className":"group flex items-center gap-3 transition-opacity hover:opacity-80","children":[["$","$La",null,{"alt":"Maemaemae","src":"/header.jpg","width":44,"height":44,"className":"rounded-full object-cover ring-2 ring-white/20 group-hover:ring-white/40 transition-all"}],["$","span",null,{"className":"text-xl md:text-2xl font-katyou text-[#fffef9] tracking-wide","children":"Maemaemae"}]]}],["$","div",null,{"className":"flex items-center gap-2","children":[["$","a",null,{"href":"https://x.com/maemaemae_rm","target":"_blank","rel":"noopener noreferrer","className":"p-2.5 rounded-full hover:bg-white/10 transition-colors","aria-label":"X (Twitter)","children":["$","$La",null,{"src":"/x-logo-white.png","width":24,"height":24,"alt":""}]}],["$","$Lb",null,{}]]}]]}]}]}]}]}],["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[]}]]}]}]]}]],null],null],["$Lc",null]]]]
+e:I[7426,["972","static/chunks/972-f241a8fd644428c6.js","333","static/chunks/app/posts/%5Bslug%5D/page-acd6669982df1354.js"],"default"]
+d:T5439,<p>UI要素の注意喚起やゲーム内通知で役立つラベルの点滅エフェクト。この記事では、Godot 4.4.1で実装できる3つの手法を実用的なコード例とともに紹介します。</p>
+<h2>この記事で学べること</h2>
+<ul>
+<li>Tweenを使った滑らかな点滅アニメーション</li>
+<li>Timerノードによる明確な点滅制御</li>
+<li>プロセス関数を活用したリアルタイム点滅</li>
+</ul>
+<h2>方法1: Tween使用（推奨）</h2>
+<p>最も柔軟性が高く、滑らかなアニメーションを実現。</p>
+<pre class="language-gdscript"><code class="language-gdscript code-highlight"><span class="code-line"><span class="token keyword">extends</span> <span class="token class-name">Label</span>
+</span><span class="code-line">
+</span><span class="code-line"><span class="token keyword">func</span> <span class="token function">_ready</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">:</span>
+</span><span class="code-line">    <span class="token function">start_blinking</span><span class="token punctuation">(</span><span class="token punctuation">)</span>
+</span><span class="code-line">
+</span><span class="code-line"><span class="token keyword">func</span> <span class="token function">start_blinking</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">:</span>
+</span><span class="code-line">    <span class="token keyword">var</span> tween <span class="token operator">=</span> <span class="token function">create_tween</span><span class="token punctuation">(</span><span class="token punctuation">)</span>
+</span><span class="code-line">    tween<span class="token punctuation">.</span><span class="token function">set_loops</span><span class="token punctuation">(</span><span class="token punctuation">)</span>  <span class="token comment"># 無限ループ</span>
+</span><span class="code-line">    tween<span class="token punctuation">.</span><span class="token function">tween_property</span><span class="token punctuation">(</span><span class="token keyword">self</span><span class="token punctuation">,</span> <span class="token string">"modulate:a"</span><span class="token punctuation">,</span> <span class="token number">0.0</span><span class="token punctuation">,</span> <span class="token number">0.5</span><span class="token punctuation">)</span>
+</span><span class="code-line">    tween<span class="token punctuation">.</span><span class="token function">tween_property</span><span class="token punctuation">(</span><span class="token keyword">self</span><span class="token punctuation">,</span> <span class="token string">"modulate:a"</span><span class="token punctuation">,</span> <span class="token number">1.0</span><span class="token punctuation">,</span> <span class="token number">0.5</span><span class="token punctuation">)</span>
+</span><span class="code-line">
+</span><span class="code-line"><span class="token keyword">func</span> <span class="token function">stop_blinking</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">:</span>
+</span><span class="code-line">    <span class="token comment"># 点滅停止とアルファ値リセット</span>
+</span><span class="code-line">    <span class="token keyword">var</span> current_tween <span class="token operator">=</span> <span class="token function">get_tree</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">.</span><span class="token function">get_tween</span><span class="token punctuation">(</span><span class="token punctuation">)</span>
+</span><span class="code-line">    <span class="token keyword">if</span> current_tween<span class="token punctuation">:</span>
+</span><span class="code-line">        current_tween<span class="token punctuation">.</span><span class="token function">kill</span><span class="token punctuation">(</span><span class="token punctuation">)</span>
+</span><span class="code-line">    modulate<span class="token punctuation">.</span>a <span class="token operator">=</span> <span class="token number">1.0</span>
+</span></code></pre>
+<p><strong>メリット</strong></p>
+<ul>
+<li>アニメーションカーブによる動きの調整可能</li>
+<li>イージング設定で自然な動作</li>
+<li>パフォーマンス効率が良い</li>
+</ul>
+<h2>方法2: Timerノード使用</h2>
+<p>シンプルで理解しやすい実装。明確なオン・オフ切り替え。</p>
+<pre class="language-gdscript"><code class="language-gdscript code-highlight"><span class="code-line"><span class="token keyword">extends</span> <span class="token class-name">Label</span>
+</span><span class="code-line">
+</span><span class="code-line">@<span class="token keyword">onready</span> <span class="token keyword">var</span> blink_timer<span class="token punctuation">:</span> <span class="token class-name">Timer</span> <span class="token operator">=</span> Timer<span class="token punctuation">.</span><span class="token function">new</span><span class="token punctuation">(</span><span class="token punctuation">)</span>
+</span><span class="code-line"><span class="token keyword">var</span> is_visible_state<span class="token punctuation">:</span> <span class="token class-name">bool</span> <span class="token operator">=</span> <span class="token boolean">true</span>
+</span><span class="code-line">
+</span><span class="code-line"><span class="token keyword">func</span> <span class="token function">_ready</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">:</span>
+</span><span class="code-line">    <span class="token function">add_child</span><span class="token punctuation">(</span>blink_timer<span class="token punctuation">)</span>
+</span><span class="code-line">    blink_timer<span class="token punctuation">.</span>wait_time <span class="token operator">=</span> <span class="token number">0.5</span>
+</span><span class="code-line">    blink_timer<span class="token punctuation">.</span>timeout<span class="token punctuation">.</span><span class="token function">connect</span><span class="token punctuation">(</span>_on_blink_timer_timeout<span class="token punctuation">)</span>
+</span><span class="code-line">    <span class="token function">start_blinking</span><span class="token punctuation">(</span><span class="token punctuation">)</span>
+</span><span class="code-line">
+</span><span class="code-line"><span class="token keyword">func</span> <span class="token function">start_blinking</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">:</span>
+</span><span class="code-line">    blink_timer<span class="token punctuation">.</span><span class="token function">start</span><span class="token punctuation">(</span><span class="token punctuation">)</span>
+</span><span class="code-line">
+</span><span class="code-line"><span class="token keyword">func</span> <span class="token function">stop_blinking</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">:</span>
+</span><span class="code-line">    blink_timer<span class="token punctuation">.</span><span class="token function">stop</span><span class="token punctuation">(</span><span class="token punctuation">)</span>
+</span><span class="code-line">    visible <span class="token operator">=</span> <span class="token boolean">true</span>
+</span><span class="code-line">
+</span><span class="code-line"><span class="token keyword">func</span> <span class="token function">_on_blink_timer_timeout</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">:</span>
+</span><span class="code-line">    is_visible_state <span class="token operator">=</span> <span class="token operator">!</span>is_visible_state
+</span><span class="code-line">    visible <span class="token operator">=</span> is_visible_state
+</span></code></pre>
+<p><strong>メリット</strong></p>
+<ul>
+<li>動作が分かりやすい</li>
+<li>デバッグが簡単</li>
+<li>カクカクした点滅表現に適している</li>
+</ul>
+<h2>方法3: プロセス関数活用</h2>
+<p>リアルタイム計算による滑らかなフェード効果。</p>
+<pre class="language-gdscript"><code class="language-gdscript code-highlight"><span class="code-line"><span class="token keyword">extends</span> <span class="token class-name">Label</span>
+</span><span class="code-line">
+</span><span class="code-line">@<span class="token keyword">export</span> <span class="token keyword">var</span> blink_speed<span class="token punctuation">:</span> <span class="token class-name">float</span> <span class="token operator">=</span> <span class="token number">2.0</span>
+</span><span class="code-line">@<span class="token keyword">export</span> <span class="token keyword">var</span> enable_blinking<span class="token punctuation">:</span> <span class="token class-name">bool</span> <span class="token operator">=</span> <span class="token boolean">true</span>
+</span><span class="code-line">
+</span><span class="code-line"><span class="token keyword">func</span> <span class="token function">_process</span><span class="token punctuation">(</span>delta<span class="token punctuation">)</span><span class="token punctuation">:</span>
+</span><span class="code-line">    <span class="token keyword">if</span> <span class="token keyword">not</span> enable_blinking<span class="token punctuation">:</span>
+</span><span class="code-line">        <span class="token keyword">return</span>
+</span><span class="code-line">
+</span><span class="code-line">    <span class="token keyword">var</span> alpha <span class="token operator">=</span> <span class="token punctuation">(</span><span class="token function">sin</span><span class="token punctuation">(</span>Time<span class="token punctuation">.</span><span class="token function">get_time</span><span class="token punctuation">(</span><span class="token punctuation">)</span> <span class="token operator">*</span> blink_speed<span class="token punctuation">)</span> <span class="token operator">+</span> <span class="token number">1.0</span><span class="token punctuation">)</span> <span class="token operator">/</span> <span class="token number">2.0</span>
+</span><span class="code-line">    modulate<span class="token punctuation">.</span>a <span class="token operator">=</span> alpha
+</span><span class="code-line">
+</span><span class="code-line"><span class="token keyword">func</span> <span class="token function">toggle_blinking</span><span class="token punctuation">(</span>enable<span class="token punctuation">:</span> <span class="token class-name">bool</span><span class="token punctuation">)</span><span class="token punctuation">:</span>
+</span><span class="code-line">    enable_blinking <span class="token operator">=</span> enable
+</span><span class="code-line">    <span class="token keyword">if</span> <span class="token keyword">not</span> enable<span class="token punctuation">:</span>
+</span><span class="code-line">        modulate<span class="token punctuation">.</span>a <span class="token operator">=</span> <span class="token number">1.0</span>
+</span></code></pre>
+<p><strong>メリット</strong></p>
+<ul>
+<li>数学的に制御可能</li>
+<li>リアルタイムでの速度調整</li>
+<li>他のエフェクトと組み合わせやすい</li>
+</ul>
+<h2>パラメータ調整のポイント</h2>
+<h3>点滅速度の制御</h3>
+<pre class="language-gdscript"><code class="language-gdscript code-highlight"><span class="code-line"><span class="token comment"># Tween版</span>
+</span><span class="code-line">tween<span class="token punctuation">.</span><span class="token function">tween_property</span><span class="token punctuation">(</span><span class="token keyword">self</span><span class="token punctuation">,</span> <span class="token string">"modulate:a"</span><span class="token punctuation">,</span> <span class="token number">0.0</span><span class="token punctuation">,</span> <span class="token number">0.3</span><span class="token punctuation">)</span>  <span class="token comment"># より早い点滅</span>
+</span><span class="code-line">
+</span><span class="code-line"><span class="token comment"># Timer版</span>
+</span><span class="code-line">blink_timer<span class="token punctuation">.</span>wait_time <span class="token operator">=</span> <span class="token number">0.2</span>  <span class="token comment"># より早い切り替え</span>
+</span><span class="code-line">
+</span><span class="code-line"><span class="token comment"># Process版</span>
+</span><span class="code-line">blink_speed <span class="token operator">=</span> <span class="token number">3.0</span>  <span class="token comment"># より早いフェード</span>
+</span></code></pre>
+<h3>点滅パターンの変更</h3>
+<pre class="language-gdscript"><code class="language-gdscript code-highlight"><span class="code-line"><span class="token comment"># 透明度変更（推奨）</span>
+</span><span class="code-line">modulate<span class="token punctuation">.</span>a <span class="token operator">=</span> target_alpha
+</span><span class="code-line">
+</span><span class="code-line"><span class="token comment"># 表示・非表示切り替え</span>
+</span><span class="code-line">visible <span class="token operator">=</span> target_visible
+</span><span class="code-line">
+</span><span class="code-line"><span class="token comment"># 色の変更</span>
+</span><span class="code-line">modulate <span class="token operator">=</span> Color<span class="token punctuation">.</span><span class="token constant">RED</span> <span class="token keyword">if</span> blinking <span class="token keyword">else</span> Color<span class="token punctuation">.</span><span class="token constant">WHITE</span>
+</span></code></pre>
+<h2>実用的な使用例</h2>
+<h3>ゲームオーバー表示</h3>
+<pre class="language-gdscript"><code class="language-gdscript code-highlight"><span class="code-line"><span class="token keyword">extends</span> <span class="token class-name">Label</span>
+</span><span class="code-line">
+</span><span class="code-line"><span class="token keyword">func</span> <span class="token function">show_game_over</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">:</span>
+</span><span class="code-line">    text <span class="token operator">=</span> <span class="token string">"GAME OVER"</span>
+</span><span class="code-line">    <span class="token function">start_urgent_blinking</span><span class="token punctuation">(</span><span class="token punctuation">)</span>
+</span><span class="code-line">
+</span><span class="code-line"><span class="token keyword">func</span> <span class="token function">start_urgent_blinking</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">:</span>
+</span><span class="code-line">    <span class="token keyword">var</span> tween <span class="token operator">=</span> <span class="token function">create_tween</span><span class="token punctuation">(</span><span class="token punctuation">)</span>
+</span><span class="code-line">    tween<span class="token punctuation">.</span><span class="token function">set_loops</span><span class="token punctuation">(</span><span class="token punctuation">)</span>
+</span><span class="code-line">    tween<span class="token punctuation">.</span><span class="token function">tween_property</span><span class="token punctuation">(</span><span class="token keyword">self</span><span class="token punctuation">,</span> <span class="token string">"modulate:a"</span><span class="token punctuation">,</span> <span class="token number">0.2</span><span class="token punctuation">,</span> <span class="token number">0.2</span><span class="token punctuation">)</span>
+</span><span class="code-line">    tween<span class="token punctuation">.</span><span class="token function">tween_property</span><span class="token punctuation">(</span><span class="token keyword">self</span><span class="token punctuation">,</span> <span class="token string">"modulate:a"</span><span class="token punctuation">,</span> <span class="token number">1.0</span><span class="token punctuation">,</span> <span class="token number">0.2</span><span class="token punctuation">)</span>
+</span></code></pre>
+<h3>条件付き点滅制御</h3>
+<pre class="language-gdscript"><code class="language-gdscript code-highlight"><span class="code-line"><span class="token keyword">func</span> <span class="token function">conditional_blink</span><span class="token punctuation">(</span>health<span class="token punctuation">:</span> <span class="token class-name">int</span><span class="token punctuation">)</span><span class="token punctuation">:</span>
+</span><span class="code-line">    <span class="token keyword">if</span> health <span class="token operator">&#x3C;=</span> <span class="token number">20</span><span class="token punctuation">:</span>
+</span><span class="code-line">        <span class="token function">start_blinking</span><span class="token punctuation">(</span><span class="token punctuation">)</span>
+</span><span class="code-line">    <span class="token keyword">else</span><span class="token punctuation">:</span>
+</span><span class="code-line">        <span class="token function">stop_blinking</span><span class="token punctuation">(</span><span class="token punctuation">)</span>
+</span></code></pre>
+<h2>パフォーマンス比較</h2>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th>方法</th><th>CPU負荷</th><th>メモリ使用量</th><th>滑らかさ</th></tr></thead><tbody><tr><td>Tween</td><td>低</td><td>低</td><td>高</td></tr><tr><td>Timer</td><td>最低</td><td>最低</td><td>中</td></tr><tr><td>Process</td><td>中</td><td>低</td><td>最高</td></tr></tbody></table>
+<h2>トラブルシューティング</h2>
+<h3>よくある問題と解決策</h3>
+<p><strong>点滅が止まらない</strong></p>
+<pre class="language-gdscript"><code class="language-gdscript code-highlight"><span class="code-line"><span class="token comment"># 確実な停止処理</span>
+</span><span class="code-line"><span class="token keyword">func</span> <span class="token function">force_stop_blinking</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">:</span>
+</span><span class="code-line">    <span class="token function">get_tree</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">.</span><span class="token function">call_group</span><span class="token punctuation">(</span><span class="token string">"tween"</span><span class="token punctuation">,</span> <span class="token string">"kill"</span><span class="token punctuation">)</span>
+</span><span class="code-line">    modulate<span class="token punctuation">.</span>a <span class="token operator">=</span> <span class="token number">1.0</span>
+</span><span class="code-line">    visible <span class="token operator">=</span> <span class="token boolean">true</span>
+</span></code></pre>
+<p><strong>フレームレート低下</strong></p>
+<pre class="language-gdscript"><code class="language-gdscript code-highlight"><span class="code-line"><span class="token comment"># Process版でのFPS配慮</span>
+</span><span class="code-line"><span class="token keyword">func</span> <span class="token function">_process</span><span class="token punctuation">(</span>delta<span class="token punctuation">)</span><span class="token punctuation">:</span>
+</span><span class="code-line">    <span class="token keyword">if</span> Engine<span class="token punctuation">.</span><span class="token function">get_process_frames</span><span class="token punctuation">(</span><span class="token punctuation">)</span> <span class="token operator">%</span> <span class="token number">2</span> <span class="token operator">==</span> <span class="token number">0</span><span class="token punctuation">:</span>  <span class="token comment"># 2フレームに1回実行</span>
+</span><span class="code-line">        <span class="token function">update_blink_effect</span><span class="token punctuation">(</span><span class="token punctuation">)</span>
+</span></code></pre>
+<h2>まとめ</h2>
+<ul>
+<li><strong>汎用性重視</strong>: Tween使用がおすすめ</li>
+<li><strong>シンプル実装</strong>: Timer版が理解しやすい</li>
+<li><strong>高度制御</strong>: Process版で複雑なエフェクト</li>
+</ul>
+<p>目的に応じて適切な手法を選択し、ユーザー体験を向上させましょう。</p>
+<h2>参考資料</h2>
+<ul>
+<li><a href="https://docs.godotengine.org/en/stable/classes/class_tween.html" rel="nofollow" target="_blank">Godot公式ドキュメント - Tween</a></li>
+<li><a href="https://docs.godotengine.org/en/stable/classes/class_timer.html" rel="nofollow" target="_blank">Godot公式ドキュメント - Timer</a></li>
+</ul>
+<hr>
+<p><em>Godot 4.4.1を基準としています。バージョンによって一部の機能が異なる場合があります。</em></p>2:["$","article",null,{"className":"min-h-screen","children":[["$","div",null,{"className":"bg-gradient-to-b from-green-50/60 to-transparent dark:from-gray-900 dark:to-transparent","children":["$","div",null,{"className":"max-w-4xl mx-auto px-6 md:px-8 pt-28 md:pt-32 pb-10 md:pb-14","children":[["$","h1",null,{"className":"font-katyou text-4xl md:text-5xl lg:text-6xl text-gray-900 dark:text-white leading-tight mb-6","children":"Godot 4.4.1でラベルを点滅させる3つの方法"}],["$","time",null,{"className":"text-base font-medium text-gray-600 dark:text-gray-400","children":"2025-05-26"}]]}]}],["$","div",null,{"className":"max-w-4xl mx-auto px-6 md:px-8 pb-16 md:pb-24","children":[["$","div",null,{"id":"post-content","className":"prose prose-lg dark:prose-invert max-w-none prose-headings:font-katyou prose-headings:tracking-tight prose-h2:text-3xl prose-h2:mt-12 prose-h2:mb-6 prose-h3:text-2xl prose-h3:mt-10 prose-h3:mb-5 prose-h4:text-xl prose-h4:mt-8 prose-h4:mb-4 prose-p:leading-relaxed prose-p:mb-6 prose-li:my-2 prose-a:text-green-600 prose-a:no-underline prose-a:font-medium hover:prose-a:text-green-700 hover:prose-a:underline dark:prose-a:text-green-400 dark:hover:prose-a:text-green-300 prose-code:text-green-700 prose-code:bg-green-50 dark:prose-code:text-green-300 dark:prose-code:bg-green-900/20 prose-pre:bg-gray-900 dark:prose-pre:bg-gray-950 prose-img:rounded-lg prose-img:shadow-md prose-hr:my-12 prose-hr:border-gray-300 dark:prose-hr:border-gray-700 border-t border-gray-200 dark:border-gray-800 pt-8","dangerouslySetInnerHTML":{"__html":"$d"}}],["$","$Le",null,{}],["$","div",null,{"className":"mt-16 pt-10 border-t border-gray-200 dark:border-gray-800","children":[["$","p",null,{"className":"text-sm font-semibold text-gray-500 dark:text-gray-400 mb-4","children":"タグ"}],["$","div",null,{"className":"flex flex-wrap gap-2.5","children":[["$","$L9","Godot",{"href":"/tags/Godot","className":"inline-flex items-center px-4 py-1.5 rounded-full text-sm font-medium bg-green-100 text-green-800 dark:bg-green-900/30 dark:text-green-300 hover:bg-green-200 dark:hover:bg-green-800/50 transition-colors duration-200 shadow-sm","children":"Godot"}],["$","$L9","GDScript",{"href":"/tags/GDScript","className":"inline-flex items-center px-4 py-1.5 rounded-full text-sm font-medium bg-green-100 text-green-800 dark:bg-green-900/30 dark:text-green-300 hover:bg-green-200 dark:hover:bg-green-800/50 transition-colors duration-200 shadow-sm","children":"GDScript"}],["$","$L9","UI",{"href":"/tags/UI","className":"inline-flex items-center px-4 py-1.5 rounded-full text-sm font-medium bg-green-100 text-green-800 dark:bg-green-900/30 dark:text-green-300 hover:bg-green-200 dark:hover:bg-green-800/50 transition-colors duration-200 shadow-sm","children":"UI"}],["$","$L9","アニメーション",{"href":"/tags/アニメーション","className":"inline-flex items-center px-4 py-1.5 rounded-full text-sm font-medium bg-green-100 text-green-800 dark:bg-green-900/30 dark:text-green-300 hover:bg-green-200 dark:hover:bg-green-800/50 transition-colors duration-200 shadow-sm","children":"アニメーション"}],["$","$L9","ラベル",{"href":"/tags/ラベル","className":"inline-flex items-center px-4 py-1.5 rounded-full text-sm font-medium bg-green-100 text-green-800 dark:bg-green-900/30 dark:text-green-300 hover:bg-green-200 dark:hover:bg-green-800/50 transition-colors duration-200 shadow-sm","children":"ラベル"}]]}]]}]]}]]}]
+c:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"Godot 4.4.1でラベルを点滅させる3つの方法 | ブログタイトル"}],["$","meta","3",{"name":"description","content":"Godot 4.4.1でラベルの点滅エフェクトを実装する効率的な手順"}],["$","meta","4",{"property":"og:title","content":"Godot 4.4.1でラベルを点滅させる3つの方法"}],["$","meta","5",{"property":"og:description","content":"Godot 4.4.1でラベルの点滅エフェクトを実装する効率的な手順"}],["$","meta","6",{"property":"og:url","content":"https://maemaemae.blog/posts/godot_20250526"}],["$","meta","7",{"property":"og:image","content":"https://maemaemae.blog/images/godot-label-blinking.jpg"}],["$","meta","8",{"property":"og:type","content":"article"}],["$","meta","9",{"property":"article:published_time","content":"2025-05-26"}],["$","meta","10",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","11",{"name":"twitter:title","content":"Godot 4.4.1でラベルを点滅させる3つの方法"}],["$","meta","12",{"name":"twitter:description","content":"Godot 4.4.1でラベルの点滅エフェクトを実装する効率的な手順"}],["$","meta","13",{"name":"twitter:image","content":"https://maemaemae.blog/images/godot-label-blinking.jpg"}],["$","link","14",{"rel":"icon","href":"/favicon.ico","type":"image/x-icon","sizes":"16x16"}],["$","meta","15",{"name":"next-size-adjust"}]]
+1:null

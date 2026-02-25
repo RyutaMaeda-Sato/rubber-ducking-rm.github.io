@@ -1,0 +1,249 @@
+3:I[4707,[],""]
+5:I[6423,[],""]
+6:I[4888,["972","static/chunks/972-f241a8fd644428c6.js","70","static/chunks/70-f52c2ad284c6cd86.js","185","static/chunks/app/layout-97d049cf0fc78146.js"],"GoogleAnalytics"]
+7:I[6806,["972","static/chunks/972-f241a8fd644428c6.js","70","static/chunks/70-f52c2ad284c6cd86.js","185","static/chunks/app/layout-97d049cf0fc78146.js"],"default"]
+8:I[7213,["972","static/chunks/972-f241a8fd644428c6.js","70","static/chunks/70-f52c2ad284c6cd86.js","185","static/chunks/app/layout-97d049cf0fc78146.js"],"default"]
+9:I[2972,["972","static/chunks/972-f241a8fd644428c6.js","333","static/chunks/app/posts/%5Bslug%5D/page-acd6669982df1354.js"],""]
+a:I[5878,["972","static/chunks/972-f241a8fd644428c6.js","70","static/chunks/70-f52c2ad284c6cd86.js","185","static/chunks/app/layout-97d049cf0fc78146.js"],"Image"]
+b:I[2374,["972","static/chunks/972-f241a8fd644428c6.js","70","static/chunks/70-f52c2ad284c6cd86.js","185","static/chunks/app/layout-97d049cf0fc78146.js"],"default"]
+4:["slug","nextjs_20260224","d"]
+0:["0oJGNGFmzz_LorUWHIimP",[[["",{"children":["posts",{"children":[["slug","nextjs_20260224","d"],{"children":["__PAGE__?{\"slug\":\"nextjs_20260224\"}",{}]}]}]},"$undefined","$undefined",true],["",{"children":["posts",{"children":[["slug","nextjs_20260224","d"],{"children":["__PAGE__",{},[["$L1","$L2",null],null],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","posts","children","$4","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","posts","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/3add334ee59f67ac.css","precedence":"next","crossOrigin":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/css/cec3dd424af6abe7.css","precedence":"next","crossOrigin":"$undefined"}],["$","link","2",{"rel":"stylesheet","href":"/_next/static/css/31924b81bd2c71c2.css","precedence":"next","crossOrigin":"$undefined"}]],["$","html",null,{"lang":"jp","className":"__variable_f367f3 __variable_8c8862 __variable_6beb74 __variable_b784c9 __variable_d575de","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){try{var s=localStorage.getItem('darkMode');var p=window.matchMedia('(prefers-color-scheme: dark)').matches;if(s!==null?s==='true':p){document.documentElement.classList.add('dark');}}catch(e){}})();"}}],["$","$L6",null,{"gaId":"G-FWRP8962MB"}]]}],["$","body",null,{"className":"__className_f367f3","children":["$","$L7",null,{"children":[["$","header",null,{"children":["$","$L8",null,{"children":["$","div",null,{"className":"fixed top-0 left-0 w-full z-50 bg-green-700 dark:bg-gray-900 shadow-md border-b border-green-600/50 dark:border-gray-800","children":["$","div",null,{"className":"max-w-7xl mx-auto","children":["$","div",null,{"className":"flex items-center justify-between px-6 md:px-8 h-20 md:h-24","children":[["$","$L9",null,{"href":"/","className":"group flex items-center gap-3 transition-opacity hover:opacity-80","children":[["$","$La",null,{"alt":"Maemaemae","src":"/header.jpg","width":44,"height":44,"className":"rounded-full object-cover ring-2 ring-white/20 group-hover:ring-white/40 transition-all"}],["$","span",null,{"className":"text-xl md:text-2xl font-katyou text-[#fffef9] tracking-wide","children":"Maemaemae"}]]}],["$","div",null,{"className":"flex items-center gap-2","children":[["$","a",null,{"href":"https://x.com/maemaemae_rm","target":"_blank","rel":"noopener noreferrer","className":"p-2.5 rounded-full hover:bg-white/10 transition-colors","aria-label":"X (Twitter)","children":["$","$La",null,{"src":"/x-logo-white.png","width":24,"height":24,"alt":""}]}],["$","$Lb",null,{}]]}]]}]}]}]}]}],["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[]}]]}]}]]}]],null],null],["$Lc",null]]]]
+e:I[7426,["972","static/chunks/972-f241a8fd644428c6.js","333","static/chunks/app/posts/%5Bslug%5D/page-acd6669982df1354.js"],"default"]
+d:T8f46,<p>このブログでも使っている <code>gray-matter</code> は、Markdownファイルの先頭に書くYAMLヘッダー（frontmatter）をJavaScriptオブジェクトとして取り出すライブラリだ。Next.jsの静的ブログを作る際に必ずと言っていいほど登場するので、基本的な使い方から型安全な活用法まで整理する。</p>
+<h2>frontmatterとは</h2>
+<p>Markdownファイルの先頭に <code>---</code> で囲んで書くYAML形式のメタデータ領域を「frontmatter」と呼ぶ。</p>
+<pre class="language-markdown"><code class="language-markdown code-highlight"><span class="code-line"><span class="token front-matter-block"><span class="token punctuation">---</span>
+</span></span><span class="code-line"><span class="token front-matter-block"><span class="token front-matter yaml language-yaml"><span class="token key atrule">title</span><span class="token punctuation">:</span> <span class="token string">"記事タイトル"</span>
+</span></span></span><span class="code-line"><span class="token front-matter-block"><span class="token front-matter yaml language-yaml"><span class="token key atrule">date</span><span class="token punctuation">:</span> <span class="token string">"2026-02-24"</span>
+</span></span></span><span class="code-line"><span class="token front-matter-block"><span class="token front-matter yaml language-yaml"><span class="token key atrule">tags</span><span class="token punctuation">:</span> <span class="token punctuation">[</span><span class="token string">"Next.js"</span><span class="token punctuation">,</span> <span class="token string">"TypeScript"</span><span class="token punctuation">]</span></span>
+</span></span><span class="code-line"><span class="token front-matter-block"><span class="token punctuation">---</span></span>
+</span><span class="code-line">
+</span><span class="code-line">ここから本文が始まる。
+</span></code></pre>
+<p><code>---</code> より前の部分が frontmatter、それ以降が Markdown 本文だ。<code>gray-matter</code> はこの2つを分離して返してくれる。</p>
+<h2>インストール</h2>
+<pre class="language-bash"><code class="language-bash code-highlight"><span class="code-line"><span class="token function">npm</span> <span class="token function">install</span> gray-matter
+</span></code></pre>
+<p>TypeScript で使う場合、型定義は本体に同梱されているので <code>@types/gray-matter</code> は不要だ。</p>
+<h2>基本的な使い方</h2>
+<pre class="language-typescript"><code class="language-typescript code-highlight"><span class="code-line"><span class="token keyword">import</span> fs <span class="token keyword">from</span> <span class="token string">"fs"</span><span class="token punctuation">;</span>
+</span><span class="code-line"><span class="token keyword">import</span> matter <span class="token keyword">from</span> <span class="token string">"gray-matter"</span><span class="token punctuation">;</span>
+</span><span class="code-line">
+</span><span class="code-line"><span class="token keyword">const</span> fileContents <span class="token operator">=</span> fs<span class="token punctuation">.</span><span class="token function">readFileSync</span><span class="token punctuation">(</span><span class="token string">"posts/hello.md"</span><span class="token punctuation">,</span> <span class="token string">"utf-8"</span><span class="token punctuation">)</span><span class="token punctuation">;</span>
+</span><span class="code-line"><span class="token keyword">const</span> <span class="token punctuation">{</span> data<span class="token punctuation">,</span> content <span class="token punctuation">}</span> <span class="token operator">=</span> <span class="token function">matter</span><span class="token punctuation">(</span>fileContents<span class="token punctuation">)</span><span class="token punctuation">;</span>
+</span><span class="code-line">
+</span><span class="code-line"><span class="token builtin">console</span><span class="token punctuation">.</span><span class="token function">log</span><span class="token punctuation">(</span>data<span class="token punctuation">)</span><span class="token punctuation">;</span>    <span class="token comment">// frontmatter オブジェクト</span>
+</span><span class="code-line"><span class="token builtin">console</span><span class="token punctuation">.</span><span class="token function">log</span><span class="token punctuation">(</span>content<span class="token punctuation">)</span><span class="token punctuation">;</span> <span class="token comment">// Markdown 本文（frontmatter を除いた部分）</span>
+</span></code></pre>
+<p><code>matter()</code> の戻り値には主に以下のプロパティが含まれる。</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th>プロパティ</th><th>内容</th></tr></thead><tbody><tr><td><code>data</code></td><td>frontmatterをパースしたオブジェクト</td></tr><tr><td><code>content</code></td><td>frontmatterを除いたMarkdown本文</td></tr><tr><td><code>orig</code></td><td>元のファイル内容（Buffer）</td></tr></tbody></table>
+<h2>TypeScriptで型安全に使う</h2>
+<p><code>data</code> の型はデフォルトで <code>{ [key: string]: any }</code> になる。TypeScriptで型安全に扱うには、frontmatterの形を型として定義し、キャストする。</p>
+<pre class="language-typescript"><code class="language-typescript code-highlight"><span class="code-line"><span class="token keyword">import</span> fs <span class="token keyword">from</span> <span class="token string">"fs"</span><span class="token punctuation">;</span>
+</span><span class="code-line"><span class="token keyword">import</span> matter <span class="token keyword">from</span> <span class="token string">"gray-matter"</span><span class="token punctuation">;</span>
+</span><span class="code-line">
+</span><span class="code-line"><span class="token keyword">type</span> <span class="token class-name">PostFrontmatter</span> <span class="token operator">=</span> <span class="token punctuation">{</span>
+</span><span class="code-line">  title<span class="token operator">:</span> <span class="token builtin">string</span><span class="token punctuation">;</span>
+</span><span class="code-line">  description<span class="token operator">?</span><span class="token operator">:</span> <span class="token builtin">string</span><span class="token punctuation">;</span> <span class="token comment">// 省略可能</span>
+</span><span class="code-line">  date<span class="token operator">:</span> <span class="token builtin">string</span><span class="token punctuation">;</span>
+</span><span class="code-line">  image<span class="token operator">:</span> <span class="token builtin">string</span> <span class="token operator">|</span> <span class="token keyword">null</span><span class="token punctuation">;</span>
+</span><span class="code-line">  tags<span class="token operator">:</span> <span class="token builtin">string</span><span class="token punctuation">[</span><span class="token punctuation">]</span> <span class="token operator">|</span> <span class="token keyword">null</span><span class="token punctuation">;</span>
+</span><span class="code-line"><span class="token punctuation">}</span><span class="token punctuation">;</span>
+</span><span class="code-line">
+</span><span class="code-line"><span class="token keyword">const</span> fileContents <span class="token operator">=</span> fs<span class="token punctuation">.</span><span class="token function">readFileSync</span><span class="token punctuation">(</span>filePath<span class="token punctuation">,</span> <span class="token string">"utf-8"</span><span class="token punctuation">)</span><span class="token punctuation">;</span>
+</span><span class="code-line"><span class="token keyword">const</span> <span class="token punctuation">{</span> data<span class="token punctuation">,</span> content <span class="token punctuation">}</span> <span class="token operator">=</span> <span class="token function">matter</span><span class="token punctuation">(</span>fileContents<span class="token punctuation">)</span> <span class="token keyword">as</span> matter<span class="token punctuation">.</span>GrayMatterFile<span class="token operator">&#x3C;</span><span class="token builtin">string</span><span class="token operator">></span> <span class="token operator">&#x26;</span> <span class="token punctuation">{</span>
+</span><span class="code-line">  data<span class="token operator">:</span> PostFrontmatter<span class="token punctuation">;</span>
+</span><span class="code-line"><span class="token punctuation">}</span><span class="token punctuation">;</span>
+</span><span class="code-line">
+</span><span class="code-line"><span class="token comment">// data.title は string として型推論される</span>
+</span><span class="code-line"><span class="token comment">// data.description は string | undefined</span>
+</span></code></pre>
+<p><code>matter.GrayMatterFile&#x3C;string></code> に <code>data</code> のみ上書きするインターセクション型を使うのがポイントだ。<code>matter()</code> の戻り値全体を捨てずに済む。</p>
+<h2>実プロジェクトでの実装例</h2>
+<p>このブログの <code>src/app/lib/functions.ts</code> では、<code>posts/</code> ディレクトリのMarkdownファイルを一括で読み込んでいる。</p>
+<pre class="language-typescript"><code class="language-typescript code-highlight"><span class="code-line"><span class="token comment">// src/app/lib/functions.ts（抜粋）</span>
+</span><span class="code-line"><span class="token keyword">import</span> fs <span class="token keyword">from</span> <span class="token string">"fs"</span><span class="token punctuation">;</span>
+</span><span class="code-line"><span class="token keyword">import</span> path <span class="token keyword">from</span> <span class="token string">"path"</span><span class="token punctuation">;</span>
+</span><span class="code-line"><span class="token keyword">import</span> matter <span class="token keyword">from</span> <span class="token string">"gray-matter"</span><span class="token punctuation">;</span>
+</span><span class="code-line">
+</span><span class="code-line"><span class="token keyword">type</span> <span class="token class-name">PostFrontmatter</span> <span class="token operator">=</span> <span class="token punctuation">{</span>
+</span><span class="code-line">  title<span class="token operator">:</span> <span class="token builtin">string</span><span class="token punctuation">;</span>
+</span><span class="code-line">  description<span class="token operator">?</span><span class="token operator">:</span> <span class="token builtin">string</span><span class="token punctuation">;</span>
+</span><span class="code-line">  date<span class="token operator">:</span> <span class="token builtin">string</span><span class="token punctuation">;</span>
+</span><span class="code-line">  image<span class="token operator">:</span> <span class="token builtin">string</span> <span class="token operator">|</span> <span class="token keyword">null</span><span class="token punctuation">;</span>
+</span><span class="code-line">  tags<span class="token operator">:</span> <span class="token builtin">string</span><span class="token punctuation">[</span><span class="token punctuation">]</span> <span class="token operator">|</span> <span class="token keyword">null</span><span class="token punctuation">;</span>
+</span><span class="code-line"><span class="token punctuation">}</span><span class="token punctuation">;</span>
+</span><span class="code-line">
+</span><span class="code-line"><span class="token keyword">const</span> getPostData <span class="token operator">=</span> <span class="token keyword">async</span> <span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token operator">:</span> <span class="token builtin">Promise</span><span class="token operator">&#x3C;</span>PostItem<span class="token punctuation">[</span><span class="token punctuation">]</span><span class="token operator">></span> <span class="token operator">=></span> <span class="token punctuation">{</span>
+</span><span class="code-line">  <span class="token keyword">const</span> postsDirectory <span class="token operator">=</span> path<span class="token punctuation">.</span><span class="token function">join</span><span class="token punctuation">(</span>process<span class="token punctuation">.</span><span class="token function">cwd</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">,</span> <span class="token string">"posts"</span><span class="token punctuation">)</span><span class="token punctuation">;</span>
+</span><span class="code-line">  <span class="token keyword">const</span> filenames <span class="token operator">=</span> fs<span class="token punctuation">.</span><span class="token function">readdirSync</span><span class="token punctuation">(</span>postsDirectory<span class="token punctuation">)</span><span class="token punctuation">;</span>
+</span><span class="code-line">
+</span><span class="code-line">  <span class="token keyword">const</span> posts <span class="token operator">=</span> filenames
+</span><span class="code-line">    <span class="token punctuation">.</span><span class="token function">map</span><span class="token punctuation">(</span><span class="token punctuation">(</span>filename<span class="token punctuation">)</span> <span class="token operator">=></span> <span class="token punctuation">{</span>
+</span><span class="code-line">      <span class="token keyword">const</span> filePath <span class="token operator">=</span> path<span class="token punctuation">.</span><span class="token function">join</span><span class="token punctuation">(</span>postsDirectory<span class="token punctuation">,</span> filename<span class="token punctuation">)</span><span class="token punctuation">;</span>
+</span><span class="code-line">      <span class="token keyword">const</span> fileContents <span class="token operator">=</span> fs<span class="token punctuation">.</span><span class="token function">readFileSync</span><span class="token punctuation">(</span>filePath<span class="token punctuation">,</span> <span class="token string">"utf-8"</span><span class="token punctuation">)</span><span class="token punctuation">;</span>
+</span><span class="code-line">      <span class="token keyword">const</span> <span class="token punctuation">{</span> data <span class="token punctuation">}</span> <span class="token operator">=</span> <span class="token function">matter</span><span class="token punctuation">(</span>fileContents<span class="token punctuation">)</span> <span class="token keyword">as</span> matter<span class="token punctuation">.</span>GrayMatterFile<span class="token operator">&#x3C;</span><span class="token builtin">string</span><span class="token operator">></span> <span class="token operator">&#x26;</span> <span class="token punctuation">{</span>
+</span><span class="code-line">        data<span class="token operator">:</span> PostFrontmatter<span class="token punctuation">;</span>
+</span><span class="code-line">      <span class="token punctuation">}</span><span class="token punctuation">;</span>
+</span><span class="code-line">
+</span><span class="code-line">      <span class="token keyword">return</span> <span class="token punctuation">{</span>
+</span><span class="code-line">        slug<span class="token operator">:</span> filename<span class="token punctuation">.</span><span class="token function">replace</span><span class="token punctuation">(</span><span class="token regex"><span class="token regex-delimiter">/</span><span class="token regex-source language-regex"><span class="token special-escape escape">\.</span>md<span class="token anchor function">$</span></span><span class="token regex-delimiter">/</span></span><span class="token punctuation">,</span> <span class="token string">""</span><span class="token punctuation">)</span><span class="token punctuation">,</span>
+</span><span class="code-line">        title<span class="token operator">:</span> data<span class="token punctuation">.</span>title<span class="token punctuation">,</span>
+</span><span class="code-line">        description<span class="token operator">:</span> data<span class="token punctuation">.</span>description<span class="token punctuation">,</span>
+</span><span class="code-line">        date<span class="token operator">:</span> data<span class="token punctuation">.</span>date<span class="token punctuation">,</span>
+</span><span class="code-line">        image<span class="token operator">:</span> data<span class="token punctuation">.</span>image<span class="token punctuation">,</span>
+</span><span class="code-line">        tags<span class="token operator">:</span> data<span class="token punctuation">.</span>tags <span class="token operator">||</span> <span class="token punctuation">[</span><span class="token punctuation">]</span><span class="token punctuation">,</span>
+</span><span class="code-line">        contentHtml<span class="token operator">:</span> <span class="token string">""</span><span class="token punctuation">,</span>
+</span><span class="code-line">      <span class="token punctuation">}</span><span class="token punctuation">;</span>
+</span><span class="code-line">    <span class="token punctuation">}</span><span class="token punctuation">)</span>
+</span><span class="code-line">    <span class="token punctuation">.</span><span class="token function">sort</span><span class="token punctuation">(</span><span class="token punctuation">(</span>postA<span class="token punctuation">,</span> postB<span class="token punctuation">)</span> <span class="token operator">=></span>
+</span><span class="code-line">      <span class="token keyword">new</span> <span class="token class-name">Date</span><span class="token punctuation">(</span>postA<span class="token punctuation">.</span>date<span class="token punctuation">)</span> <span class="token operator">></span> <span class="token keyword">new</span> <span class="token class-name">Date</span><span class="token punctuation">(</span>postB<span class="token punctuation">.</span>date<span class="token punctuation">)</span> <span class="token operator">?</span> <span class="token operator">-</span><span class="token number">1</span> <span class="token operator">:</span> <span class="token number">1</span>
+</span><span class="code-line">    <span class="token punctuation">)</span><span class="token punctuation">;</span>
+</span><span class="code-line">
+</span><span class="code-line">  <span class="token keyword">return</span> posts<span class="token punctuation">;</span>
+</span><span class="code-line"><span class="token punctuation">}</span><span class="token punctuation">;</span>
+</span></code></pre>
+<p>記事一覧取得では <code>content</code>（本文）は不要なので分割代入で <code>data</code> だけ取り出している。日付降順ソートも <code>data.date</code> をそのまま <code>Date</code> コンストラクタに渡すだけでシンプルに書ける。</p>
+<h2>記事詳細ページ：本文も使う場合</h2>
+<p>個別記事ページでは <code>content</code> もパースして HTML に変換する。</p>
+<pre class="language-typescript"><code class="language-typescript code-highlight"><span class="code-line"><span class="token comment">// src/app/posts/[slug]/page.tsx（抜粋）</span>
+</span><span class="code-line"><span class="token keyword">import</span> matter <span class="token keyword">from</span> <span class="token string">"gray-matter"</span><span class="token punctuation">;</span>
+</span><span class="code-line"><span class="token keyword">import</span> <span class="token punctuation">{</span> unified <span class="token punctuation">}</span> <span class="token keyword">from</span> <span class="token string">"unified"</span><span class="token punctuation">;</span>
+</span><span class="code-line"><span class="token keyword">import</span> remarkParse <span class="token keyword">from</span> <span class="token string">"remark-parse"</span><span class="token punctuation">;</span>
+</span><span class="code-line"><span class="token keyword">import</span> remarkRehype <span class="token keyword">from</span> <span class="token string">"remark-rehype"</span><span class="token punctuation">;</span>
+</span><span class="code-line"><span class="token keyword">import</span> rehypeStringify <span class="token keyword">from</span> <span class="token string">"rehype-stringify"</span><span class="token punctuation">;</span>
+</span><span class="code-line">
+</span><span class="code-line"><span class="token keyword">async</span> <span class="token keyword">function</span> <span class="token function">createPostData</span><span class="token punctuation">(</span>slug<span class="token operator">:</span> <span class="token builtin">string</span><span class="token punctuation">)</span> <span class="token punctuation">{</span>
+</span><span class="code-line">  <span class="token keyword">const</span> filePath <span class="token operator">=</span> path<span class="token punctuation">.</span><span class="token function">join</span><span class="token punctuation">(</span>process<span class="token punctuation">.</span><span class="token function">cwd</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">,</span> <span class="token string">"posts"</span><span class="token punctuation">,</span> <span class="token template-string"><span class="token template-punctuation string">`</span><span class="token interpolation"><span class="token interpolation-punctuation punctuation">${</span>slug<span class="token interpolation-punctuation punctuation">}</span></span><span class="token string">.md</span><span class="token template-punctuation string">`</span></span><span class="token punctuation">)</span><span class="token punctuation">;</span>
+</span><span class="code-line">  <span class="token keyword">const</span> fileContents <span class="token operator">=</span> fs<span class="token punctuation">.</span><span class="token function">readFileSync</span><span class="token punctuation">(</span>filePath<span class="token punctuation">,</span> <span class="token string">"utf8"</span><span class="token punctuation">)</span><span class="token punctuation">;</span>
+</span><span class="code-line">  <span class="token keyword">const</span> <span class="token punctuation">{</span> data<span class="token punctuation">,</span> content <span class="token punctuation">}</span> <span class="token operator">=</span> <span class="token function">matter</span><span class="token punctuation">(</span>fileContents<span class="token punctuation">)</span><span class="token punctuation">;</span>
+</span><span class="code-line">
+</span><span class="code-line">  <span class="token comment">// content を remark → rehype → HTML に変換</span>
+</span><span class="code-line">  <span class="token keyword">const</span> processedContent <span class="token operator">=</span> <span class="token keyword">await</span> <span class="token function">unified</span><span class="token punctuation">(</span><span class="token punctuation">)</span>
+</span><span class="code-line">    <span class="token punctuation">.</span><span class="token function">use</span><span class="token punctuation">(</span>remarkParse<span class="token punctuation">)</span>
+</span><span class="code-line">    <span class="token punctuation">.</span><span class="token function">use</span><span class="token punctuation">(</span>remarkRehype<span class="token punctuation">)</span>
+</span><span class="code-line">    <span class="token punctuation">.</span><span class="token function">use</span><span class="token punctuation">(</span>rehypeStringify<span class="token punctuation">)</span>
+</span><span class="code-line">    <span class="token punctuation">.</span><span class="token function">process</span><span class="token punctuation">(</span>content<span class="token punctuation">)</span><span class="token punctuation">;</span>
+</span><span class="code-line">
+</span><span class="code-line">  <span class="token keyword">return</span> <span class="token punctuation">{</span>
+</span><span class="code-line">    title<span class="token operator">:</span> data<span class="token punctuation">.</span>title<span class="token punctuation">,</span>
+</span><span class="code-line">    date<span class="token operator">:</span> data<span class="token punctuation">.</span>date<span class="token punctuation">,</span>
+</span><span class="code-line">    contentHtml<span class="token operator">:</span> processedContent<span class="token punctuation">.</span><span class="token function">toString</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">,</span>
+</span><span class="code-line">  <span class="token punctuation">}</span><span class="token punctuation">;</span>
+</span><span class="code-line"><span class="token punctuation">}</span>
+</span></code></pre>
+<p><code>matter()</code> で本文と frontmatter を分離してから、<code>content</code> だけを Markdown パイプラインに流すのが基本的な流れだ。</p>
+<h2>RSSフィード生成でも同じパターン</h2>
+<p>RSS フィード生成スクリプト（<code>tool/generate-feed.mjs</code>）でも同じように使える。ESM 形式でも <code>import matter from "gray-matter"</code> で問題なく動く。</p>
+<pre class="language-javascript"><code class="language-javascript code-highlight"><span class="code-line"><span class="token comment">// tool/generate-feed.mjs（抜粋）</span>
+</span><span class="code-line"><span class="token keyword module">import</span> <span class="token imports">matter</span> <span class="token keyword module">from</span> <span class="token string">"gray-matter"</span><span class="token punctuation">;</span>
+</span><span class="code-line">
+</span><span class="code-line"><span class="token keyword">function</span> <span class="token function">getPostData</span><span class="token punctuation">(</span><span class="token punctuation">)</span> <span class="token punctuation">{</span>
+</span><span class="code-line">  <span class="token keyword">const</span> filenames <span class="token operator">=</span> fs<span class="token punctuation">.</span><span class="token method function property-access">readdirSync</span><span class="token punctuation">(</span>postsDirectory<span class="token punctuation">)</span><span class="token punctuation">;</span>
+</span><span class="code-line">  <span class="token keyword control-flow">return</span> filenames<span class="token punctuation">.</span><span class="token method function property-access">map</span><span class="token punctuation">(</span><span class="token punctuation">(</span><span class="token parameter">filename</span><span class="token punctuation">)</span> <span class="token arrow operator">=></span> <span class="token punctuation">{</span>
+</span><span class="code-line">    <span class="token keyword">const</span> fileContents <span class="token operator">=</span> fs<span class="token punctuation">.</span><span class="token method function property-access">readFileSync</span><span class="token punctuation">(</span>filePath<span class="token punctuation">,</span> <span class="token string">"utf-8"</span><span class="token punctuation">)</span><span class="token punctuation">;</span>
+</span><span class="code-line">    <span class="token keyword">const</span> <span class="token punctuation">{</span> data <span class="token punctuation">}</span> <span class="token operator">=</span> <span class="token function">matter</span><span class="token punctuation">(</span>fileContents<span class="token punctuation">)</span><span class="token punctuation">;</span>
+</span><span class="code-line">    <span class="token keyword control-flow">return</span> <span class="token punctuation">{</span>
+</span><span class="code-line">      <span class="token literal-property property">title</span><span class="token operator">:</span> data<span class="token punctuation">.</span><span class="token property-access">title</span><span class="token punctuation">,</span>
+</span><span class="code-line">      <span class="token literal-property property">description</span><span class="token operator">:</span> data<span class="token punctuation">.</span><span class="token property-access">description</span> <span class="token operator">||</span> <span class="token string">""</span><span class="token punctuation">,</span>
+</span><span class="code-line">      <span class="token literal-property property">date</span><span class="token operator">:</span> data<span class="token punctuation">.</span><span class="token property-access">date</span><span class="token punctuation">,</span>
+</span><span class="code-line">      <span class="token literal-property property">tags</span><span class="token operator">:</span> data<span class="token punctuation">.</span><span class="token property-access">tags</span> <span class="token operator">||</span> <span class="token punctuation">[</span><span class="token punctuation">]</span><span class="token punctuation">,</span>
+</span><span class="code-line">    <span class="token punctuation">}</span><span class="token punctuation">;</span>
+</span><span class="code-line">  <span class="token punctuation">}</span><span class="token punctuation">)</span><span class="token punctuation">;</span>
+</span><span class="code-line"><span class="token punctuation">}</span>
+</span></code></pre>
+<h2>frontmatterの設計指針</h2>
+<p>このブログのフロントマター設計をもとに、実用的な設計のポイントをまとめる。</p>
+<p><strong>必須フィールドは最小限に</strong></p>
+<p><code>title</code> と <code>date</code> だけを必須とし、あとは省略可能にすることで記事作成のハードルを下げられる。</p>
+<pre class="language-yaml"><code class="language-yaml code-highlight"><span class="code-line"><span class="token punctuation">---</span>
+</span><span class="code-line"><span class="token key atrule">title</span><span class="token punctuation">:</span> <span class="token string">"記事タイトル"</span>     <span class="token comment"># 必須</span>
+</span><span class="code-line"><span class="token key atrule">date</span><span class="token punctuation">:</span> <span class="token string">"2026-02-24"</span>       <span class="token comment"># 必須</span>
+</span><span class="code-line"><span class="token punctuation">---</span>
+</span></code></pre>
+<p><strong><code>description</code> は省略可能にして自動補完</strong></p>
+<p><code>description</code> がない場合、本文の冒頭から自動生成する <code>generateExcerpt</code> 関数を用意しておくと、毎回書く手間が省ける。</p>
+<pre class="language-typescript"><code class="language-typescript code-highlight"><span class="code-line"><span class="token keyword">const</span> description<span class="token operator">:</span> <span class="token builtin">string</span> <span class="token operator">=</span> data<span class="token punctuation">.</span>description <span class="token operator">??</span> <span class="token function">generateExcerpt</span><span class="token punctuation">(</span>content<span class="token punctuation">)</span><span class="token punctuation">;</span>
+</span></code></pre>
+<p><strong>null許容フィールドにはデフォルト値を</strong></p>
+<p><code>tags</code> が <code>null</code> のままだと <code>.map()</code> でエラーになるので、読み込み時に空配列に変換しておく。</p>
+<pre class="language-typescript"><code class="language-typescript code-highlight"><span class="code-line">tags<span class="token operator">:</span> data<span class="token punctuation">.</span>tags <span class="token operator">||</span> <span class="token punctuation">[</span><span class="token punctuation">]</span><span class="token punctuation">,</span>
+</span></code></pre>
+<h2>ハマりやすいポイント</h2>
+<p><strong>YAML の配列記法</strong></p>
+<p>frontmatter の配列は以下の2通りどちらでも書けるが、gray-matter は両方正しくパースしてくれる。</p>
+<pre class="language-yaml"><code class="language-yaml code-highlight"><span class="code-line"><span class="token comment"># インライン記法</span>
+</span><span class="code-line"><span class="token key atrule">tags</span><span class="token punctuation">:</span> <span class="token punctuation">[</span><span class="token string">"Next.js"</span><span class="token punctuation">,</span> <span class="token string">"TypeScript"</span><span class="token punctuation">]</span>
+</span><span class="code-line">
+</span><span class="code-line"><span class="token comment"># ブロック記法</span>
+</span><span class="code-line"><span class="token key atrule">tags</span><span class="token punctuation">:</span>
+</span><span class="code-line">  <span class="token punctuation">-</span> Next.js
+</span><span class="code-line">  <span class="token punctuation">-</span> TypeScript
+</span></code></pre>
+<p><strong>日付はダブルクォートで囲む</strong></p>
+<p><code>date: 2026-02-24</code> と書くと、YAML パーサーが <code>Date</code> オブジェクトとして解釈してしまう場合がある。文字列として扱いたいなら必ずクォートする。</p>
+<pre class="language-yaml"><code class="language-yaml code-highlight"><span class="code-line"><span class="token key atrule">date</span><span class="token punctuation">:</span> <span class="token string">"2026-02-24"</span>  <span class="token comment"># 文字列として扱われる</span>
+</span><span class="code-line"><span class="token key atrule">date</span><span class="token punctuation">:</span> <span class="token datetime number">2026-02-24</span>    <span class="token comment"># Date オブジェクトになることがある</span>
+</span></code></pre>
+<p><strong><code>content</code> にはfrontmatterが含まれない</strong></p>
+<p><code>matter()</code> が返す <code>content</code> には frontmatter 部分（<code>---</code> で囲まれた領域）は含まれない。独自に <code>---</code> を除去する処理を書く必要はない。</p>
+<h2>関連ツールとの比較</h2>
+<p>frontmatter をパースするライブラリは gray-matter 以外にもある。</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th>ライブラリ</th><th>特徴</th><th>向いているケース</th></tr></thead><tbody><tr><td><code>gray-matter</code></td><td>YAML/JSON/TOML/CoffeeScript対応。デリミタカスタマイズ可。型定義内蔵</td><td>Next.js・Gatsby・Astroなどフレームワーク問わずに使いたいとき</td></tr><tr><td><code>front-matter</code></td><td>YAML専用、非常にシンプル</td><td>小規模スクリプトや YAML しか使わない場合</td></tr><tr><td><code>remark-frontmatter</code></td><td>remarkパイプラインに統合できる</td><td>unifiedパイプラインの中でfrontmatterを処理したいとき</td></tr></tbody></table>
+<p>Next.js や Astro の静的ブログなら <code>gray-matter</code> が事実上の標準で、エコシステムのサンプルコードも最も多い。<code>remark-frontmatter</code> はパイプライン内でfrontmatterをAST上で扱えるが、単純にメタデータをオブジェクトとして取り出したいだけなら gray-matter の方がシンプルだ。</p>
+<h2>まとめ</h2>
+<ul>
+<li><code>gray-matter</code> は <code>matter(fileContents)</code> の1行で frontmatter と本文を分離できる</li>
+<li>TypeScript では <code>matter.GrayMatterFile&#x3C;string> &#x26; { data: YourType }</code> でキャストして型安全にする</li>
+<li><code>description</code> の自動補完や <code>tags || []</code> のデフォルト値など、読み込み時に欠損を吸収しておくのが実装を楽にするコツ</li>
+<li>日付フィールドは必ずクォートして文字列として扱う</li>
+<li>シンプルなメタデータ取得なら gray-matter、パイプライン統合なら remark-frontmatter と使い分ける</li>
+</ul>2:["$","article",null,{"className":"min-h-screen","children":[["$","div",null,{"className":"bg-gradient-to-b from-green-50/60 to-transparent dark:from-gray-900 dark:to-transparent","children":["$","div",null,{"className":"max-w-4xl mx-auto px-6 md:px-8 pt-28 md:pt-32 pb-10 md:pb-14","children":[["$","h1",null,{"className":"font-katyou text-4xl md:text-5xl lg:text-6xl text-gray-900 dark:text-white leading-tight mb-6","children":"gray-matterでfrontmatterをパース — Markdownのメタデータ管理"}],["$","time",null,{"className":"text-base font-medium text-gray-600 dark:text-gray-400","children":"2026-02-24"}]]}]}],["$","div",null,{"className":"max-w-4xl mx-auto px-6 md:px-8 pb-16 md:pb-24","children":[["$","div",null,{"id":"post-content","className":"prose prose-lg dark:prose-invert max-w-none prose-headings:font-katyou prose-headings:tracking-tight prose-h2:text-3xl prose-h2:mt-12 prose-h2:mb-6 prose-h3:text-2xl prose-h3:mt-10 prose-h3:mb-5 prose-h4:text-xl prose-h4:mt-8 prose-h4:mb-4 prose-p:leading-relaxed prose-p:mb-6 prose-li:my-2 prose-a:text-green-600 prose-a:no-underline prose-a:font-medium hover:prose-a:text-green-700 hover:prose-a:underline dark:prose-a:text-green-400 dark:hover:prose-a:text-green-300 prose-code:text-green-700 prose-code:bg-green-50 dark:prose-code:text-green-300 dark:prose-code:bg-green-900/20 prose-pre:bg-gray-900 dark:prose-pre:bg-gray-950 prose-img:rounded-lg prose-img:shadow-md prose-hr:my-12 prose-hr:border-gray-300 dark:prose-hr:border-gray-700 border-t border-gray-200 dark:border-gray-800 pt-8","dangerouslySetInnerHTML":{"__html":"$d"}}],["$","$Le",null,{}],["$","div",null,{"className":"mt-16 pt-10 border-t border-gray-200 dark:border-gray-800","children":[["$","p",null,{"className":"text-sm font-semibold text-gray-500 dark:text-gray-400 mb-4","children":"タグ"}],["$","div",null,{"className":"flex flex-wrap gap-2.5","children":[["$","$L9","Next.js",{"href":"/tags/Next.js","className":"inline-flex items-center px-4 py-1.5 rounded-full text-sm font-medium bg-green-100 text-green-800 dark:bg-green-900/30 dark:text-green-300 hover:bg-green-200 dark:hover:bg-green-800/50 transition-colors duration-200 shadow-sm","children":"Next.js"}],["$","$L9","TypeScript",{"href":"/tags/TypeScript","className":"inline-flex items-center px-4 py-1.5 rounded-full text-sm font-medium bg-green-100 text-green-800 dark:bg-green-900/30 dark:text-green-300 hover:bg-green-200 dark:hover:bg-green-800/50 transition-colors duration-200 shadow-sm","children":"TypeScript"}],["$","$L9","Markdown",{"href":"/tags/Markdown","className":"inline-flex items-center px-4 py-1.5 rounded-full text-sm font-medium bg-green-100 text-green-800 dark:bg-green-900/30 dark:text-green-300 hover:bg-green-200 dark:hover:bg-green-800/50 transition-colors duration-200 shadow-sm","children":"Markdown"}]]}]]}]]}]]}]
+c:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"gray-matterでfrontmatterをパース — Markdownのメタデータ管理 | ブログタイトル"}],["$","meta","3",{"name":"description","content":"gray-matterを使ってMarkdownファイルのfrontmatter（YAMLヘッダー）を解析し、TypeScriptで型安全にメタデータを扱う方法を、実プロジェクトのコードを交えて解説する。"}],["$","meta","4",{"property":"og:title","content":"gray-matterでfrontmatterをパース — Markdownのメタデータ管理"}],["$","meta","5",{"property":"og:description","content":"gray-matterを使ってMarkdownファイルのfrontmatter（YAMLヘッダー）を解析し、TypeScriptで型安全にメタデータを扱う方法を、実プロジェクトのコードを交えて解説する。"}],["$","meta","6",{"property":"og:url","content":"https://maemaemae.blog/posts/nextjs_20260224"}],["$","meta","7",{"property":"og:image","content":"https://maemaemae.blog/header.jpg"}],["$","meta","8",{"property":"og:type","content":"article"}],["$","meta","9",{"property":"article:published_time","content":"2026-02-24"}],["$","meta","10",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","11",{"name":"twitter:title","content":"gray-matterでfrontmatterをパース — Markdownのメタデータ管理"}],["$","meta","12",{"name":"twitter:description","content":"gray-matterを使ってMarkdownファイルのfrontmatter（YAMLヘッダー）を解析し、TypeScriptで型安全にメタデータを扱う方法を、実プロジェクトのコードを交えて解説する。"}],["$","meta","13",{"name":"twitter:image","content":"https://maemaemae.blog/header.jpg"}],["$","link","14",{"rel":"icon","href":"/favicon.ico","type":"image/x-icon","sizes":"16x16"}],["$","meta","15",{"name":"next-size-adjust"}]]
+1:null

@@ -1,0 +1,323 @@
+3:I[4707,[],""]
+5:I[6423,[],""]
+6:I[4888,["972","static/chunks/972-f241a8fd644428c6.js","70","static/chunks/70-f52c2ad284c6cd86.js","185","static/chunks/app/layout-97d049cf0fc78146.js"],"GoogleAnalytics"]
+7:I[6806,["972","static/chunks/972-f241a8fd644428c6.js","70","static/chunks/70-f52c2ad284c6cd86.js","185","static/chunks/app/layout-97d049cf0fc78146.js"],"default"]
+8:I[7213,["972","static/chunks/972-f241a8fd644428c6.js","70","static/chunks/70-f52c2ad284c6cd86.js","185","static/chunks/app/layout-97d049cf0fc78146.js"],"default"]
+9:I[2972,["972","static/chunks/972-f241a8fd644428c6.js","333","static/chunks/app/posts/%5Bslug%5D/page-acd6669982df1354.js"],""]
+a:I[5878,["972","static/chunks/972-f241a8fd644428c6.js","70","static/chunks/70-f52c2ad284c6cd86.js","185","static/chunks/app/layout-97d049cf0fc78146.js"],"Image"]
+b:I[2374,["972","static/chunks/972-f241a8fd644428c6.js","70","static/chunks/70-f52c2ad284c6cd86.js","185","static/chunks/app/layout-97d049cf0fc78146.js"],"default"]
+4:["slug","godot_20250501","d"]
+0:["0oJGNGFmzz_LorUWHIimP",[[["",{"children":["posts",{"children":[["slug","godot_20250501","d"],{"children":["__PAGE__?{\"slug\":\"godot_20250501\"}",{}]}]}]},"$undefined","$undefined",true],["",{"children":["posts",{"children":[["slug","godot_20250501","d"],{"children":["__PAGE__",{},[["$L1","$L2",null],null],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","posts","children","$4","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","posts","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/3add334ee59f67ac.css","precedence":"next","crossOrigin":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/css/cec3dd424af6abe7.css","precedence":"next","crossOrigin":"$undefined"}],["$","link","2",{"rel":"stylesheet","href":"/_next/static/css/31924b81bd2c71c2.css","precedence":"next","crossOrigin":"$undefined"}]],["$","html",null,{"lang":"jp","className":"__variable_f367f3 __variable_8c8862 __variable_6beb74 __variable_b784c9 __variable_d575de","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){try{var s=localStorage.getItem('darkMode');var p=window.matchMedia('(prefers-color-scheme: dark)').matches;if(s!==null?s==='true':p){document.documentElement.classList.add('dark');}}catch(e){}})();"}}],["$","$L6",null,{"gaId":"G-FWRP8962MB"}]]}],["$","body",null,{"className":"__className_f367f3","children":["$","$L7",null,{"children":[["$","header",null,{"children":["$","$L8",null,{"children":["$","div",null,{"className":"fixed top-0 left-0 w-full z-50 bg-green-700 dark:bg-gray-900 shadow-md border-b border-green-600/50 dark:border-gray-800","children":["$","div",null,{"className":"max-w-7xl mx-auto","children":["$","div",null,{"className":"flex items-center justify-between px-6 md:px-8 h-20 md:h-24","children":[["$","$L9",null,{"href":"/","className":"group flex items-center gap-3 transition-opacity hover:opacity-80","children":[["$","$La",null,{"alt":"Maemaemae","src":"/header.jpg","width":44,"height":44,"className":"rounded-full object-cover ring-2 ring-white/20 group-hover:ring-white/40 transition-all"}],["$","span",null,{"className":"text-xl md:text-2xl font-katyou text-[#fffef9] tracking-wide","children":"Maemaemae"}]]}],["$","div",null,{"className":"flex items-center gap-2","children":[["$","a",null,{"href":"https://x.com/maemaemae_rm","target":"_blank","rel":"noopener noreferrer","className":"p-2.5 rounded-full hover:bg-white/10 transition-colors","aria-label":"X (Twitter)","children":["$","$La",null,{"src":"/x-logo-white.png","width":24,"height":24,"alt":""}]}],["$","$Lb",null,{}]]}]]}]}]}]}]}],["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[]}]]}]}]]}]],null],null],["$Lc",null]]]]
+e:I[7426,["972","static/chunks/972-f241a8fd644428c6.js","333","static/chunks/app/posts/%5Bslug%5D/page-acd6669982df1354.js"],"default"]
+d:Tb5d7,<h2>はじめに</h2>
+<p>ゲーム開発において、異なるオブジェクト間のスムーズな通信は不可欠です。特にシーンが複雑になったり、複数のシーンをまたいだ通信が必要になると、直接参照に頼るコードは煩雑になりがちです。Godotエンジンのグローバルシグナルを活用すれば、コードの結合度を下げながら効率的に情報を伝達できます。</p>
+<p>この記事では、<strong>Godotにおけるグローバルシグナルの実装方法と効果的な活用パターン</strong>を解説します。シーン間の通信を悩みなく実装したい開発者の方に役立つ内容となっています。</p>
+<h2>グローバルシグナルとは</h2>
+<p>グローバルシグナルは、Godotのシグナルシステムをプロジェクト全体で利用できるよう拡張したものです。通常のシグナルがノード間の直接的な接続を必要とするのに対し、グローバルシグナルはシーン構造に依存せず、どこからでもアクセス可能です。</p>
+<h3>通常シグナルとの違い</h3>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th>通常シグナル</th><th>グローバルシグナル</th></tr></thead><tbody><tr><td>ノード間の直接接続が必要</td><td>シーン構造に依存しない</td></tr><tr><td>親子関係内での通信に最適</td><td>関連のないシステム間の通信に最適</td></tr><tr><td>接続元が明確</td><td>シグナルバスパターンで実装</td></tr><tr><td>接続に <code>connect()</code> メソッドを使用</td><td>AutoLoadシングルトンを経由</td></tr></tbody></table>
+<h2>AutoLoadを使ったグローバルシグナルの実装</h2>
+<h3>1. シグナルバススクリプトの作成</h3>
+<p>まず、グローバルシグナルを定義するスクリプトを作成します。</p>
+<pre class="language-gdscript"><code class="language-gdscript code-highlight"><span class="code-line"><span class="token comment"># SignalBus.gd</span>
+</span><span class="code-line"><span class="token keyword">extends</span> <span class="token class-name">Node</span>
+</span><span class="code-line">
+</span><span class="code-line"><span class="token comment"># プレイヤー関連シグナル</span>
+</span><span class="code-line"><span class="token keyword">signal</span> <span class="token function">player_health_changed</span><span class="token punctuation">(</span>new_health<span class="token punctuation">)</span>
+</span><span class="code-line"><span class="token keyword">signal</span> player_died
+</span><span class="code-line"><span class="token keyword">signal</span> <span class="token function">player_scored</span><span class="token punctuation">(</span>points<span class="token punctuation">)</span>
+</span><span class="code-line">
+</span><span class="code-line"><span class="token comment"># ゲームステート関連シグナル</span>
+</span><span class="code-line"><span class="token keyword">signal</span> <span class="token function">game_paused</span><span class="token punctuation">(</span>is_paused<span class="token punctuation">)</span>
+</span><span class="code-line"><span class="token keyword">signal</span> <span class="token function">level_completed</span><span class="token punctuation">(</span>level_number<span class="token punctuation">)</span>
+</span><span class="code-line"><span class="token keyword">signal</span> <span class="token function">game_over</span><span class="token punctuation">(</span>final_score<span class="token punctuation">)</span>
+</span><span class="code-line">
+</span><span class="code-line"><span class="token comment"># アイテム関連シグナル</span>
+</span><span class="code-line"><span class="token keyword">signal</span> <span class="token function">item_collected</span><span class="token punctuation">(</span>item_id<span class="token punctuation">,</span> item_name<span class="token punctuation">)</span>
+</span><span class="code-line"><span class="token keyword">signal</span> inventory_updated
+</span><span class="code-line">
+</span><span class="code-line"><span class="token comment"># UIナビゲーション関連</span>
+</span><span class="code-line"><span class="token keyword">signal</span> <span class="token function">menu_opened</span><span class="token punctuation">(</span>menu_name<span class="token punctuation">)</span>
+</span><span class="code-line"><span class="token keyword">signal</span> <span class="token function">menu_closed</span><span class="token punctuation">(</span>menu_name<span class="token punctuation">)</span>
+</span><span class="code-line"><span class="token keyword">signal</span> <span class="token function">scene_changing</span><span class="token punctuation">(</span>from_scene<span class="token punctuation">,</span> to_scene<span class="token punctuation">)</span>
+</span></code></pre>
+<h3>2. プロジェクト設定でAutoLoadとして登録</h3>
+<ol>
+<li>メニューから「プロジェクト」→「プロジェクト設定」を開く</li>
+<li>左側のタブから「AutoLoad」を選択</li>
+<li>「パス」欄で作成した <code>SignalBus.gd</code> を選択</li>
+<li>「ノード名」欄に「SignalBus」と入力</li>
+<li>「追加」ボタンをクリック</li>
+</ol>
+<p>これで、プロジェクト内のどのスクリプトからでも <code>SignalBus</code> にアクセスできるようになります。</p>
+<h3>3. シグナルの発信と受信</h3>
+<h4>シグナルを発信する側の実装例</h4>
+<pre class="language-gdscript"><code class="language-gdscript code-highlight"><span class="code-line"><span class="token comment"># Player.gd</span>
+</span><span class="code-line"><span class="token keyword">extends</span> <span class="token class-name">CharacterBody2D</span>
+</span><span class="code-line">
+</span><span class="code-line"><span class="token keyword">var</span> health <span class="token operator">=</span> <span class="token number">100</span>
+</span><span class="code-line">
+</span><span class="code-line"><span class="token keyword">func</span> <span class="token function">take_damage</span><span class="token punctuation">(</span>amount<span class="token punctuation">)</span><span class="token punctuation">:</span>
+</span><span class="code-line">    health <span class="token operator">-=</span> amount
+</span><span class="code-line">
+</span><span class="code-line">    <span class="token comment"># グローバルシグナルを発信</span>
+</span><span class="code-line">    SignalBus<span class="token punctuation">.</span><span class="token function">emit_signal</span><span class="token punctuation">(</span><span class="token string">"player_health_changed"</span><span class="token punctuation">,</span> health<span class="token punctuation">)</span>
+</span><span class="code-line">
+</span><span class="code-line">    <span class="token keyword">if</span> health <span class="token operator">&#x3C;=</span> <span class="token number">0</span><span class="token punctuation">:</span>
+</span><span class="code-line">        SignalBus<span class="token punctuation">.</span><span class="token function">emit_signal</span><span class="token punctuation">(</span><span class="token string">"player_died"</span><span class="token punctuation">)</span>
+</span><span class="code-line">
+</span><span class="code-line"><span class="token keyword">func</span> <span class="token function">collect_item</span><span class="token punctuation">(</span>item<span class="token punctuation">)</span><span class="token punctuation">:</span>
+</span><span class="code-line">    <span class="token comment"># アイテム収集シグナルを発信</span>
+</span><span class="code-line">    SignalBus<span class="token punctuation">.</span><span class="token function">emit_signal</span><span class="token punctuation">(</span><span class="token string">"item_collected"</span><span class="token punctuation">,</span> item<span class="token punctuation">.</span>id<span class="token punctuation">,</span> item<span class="token punctuation">.</span>name<span class="token punctuation">)</span>
+</span><span class="code-line">
+</span><span class="code-line">    <span class="token comment"># スコア加算とシグナル発信</span>
+</span><span class="code-line">    <span class="token keyword">if</span> item<span class="token punctuation">.</span>has_points<span class="token punctuation">:</span>
+</span><span class="code-line">        score <span class="token operator">+=</span> item<span class="token punctuation">.</span>points
+</span><span class="code-line">        SignalBus<span class="token punctuation">.</span><span class="token function">emit_signal</span><span class="token punctuation">(</span><span class="token string">"player_scored"</span><span class="token punctuation">,</span> item<span class="token punctuation">.</span>points<span class="token punctuation">)</span>
+</span></code></pre>
+<h4>シグナルを受信する側の実装例</h4>
+<pre class="language-gdscript"><code class="language-gdscript code-highlight"><span class="code-line"><span class="token comment"># UI.gd (UIシーン内のスクリプト)</span>
+</span><span class="code-line"><span class="token keyword">extends</span> <span class="token class-name">Control</span>
+</span><span class="code-line">
+</span><span class="code-line"><span class="token keyword">func</span> <span class="token function">_ready</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">:</span>
+</span><span class="code-line">    <span class="token comment"># グローバルシグナルに接続</span>
+</span><span class="code-line">    SignalBus<span class="token punctuation">.</span><span class="token function">connect</span><span class="token punctuation">(</span><span class="token string">"player_health_changed"</span><span class="token punctuation">,</span> <span class="token function">Callable</span><span class="token punctuation">(</span><span class="token keyword">self</span><span class="token punctuation">,</span> <span class="token string">"_on_player_health_changed"</span><span class="token punctuation">)</span><span class="token punctuation">)</span>
+</span><span class="code-line">    SignalBus<span class="token punctuation">.</span><span class="token function">connect</span><span class="token punctuation">(</span><span class="token string">"player_died"</span><span class="token punctuation">,</span> <span class="token function">Callable</span><span class="token punctuation">(</span><span class="token keyword">self</span><span class="token punctuation">,</span> <span class="token string">"_on_player_died"</span><span class="token punctuation">)</span><span class="token punctuation">)</span>
+</span><span class="code-line">    SignalBus<span class="token punctuation">.</span><span class="token function">connect</span><span class="token punctuation">(</span><span class="token string">"player_scored"</span><span class="token punctuation">,</span> <span class="token function">Callable</span><span class="token punctuation">(</span><span class="token keyword">self</span><span class="token punctuation">,</span> <span class="token string">"_on_player_scored"</span><span class="token punctuation">)</span><span class="token punctuation">)</span>
+</span><span class="code-line">
+</span><span class="code-line"><span class="token keyword">func</span> <span class="token function">_on_player_health_changed</span><span class="token punctuation">(</span>new_health<span class="token punctuation">)</span><span class="token punctuation">:</span>
+</span><span class="code-line">    <span class="token variable">$HealthBar</span><span class="token punctuation">.</span>value <span class="token operator">=</span> new_health
+</span><span class="code-line">
+</span><span class="code-line">    <span class="token comment"># 危険な状態でUIの色を変える</span>
+</span><span class="code-line">    <span class="token keyword">if</span> new_health <span class="token operator">&#x3C;</span> <span class="token number">30</span><span class="token punctuation">:</span>
+</span><span class="code-line">        <span class="token variable">$HealthBar</span><span class="token punctuation">.</span>modulate <span class="token operator">=</span> <span class="token function">Color</span><span class="token punctuation">(</span><span class="token number">1</span><span class="token punctuation">,</span> <span class="token number">0</span><span class="token punctuation">,</span> <span class="token number">0</span><span class="token punctuation">)</span>  <span class="token comment"># 赤色</span>
+</span><span class="code-line">    <span class="token keyword">else</span><span class="token punctuation">:</span>
+</span><span class="code-line">        <span class="token variable">$HealthBar</span><span class="token punctuation">.</span>modulate <span class="token operator">=</span> <span class="token function">Color</span><span class="token punctuation">(</span><span class="token number">0</span><span class="token punctuation">,</span> <span class="token number">1</span><span class="token punctuation">,</span> <span class="token number">0</span><span class="token punctuation">)</span>  <span class="token comment"># 緑色</span>
+</span><span class="code-line">
+</span><span class="code-line"><span class="token keyword">func</span> <span class="token function">_on_player_died</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">:</span>
+</span><span class="code-line">    <span class="token variable">$GameOverPanel</span><span class="token punctuation">.</span>visible <span class="token operator">=</span> <span class="token boolean">true</span>
+</span><span class="code-line">    <span class="token variable">$RestartButton</span><span class="token punctuation">.</span>visible <span class="token operator">=</span> <span class="token boolean">true</span>
+</span><span class="code-line">
+</span><span class="code-line"><span class="token keyword">func</span> <span class="token function">_on_player_scored</span><span class="token punctuation">(</span>points<span class="token punctuation">)</span><span class="token punctuation">:</span>
+</span><span class="code-line">    <span class="token variable">$ScoreLabel</span><span class="token punctuation">.</span>text <span class="token operator">=</span> <span class="token function">str</span><span class="token punctuation">(</span><span class="token function">int</span><span class="token punctuation">(</span><span class="token variable">$ScoreLabel</span><span class="token punctuation">.</span>text<span class="token punctuation">)</span> <span class="token operator">+</span> points<span class="token punctuation">)</span>
+</span><span class="code-line">    <span class="token variable">$ScoreAnimation</span><span class="token punctuation">.</span><span class="token function">play</span><span class="token punctuation">(</span><span class="token string">"pulse"</span><span class="token punctuation">)</span>  <span class="token comment"># スコア表示をアニメーション</span>
+</span></code></pre>
+<pre class="language-gdscript"><code class="language-gdscript code-highlight"><span class="code-line"><span class="token comment"># GameManager.gd (別のシーンやシングルトン)</span>
+</span><span class="code-line"><span class="token keyword">extends</span> <span class="token class-name">Node</span>
+</span><span class="code-line">
+</span><span class="code-line"><span class="token keyword">func</span> <span class="token function">_ready</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">:</span>
+</span><span class="code-line">    <span class="token comment"># 同じシグナルを別の場所でも受信</span>
+</span><span class="code-line">    SignalBus<span class="token punctuation">.</span><span class="token function">connect</span><span class="token punctuation">(</span><span class="token string">"player_died"</span><span class="token punctuation">,</span> <span class="token function">Callable</span><span class="token punctuation">(</span><span class="token keyword">self</span><span class="token punctuation">,</span> <span class="token string">"_on_player_died"</span><span class="token punctuation">)</span><span class="token punctuation">)</span>
+</span><span class="code-line">    SignalBus<span class="token punctuation">.</span><span class="token function">connect</span><span class="token punctuation">(</span><span class="token string">"level_completed"</span><span class="token punctuation">,</span> <span class="token function">Callable</span><span class="token punctuation">(</span><span class="token keyword">self</span><span class="token punctuation">,</span> <span class="token string">"_on_level_completed"</span><span class="token punctuation">)</span><span class="token punctuation">)</span>
+</span><span class="code-line">
+</span><span class="code-line"><span class="token keyword">func</span> <span class="token function">_on_player_died</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">:</span>
+</span><span class="code-line">    <span class="token comment"># ゲームオーバー処理</span>
+</span><span class="code-line">    <span class="token function">get_tree</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">.</span>paused <span class="token operator">=</span> <span class="token boolean">true</span>
+</span><span class="code-line">    await <span class="token function">get_tree</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">.</span><span class="token function">create_timer</span><span class="token punctuation">(</span><span class="token number">2.0</span><span class="token punctuation">)</span><span class="token punctuation">.</span>timeout
+</span><span class="code-line">    <span class="token comment"># 統計データを保存</span>
+</span><span class="code-line">    <span class="token function">save_player_statistics</span><span class="token punctuation">(</span><span class="token punctuation">)</span>
+</span><span class="code-line">
+</span><span class="code-line"><span class="token keyword">func</span> <span class="token function">_on_level_completed</span><span class="token punctuation">(</span>level_number<span class="token punctuation">)</span><span class="token punctuation">:</span>
+</span><span class="code-line">    <span class="token comment"># 次のレベルをロード</span>
+</span><span class="code-line">    <span class="token keyword">var</span> next_level <span class="token operator">=</span> <span class="token string">"res://scenes/level_%d.tscn"</span> <span class="token operator">%</span> <span class="token punctuation">(</span>level_number <span class="token operator">+</span> <span class="token number">1</span><span class="token punctuation">)</span>
+</span><span class="code-line">    <span class="token keyword">if</span> ResourceLoader<span class="token punctuation">.</span><span class="token function">exists</span><span class="token punctuation">(</span>next_level<span class="token punctuation">)</span><span class="token punctuation">:</span>
+</span><span class="code-line">        SignalBus<span class="token punctuation">.</span><span class="token function">emit_signal</span><span class="token punctuation">(</span><span class="token string">"scene_changing"</span><span class="token punctuation">,</span> <span class="token function">get_tree</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">.</span>current_scene<span class="token punctuation">.</span>filename<span class="token punctuation">,</span> next_level<span class="token punctuation">)</span>
+</span><span class="code-line">        <span class="token function">get_tree</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">.</span><span class="token function">change_scene_to_file</span><span class="token punctuation">(</span>next_level<span class="token punctuation">)</span>
+</span><span class="code-line">    <span class="token keyword">else</span><span class="token punctuation">:</span>
+</span><span class="code-line">        <span class="token comment"># ゲームクリア</span>
+</span><span class="code-line">        SignalBus<span class="token punctuation">.</span><span class="token function">emit_signal</span><span class="token punctuation">(</span><span class="token string">"game_over"</span><span class="token punctuation">,</span> <span class="token function">get_total_score</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">)</span>
+</span></code></pre>
+<h2>実践的な活用パターン</h2>
+<h3>1. ゲームステート管理</h3>
+<p>グローバルシグナルは、ゲームの状態変化を通知するのに最適です。例えば、ポーズ、リスタート、ゲームオーバーなど。</p>
+<pre class="language-gdscript"><code class="language-gdscript code-highlight"><span class="code-line"><span class="token comment"># PauseMenu.gd</span>
+</span><span class="code-line"><span class="token keyword">func</span> <span class="token function">_on_pause_button_pressed</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">:</span>
+</span><span class="code-line">    <span class="token keyword">var</span> is_paused <span class="token operator">=</span> <span class="token operator">!</span><span class="token function">get_tree</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">.</span>paused
+</span><span class="code-line">    <span class="token function">get_tree</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">.</span>paused <span class="token operator">=</span> is_paused
+</span><span class="code-line">    SignalBus<span class="token punctuation">.</span><span class="token function">emit_signal</span><span class="token punctuation">(</span><span class="token string">"game_paused"</span><span class="token punctuation">,</span> is_paused<span class="token punctuation">)</span>
+</span><span class="code-line">    visible <span class="token operator">=</span> is_paused
+</span></code></pre>
+<pre class="language-gdscript"><code class="language-gdscript code-highlight"><span class="code-line"><span class="token comment"># BackgroundMusic.gd</span>
+</span><span class="code-line"><span class="token keyword">func</span> <span class="token function">_ready</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">:</span>
+</span><span class="code-line">    SignalBus<span class="token punctuation">.</span><span class="token function">connect</span><span class="token punctuation">(</span><span class="token string">"game_paused"</span><span class="token punctuation">,</span> <span class="token function">Callable</span><span class="token punctuation">(</span><span class="token keyword">self</span><span class="token punctuation">,</span> <span class="token string">"_on_game_paused"</span><span class="token punctuation">)</span><span class="token punctuation">)</span>
+</span><span class="code-line">
+</span><span class="code-line"><span class="token keyword">func</span> <span class="token function">_on_game_paused</span><span class="token punctuation">(</span>is_paused<span class="token punctuation">)</span><span class="token punctuation">:</span>
+</span><span class="code-line">    <span class="token keyword">if</span> is_paused<span class="token punctuation">:</span>
+</span><span class="code-line">        <span class="token comment"># 音楽をフェードアウト</span>
+</span><span class="code-line">        <span class="token variable">$AnimationPlayer</span><span class="token punctuation">.</span><span class="token function">play</span><span class="token punctuation">(</span><span class="token string">"fade_out"</span><span class="token punctuation">)</span>
+</span><span class="code-line">    <span class="token keyword">else</span><span class="token punctuation">:</span>
+</span><span class="code-line">        <span class="token comment"># 音楽をフェードイン</span>
+</span><span class="code-line">        <span class="token variable">$AnimationPlayer</span><span class="token punctuation">.</span><span class="token function">play</span><span class="token punctuation">(</span><span class="token string">"fade_in"</span><span class="token punctuation">)</span>
+</span></code></pre>
+<h3>2. 複数シーン間の通信</h3>
+<p>レベルシーンからUIシーン、またはゲーム管理シーンへの通信に活用できます。</p>
+<pre class="language-gdscript"><code class="language-gdscript code-highlight"><span class="code-line"><span class="token comment"># Level.gd</span>
+</span><span class="code-line"><span class="token keyword">func</span> <span class="token function">_on_finish_area_body_entered</span><span class="token punctuation">(</span>body<span class="token punctuation">)</span><span class="token punctuation">:</span>
+</span><span class="code-line">    <span class="token keyword">if</span> body<span class="token punctuation">.</span><span class="token function">is_in_group</span><span class="token punctuation">(</span><span class="token string">"player"</span><span class="token punctuation">)</span><span class="token punctuation">:</span>
+</span><span class="code-line">        <span class="token comment"># レベル完了シグナルを発信</span>
+</span><span class="code-line">        SignalBus<span class="token punctuation">.</span><span class="token function">emit_signal</span><span class="token punctuation">(</span><span class="token string">"level_completed"</span><span class="token punctuation">,</span> current_level<span class="token punctuation">)</span>
+</span></code></pre>
+<h3>3. イベント駆動型UI更新</h3>
+<p>プレイヤーの状態変化やゲーム内イベントに基づいてUIを更新できます。</p>
+<pre class="language-gdscript"><code class="language-gdscript code-highlight"><span class="code-line"><span class="token comment"># Inventory.gd</span>
+</span><span class="code-line"><span class="token keyword">func</span> <span class="token function">add_item</span><span class="token punctuation">(</span>item<span class="token punctuation">)</span><span class="token punctuation">:</span>
+</span><span class="code-line">    items<span class="token punctuation">.</span><span class="token function">append</span><span class="token punctuation">(</span>item<span class="token punctuation">)</span>
+</span><span class="code-line">    SignalBus<span class="token punctuation">.</span><span class="token function">emit_signal</span><span class="token punctuation">(</span><span class="token string">"inventory_updated"</span><span class="token punctuation">)</span>
+</span></code></pre>
+<pre class="language-gdscript"><code class="language-gdscript code-highlight"><span class="code-line"><span class="token comment"># InventoryUI.gd</span>
+</span><span class="code-line"><span class="token keyword">func</span> <span class="token function">_ready</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">:</span>
+</span><span class="code-line">    SignalBus<span class="token punctuation">.</span><span class="token function">connect</span><span class="token punctuation">(</span><span class="token string">"inventory_updated"</span><span class="token punctuation">,</span> <span class="token function">Callable</span><span class="token punctuation">(</span><span class="token keyword">self</span><span class="token punctuation">,</span> <span class="token string">"refresh_inventory_display"</span><span class="token punctuation">)</span><span class="token punctuation">)</span>
+</span><span class="code-line">    SignalBus<span class="token punctuation">.</span><span class="token function">connect</span><span class="token punctuation">(</span><span class="token string">"item_collected"</span><span class="token punctuation">,</span> <span class="token function">Callable</span><span class="token punctuation">(</span><span class="token keyword">self</span><span class="token punctuation">,</span> <span class="token string">"_on_item_collected"</span><span class="token punctuation">)</span><span class="token punctuation">)</span>
+</span><span class="code-line">
+</span><span class="code-line"><span class="token keyword">func</span> <span class="token function">refresh_inventory_display</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">:</span>
+</span><span class="code-line">    <span class="token comment"># インベントリUI更新ロジック</span>
+</span><span class="code-line">    <span class="token function">clear_inventory_slots</span><span class="token punctuation">(</span><span class="token punctuation">)</span>
+</span><span class="code-line">    <span class="token keyword">for</span> item <span class="token keyword">in</span> InventoryManager<span class="token punctuation">.</span>items<span class="token punctuation">:</span>
+</span><span class="code-line">        <span class="token function">add_item_to_display</span><span class="token punctuation">(</span>item<span class="token punctuation">)</span>
+</span><span class="code-line">
+</span><span class="code-line"><span class="token keyword">func</span> <span class="token function">_on_item_collected</span><span class="token punctuation">(</span>item_id<span class="token punctuation">,</span> item_name<span class="token punctuation">)</span><span class="token punctuation">:</span>
+</span><span class="code-line">    <span class="token comment"># 一時的な通知を表示</span>
+</span><span class="code-line">    <span class="token variable">$ItemNotification</span><span class="token punctuation">.</span>text <span class="token operator">=</span> <span class="token string">"%sを入手しました！"</span> <span class="token operator">%</span> item_name
+</span><span class="code-line">    <span class="token variable">$ItemNotification</span><span class="token operator">/</span>AnimationPlayer<span class="token punctuation">.</span><span class="token function">play</span><span class="token punctuation">(</span><span class="token string">"fade_out"</span><span class="token punctuation">)</span>
+</span></code></pre>
+<h2>グローバルシグナルのベストプラクティス</h2>
+<h3>1. 明確なカテゴリ分け</h3>
+<p>シグナルが増えてくると管理が難しくなります。機能やシステムごとにカテゴリ分けすることで整理しやすくなります。</p>
+<pre class="language-gdscript"><code class="language-gdscript code-highlight"><span class="code-line"><span class="token comment"># 大規模プロジェクトの場合、複数のシグナルバスを作成</span>
+</span><span class="code-line"><span class="token comment"># PlayerSignals.gd, UISignals.gd, GameStateSignals.gd など</span>
+</span></code></pre>
+<h3>2. 適切なシグナル命名</h3>
+<p>シグナル名は、イベントが発生したことを示す過去形や現在完了形が望ましいです。</p>
+<pre class="language-gdscript"><code class="language-gdscript code-highlight"><span class="code-line"><span class="token comment"># 良い例</span>
+</span><span class="code-line"><span class="token keyword">signal</span> player_died            <span class="token comment"># 過去形</span>
+</span><span class="code-line"><span class="token keyword">signal</span> item_collected         <span class="token comment"># 過去形</span>
+</span><span class="code-line"><span class="token keyword">signal</span> health_changed         <span class="token comment"># 状態変化</span>
+</span><span class="code-line">
+</span><span class="code-line"><span class="token comment"># 避けるべき例</span>
+</span><span class="code-line"><span class="token keyword">signal</span> kill_player            <span class="token comment"># アクションではなくイベント</span>
+</span><span class="code-line"><span class="token keyword">signal</span> change_health          <span class="token comment"># 命令形ではなく通知</span>
+</span></code></pre>
+<h3>3. ドキュメント化</h3>
+<p>各シグナルの目的とパラメータを明確にドキュメント化しましょう。</p>
+<pre class="language-gdscript"><code class="language-gdscript code-highlight"><span class="code-line"><span class="token comment"># SignalBus.gd（ドキュメント化バージョン）</span>
+</span><span class="code-line"><span class="token keyword">extends</span> <span class="token class-name">Node</span>
+</span><span class="code-line">
+</span><span class="code-line"><span class="token comment">## プレイヤーの体力が変化したときに発行</span>
+</span><span class="code-line"><span class="token comment">## @param new_health 新しい体力値（整数）</span>
+</span><span class="code-line"><span class="token keyword">signal</span> <span class="token function">player_health_changed</span><span class="token punctuation">(</span>new_health<span class="token punctuation">)</span>
+</span><span class="code-line">
+</span><span class="code-line"><span class="token comment">## プレイヤーが死亡したときに発行。パラメータなし</span>
+</span><span class="code-line"><span class="token keyword">signal</span> player_died
+</span><span class="code-line">
+</span><span class="code-line"><span class="token comment">## レベルが完了したときに発行</span>
+</span><span class="code-line"><span class="token comment">## @param level_number 完了したレベル番号（整数）</span>
+</span><span class="code-line"><span class="token comment">## @param completion_time レベル完了までの時間（秒）</span>
+</span><span class="code-line"><span class="token keyword">signal</span> <span class="token function">level_completed</span><span class="token punctuation">(</span>level_number<span class="token punctuation">,</span> completion_time<span class="token punctuation">)</span>
+</span></code></pre>
+<h3>4. シグナル接続の解除</h3>
+<p>シーンが解放されるときにシグナル接続を解除することで、メモリリークを防ぎます。</p>
+<pre class="language-gdscript"><code class="language-gdscript code-highlight"><span class="code-line"><span class="token comment"># UI.gd</span>
+</span><span class="code-line"><span class="token keyword">func</span> <span class="token function">_ready</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">:</span>
+</span><span class="code-line">    SignalBus<span class="token punctuation">.</span><span class="token function">connect</span><span class="token punctuation">(</span><span class="token string">"player_health_changed"</span><span class="token punctuation">,</span> <span class="token function">Callable</span><span class="token punctuation">(</span><span class="token keyword">self</span><span class="token punctuation">,</span> <span class="token string">"_on_player_health_changed"</span><span class="token punctuation">)</span><span class="token punctuation">)</span>
+</span><span class="code-line">
+</span><span class="code-line"><span class="token keyword">func</span> <span class="token function">_exit_tree</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">:</span>
+</span><span class="code-line">    <span class="token comment"># シーン解放時に接続を解除</span>
+</span><span class="code-line">    <span class="token keyword">if</span> SignalBus<span class="token punctuation">.</span><span class="token function">is_connected</span><span class="token punctuation">(</span><span class="token string">"player_health_changed"</span><span class="token punctuation">,</span> <span class="token function">Callable</span><span class="token punctuation">(</span><span class="token keyword">self</span><span class="token punctuation">,</span> <span class="token string">"_on_player_health_changed"</span><span class="token punctuation">)</span><span class="token punctuation">)</span><span class="token punctuation">:</span>
+</span><span class="code-line">        SignalBus<span class="token punctuation">.</span><span class="token function">disconnect</span><span class="token punctuation">(</span><span class="token string">"player_health_changed"</span><span class="token punctuation">,</span> <span class="token function">Callable</span><span class="token punctuation">(</span><span class="token keyword">self</span><span class="token punctuation">,</span> <span class="token string">"_on_player_health_changed"</span><span class="token punctuation">)</span><span class="token punctuation">)</span>
+</span></code></pre>
+<p>Godot 4.0以降では、シグナル接続時にワンショットフラグを使用することもできます。</p>
+<pre class="language-gdscript"><code class="language-gdscript code-highlight"><span class="code-line"><span class="token comment"># 一度だけ実行されるシグナル接続</span>
+</span><span class="code-line">SignalBus<span class="token punctuation">.</span><span class="token function">connect</span><span class="token punctuation">(</span><span class="token string">"level_completed"</span><span class="token punctuation">,</span> <span class="token function">Callable</span><span class="token punctuation">(</span><span class="token keyword">self</span><span class="token punctuation">,</span> <span class="token string">"_on_level_completed"</span><span class="token punctuation">)</span><span class="token punctuation">,</span> <span class="token constant">CONNECT_ONE_SHOT</span><span class="token punctuation">)</span>
+</span></code></pre>
+<h2>効率的なデバッグテクニック</h2>
+<p>グローバルシグナルのデバッグに役立つ方法をいくつか紹介します。</p>
+<h3>1. シグナルモニタリングユーティリティ</h3>
+<pre class="language-gdscript"><code class="language-gdscript code-highlight"><span class="code-line"><span class="token comment"># SignalDebugger.gd（開発時のみ使用）</span>
+</span><span class="code-line"><span class="token keyword">extends</span> <span class="token class-name">Node</span>
+</span><span class="code-line">
+</span><span class="code-line"><span class="token keyword">func</span> <span class="token function">_ready</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">:</span>
+</span><span class="code-line">    <span class="token keyword">if</span> <span class="token constant">OS</span><span class="token punctuation">.</span><span class="token function">is_debug_build</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">:</span>
+</span><span class="code-line">        <span class="token comment"># すべてのシグナルをモニタリング</span>
+</span><span class="code-line">        <span class="token keyword">var</span> signals <span class="token operator">=</span> <span class="token function">get_signal_list_from_object</span><span class="token punctuation">(</span>SignalBus<span class="token punctuation">)</span>
+</span><span class="code-line">        <span class="token keyword">for</span> signal_info <span class="token keyword">in</span> signals<span class="token punctuation">:</span>
+</span><span class="code-line">            <span class="token keyword">var</span> signal_name <span class="token operator">=</span> signal_info<span class="token punctuation">.</span>name
+</span><span class="code-line">            SignalBus<span class="token punctuation">.</span><span class="token function">connect</span><span class="token punctuation">(</span>signal_name<span class="token punctuation">,</span> <span class="token function">Callable</span><span class="token punctuation">(</span><span class="token keyword">self</span><span class="token punctuation">,</span> <span class="token string">"_on_signal_emitted"</span><span class="token punctuation">)</span><span class="token punctuation">.</span><span class="token function">bind</span><span class="token punctuation">(</span>signal_name<span class="token punctuation">)</span><span class="token punctuation">)</span>
+</span><span class="code-line">
+</span><span class="code-line"><span class="token keyword">func</span> <span class="token function">_on_signal_emitted</span><span class="token punctuation">(</span>signal_name<span class="token punctuation">,</span> <span class="token operator">*</span>args<span class="token punctuation">)</span><span class="token punctuation">:</span>
+</span><span class="code-line">    <span class="token function">print</span><span class="token punctuation">(</span><span class="token string">"シグナル発行: %s, 引数: %s"</span> <span class="token operator">%</span> <span class="token punctuation">[</span>signal_name<span class="token punctuation">,</span> <span class="token function">str</span><span class="token punctuation">(</span>args<span class="token punctuation">)</span><span class="token punctuation">]</span><span class="token punctuation">)</span>
+</span><span class="code-line">
+</span><span class="code-line"><span class="token keyword">func</span> <span class="token function">get_signal_list_from_object</span><span class="token punctuation">(</span>object<span class="token punctuation">)</span><span class="token punctuation">:</span>
+</span><span class="code-line">    <span class="token keyword">return</span> object<span class="token punctuation">.</span><span class="token function">get_signal_list</span><span class="token punctuation">(</span><span class="token punctuation">)</span>
+</span></code></pre>
+<h3>2. エディタでのシグナル接続の可視化</h3>
+<p>Godotエディタでは、ノードドックからシグナル接続を視覚的に確認できます。</p>
+<ol>
+<li>シーンツリーでノードを選択</li>
+<li>右側の「ノード」タブをクリック</li>
+<li>「シグナル」セクションを展開</li>
+<li>「シグナルの接続を表示」をクリック</li>
+</ol>
+<h2>よくある問題と解決策</h2>
+<h3>1. シグナル名の衝突</h3>
+<p>大規模プロジェクトでは、シグナル名が衝突する可能性があります。</p>
+<p><strong>解決策</strong>:</p>
+<ul>
+<li>命名規則を確立（例: <code>システム名_イベント名</code>）</li>
+<li>カテゴリごとに別のシグナルバスを作成</li>
+</ul>
+<h3>2. シグナルの過剰使用</h3>
+<p>あらゆる通信をシグナルに頼ると、コードが追いにくくなります。</p>
+<p><strong>解決策</strong>:</p>
+<ul>
+<li>直接メソッド呼び出しが簡潔な場合はそちらを使用</li>
+<li>シグナルは「多対多」や「知らない相手への通知」に限定</li>
+</ul>
+<h3>3. メモリリーク</h3>
+<p>シグナル接続の解除忘れによるメモリリークが発生することがあります。</p>
+<p><strong>解決策</strong>:</p>
+<ul>
+<li><code>_exit_tree()</code> で明示的に接続解除</li>
+<li>ワンショット接続を活用</li>
+<li>弱参照接続を使用（Godot 4.0以降）</li>
+</ul>
+<pre class="language-gdscript"><code class="language-gdscript code-highlight"><span class="code-line"><span class="token comment"># 弱参照接続（オブジェクトが解放されると自動的に接続解除）</span>
+</span><span class="code-line">SignalBus<span class="token punctuation">.</span><span class="token function">connect</span><span class="token punctuation">(</span><span class="token string">"player_health_changed"</span><span class="token punctuation">,</span> <span class="token function">Callable</span><span class="token punctuation">(</span><span class="token keyword">self</span><span class="token punctuation">,</span> <span class="token string">"_on_player_health_changed"</span><span class="token punctuation">)</span><span class="token punctuation">,</span> <span class="token constant">CONNECT_PERSIST</span> <span class="token operator">|</span> <span class="token constant">CONNECT_REFERENCE_COUNTED</span><span class="token punctuation">)</span>
+</span></code></pre>
+<h2>まとめ</h2>
+<p>Godotのグローバルシグナルは、複雑なゲーム開発において、コードの疎結合性を保ちながら効率的に通信するための強力なツールです。AutoLoad機能を活用したシグナルバスパターンを実装することで、シーン間やシステム間の通信が劇的に簡素化されます。</p>
+<p>この記事で解説した実装方法とベストプラクティスを活用して、メンテナンス性の高いゲームアーキテクチャを構築してください。適切に使用すれば、コードの可読性が向上し、長期的な開発効率が大幅に改善されるでしょう。</p>
+<h2>参考資料</h2>
+<ul>
+<li><a href="https://docs.godotengine.org/ja/stable/tutorials/scripting/singletons_autoload.html" rel="nofollow" target="_blank">Godot公式ドキュメント - AutoLoad</a></li>
+<li><a href="https://docs.godotengine.org/ja/stable/getting_started/step_by_step/signals.html" rel="nofollow" target="_blank">Godot公式ドキュメント - シグナル</a></li>
+<li><a href="https://docs.godotengine.org/ja/stable/tutorials/patterns/singletons.html" rel="nofollow" target="_blank">Godot公式ドキュメント - シングルトンパターン</a></li>
+</ul>
+<hr>
+<p><em>Godot 4.x を基準としています。Godot 3.x では構文が若干異なる場合があります。</em></p>2:["$","article",null,{"className":"min-h-screen","children":[["$","div",null,{"className":"bg-gradient-to-b from-green-50/60 to-transparent dark:from-gray-900 dark:to-transparent","children":["$","div",null,{"className":"max-w-4xl mx-auto px-6 md:px-8 pt-28 md:pt-32 pb-10 md:pb-14","children":[["$","h1",null,{"className":"font-katyou text-4xl md:text-5xl lg:text-6xl text-gray-900 dark:text-white leading-tight mb-6","children":"Godotのグローバルシグナル実装ガイド"}],["$","time",null,{"className":"text-base font-medium text-gray-600 dark:text-gray-400","children":"2025-05-01"}]]}]}],["$","div",null,{"className":"max-w-4xl mx-auto px-6 md:px-8 pb-16 md:pb-24","children":[["$","div",null,{"id":"post-content","className":"prose prose-lg dark:prose-invert max-w-none prose-headings:font-katyou prose-headings:tracking-tight prose-h2:text-3xl prose-h2:mt-12 prose-h2:mb-6 prose-h3:text-2xl prose-h3:mt-10 prose-h3:mb-5 prose-h4:text-xl prose-h4:mt-8 prose-h4:mb-4 prose-p:leading-relaxed prose-p:mb-6 prose-li:my-2 prose-a:text-green-600 prose-a:no-underline prose-a:font-medium hover:prose-a:text-green-700 hover:prose-a:underline dark:prose-a:text-green-400 dark:hover:prose-a:text-green-300 prose-code:text-green-700 prose-code:bg-green-50 dark:prose-code:text-green-300 dark:prose-code:bg-green-900/20 prose-pre:bg-gray-900 dark:prose-pre:bg-gray-950 prose-img:rounded-lg prose-img:shadow-md prose-hr:my-12 prose-hr:border-gray-300 dark:prose-hr:border-gray-700 border-t border-gray-200 dark:border-gray-800 pt-8","dangerouslySetInnerHTML":{"__html":"$d"}}],["$","$Le",null,{}],["$","div",null,{"className":"mt-16 pt-10 border-t border-gray-200 dark:border-gray-800","children":[["$","p",null,{"className":"text-sm font-semibold text-gray-500 dark:text-gray-400 mb-4","children":"タグ"}],["$","div",null,{"className":"flex flex-wrap gap-2.5","children":[["$","$L9","Godot",{"href":"/tags/Godot","className":"inline-flex items-center px-4 py-1.5 rounded-full text-sm font-medium bg-green-100 text-green-800 dark:bg-green-900/30 dark:text-green-300 hover:bg-green-200 dark:hover:bg-green-800/50 transition-colors duration-200 shadow-sm","children":"Godot"}],["$","$L9","シグナル",{"href":"/tags/シグナル","className":"inline-flex items-center px-4 py-1.5 rounded-full text-sm font-medium bg-green-100 text-green-800 dark:bg-green-900/30 dark:text-green-300 hover:bg-green-200 dark:hover:bg-green-800/50 transition-colors duration-200 shadow-sm","children":"シグナル"}],["$","$L9","AutoLoad",{"href":"/tags/AutoLoad","className":"inline-flex items-center px-4 py-1.5 rounded-full text-sm font-medium bg-green-100 text-green-800 dark:bg-green-900/30 dark:text-green-300 hover:bg-green-200 dark:hover:bg-green-800/50 transition-colors duration-200 shadow-sm","children":"AutoLoad"}],["$","$L9","ゲーム開発",{"href":"/tags/ゲーム開発","className":"inline-flex items-center px-4 py-1.5 rounded-full text-sm font-medium bg-green-100 text-green-800 dark:bg-green-900/30 dark:text-green-300 hover:bg-green-200 dark:hover:bg-green-800/50 transition-colors duration-200 shadow-sm","children":"ゲーム開発"}],["$","$L9","プログラミング",{"href":"/tags/プログラミング","className":"inline-flex items-center px-4 py-1.5 rounded-full text-sm font-medium bg-green-100 text-green-800 dark:bg-green-900/30 dark:text-green-300 hover:bg-green-200 dark:hover:bg-green-800/50 transition-colors duration-200 shadow-sm","children":"プログラミング"}]]}]]}]]}]]}]
+c:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"Godotのグローバルシグナル実装ガイド | ブログタイトル"}],["$","meta","3",{"name":"description","content":"Godotエンジンにおけるグローバルシグナルの効率的な実装と活用方法"}],["$","meta","4",{"property":"og:title","content":"Godotのグローバルシグナル実装ガイド"}],["$","meta","5",{"property":"og:description","content":"Godotエンジンにおけるグローバルシグナルの効率的な実装と活用方法"}],["$","meta","6",{"property":"og:url","content":"https://maemaemae.blog/posts/godot_20250501"}],["$","meta","7",{"property":"og:image","content":"https://maemaemae.blog/images/godot-signals.jpg"}],["$","meta","8",{"property":"og:type","content":"article"}],["$","meta","9",{"property":"article:published_time","content":"2025-05-01"}],["$","meta","10",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","11",{"name":"twitter:title","content":"Godotのグローバルシグナル実装ガイド"}],["$","meta","12",{"name":"twitter:description","content":"Godotエンジンにおけるグローバルシグナルの効率的な実装と活用方法"}],["$","meta","13",{"name":"twitter:image","content":"https://maemaemae.blog/images/godot-signals.jpg"}],["$","link","14",{"rel":"icon","href":"/favicon.ico","type":"image/x-icon","sizes":"16x16"}],["$","meta","15",{"name":"next-size-adjust"}]]
+1:null

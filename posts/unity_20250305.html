@@ -1,0 +1,496 @@
+<!DOCTYPE html><html lang="jp" class="__variable_f367f3 __variable_8c8862 __variable_6beb74 __variable_b784c9 __variable_d575de"><head><meta charSet="utf-8"/><meta name="viewport" content="width=device-width, initial-scale=1"/><link rel="preload" href="/_next/static/media/40e00024f5837e45-s.p.ttf" as="font" crossorigin="" type="font/ttf"/><link rel="preload" href="/_next/static/media/8b506003a59c61f9-s.p.woff2" as="font" crossorigin="" type="font/woff2"/><link rel="preload" href="/_next/static/media/e1217b6673f6c7e5-s.p.ttf" as="font" crossorigin="" type="font/ttf"/><link rel="preload" href="/_next/static/media/e1a9950d37b1ef3e-s.p.ttf" as="font" crossorigin="" type="font/ttf"/><link rel="preload" href="/_next/static/media/e4af272ccee01ff0-s.p.woff2" as="font" crossorigin="" type="font/woff2"/><link rel="stylesheet" href="/_next/static/css/3add334ee59f67ac.css" data-precedence="next"/><link rel="stylesheet" href="/_next/static/css/cec3dd424af6abe7.css" data-precedence="next"/><link rel="stylesheet" href="/_next/static/css/31924b81bd2c71c2.css" data-precedence="next"/><link rel="preload" as="script" fetchPriority="low" href="/_next/static/chunks/webpack-bc770cab82f23445.js"/><script src="/_next/static/chunks/fd9d1056-601e117eccba8914.js" async=""></script><script src="/_next/static/chunks/117-6de7df87bc7c7a2a.js" async=""></script><script src="/_next/static/chunks/main-app-3c6d331f653aef5c.js" async=""></script><script src="/_next/static/chunks/972-f241a8fd644428c6.js" async=""></script><script src="/_next/static/chunks/70-f52c2ad284c6cd86.js" async=""></script><script src="/_next/static/chunks/app/layout-97d049cf0fc78146.js" async=""></script><script src="/_next/static/chunks/app/posts/%5Bslug%5D/page-acd6669982df1354.js" async=""></script><link rel="preload" href="https://www.googletagmanager.com/gtag/js?id=G-FWRP8962MB" as="script"/><title>Unityプロジェクトのセットアップガイド | ブログタイトル</title><meta name="description" content="Unity開発の効率と品質を高めるための汎用的なプロジェクトセットアップと初期設定の完全ガイド"/><meta property="og:title" content="Unityプロジェクトのセットアップガイド"/><meta property="og:description" content="Unity開発の効率と品質を高めるための汎用的なプロジェクトセットアップと初期設定の完全ガイド"/><meta property="og:url" content="https://maemaemae.blog/posts/unity_20250305"/><meta property="og:image" content="https://maemaemae.blog/images/unity-pause-menu.jpg"/><meta property="og:type" content="article"/><meta property="article:published_time" content="2025-03-05"/><meta name="twitter:card" content="summary_large_image"/><meta name="twitter:title" content="Unityプロジェクトのセットアップガイド"/><meta name="twitter:description" content="Unity開発の効率と品質を高めるための汎用的なプロジェクトセットアップと初期設定の完全ガイド"/><meta name="twitter:image" content="https://maemaemae.blog/images/unity-pause-menu.jpg"/><link rel="icon" href="/favicon.ico" type="image/x-icon" sizes="16x16"/><meta name="next-size-adjust"/><script>(function(){try{var s=localStorage.getItem('darkMode');var p=window.matchMedia('(prefers-color-scheme: dark)').matches;if(s!==null?s==='true':p){document.documentElement.classList.add('dark');}}catch(e){}})();</script><script src="/_next/static/chunks/polyfills-42372ed130431b0a.js" noModule=""></script></head><body class="__className_f367f3"><header><div class="fixed top-0 left-0 w-full z-50 bg-green-700 dark:bg-gray-900 shadow-md border-b border-green-600/50 dark:border-gray-800" style="transform:translateY(0);transition:transform 300ms ease-in-out"><div class="max-w-7xl mx-auto"><div class="flex items-center justify-between px-6 md:px-8 h-20 md:h-24"><a class="group flex items-center gap-3 transition-opacity hover:opacity-80" href="/"><img alt="Maemaemae" loading="lazy" width="44" height="44" decoding="async" data-nimg="1" class="rounded-full object-cover ring-2 ring-white/20 group-hover:ring-white/40 transition-all" style="color:transparent" src="/header.jpg"/><span class="text-xl md:text-2xl font-katyou text-[#fffef9] tracking-wide">Maemaemae</span></a><div class="flex items-center gap-2"><a href="https://x.com/maemaemae_rm" target="_blank" rel="noopener noreferrer" class="p-2.5 rounded-full hover:bg-white/10 transition-colors" aria-label="X (Twitter)"><img alt="" loading="lazy" width="24" height="24" decoding="async" data-nimg="1" style="color:transparent" src="/x-logo-white.png"/></a><button class="p-2.5 rounded-full text-[#fffef9] bg-white/5 hover:bg-white/15 ring-2 ring-transparent hover:ring-white/20 transition-all duration-200" aria-label="ダークモードに切り替え"><svg width="24" height="24" viewBox="0 0 24 24" fill="currentColor"><path d="M21 12.79A9 9 0 1111.21 3 7 7 0 0021 12.79z"></path></svg></button></div></div></div></div></header><article class="min-h-screen"><div class="bg-gradient-to-b from-green-50/60 to-transparent dark:from-gray-900 dark:to-transparent"><div class="max-w-4xl mx-auto px-6 md:px-8 pt-28 md:pt-32 pb-10 md:pb-14"><h1 class="font-katyou text-4xl md:text-5xl lg:text-6xl text-gray-900 dark:text-white leading-tight mb-6">Unityプロジェクトのセットアップガイド</h1><time class="text-base font-medium text-gray-600 dark:text-gray-400">2025-03-05</time></div></div><div class="max-w-4xl mx-auto px-6 md:px-8 pb-16 md:pb-24"><div id="post-content" class="prose prose-lg dark:prose-invert max-w-none prose-headings:font-katyou prose-headings:tracking-tight prose-h2:text-3xl prose-h2:mt-12 prose-h2:mb-6 prose-h3:text-2xl prose-h3:mt-10 prose-h3:mb-5 prose-h4:text-xl prose-h4:mt-8 prose-h4:mb-4 prose-p:leading-relaxed prose-p:mb-6 prose-li:my-2 prose-a:text-green-600 prose-a:no-underline prose-a:font-medium hover:prose-a:text-green-700 hover:prose-a:underline dark:prose-a:text-green-400 dark:hover:prose-a:text-green-300 prose-code:text-green-700 prose-code:bg-green-50 dark:prose-code:text-green-300 dark:prose-code:bg-green-900/20 prose-pre:bg-gray-900 dark:prose-pre:bg-gray-950 prose-img:rounded-lg prose-img:shadow-md prose-hr:my-12 prose-hr:border-gray-300 dark:prose-hr:border-gray-700 border-t border-gray-200 dark:border-gray-800 pt-8"><p>プロジェクトセットアップは開発の土台となる重要なステップです。適切な初期設定を行うことで、後の開発段階でのトラブルを未然に防ぎ、チーム全体の生産性を向上させることができます。本記事では、Unityプロジェクトを効率的に進めるための環境構築と初期設定について詳しく解説します。</p>
+<h2>1. プロジェクトセットアップの詳細手順</h2>
+<h3>1.1. Unity環境のセットアップ</h3>
+<h4>Unityバージョンの選定と導入</h4>
+<pre class="language-bash"><code class="language-bash code-highlight"><span class="code-line"><span class="token comment"># Unityバージョン選定のポイント</span>
+</span><span class="code-line"><span class="token comment"># - LTSバージョンの使用で安定性を確保</span>
+</span><span class="code-line"><span class="token comment"># - プロジェクト全体で統一したバージョン管理が重要</span>
+</span></code></pre>
+<p>開発の土台となるUnity環境の構築は最も重要なステップです。安定した開発環境を確保するために、以下の手順に従いましょう：</p>
+<ol>
+<li><strong>Unity Hub</strong>をダウンロードしインストール（まだの場合）</li>
+<li>Unity Hubから<strong>最新のLTSバージョン</strong>をインストール
+<ul>
+<li>LTS（Long Term Support）バージョンを選ぶことで、長期的な安定性を確保</li>
+<li>プロジェクト途中での大幅なエンジンアップデートを避けられる</li>
+</ul>
+</li>
+<li>Unity Hubから<strong>新規プロジェクト作成</strong>を選択</li>
+<li>プロジェクトの種類に応じて適切なテンプレートを選択
+<ul>
+<li>2D/3Dプロジェクト</li>
+<li>レンダリングパイプライン（URP/HDRP/Built-in）</li>
+</ul>
+</li>
+<li>プロジェクト名を設定</li>
+<li>保存先ディレクトリを選択し、「作成」をクリック</li>
+</ol>
+<h4>パッケージの初期導入</h4>
+<p>プロジェクトの基本機能を拡張するため、必要なパッケージを導入します：</p>
+<ol>
+<li><strong>Window > Package Manager</strong>を開く</li>
+<li>プロジェクトの要件に応じて以下のパッケージを検討：
+<ul>
+<li><strong>レンダリングパイプライン</strong> - URP/HDRPを選択した場合は自動的に導入済み</li>
+<li><strong>Input System</strong> - モダンな入力処理システム</li>
+<li><strong>Cinemachine</strong> - 高度なカメラコントロール用</li>
+<li><strong>Post Processing</strong> - 視覚効果の強化</li>
+<li><strong>TextMeshPro</strong> - 高品質テキスト表示用</li>
+<li><strong>Animation Rigging</strong> - 高度なアニメーション制御</li>
+<li><strong>Timeline</strong> - シネマティックシーケンス用</li>
+<li><strong>ProBuilder</strong> - エディタ内での基本的なモデリングツール</li>
+</ul>
+</li>
+</ol>
+<pre class="language-bash"><code class="language-bash code-highlight"><span class="code-line"><span class="token comment"># パッケージ導入後の初期設定</span>
+</span><span class="code-line"><span class="token comment"># URPを使用する場合のアセット作成：</span>
+</span><span class="code-line"><span class="token comment"># Assets > Create > Rendering > Universal Render Pipeline > Pipeline Asset</span>
+</span></code></pre>
+<h4>プロジェクト設定の最適化</h4>
+<p>プロジェクトの種類に応じて、以下の各種設定を最適化します：</p>
+<ol>
+<li>
+<p><strong>Physics設定</strong>（<strong>Edit > Project Settings > Physics/Physics2D</strong>）</p>
+<ul>
+<li>重力設定</li>
+<li>衝突レイヤー設定</li>
+<li>Default Solver Iterations調整</li>
+</ul>
+</li>
+<li>
+<p><strong>Graphics設定</strong>（<strong>Edit > Project Settings > Graphics</strong>）</p>
+<ul>
+<li>レンダリングパイプラインの設定</li>
+<li>カラースペース設定（リニアを推奨）</li>
+<li>静的バッチング/動的バッチング設定</li>
+</ul>
+</li>
+<li>
+<p><strong>Input設定</strong>（<strong>Edit > Project Settings > Input System Package</strong>）</p>
+<ul>
+<li>新Input Systemを使用する場合は有効化</li>
+<li>基本的なアクションマップの作成</li>
+</ul>
+</li>
+<li>
+<p><strong>Quality設定</strong>（<strong>Edit > Project Settings > Quality</strong>）</p>
+<ul>
+<li>ターゲットプラットフォームに合わせた品質レベルの設定</li>
+<li>プラットフォームごとのプリセット調整</li>
+</ul>
+</li>
+</ol>
+<h3>1.2. フォルダ構造の確立</h3>
+<h4>フォルダ構造の作成</h4>
+<p>整理されたフォルダ構造は、大規模プロジェクトの管理に不可欠です。以下の基本構造を作成します：</p>
+<pre><code class="code-highlight"><span class="code-line">Assets/
+</span><span class="code-line">├── _Project/
+</span><span class="code-line">│   ├── Animations/
+</span><span class="code-line">│   ├── Art/
+</span><span class="code-line">│   ├── Audio/
+</span><span class="code-line">│   ├── Prefabs/
+</span><span class="code-line">│   ├── Scenes/
+</span><span class="code-line">│   ├── Scripts/
+</span><span class="code-line">│   ├── Settings/
+</span><span class="code-line">│   └── Resources/
+</span><span class="code-line">├── Plugins/
+</span><span class="code-line">└── ThirdParty/
+</span></code></pre>
+<h4>サブフォルダの詳細設定</h4>
+<p>主要フォルダには、さらに詳細なサブフォルダを設定します：</p>
+<ol>
+<li>
+<p><strong>Animations/</strong></p>
+<ul>
+<li>Characters/</li>
+<li>Environment/</li>
+<li>UI/</li>
+</ul>
+</li>
+<li>
+<p><strong>Art/</strong></p>
+<ul>
+<li>Materials/</li>
+<li>Models/</li>
+<li>Textures/</li>
+<li>Shaders/</li>
+<li>Sprites/ (2Dプロジェクトの場合)</li>
+</ul>
+</li>
+<li>
+<p><strong>Audio/</strong></p>
+<ul>
+<li>Music/</li>
+<li>SFX/</li>
+<li>Ambience/</li>
+</ul>
+</li>
+<li>
+<p><strong>Prefabs/</strong></p>
+<ul>
+<li>Characters/</li>
+<li>Environment/</li>
+<li>UI/</li>
+<li>VFX/</li>
+</ul>
+</li>
+<li>
+<p><strong>Scenes/</strong></p>
+<ul>
+<li>Levels/</li>
+<li>UI/</li>
+<li>Testing/</li>
+</ul>
+</li>
+<li>
+<p><strong>Scripts/</strong></p>
+<ul>
+<li>Core/</li>
+<li>Gameplay/</li>
+<li>Input/</li>
+<li>UI/</li>
+<li>Utils/</li>
+</ul>
+</li>
+</ol>
+<h4>READMEの作成</h4>
+<p>フォルダ構造と規則を明確に説明するREADMEファイルを作成し、Assets/_Projectフォルダ直下に配置します：</p>
+<pre class="language-markdown"><code class="language-markdown code-highlight"><span class="code-line"><span class="token title important"><span class="token punctuation">#</span> プロジェクト - フォルダ構造ガイド</span>
+</span><span class="code-line">
+</span><span class="code-line">このドキュメントは、プロジェクトのフォルダ構造と命名規則について説明します。
+</span><span class="code-line">新しくプロジェクトに参加した開発者は、まずこのガイドを確認してください。
+</span><span class="code-line">
+</span><span class="code-line"><span class="token title important"><span class="token punctuation">##</span> フォルダ構造の概要</span>
+</span><span class="code-line">...
+</span></code></pre>
+<h3>1.3. 命名規則の確立</h3>
+<h4>スクリプト命名規則</h4>
+<p>一貫性のある命名規則を採用することで、コードの可読性と保守性が向上します：</p>
+<ol>
+<li>
+<p><strong>MonoBehaviourクラス</strong>: <code>PascalCase.cs</code></p>
+<ul>
+<li>例：<code>PlayerController.cs</code>, <code>EnemyBehavior.cs</code></li>
+</ul>
+</li>
+<li>
+<p><strong>インターフェース</strong>: <code>IPascalCase.cs</code></p>
+<ul>
+<li>例：<code>IInteractable.cs</code>, <code>IDamageable.cs</code></li>
+</ul>
+</li>
+<li>
+<p><strong>ScriptableObject</strong>: <code>PascalCaseSO.cs</code></p>
+<ul>
+<li>例：<code>GameConfigSO.cs</code>, <code>CharacterDataSO.cs</code></li>
+</ul>
+</li>
+<li>
+<p><strong>列挙型（Enum）</strong>: <code>PascalCase.cs</code>内に<code>PascalCase</code>として定義</p>
+<ul>
+<li>例：<code>ElementType.cs</code>内の<code>ElementType</code>列挙型</li>
+</ul>
+</li>
+</ol>
+<pre class="language-csharp"><code class="language-csharp code-highlight"><span class="code-line"><span class="token comment">// スクリプト命名規則の例</span>
+</span><span class="code-line"><span class="token keyword">public</span> <span class="token keyword">class</span> <span class="token class-name">PlayerController</span> <span class="token punctuation">:</span> <span class="token type-list"><span class="token class-name">MonoBehaviour</span></span> <span class="token punctuation">{</span> <span class="token punctuation">}</span>
+</span><span class="code-line"><span class="token keyword">public</span> <span class="token keyword">interface</span> <span class="token class-name">IInteractable</span> <span class="token punctuation">{</span> <span class="token punctuation">}</span>
+</span><span class="code-line"><span class="token punctuation">[</span><span class="token attribute"><span class="token class-name">CreateAssetMenu</span><span class="token attribute-arguments"><span class="token punctuation">(</span>fileName <span class="token operator">=</span> <span class="token string">"NewGameConfig"</span><span class="token punctuation">,</span> menuName <span class="token operator">=</span> <span class="token string">"Game/Config"</span><span class="token punctuation">)</span></span></span><span class="token punctuation">]</span>
+</span><span class="code-line"><span class="token keyword">public</span> <span class="token keyword">class</span> <span class="token class-name">GameConfigSO</span> <span class="token punctuation">:</span> <span class="token type-list"><span class="token class-name">ScriptableObject</span></span> <span class="token punctuation">{</span> <span class="token punctuation">}</span>
+</span></code></pre>
+<h4>シーン命名規則</h4>
+<p>シーンファイルには、目的を明確にする命名規則を採用します：</p>
+<ol>
+<li><strong>シーン</strong>: <code>Scene_PascalCase</code>
+<ul>
+<li>例：<code>Scene_MainMenu</code>, <code>Scene_Level1</code>, <code>Scene_Tutorial</code></li>
+</ul>
+</li>
+</ol>
+<h4>アセット命名規則</h4>
+<p>各種アセットは、種類とカテゴリを明示する命名規則を採用します：</p>
+<ol>
+<li>
+<p><strong>テクスチャ</strong>: <code>Tex_Category_Name</code></p>
+<ul>
+<li>例：<code>Tex_Character_Diffuse</code>, <code>Tex_UI_Button</code></li>
+</ul>
+</li>
+<li>
+<p><strong>マテリアル</strong>: <code>Mat_Category_Name</code></p>
+<ul>
+<li>例：<code>Mat_Character_Skin</code>, <code>Mat_Environment_Grass</code></li>
+</ul>
+</li>
+<li>
+<p><strong>プレハブ</strong>: <code>Prefab_Category_Name</code></p>
+<ul>
+<li>例：<code>Prefab_Character_Player</code>, <code>Prefab_UI_MainMenu</code></li>
+</ul>
+</li>
+<li>
+<p><strong>アニメーション</strong>: <code>Anim_Object_Action</code></p>
+<ul>
+<li>例：<code>Anim_Character_Run</code>, <code>Anim_Door_Open</code></li>
+</ul>
+</li>
+</ol>
+<h4>レイヤーとタグの設定</h4>
+<p>プロジェクト全体で使用するレイヤーとタグを事前に設定します：</p>
+<ol>
+<li>
+<p><strong>レイヤー</strong>（<strong>Edit > Project Settings > Tags and Layers</strong>）</p>
+<ul>
+<li>Player</li>
+<li>Enemy</li>
+<li>Environment</li>
+<li>Interactable</li>
+<li>UI</li>
+<li>PostProcessing</li>
+</ul>
+</li>
+<li>
+<p><strong>タグ</strong></p>
+<ul>
+<li>Player</li>
+<li>Enemy</li>
+<li>Pickup</li>
+<li>Checkpoint</li>
+<li>Obstacle</li>
+</ul>
+</li>
+</ol>
+<h3>1.4. バージョン管理システムの設定</h3>
+<h4>Gitリポジトリのセットアップ</h4>
+<p>効率的なバージョン管理のためにGitを導入します：</p>
+<ol>
+<li>
+<p><strong>Gitリポジトリの初期化</strong></p>
+<pre class="language-bash"><code class="language-bash code-highlight"><span class="code-line"><span class="token builtin class-name">cd</span> /path/to/your/project
+</span><span class="code-line"><span class="token function">git</span> init
+</span></code></pre>
+</li>
+<li>
+<p><strong>.gitignore ファイルの作成</strong></p>
+<ul>
+<li>Unity用の標準的な.gitignoreテンプレートを利用</li>
+<li><a href="https://github.com/github/gitignore/blob/main/Unity.gitignore" rel="nofollow" target="_blank">GitHub's Unity.gitignore</a>からコピー</li>
+</ul>
+</li>
+<li>
+<p><strong>初期コミット</strong></p>
+<pre class="language-bash"><code class="language-bash code-highlight"><span class="code-line"><span class="token function">git</span> <span class="token function">add</span> <span class="token builtin class-name">.</span>
+</span><span class="code-line"><span class="token function">git</span> commit <span class="token parameter variable">-m</span> <span class="token string">"Initial project setup"</span>
+</span></code></pre>
+</li>
+</ol>
+<h4>ブランチ戦略の決定</h4>
+<p>効率的なチーム開発のためのブランチ戦略を確立します：</p>
+<ol>
+<li>
+<p><strong>主要ブランチ</strong></p>
+<ul>
+<li><code>main</code>/<code>master</code>: 安定版のコード</li>
+<li><code>develop</code>: 開発中のコード</li>
+</ul>
+</li>
+<li>
+<p><strong>機能ブランチ</strong></p>
+<ul>
+<li><code>feature/[機能名]</code>: 個別機能の開発</li>
+<li><code>release/[バージョン]</code>: リリース準備</li>
+<li><code>hotfix/[問題名]</code>: 緊急修正</li>
+</ul>
+</li>
+</ol>
+<pre class="language-bash"><code class="language-bash code-highlight"><span class="code-line"><span class="token comment"># 開発ブランチの作成</span>
+</span><span class="code-line"><span class="token function">git</span> checkout <span class="token parameter variable">-b</span> develop
+</span><span class="code-line"><span class="token comment"># 機能ブランチの作成</span>
+</span><span class="code-line"><span class="token function">git</span> checkout <span class="token parameter variable">-b</span> feature/player-movement
+</span></code></pre>
+<h4>Unity用Git設定の最適化</h4>
+<p>Unity特有のファイル構造に対応するGit設定を行います：</p>
+<ol>
+<li>
+<p><strong>Unity Smart Merge の設定</strong></p>
+<ul>
+<li><code>.gitconfig</code>に以下を追加：</li>
+</ul>
+<pre><code class="code-highlight"><span class="code-line">[merge]
+</span><span class="code-line">tool = unityyamlmerge
+</span><span class="code-line">[mergetool "unityyamlmerge"]
+</span><span class="code-line">trustExitCode = false
+</span><span class="code-line">cmd = 'C:/Program Files/Unity/Hub/Editor/20XX.X/Editor/Data/Tools/UnityYAMLMerge.exe' merge -p "$BASE" "$REMOTE" "$LOCAL" "$MERGED"
+</span></code></pre>
+</li>
+<li>
+<p><strong>LFS (Large File Storage) の設定</strong></p>
+<ul>
+<li>大容量アセット用にGit LFSを設定</li>
+</ul>
+<pre class="language-bash"><code class="language-bash code-highlight"><span class="code-line"><span class="token function">git</span> lfs <span class="token function">install</span>
+</span><span class="code-line"><span class="token function">git</span> lfs track <span class="token string">"*.psd"</span> <span class="token string">"*.tga"</span> <span class="token string">"*.tif"</span> <span class="token string">"*.cubemap"</span> <span class="token string">"*.unitypackage"</span> <span class="token string">"*.fbx"</span> <span class="token string">"*.mp3"</span> <span class="token string">"*.wav"</span> <span class="token string">"*.mp4"</span>
+</span></code></pre>
+</li>
+</ol>
+<h3>1.5. テスト環境の構築</h3>
+<h4>テストフレームワークの導入</h4>
+<p>プロジェクトの信頼性向上のために、テスト環境を準備します：</p>
+<ol>
+<li>
+<p><strong>Unity Test Framework の設定</strong></p>
+<ul>
+<li>Package Managerから「Test Framework」を追加</li>
+<li>PlayMode Tests Assembly の作成</li>
+<li>EditMode Tests Assembly の作成</li>
+</ul>
+</li>
+<li>
+<p><strong>テストフォルダの設計</strong></p>
+<pre><code class="code-highlight"><span class="code-line">Assets/_Project/Tests/
+</span><span class="code-line">├── EditMode/
+</span><span class="code-line">└── PlayMode/
+</span></code></pre>
+</li>
+</ol>
+<h4>デバッグツールの設定</h4>
+<p>効率的なデバッグを可能にするツールを準備します：</p>
+<ol>
+<li>
+<p><strong>カスタムログシステムの作成</strong></p>
+<pre class="language-csharp"><code class="language-csharp code-highlight"><span class="code-line"><span class="token keyword">public</span> <span class="token keyword">static</span> <span class="token keyword">class</span> <span class="token class-name">Logger</span>
+</span><span class="code-line"><span class="token punctuation">{</span>
+</span><span class="code-line">    <span class="token keyword">public</span> <span class="token keyword">static</span> <span class="token return-type class-name"><span class="token keyword">void</span></span> <span class="token function">Log</span><span class="token punctuation">(</span><span class="token class-name"><span class="token keyword">string</span></span> message<span class="token punctuation">,</span> <span class="token class-name">LogType</span> type <span class="token operator">=</span> LogType<span class="token punctuation">.</span>Info<span class="token punctuation">)</span>
+</span><span class="code-line">    <span class="token punctuation">{</span>
+</span><span class="code-line">        <span class="token keyword">switch</span> <span class="token punctuation">(</span>type<span class="token punctuation">)</span>
+</span><span class="code-line">        <span class="token punctuation">{</span>
+</span><span class="code-line">            <span class="token keyword">case</span> LogType<span class="token punctuation">.</span>Info<span class="token punctuation">:</span>
+</span><span class="code-line">                Debug<span class="token punctuation">.</span><span class="token function">Log</span><span class="token punctuation">(</span><span class="token interpolation-string"><span class="token string">$"[INFO] </span><span class="token interpolation"><span class="token punctuation">{</span><span class="token expression language-csharp">message</span><span class="token punctuation">}</span></span><span class="token string">"</span></span><span class="token punctuation">)</span><span class="token punctuation">;</span>
+</span><span class="code-line">                <span class="token keyword">break</span><span class="token punctuation">;</span>
+</span><span class="code-line">            <span class="token keyword">case</span> LogType<span class="token punctuation">.</span>Warning<span class="token punctuation">:</span>
+</span><span class="code-line">                Debug<span class="token punctuation">.</span><span class="token function">LogWarning</span><span class="token punctuation">(</span><span class="token interpolation-string"><span class="token string">$"[WARNING] </span><span class="token interpolation"><span class="token punctuation">{</span><span class="token expression language-csharp">message</span><span class="token punctuation">}</span></span><span class="token string">"</span></span><span class="token punctuation">)</span><span class="token punctuation">;</span>
+</span><span class="code-line">                <span class="token keyword">break</span><span class="token punctuation">;</span>
+</span><span class="code-line">            <span class="token keyword">case</span> LogType<span class="token punctuation">.</span>Error<span class="token punctuation">:</span>
+</span><span class="code-line">                Debug<span class="token punctuation">.</span><span class="token function">LogError</span><span class="token punctuation">(</span><span class="token interpolation-string"><span class="token string">$"[ERROR] </span><span class="token interpolation"><span class="token punctuation">{</span><span class="token expression language-csharp">message</span><span class="token punctuation">}</span></span><span class="token string">"</span></span><span class="token punctuation">)</span><span class="token punctuation">;</span>
+</span><span class="code-line">                <span class="token keyword">break</span><span class="token punctuation">;</span>
+</span><span class="code-line">        <span class="token punctuation">}</span>
+</span><span class="code-line">    <span class="token punctuation">}</span>
+</span><span class="code-line">
+</span><span class="code-line">    <span class="token keyword">public</span> <span class="token keyword">enum</span> <span class="token class-name">LogType</span> <span class="token punctuation">{</span> Info<span class="token punctuation">,</span> Warning<span class="token punctuation">,</span> Error <span class="token punctuation">}</span>
+</span><span class="code-line"><span class="token punctuation">}</span>
+</span></code></pre>
+</li>
+<li>
+<p><strong>デバッグUIの準備</strong></p>
+<ul>
+<li>簡易的なデバッグUIパネルのプレハブ作成</li>
+<li>フレームレートやメモリ使用量などを表示</li>
+</ul>
+</li>
+</ol>
+<h3>1.6. 初期アセットの導入</h3>
+<h4>プレースホルダーアセットの作成</h4>
+<p>迅速なプロトタイピングのために基本的なアセットを準備します：</p>
+<ol>
+<li>
+<p><strong>基本的なプレースホルダーモデル</strong></p>
+<ul>
+<li>シンプルなキャラクターモデル（立方体や球体など）</li>
+<li>基本的な環境要素（平面、壁、障害物）</li>
+</ul>
+</li>
+<li>
+<p><strong>テスト用マテリアル</strong></p>
+<ul>
+<li>異なる表面特性を持つ基本マテリアル</li>
+<li>グリッドテクスチャで距離感を掴みやすく</li>
+</ul>
+</li>
+</ol>
+<h4>テクスチャとマテリアルのベース設定</h4>
+<p>インポート設定のベースラインを確立します：</p>
+<ol>
+<li>
+<p><strong>テクスチャインポート設定</strong></p>
+<ul>
+<li>適切な圧縮フォーマットのプリセット</li>
+<li>MipMap設定の最適化</li>
+<li>ノーマルマップ用設定プリセット</li>
+</ul>
+</li>
+<li>
+<p><strong>マテリアル設定</strong></p>
+<ul>
+<li>URP/HDRPシェーダーの基本設定</li>
+<li>PBRワークフローに基づく標準マテリアル</li>
+</ul>
+</li>
+</ol>
+<h3>1.7. 初期設定の確認とテスト</h3>
+<h4>プロジェクト設定の確認</h4>
+<p>すべての設定が適切に行われているか確認します：</p>
+<ol>
+<li>
+<p><strong>チェックリスト</strong></p>
+<ul>
+<li>レンダリングパイプラインの設定</li>
+<li>入力システムの設定</li>
+<li>物理設定</li>
+<li>品質設定</li>
+<li>プラットフォーム設定</li>
+</ul>
+</li>
+<li>
+<p><strong>パフォーマンスベースラインの測定</strong></p>
+<ul>
+<li>空のシーンでのフレームレート測定</li>
+<li>メモリ使用量のベースライン記録</li>
+<li>プロファイラーの設定と初期データ取得</li>
+</ul>
+</li>
+</ol>
+<h4>フォルダ構造とアクセスのテスト</h4>
+<p>作成したフォルダ構造が適切に機能するか検証します：</p>
+<ol>
+<li>
+<p><strong>リソースロードテスト</strong></p>
+<pre class="language-csharp"><code class="language-csharp code-highlight"><span class="code-line"><span class="token comment">// Resources フォルダからの読み込みテスト</span>
+</span><span class="code-line"><span class="token class-name"><span class="token keyword">var</span></span> testObject <span class="token operator">=</span> Resources<span class="token punctuation">.</span><span class="token generic-method"><span class="token function">Load</span><span class="token generic class-name"><span class="token punctuation">&#x3C;</span>GameObject<span class="token punctuation">></span></span></span><span class="token punctuation">(</span><span class="token string">"TestPrefab"</span><span class="token punctuation">)</span><span class="token punctuation">;</span>
+</span><span class="code-line">Logger<span class="token punctuation">.</span><span class="token function">Log</span><span class="token punctuation">(</span>testObject <span class="token operator">!=</span> <span class="token keyword">null</span> <span class="token punctuation">?</span> <span class="token string">"Resource loading successful"</span> <span class="token punctuation">:</span> <span class="token string">"Resource loading failed"</span><span class="token punctuation">)</span><span class="token punctuation">;</span>
+</span></code></pre>
+</li>
+<li>
+<p><strong>アセットバンドルのテスト設定</strong>（必要に応じて）</p>
+<ul>
+<li>アセットバンドルのビルドテスト</li>
+<li>アセットバンドルからのロードテスト</li>
+</ul>
+</li>
+</ol>
+<h4>バージョン管理の確認</h4>
+<p>Git設定が適切に機能するか確認します：</p>
+<ol>
+<li>
+<p><strong>基本的なGit操作の確認</strong></p>
+<pre class="language-bash"><code class="language-bash code-highlight"><span class="code-line"><span class="token comment"># 小さな変更を加える</span>
+</span><span class="code-line"><span class="token function">touch</span> test.txt
+</span><span class="code-line"><span class="token comment"># 変更をステージングとコミット</span>
+</span><span class="code-line"><span class="token function">git</span> <span class="token function">add</span> test.txt
+</span><span class="code-line"><span class="token function">git</span> commit <span class="token parameter variable">-m</span> <span class="token string">"Test commit"</span>
+</span><span class="code-line"><span class="token comment"># リモートリポジトリがある場合はプッシュ</span>
+</span><span class="code-line"><span class="token function">git</span> push
+</span></code></pre>
+</li>
+<li>
+<p><strong>複数人での同時作業シミュレーション</strong>（必要に応じて）</p>
+<ul>
+<li>異なるブランチでの同時作業テスト</li>
+<li>マージの練習とコンフリクト解決</li>
+</ul>
+</li>
+</ol>
+<h2>まとめ</h2>
+<p>適切なプロジェクトセットアップは、Unityでの開発プロセス全体の効率と品質に大きな影響を与えます。この記事で紹介した手順に従うことで、堅固な基盤を構築し、後の開発段階でのトラブルを未然に防ぐことができます。</p>
+<p>特にフォルダ構造と命名規則を初期段階でしっかり確立することで、チーム全体の生産性が向上し、長期的なメンテナンスが容易になります。これらのベストプラクティスは、個人開発から大規模チーム開発まで、あらゆるUnityプロジェクトに応用可能です。</p>
+<hr>
+<p><em>この記事は、Unity 2022.3を基準に作成されています。新しいバージョンでは設定方法が異なる場合があります。</em></p></div><div class="mt-16 pt-10 border-t border-gray-200 dark:border-gray-800"><p class="text-sm font-semibold text-gray-500 dark:text-gray-400 mb-4">タグ</p><div class="flex flex-wrap gap-2.5"><a class="inline-flex items-center px-4 py-1.5 rounded-full text-sm font-medium bg-green-100 text-green-800 dark:bg-green-900/30 dark:text-green-300 hover:bg-green-200 dark:hover:bg-green-800/50 transition-colors duration-200 shadow-sm" href="/tags/Unity">Unity</a><a class="inline-flex items-center px-4 py-1.5 rounded-full text-sm font-medium bg-green-100 text-green-800 dark:bg-green-900/30 dark:text-green-300 hover:bg-green-200 dark:hover:bg-green-800/50 transition-colors duration-200 shadow-sm" href="/tags/プロジェクト管理">プロジェクト管理</a><a class="inline-flex items-center px-4 py-1.5 rounded-full text-sm font-medium bg-green-100 text-green-800 dark:bg-green-900/30 dark:text-green-300 hover:bg-green-200 dark:hover:bg-green-800/50 transition-colors duration-200 shadow-sm" href="/tags/環境構築">環境構築</a><a class="inline-flex items-center px-4 py-1.5 rounded-full text-sm font-medium bg-green-100 text-green-800 dark:bg-green-900/30 dark:text-green-300 hover:bg-green-200 dark:hover:bg-green-800/50 transition-colors duration-200 shadow-sm" href="/tags/開発環境">開発環境</a></div></div></div></article><script src="/_next/static/chunks/webpack-bc770cab82f23445.js" async=""></script><script>(self.__next_f=self.__next_f||[]).push([0]);self.__next_f.push([2,null])</script><script>self.__next_f.push([1,"1:HL[\"/_next/static/media/40e00024f5837e45-s.p.ttf\",\"font\",{\"crossOrigin\":\"\",\"type\":\"font/ttf\"}]\n2:HL[\"/_next/static/media/8b506003a59c61f9-s.p.woff2\",\"font\",{\"crossOrigin\":\"\",\"type\":\"font/woff2\"}]\n3:HL[\"/_next/static/media/e1217b6673f6c7e5-s.p.ttf\",\"font\",{\"crossOrigin\":\"\",\"type\":\"font/ttf\"}]\n4:HL[\"/_next/static/media/e1a9950d37b1ef3e-s.p.ttf\",\"font\",{\"crossOrigin\":\"\",\"type\":\"font/ttf\"}]\n5:HL[\"/_next/static/media/e4af272ccee01ff0-s.p.woff2\",\"font\",{\"crossOrigin\":\"\",\"type\":\"font/woff2\"}]\n6:HL[\"/_next/static/css/3add334ee59f67ac.css\",\"style\"]\n7:HL[\"/_next/static/css/cec3dd424af6abe7.css\",\"style\"]\n8:HL[\"/_next/static/css/31924b81bd2c71c2.css\",\"style\"]\n"])</script><script>self.__next_f.push([1,"9:I[2846,[],\"\"]\nc:I[4707,[],\"\"]\ne:I[6423,[],\"\"]\nf:I[4888,[\"972\",\"static/chunks/972-f241a8fd644428c6.js\",\"70\",\"static/chunks/70-f52c2ad284c6cd86.js\",\"185\",\"static/chunks/app/layout-97d049cf0fc78146.js\"],\"GoogleAnalytics\"]\n10:I[6806,[\"972\",\"static/chunks/972-f241a8fd644428c6.js\",\"70\",\"static/chunks/70-f52c2ad284c6cd86.js\",\"185\",\"static/chunks/app/layout-97d049cf0fc78146.js\"],\"default\"]\n11:I[7213,[\"972\",\"static/chunks/972-f241a8fd644428c6.js\",\"70\",\"static/chunks/70-f52c2ad284c6cd86.js\",\"185\",\"static/chunks/app/layout-97d049cf0fc78146.js\"],\"default\"]\n12:I[2972,[\"972\",\"static/chunks/972-f241a8fd644428c6.js\",\"333\",\"static/chunks/app/posts/%5Bslug%5D/page-acd6669982df1354.js\"],\"\"]\n13:I[5878,[\"972\",\"static/chunks/972-f241a8fd644428c6.js\",\"70\",\"static/chunks/70-f52c2ad284c6cd86.js\",\"185\",\"static/chunks/app/layout-97d049cf0fc78146.js\"],\"Image\"]\n14:I[2374,[\"972\",\"static/chunks/972-f241a8fd644428c6.js\",\"70\",\"static/chunks/70-f52c2ad284c6cd86.js\",\"185\",\"static/chunks/app/layout-97d049cf0fc78146.js\"],\"default\"]\n16:I[1060,[],\"\"]\nd:[\"slug\",\"unity_20250305\",\"d\"]\n17:[]\n"])</script><script>self.__next_f.push([1,"0:[\"$\",\"$L9\",null,{\"buildId\":\"0oJGNGFmzz_LorUWHIimP\",\"assetPrefix\":\"\",\"urlParts\":[\"\",\"posts\",\"unity_20250305\"],\"initialTree\":[\"\",{\"children\":[\"posts\",{\"children\":[[\"slug\",\"unity_20250305\",\"d\"],{\"children\":[\"__PAGE__?{\\\"slug\\\":\\\"unity_20250305\\\"}\",{}]}]}]},\"$undefined\",\"$undefined\",true],\"initialSeedData\":[\"\",{\"children\":[\"posts\",{\"children\":[[\"slug\",\"unity_20250305\",\"d\"],{\"children\":[\"__PAGE__\",{},[[\"$La\",\"$Lb\",null],null],null]},[null,[\"$\",\"$Lc\",null,{\"parallelRouterKey\":\"children\",\"segmentPath\":[\"children\",\"posts\",\"children\",\"$d\",\"children\"],\"error\":\"$undefined\",\"errorStyles\":\"$undefined\",\"errorScripts\":\"$undefined\",\"template\":[\"$\",\"$Le\",null,{}],\"templateStyles\":\"$undefined\",\"templateScripts\":\"$undefined\",\"notFound\":\"$undefined\",\"notFoundStyles\":\"$undefined\"}]],null]},[null,[\"$\",\"$Lc\",null,{\"parallelRouterKey\":\"children\",\"segmentPath\":[\"children\",\"posts\",\"children\"],\"error\":\"$undefined\",\"errorStyles\":\"$undefined\",\"errorScripts\":\"$undefined\",\"template\":[\"$\",\"$Le\",null,{}],\"templateStyles\":\"$undefined\",\"templateScripts\":\"$undefined\",\"notFound\":\"$undefined\",\"notFoundStyles\":\"$undefined\"}]],null]},[[[[\"$\",\"link\",\"0\",{\"rel\":\"stylesheet\",\"href\":\"/_next/static/css/3add334ee59f67ac.css\",\"precedence\":\"next\",\"crossOrigin\":\"$undefined\"}],[\"$\",\"link\",\"1\",{\"rel\":\"stylesheet\",\"href\":\"/_next/static/css/cec3dd424af6abe7.css\",\"precedence\":\"next\",\"crossOrigin\":\"$undefined\"}],[\"$\",\"link\",\"2\",{\"rel\":\"stylesheet\",\"href\":\"/_next/static/css/31924b81bd2c71c2.css\",\"precedence\":\"next\",\"crossOrigin\":\"$undefined\"}]],[\"$\",\"html\",null,{\"lang\":\"jp\",\"className\":\"__variable_f367f3 __variable_8c8862 __variable_6beb74 __variable_b784c9 __variable_d575de\",\"suppressHydrationWarning\":true,\"children\":[[\"$\",\"head\",null,{\"children\":[[\"$\",\"script\",null,{\"dangerouslySetInnerHTML\":{\"__html\":\"(function(){try{var s=localStorage.getItem('darkMode');var p=window.matchMedia('(prefers-color-scheme: dark)').matches;if(s!==null?s==='true':p){document.documentElement.classList.add('dark');}}catch(e){}})();\"}}],[\"$\",\"$Lf\",null,{\"gaId\":\"G-FWRP8962MB\"}]]}],[\"$\",\"body\",null,{\"className\":\"__className_f367f3\",\"children\":[\"$\",\"$L10\",null,{\"children\":[[\"$\",\"header\",null,{\"children\":[\"$\",\"$L11\",null,{\"children\":[\"$\",\"div\",null,{\"className\":\"fixed top-0 left-0 w-full z-50 bg-green-700 dark:bg-gray-900 shadow-md border-b border-green-600/50 dark:border-gray-800\",\"children\":[\"$\",\"div\",null,{\"className\":\"max-w-7xl mx-auto\",\"children\":[\"$\",\"div\",null,{\"className\":\"flex items-center justify-between px-6 md:px-8 h-20 md:h-24\",\"children\":[[\"$\",\"$L12\",null,{\"href\":\"/\",\"className\":\"group flex items-center gap-3 transition-opacity hover:opacity-80\",\"children\":[[\"$\",\"$L13\",null,{\"alt\":\"Maemaemae\",\"src\":\"/header.jpg\",\"width\":44,\"height\":44,\"className\":\"rounded-full object-cover ring-2 ring-white/20 group-hover:ring-white/40 transition-all\"}],[\"$\",\"span\",null,{\"className\":\"text-xl md:text-2xl font-katyou text-[#fffef9] tracking-wide\",\"children\":\"Maemaemae\"}]]}],[\"$\",\"div\",null,{\"className\":\"flex items-center gap-2\",\"children\":[[\"$\",\"a\",null,{\"href\":\"https://x.com/maemaemae_rm\",\"target\":\"_blank\",\"rel\":\"noopener noreferrer\",\"className\":\"p-2.5 rounded-full hover:bg-white/10 transition-colors\",\"aria-label\":\"X (Twitter)\",\"children\":[\"$\",\"$L13\",null,{\"src\":\"/x-logo-white.png\",\"width\":24,\"height\":24,\"alt\":\"\"}]}],[\"$\",\"$L14\",null,{}]]}]]}]}]}]}]}],[\"$\",\"$Lc\",null,{\"parallelRouterKey\":\"children\",\"segmentPath\":[\"children\"],\"error\":\"$undefined\",\"errorStyles\":\"$undefined\",\"errorScripts\":\"$undefined\",\"template\":[\"$\",\"$Le\",null,{}],\"templateStyles\":\"$undefined\",\"templateScripts\":\"$undefined\",\"notFound\":[[\"$\",\"title\",null,{\"children\":\"404: This page could not be found.\"}],[\"$\",\"div\",null,{\"style\":{\"fontFamily\":\"system-ui,\\\"Segoe UI\\\",Roboto,Helvetica,Arial,sans-serif,\\\"Apple Color Emoji\\\",\\\"Segoe UI Emoji\\\"\",\"height\":\"100vh\",\"textAlign\":\"center\",\"display\":\"flex\",\"flexDirection\":\"column\",\"alignItems\":\"center\",\"justifyContent\":\"center\"},\"children\":[\"$\",\"div\",null,{\"children\":[[\"$\",\"style\",null,{\"dangerouslySetInnerHTML\":{\"__html\":\"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}\"}}],[\"$\",\"h1\",null,{\"className\":\"next-error-h1\",\"style\":{\"display\":\"inline-block\",\"margin\":\"0 20px 0 0\",\"padding\":\"0 23px 0 0\",\"fontSize\":24,\"fontWeight\":500,\"verticalAlign\":\"top\",\"lineHeight\":\"49px\"},\"children\":\"404\"}],[\"$\",\"div\",null,{\"style\":{\"display\":\"inline-block\"},\"children\":[\"$\",\"h2\",null,{\"style\":{\"fontSize\":14,\"fontWeight\":400,\"lineHeight\":\"49px\",\"margin\":0},\"children\":\"This page could not be found.\"}]}]]}]}]],\"notFoundStyles\":[]}]]}]}]]}]],null],null],\"couldBeIntercepted\":false,\"initialHead\":[null,\"$L15\"],\"globalErrorComponent\":\"$16\",\"missingSlots\":\"$W17\"}]\n"])</script><script>self.__next_f.push([1,"19:I[7426,[\"972\",\"static/chunks/972-f241a8fd644428c6.js\",\"333\",\"static/chunks/app/posts/%5Bslug%5D/page-acd6669982df1354.js\"],\"default\"]\n18:T6a39,"])</script><script>self.__next_f.push([1,"\u003cp\u003eプロジェクトセットアップは開発の土台となる重要なステップです。適切な初期設定を行うことで、後の開発段階でのトラブルを未然に防ぎ、チーム全体の生産性を向上させることができます。本記事では、Unityプロジェクトを効率的に進めるための環境構築と初期設定について詳しく解説します。\u003c/p\u003e\n\u003ch2\u003e1. プロジェクトセットアップの詳細手順\u003c/h2\u003e\n\u003ch3\u003e1.1. Unity環境のセットアップ\u003c/h3\u003e\n\u003ch4\u003eUnityバージョンの選定と導入\u003c/h4\u003e\n\u003cpre class=\"language-bash\"\u003e\u003ccode class=\"language-bash code-highlight\"\u003e\u003cspan class=\"code-line\"\u003e\u003cspan class=\"token comment\"\u003e# Unityバージョン選定のポイント\u003c/span\u003e\r\n\u003c/span\u003e\u003cspan class=\"code-line\"\u003e\u003cspan class=\"token comment\"\u003e# - LTSバージョンの使用で安定性を確保\u003c/span\u003e\r\n\u003c/span\u003e\u003cspan class=\"code-line\"\u003e\u003cspan class=\"token comment\"\u003e# - プロジェクト全体で統一したバージョン管理が重要\u003c/span\u003e\n\u003c/span\u003e\u003c/code\u003e\u003c/pre\u003e\n\u003cp\u003e開発の土台となるUnity環境の構築は最も重要なステップです。安定した開発環境を確保するために、以下の手順に従いましょう：\u003c/p\u003e\n\u003col\u003e\n\u003cli\u003e\u003cstrong\u003eUnity Hub\u003c/strong\u003eをダウンロードしインストール（まだの場合）\u003c/li\u003e\n\u003cli\u003eUnity Hubから\u003cstrong\u003e最新のLTSバージョン\u003c/strong\u003eをインストール\n\u003cul\u003e\n\u003cli\u003eLTS（Long Term Support）バージョンを選ぶことで、長期的な安定性を確保\u003c/li\u003e\n\u003cli\u003eプロジェクト途中での大幅なエンジンアップデートを避けられる\u003c/li\u003e\n\u003c/ul\u003e\n\u003c/li\u003e\n\u003cli\u003eUnity Hubから\u003cstrong\u003e新規プロジェクト作成\u003c/strong\u003eを選択\u003c/li\u003e\n\u003cli\u003eプロジェクトの種類に応じて適切なテンプレートを選択\n\u003cul\u003e\n\u003cli\u003e2D/3Dプロジェクト\u003c/li\u003e\n\u003cli\u003eレンダリングパイプライン（URP/HDRP/Built-in）\u003c/li\u003e\n\u003c/ul\u003e\n\u003c/li\u003e\n\u003cli\u003eプロジェクト名を設定\u003c/li\u003e\n\u003cli\u003e保存先ディレクトリを選択し、「作成」をクリック\u003c/li\u003e\n\u003c/ol\u003e\n\u003ch4\u003eパッケージの初期導入\u003c/h4\u003e\n\u003cp\u003eプロジェクトの基本機能を拡張するため、必要なパッケージを導入します：\u003c/p\u003e\n\u003col\u003e\n\u003cli\u003e\u003cstrong\u003eWindow \u003e Package Manager\u003c/strong\u003eを開く\u003c/li\u003e\n\u003cli\u003eプロジェクトの要件に応じて以下のパッケージを検討：\n\u003cul\u003e\n\u003cli\u003e\u003cstrong\u003eレンダリングパイプライン\u003c/strong\u003e - URP/HDRPを選択した場合は自動的に導入済み\u003c/li\u003e\n\u003cli\u003e\u003cstrong\u003eInput System\u003c/strong\u003e - モダンな入力処理システム\u003c/li\u003e\n\u003cli\u003e\u003cstrong\u003eCinemachine\u003c/strong\u003e - 高度なカメラコントロール用\u003c/li\u003e\n\u003cli\u003e\u003cstrong\u003ePost Processing\u003c/strong\u003e - 視覚効果の強化\u003c/li\u003e\n\u003cli\u003e\u003cstrong\u003eTextMeshPro\u003c/strong\u003e - 高品質テキスト表示用\u003c/li\u003e\n\u003cli\u003e\u003cstrong\u003eAnimation Rigging\u003c/strong\u003e - 高度なアニメーション制御\u003c/li\u003e\n\u003cli\u003e\u003cstrong\u003eTimeline\u003c/strong\u003e - シネマティックシーケンス用\u003c/li\u003e\n\u003cli\u003e\u003cstrong\u003eProBuilder\u003c/strong\u003e - エディタ内での基本的なモデリングツール\u003c/li\u003e\n\u003c/ul\u003e\n\u003c/li\u003e\n\u003c/ol\u003e\n\u003cpre class=\"language-bash\"\u003e\u003ccode class=\"language-bash code-highlight\"\u003e\u003cspan class=\"code-line\"\u003e\u003cspan class=\"token comment\"\u003e# パッケージ導入後の初期設定\u003c/span\u003e\r\n\u003c/span\u003e\u003cspan class=\"code-line\"\u003e\u003cspan class=\"token comment\"\u003e# URPを使用する場合のアセット作成：\u003c/span\u003e\r\n\u003c/span\u003e\u003cspan class=\"code-line\"\u003e\u003cspan class=\"token comment\"\u003e# Assets \u003e Create \u003e Rendering \u003e Universal Render Pipeline \u003e Pipeline Asset\u003c/span\u003e\n\u003c/span\u003e\u003c/code\u003e\u003c/pre\u003e\n\u003ch4\u003eプロジェクト設定の最適化\u003c/h4\u003e\n\u003cp\u003eプロジェクトの種類に応じて、以下の各種設定を最適化します：\u003c/p\u003e\n\u003col\u003e\n\u003cli\u003e\n\u003cp\u003e\u003cstrong\u003ePhysics設定\u003c/strong\u003e（\u003cstrong\u003eEdit \u003e Project Settings \u003e Physics/Physics2D\u003c/strong\u003e）\u003c/p\u003e\n\u003cul\u003e\n\u003cli\u003e重力設定\u003c/li\u003e\n\u003cli\u003e衝突レイヤー設定\u003c/li\u003e\n\u003cli\u003eDefault Solver Iterations調整\u003c/li\u003e\n\u003c/ul\u003e\n\u003c/li\u003e\n\u003cli\u003e\n\u003cp\u003e\u003cstrong\u003eGraphics設定\u003c/strong\u003e（\u003cstrong\u003eEdit \u003e Project Settings \u003e Graphics\u003c/strong\u003e）\u003c/p\u003e\n\u003cul\u003e\n\u003cli\u003eレンダリングパイプラインの設定\u003c/li\u003e\n\u003cli\u003eカラースペース設定（リニアを推奨）\u003c/li\u003e\n\u003cli\u003e静的バッチング/動的バッチング設定\u003c/li\u003e\n\u003c/ul\u003e\n\u003c/li\u003e\n\u003cli\u003e\n\u003cp\u003e\u003cstrong\u003eInput設定\u003c/strong\u003e（\u003cstrong\u003eEdit \u003e Project Settings \u003e Input System Package\u003c/strong\u003e）\u003c/p\u003e\n\u003cul\u003e\n\u003cli\u003e新Input Systemを使用する場合は有効化\u003c/li\u003e\n\u003cli\u003e基本的なアクションマップの作成\u003c/li\u003e\n\u003c/ul\u003e\n\u003c/li\u003e\n\u003cli\u003e\n\u003cp\u003e\u003cstrong\u003eQuality設定\u003c/strong\u003e（\u003cstrong\u003eEdit \u003e Project Settings \u003e Quality\u003c/strong\u003e）\u003c/p\u003e\n\u003cul\u003e\n\u003cli\u003eターゲットプラットフォームに合わせた品質レベルの設定\u003c/li\u003e\n\u003cli\u003eプラットフォームごとのプリセット調整\u003c/li\u003e\n\u003c/ul\u003e\n\u003c/li\u003e\n\u003c/ol\u003e\n\u003ch3\u003e1.2. フォルダ構造の確立\u003c/h3\u003e\n\u003ch4\u003eフォルダ構造の作成\u003c/h4\u003e\n\u003cp\u003e整理されたフォルダ構造は、大規模プロジェクトの管理に不可欠です。以下の基本構造を作成します：\u003c/p\u003e\n\u003cpre\u003e\u003ccode class=\"code-highlight\"\u003e\u003cspan class=\"code-line\"\u003eAssets/\r\n\u003c/span\u003e\u003cspan class=\"code-line\"\u003e├── _Project/\r\n\u003c/span\u003e\u003cspan class=\"code-line\"\u003e│   ├── Animations/\r\n\u003c/span\u003e\u003cspan class=\"code-line\"\u003e│   ├── Art/\r\n\u003c/span\u003e\u003cspan class=\"code-line\"\u003e│   ├── Audio/\r\n\u003c/span\u003e\u003cspan class=\"code-line\"\u003e│   ├── Prefabs/\r\n\u003c/span\u003e\u003cspan class=\"code-line\"\u003e│   ├── Scenes/\r\n\u003c/span\u003e\u003cspan class=\"code-line\"\u003e│   ├── Scripts/\r\n\u003c/span\u003e\u003cspan class=\"code-line\"\u003e│   ├── Settings/\r\n\u003c/span\u003e\u003cspan class=\"code-line\"\u003e│   └── Resources/\r\n\u003c/span\u003e\u003cspan class=\"code-line\"\u003e├── Plugins/\r\n\u003c/span\u003e\u003cspan class=\"code-line\"\u003e└── ThirdParty/\n\u003c/span\u003e\u003c/code\u003e\u003c/pre\u003e\n\u003ch4\u003eサブフォルダの詳細設定\u003c/h4\u003e\n\u003cp\u003e主要フォルダには、さらに詳細なサブフォルダを設定します：\u003c/p\u003e\n\u003col\u003e\n\u003cli\u003e\n\u003cp\u003e\u003cstrong\u003eAnimations/\u003c/strong\u003e\u003c/p\u003e\n\u003cul\u003e\n\u003cli\u003eCharacters/\u003c/li\u003e\n\u003cli\u003eEnvironment/\u003c/li\u003e\n\u003cli\u003eUI/\u003c/li\u003e\n\u003c/ul\u003e\n\u003c/li\u003e\n\u003cli\u003e\n\u003cp\u003e\u003cstrong\u003eArt/\u003c/strong\u003e\u003c/p\u003e\n\u003cul\u003e\n\u003cli\u003eMaterials/\u003c/li\u003e\n\u003cli\u003eModels/\u003c/li\u003e\n\u003cli\u003eTextures/\u003c/li\u003e\n\u003cli\u003eShaders/\u003c/li\u003e\n\u003cli\u003eSprites/ (2Dプロジェクトの場合)\u003c/li\u003e\n\u003c/ul\u003e\n\u003c/li\u003e\n\u003cli\u003e\n\u003cp\u003e\u003cstrong\u003eAudio/\u003c/strong\u003e\u003c/p\u003e\n\u003cul\u003e\n\u003cli\u003eMusic/\u003c/li\u003e\n\u003cli\u003eSFX/\u003c/li\u003e\n\u003cli\u003eAmbience/\u003c/li\u003e\n\u003c/ul\u003e\n\u003c/li\u003e\n\u003cli\u003e\n\u003cp\u003e\u003cstrong\u003ePrefabs/\u003c/strong\u003e\u003c/p\u003e\n\u003cul\u003e\n\u003cli\u003eCharacters/\u003c/li\u003e\n\u003cli\u003eEnvironment/\u003c/li\u003e\n\u003cli\u003eUI/\u003c/li\u003e\n\u003cli\u003eVFX/\u003c/li\u003e\n\u003c/ul\u003e\n\u003c/li\u003e\n\u003cli\u003e\n\u003cp\u003e\u003cstrong\u003eScenes/\u003c/strong\u003e\u003c/p\u003e\n\u003cul\u003e\n\u003cli\u003eLevels/\u003c/li\u003e\n\u003cli\u003eUI/\u003c/li\u003e\n\u003cli\u003eTesting/\u003c/li\u003e\n\u003c/ul\u003e\n\u003c/li\u003e\n\u003cli\u003e\n\u003cp\u003e\u003cstrong\u003eScripts/\u003c/strong\u003e\u003c/p\u003e\n\u003cul\u003e\n\u003cli\u003eCore/\u003c/li\u003e\n\u003cli\u003eGameplay/\u003c/li\u003e\n\u003cli\u003eInput/\u003c/li\u003e\n\u003cli\u003eUI/\u003c/li\u003e\n\u003cli\u003eUtils/\u003c/li\u003e\n\u003c/ul\u003e\n\u003c/li\u003e\n\u003c/ol\u003e\n\u003ch4\u003eREADMEの作成\u003c/h4\u003e\n\u003cp\u003eフォルダ構造と規則を明確に説明するREADMEファイルを作成し、Assets/_Projectフォルダ直下に配置します：\u003c/p\u003e\n\u003cpre class=\"language-markdown\"\u003e\u003ccode class=\"language-markdown code-highlight\"\u003e\u003cspan class=\"code-line\"\u003e\u003cspan class=\"token title important\"\u003e\u003cspan class=\"token punctuation\"\u003e#\u003c/span\u003e プロジェクト - フォルダ構造ガイド\u003c/span\u003e\r\n\u003c/span\u003e\u003cspan class=\"code-line\"\u003e\r\n\u003c/span\u003e\u003cspan class=\"code-line\"\u003eこのドキュメントは、プロジェクトのフォルダ構造と命名規則について説明します。\r\n\u003c/span\u003e\u003cspan class=\"code-line\"\u003e新しくプロジェクトに参加した開発者は、まずこのガイドを確認してください。\r\n\u003c/span\u003e\u003cspan class=\"code-line\"\u003e\r\n\u003c/span\u003e\u003cspan class=\"code-line\"\u003e\u003cspan class=\"token title important\"\u003e\u003cspan class=\"token punctuation\"\u003e##\u003c/span\u003e フォルダ構造の概要\u003c/span\u003e\r\n\u003c/span\u003e\u003cspan class=\"code-line\"\u003e...\n\u003c/span\u003e\u003c/code\u003e\u003c/pre\u003e\n\u003ch3\u003e1.3. 命名規則の確立\u003c/h3\u003e\n\u003ch4\u003eスクリプト命名規則\u003c/h4\u003e\n\u003cp\u003e一貫性のある命名規則を採用することで、コードの可読性と保守性が向上します：\u003c/p\u003e\n\u003col\u003e\n\u003cli\u003e\n\u003cp\u003e\u003cstrong\u003eMonoBehaviourクラス\u003c/strong\u003e: \u003ccode\u003ePascalCase.cs\u003c/code\u003e\u003c/p\u003e\n\u003cul\u003e\n\u003cli\u003e例：\u003ccode\u003ePlayerController.cs\u003c/code\u003e, \u003ccode\u003eEnemyBehavior.cs\u003c/code\u003e\u003c/li\u003e\n\u003c/ul\u003e\n\u003c/li\u003e\n\u003cli\u003e\n\u003cp\u003e\u003cstrong\u003eインターフェース\u003c/strong\u003e: \u003ccode\u003eIPascalCase.cs\u003c/code\u003e\u003c/p\u003e\n\u003cul\u003e\n\u003cli\u003e例：\u003ccode\u003eIInteractable.cs\u003c/code\u003e, \u003ccode\u003eIDamageable.cs\u003c/code\u003e\u003c/li\u003e\n\u003c/ul\u003e\n\u003c/li\u003e\n\u003cli\u003e\n\u003cp\u003e\u003cstrong\u003eScriptableObject\u003c/strong\u003e: \u003ccode\u003ePascalCaseSO.cs\u003c/code\u003e\u003c/p\u003e\n\u003cul\u003e\n\u003cli\u003e例：\u003ccode\u003eGameConfigSO.cs\u003c/code\u003e, \u003ccode\u003eCharacterDataSO.cs\u003c/code\u003e\u003c/li\u003e\n\u003c/ul\u003e\n\u003c/li\u003e\n\u003cli\u003e\n\u003cp\u003e\u003cstrong\u003e列挙型（Enum）\u003c/strong\u003e: \u003ccode\u003ePascalCase.cs\u003c/code\u003e内に\u003ccode\u003ePascalCase\u003c/code\u003eとして定義\u003c/p\u003e\n\u003cul\u003e\n\u003cli\u003e例：\u003ccode\u003eElementType.cs\u003c/code\u003e内の\u003ccode\u003eElementType\u003c/code\u003e列挙型\u003c/li\u003e\n\u003c/ul\u003e\n\u003c/li\u003e\n\u003c/ol\u003e\n\u003cpre class=\"language-csharp\"\u003e\u003ccode class=\"language-csharp code-highlight\"\u003e\u003cspan class=\"code-line\"\u003e\u003cspan class=\"token comment\"\u003e// スクリプト命名規則の例\u003c/span\u003e\r\n\u003c/span\u003e\u003cspan class=\"code-line\"\u003e\u003cspan class=\"token keyword\"\u003epublic\u003c/span\u003e \u003cspan class=\"token keyword\"\u003eclass\u003c/span\u003e \u003cspan class=\"token class-name\"\u003ePlayerController\u003c/span\u003e \u003cspan class=\"token punctuation\"\u003e:\u003c/span\u003e \u003cspan class=\"token type-list\"\u003e\u003cspan class=\"token class-name\"\u003eMonoBehaviour\u003c/span\u003e\u003c/span\u003e \u003cspan class=\"token punctuation\"\u003e{\u003c/span\u003e \u003cspan class=\"token punctuation\"\u003e}\u003c/span\u003e\r\n\u003c/span\u003e\u003cspan class=\"code-line\"\u003e\u003cspan class=\"token keyword\"\u003epublic\u003c/span\u003e \u003cspan class=\"token keyword\"\u003einterface\u003c/span\u003e \u003cspan class=\"token class-name\"\u003eIInteractable\u003c/span\u003e \u003cspan class=\"token punctuation\"\u003e{\u003c/span\u003e \u003cspan class=\"token punctuation\"\u003e}\u003c/span\u003e\r\n\u003c/span\u003e\u003cspan class=\"code-line\"\u003e\u003cspan class=\"token punctuation\"\u003e[\u003c/span\u003e\u003cspan class=\"token attribute\"\u003e\u003cspan class=\"token class-name\"\u003eCreateAssetMenu\u003c/span\u003e\u003cspan class=\"token attribute-arguments\"\u003e\u003cspan class=\"token punctuation\"\u003e(\u003c/span\u003efileName \u003cspan class=\"token operator\"\u003e=\u003c/span\u003e \u003cspan class=\"token string\"\u003e\"NewGameConfig\"\u003c/span\u003e\u003cspan class=\"token punctuation\"\u003e,\u003c/span\u003e menuName \u003cspan class=\"token operator\"\u003e=\u003c/span\u003e \u003cspan class=\"token string\"\u003e\"Game/Config\"\u003c/span\u003e\u003cspan class=\"token punctuation\"\u003e)\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003cspan class=\"token punctuation\"\u003e]\u003c/span\u003e\r\n\u003c/span\u003e\u003cspan class=\"code-line\"\u003e\u003cspan class=\"token keyword\"\u003epublic\u003c/span\u003e \u003cspan class=\"token keyword\"\u003eclass\u003c/span\u003e \u003cspan class=\"token class-name\"\u003eGameConfigSO\u003c/span\u003e \u003cspan class=\"token punctuation\"\u003e:\u003c/span\u003e \u003cspan class=\"token type-list\"\u003e\u003cspan class=\"token class-name\"\u003eScriptableObject\u003c/span\u003e\u003c/span\u003e \u003cspan class=\"token punctuation\"\u003e{\u003c/span\u003e \u003cspan class=\"token punctuation\"\u003e}\u003c/span\u003e\n\u003c/span\u003e\u003c/code\u003e\u003c/pre\u003e\n\u003ch4\u003eシーン命名規則\u003c/h4\u003e\n\u003cp\u003eシーンファイルには、目的を明確にする命名規則を採用します：\u003c/p\u003e\n\u003col\u003e\n\u003cli\u003e\u003cstrong\u003eシーン\u003c/strong\u003e: \u003ccode\u003eScene_PascalCase\u003c/code\u003e\n\u003cul\u003e\n\u003cli\u003e例：\u003ccode\u003eScene_MainMenu\u003c/code\u003e, \u003ccode\u003eScene_Level1\u003c/code\u003e, \u003ccode\u003eScene_Tutorial\u003c/code\u003e\u003c/li\u003e\n\u003c/ul\u003e\n\u003c/li\u003e\n\u003c/ol\u003e\n\u003ch4\u003eアセット命名規則\u003c/h4\u003e\n\u003cp\u003e各種アセットは、種類とカテゴリを明示する命名規則を採用します：\u003c/p\u003e\n\u003col\u003e\n\u003cli\u003e\n\u003cp\u003e\u003cstrong\u003eテクスチャ\u003c/strong\u003e: \u003ccode\u003eTex_Category_Name\u003c/code\u003e\u003c/p\u003e\n\u003cul\u003e\n\u003cli\u003e例：\u003ccode\u003eTex_Character_Diffuse\u003c/code\u003e, \u003ccode\u003eTex_UI_Button\u003c/code\u003e\u003c/li\u003e\n\u003c/ul\u003e\n\u003c/li\u003e\n\u003cli\u003e\n\u003cp\u003e\u003cstrong\u003eマテリアル\u003c/strong\u003e: \u003ccode\u003eMat_Category_Name\u003c/code\u003e\u003c/p\u003e\n\u003cul\u003e\n\u003cli\u003e例：\u003ccode\u003eMat_Character_Skin\u003c/code\u003e, \u003ccode\u003eMat_Environment_Grass\u003c/code\u003e\u003c/li\u003e\n\u003c/ul\u003e\n\u003c/li\u003e\n\u003cli\u003e\n\u003cp\u003e\u003cstrong\u003eプレハブ\u003c/strong\u003e: \u003ccode\u003ePrefab_Category_Name\u003c/code\u003e\u003c/p\u003e\n\u003cul\u003e\n\u003cli\u003e例：\u003ccode\u003ePrefab_Character_Player\u003c/code\u003e, \u003ccode\u003ePrefab_UI_MainMenu\u003c/code\u003e\u003c/li\u003e\n\u003c/ul\u003e\n\u003c/li\u003e\n\u003cli\u003e\n\u003cp\u003e\u003cstrong\u003eアニメーション\u003c/strong\u003e: \u003ccode\u003eAnim_Object_Action\u003c/code\u003e\u003c/p\u003e\n\u003cul\u003e\n\u003cli\u003e例：\u003ccode\u003eAnim_Character_Run\u003c/code\u003e, \u003ccode\u003eAnim_Door_Open\u003c/code\u003e\u003c/li\u003e\n\u003c/ul\u003e\n\u003c/li\u003e\n\u003c/ol\u003e\n\u003ch4\u003eレイヤーとタグの設定\u003c/h4\u003e\n\u003cp\u003eプロジェクト全体で使用するレイヤーとタグを事前に設定します：\u003c/p\u003e\n\u003col\u003e\n\u003cli\u003e\n\u003cp\u003e\u003cstrong\u003eレイヤー\u003c/strong\u003e（\u003cstrong\u003eEdit \u003e Project Settings \u003e Tags and Layers\u003c/strong\u003e）\u003c/p\u003e\n\u003cul\u003e\n\u003cli\u003ePlayer\u003c/li\u003e\n\u003cli\u003eEnemy\u003c/li\u003e\n\u003cli\u003eEnvironment\u003c/li\u003e\n\u003cli\u003eInteractable\u003c/li\u003e\n\u003cli\u003eUI\u003c/li\u003e\n\u003cli\u003ePostProcessing\u003c/li\u003e\n\u003c/ul\u003e\n\u003c/li\u003e\n\u003cli\u003e\n\u003cp\u003e\u003cstrong\u003eタグ\u003c/strong\u003e\u003c/p\u003e\n\u003cul\u003e\n\u003cli\u003ePlayer\u003c/li\u003e\n\u003cli\u003eEnemy\u003c/li\u003e\n\u003cli\u003ePickup\u003c/li\u003e\n\u003cli\u003eCheckpoint\u003c/li\u003e\n\u003cli\u003eObstacle\u003c/li\u003e\n\u003c/ul\u003e\n\u003c/li\u003e\n\u003c/ol\u003e\n\u003ch3\u003e1.4. バージョン管理システムの設定\u003c/h3\u003e\n\u003ch4\u003eGitリポジトリのセットアップ\u003c/h4\u003e\n\u003cp\u003e効率的なバージョン管理のためにGitを導入します：\u003c/p\u003e\n\u003col\u003e\n\u003cli\u003e\n\u003cp\u003e\u003cstrong\u003eGitリポジトリの初期化\u003c/strong\u003e\u003c/p\u003e\n\u003cpre class=\"language-bash\"\u003e\u003ccode class=\"language-bash code-highlight\"\u003e\u003cspan class=\"code-line\"\u003e\u003cspan class=\"token builtin class-name\"\u003ecd\u003c/span\u003e /path/to/your/project\r\n\u003c/span\u003e\u003cspan class=\"code-line\"\u003e\u003cspan class=\"token function\"\u003egit\u003c/span\u003e init\n\u003c/span\u003e\u003c/code\u003e\u003c/pre\u003e\n\u003c/li\u003e\n\u003cli\u003e\n\u003cp\u003e\u003cstrong\u003e.gitignore ファイルの作成\u003c/strong\u003e\u003c/p\u003e\n\u003cul\u003e\n\u003cli\u003eUnity用の標準的な.gitignoreテンプレートを利用\u003c/li\u003e\n\u003cli\u003e\u003ca href=\"https://github.com/github/gitignore/blob/main/Unity.gitignore\" rel=\"nofollow\" target=\"_blank\"\u003eGitHub's Unity.gitignore\u003c/a\u003eからコピー\u003c/li\u003e\n\u003c/ul\u003e\n\u003c/li\u003e\n\u003cli\u003e\n\u003cp\u003e\u003cstrong\u003e初期コミット\u003c/strong\u003e\u003c/p\u003e\n\u003cpre class=\"language-bash\"\u003e\u003ccode class=\"language-bash code-highlight\"\u003e\u003cspan class=\"code-line\"\u003e\u003cspan class=\"token function\"\u003egit\u003c/span\u003e \u003cspan class=\"token function\"\u003eadd\u003c/span\u003e \u003cspan class=\"token builtin class-name\"\u003e.\u003c/span\u003e\r\n\u003c/span\u003e\u003cspan class=\"code-line\"\u003e\u003cspan class=\"token function\"\u003egit\u003c/span\u003e commit \u003cspan class=\"token parameter variable\"\u003e-m\u003c/span\u003e \u003cspan class=\"token string\"\u003e\"Initial project setup\"\u003c/span\u003e\n\u003c/span\u003e\u003c/code\u003e\u003c/pre\u003e\n\u003c/li\u003e\n\u003c/ol\u003e\n\u003ch4\u003eブランチ戦略の決定\u003c/h4\u003e\n\u003cp\u003e効率的なチーム開発のためのブランチ戦略を確立します：\u003c/p\u003e\n\u003col\u003e\n\u003cli\u003e\n\u003cp\u003e\u003cstrong\u003e主要ブランチ\u003c/strong\u003e\u003c/p\u003e\n\u003cul\u003e\n\u003cli\u003e\u003ccode\u003emain\u003c/code\u003e/\u003ccode\u003emaster\u003c/code\u003e: 安定版のコード\u003c/li\u003e\n\u003cli\u003e\u003ccode\u003edevelop\u003c/code\u003e: 開発中のコード\u003c/li\u003e\n\u003c/ul\u003e\n\u003c/li\u003e\n\u003cli\u003e\n\u003cp\u003e\u003cstrong\u003e機能ブランチ\u003c/strong\u003e\u003c/p\u003e\n\u003cul\u003e\n\u003cli\u003e\u003ccode\u003efeature/[機能名]\u003c/code\u003e: 個別機能の開発\u003c/li\u003e\n\u003cli\u003e\u003ccode\u003erelease/[バージョン]\u003c/code\u003e: リリース準備\u003c/li\u003e\n\u003cli\u003e\u003ccode\u003ehotfix/[問題名]\u003c/code\u003e: 緊急修正\u003c/li\u003e\n\u003c/ul\u003e\n\u003c/li\u003e\n\u003c/ol\u003e\n\u003cpre class=\"language-bash\"\u003e\u003ccode class=\"language-bash code-highlight\"\u003e\u003cspan class=\"code-line\"\u003e\u003cspan class=\"token comment\"\u003e# 開発ブランチの作成\u003c/span\u003e\r\n\u003c/span\u003e\u003cspan class=\"code-line\"\u003e\u003cspan class=\"token function\"\u003egit\u003c/span\u003e checkout \u003cspan class=\"token parameter variable\"\u003e-b\u003c/span\u003e develop\r\n\u003c/span\u003e\u003cspan class=\"code-line\"\u003e\u003cspan class=\"token comment\"\u003e# 機能ブランチの作成\u003c/span\u003e\r\n\u003c/span\u003e\u003cspan class=\"code-line\"\u003e\u003cspan class=\"token function\"\u003egit\u003c/span\u003e checkout \u003cspan class=\"token parameter variable\"\u003e-b\u003c/span\u003e feature/player-movement\n\u003c/span\u003e\u003c/code\u003e\u003c/pre\u003e\n\u003ch4\u003eUnity用Git設定の最適化\u003c/h4\u003e\n\u003cp\u003eUnity特有のファイル構造に対応するGit設定を行います：\u003c/p\u003e\n\u003col\u003e\n\u003cli\u003e\n\u003cp\u003e\u003cstrong\u003eUnity Smart Merge の設定\u003c/strong\u003e\u003c/p\u003e\n\u003cul\u003e\n\u003cli\u003e\u003ccode\u003e.gitconfig\u003c/code\u003eに以下を追加：\u003c/li\u003e\n\u003c/ul\u003e\n\u003cpre\u003e\u003ccode class=\"code-highlight\"\u003e\u003cspan class=\"code-line\"\u003e[merge]\r\n\u003c/span\u003e\u003cspan class=\"code-line\"\u003etool = unityyamlmerge\r\n\u003c/span\u003e\u003cspan class=\"code-line\"\u003e[mergetool \"unityyamlmerge\"]\r\n\u003c/span\u003e\u003cspan class=\"code-line\"\u003etrustExitCode = false\r\n\u003c/span\u003e\u003cspan class=\"code-line\"\u003ecmd = 'C:/Program Files/Unity/Hub/Editor/20XX.X/Editor/Data/Tools/UnityYAMLMerge.exe' merge -p \"$BASE\" \"$REMOTE\" \"$LOCAL\" \"$MERGED\"\n\u003c/span\u003e\u003c/code\u003e\u003c/pre\u003e\n\u003c/li\u003e\n\u003cli\u003e\n\u003cp\u003e\u003cstrong\u003eLFS (Large File Storage) の設定\u003c/strong\u003e\u003c/p\u003e\n\u003cul\u003e\n\u003cli\u003e大容量アセット用にGit LFSを設定\u003c/li\u003e\n\u003c/ul\u003e\n\u003cpre class=\"language-bash\"\u003e\u003ccode class=\"language-bash code-highlight\"\u003e\u003cspan class=\"code-line\"\u003e\u003cspan class=\"token function\"\u003egit\u003c/span\u003e lfs \u003cspan class=\"token function\"\u003einstall\u003c/span\u003e\r\n\u003c/span\u003e\u003cspan class=\"code-line\"\u003e\u003cspan class=\"token function\"\u003egit\u003c/span\u003e lfs track \u003cspan class=\"token string\"\u003e\"*.psd\"\u003c/span\u003e \u003cspan class=\"token string\"\u003e\"*.tga\"\u003c/span\u003e \u003cspan class=\"token string\"\u003e\"*.tif\"\u003c/span\u003e \u003cspan class=\"token string\"\u003e\"*.cubemap\"\u003c/span\u003e \u003cspan class=\"token string\"\u003e\"*.unitypackage\"\u003c/span\u003e \u003cspan class=\"token string\"\u003e\"*.fbx\"\u003c/span\u003e \u003cspan class=\"token string\"\u003e\"*.mp3\"\u003c/span\u003e \u003cspan class=\"token string\"\u003e\"*.wav\"\u003c/span\u003e \u003cspan class=\"token string\"\u003e\"*.mp4\"\u003c/span\u003e\n\u003c/span\u003e\u003c/code\u003e\u003c/pre\u003e\n\u003c/li\u003e\n\u003c/ol\u003e\n\u003ch3\u003e1.5. テスト環境の構築\u003c/h3\u003e\n\u003ch4\u003eテストフレームワークの導入\u003c/h4\u003e\n\u003cp\u003eプロジェクトの信頼性向上のために、テスト環境を準備します：\u003c/p\u003e\n\u003col\u003e\n\u003cli\u003e\n\u003cp\u003e\u003cstrong\u003eUnity Test Framework の設定\u003c/strong\u003e\u003c/p\u003e\n\u003cul\u003e\n\u003cli\u003ePackage Managerから「Test Framework」を追加\u003c/li\u003e\n\u003cli\u003ePlayMode Tests Assembly の作成\u003c/li\u003e\n\u003cli\u003eEditMode Tests Assembly の作成\u003c/li\u003e\n\u003c/ul\u003e\n\u003c/li\u003e\n\u003cli\u003e\n\u003cp\u003e\u003cstrong\u003eテストフォルダの設計\u003c/strong\u003e\u003c/p\u003e\n\u003cpre\u003e\u003ccode class=\"code-highlight\"\u003e\u003cspan class=\"code-line\"\u003eAssets/_Project/Tests/\r\n\u003c/span\u003e\u003cspan class=\"code-line\"\u003e├── EditMode/\r\n\u003c/span\u003e\u003cspan class=\"code-line\"\u003e└── PlayMode/\n\u003c/span\u003e\u003c/code\u003e\u003c/pre\u003e\n\u003c/li\u003e\n\u003c/ol\u003e\n\u003ch4\u003eデバッグツールの設定\u003c/h4\u003e\n\u003cp\u003e効率的なデバッグを可能にするツールを準備します：\u003c/p\u003e\n\u003col\u003e\n\u003cli\u003e\n\u003cp\u003e\u003cstrong\u003eカスタムログシステムの作成\u003c/strong\u003e\u003c/p\u003e\n\u003cpre class=\"language-csharp\"\u003e\u003ccode class=\"language-csharp code-highlight\"\u003e\u003cspan class=\"code-line\"\u003e\u003cspan class=\"token keyword\"\u003epublic\u003c/span\u003e \u003cspan class=\"token keyword\"\u003estatic\u003c/span\u003e \u003cspan class=\"token keyword\"\u003eclass\u003c/span\u003e \u003cspan class=\"token class-name\"\u003eLogger\u003c/span\u003e\r\n\u003c/span\u003e\u003cspan class=\"code-line\"\u003e\u003cspan class=\"token punctuation\"\u003e{\u003c/span\u003e\r\n\u003c/span\u003e\u003cspan class=\"code-line\"\u003e    \u003cspan class=\"token keyword\"\u003epublic\u003c/span\u003e \u003cspan class=\"token keyword\"\u003estatic\u003c/span\u003e \u003cspan class=\"token return-type class-name\"\u003e\u003cspan class=\"token keyword\"\u003evoid\u003c/span\u003e\u003c/span\u003e \u003cspan class=\"token function\"\u003eLog\u003c/span\u003e\u003cspan class=\"token punctuation\"\u003e(\u003c/span\u003e\u003cspan class=\"token class-name\"\u003e\u003cspan class=\"token keyword\"\u003estring\u003c/span\u003e\u003c/span\u003e message\u003cspan class=\"token punctuation\"\u003e,\u003c/span\u003e \u003cspan class=\"token class-name\"\u003eLogType\u003c/span\u003e type \u003cspan class=\"token operator\"\u003e=\u003c/span\u003e LogType\u003cspan class=\"token punctuation\"\u003e.\u003c/span\u003eInfo\u003cspan class=\"token punctuation\"\u003e)\u003c/span\u003e\r\n\u003c/span\u003e\u003cspan class=\"code-line\"\u003e    \u003cspan class=\"token punctuation\"\u003e{\u003c/span\u003e\r\n\u003c/span\u003e\u003cspan class=\"code-line\"\u003e        \u003cspan class=\"token keyword\"\u003eswitch\u003c/span\u003e \u003cspan class=\"token punctuation\"\u003e(\u003c/span\u003etype\u003cspan class=\"token punctuation\"\u003e)\u003c/span\u003e\r\n\u003c/span\u003e\u003cspan class=\"code-line\"\u003e        \u003cspan class=\"token punctuation\"\u003e{\u003c/span\u003e\r\n\u003c/span\u003e\u003cspan class=\"code-line\"\u003e            \u003cspan class=\"token keyword\"\u003ecase\u003c/span\u003e LogType\u003cspan class=\"token punctuation\"\u003e.\u003c/span\u003eInfo\u003cspan class=\"token punctuation\"\u003e:\u003c/span\u003e\r\n\u003c/span\u003e\u003cspan class=\"code-line\"\u003e                Debug\u003cspan class=\"token punctuation\"\u003e.\u003c/span\u003e\u003cspan class=\"token function\"\u003eLog\u003c/span\u003e\u003cspan class=\"token punctuation\"\u003e(\u003c/span\u003e\u003cspan class=\"token interpolation-string\"\u003e\u003cspan class=\"token string\"\u003e$\"[INFO] \u003c/span\u003e\u003cspan class=\"token interpolation\"\u003e\u003cspan class=\"token punctuation\"\u003e{\u003c/span\u003e\u003cspan class=\"token expression language-csharp\"\u003emessage\u003c/span\u003e\u003cspan class=\"token punctuation\"\u003e}\u003c/span\u003e\u003c/span\u003e\u003cspan class=\"token string\"\u003e\"\u003c/span\u003e\u003c/span\u003e\u003cspan class=\"token punctuation\"\u003e)\u003c/span\u003e\u003cspan class=\"token punctuation\"\u003e;\u003c/span\u003e\r\n\u003c/span\u003e\u003cspan class=\"code-line\"\u003e                \u003cspan class=\"token keyword\"\u003ebreak\u003c/span\u003e\u003cspan class=\"token punctuation\"\u003e;\u003c/span\u003e\r\n\u003c/span\u003e\u003cspan class=\"code-line\"\u003e            \u003cspan class=\"token keyword\"\u003ecase\u003c/span\u003e LogType\u003cspan class=\"token punctuation\"\u003e.\u003c/span\u003eWarning\u003cspan class=\"token punctuation\"\u003e:\u003c/span\u003e\r\n\u003c/span\u003e\u003cspan class=\"code-line\"\u003e                Debug\u003cspan class=\"token punctuation\"\u003e.\u003c/span\u003e\u003cspan class=\"token function\"\u003eLogWarning\u003c/span\u003e\u003cspan class=\"token punctuation\"\u003e(\u003c/span\u003e\u003cspan class=\"token interpolation-string\"\u003e\u003cspan class=\"token string\"\u003e$\"[WARNING] \u003c/span\u003e\u003cspan class=\"token interpolation\"\u003e\u003cspan class=\"token punctuation\"\u003e{\u003c/span\u003e\u003cspan class=\"token expression language-csharp\"\u003emessage\u003c/span\u003e\u003cspan class=\"token punctuation\"\u003e}\u003c/span\u003e\u003c/span\u003e\u003cspan class=\"token string\"\u003e\"\u003c/span\u003e\u003c/span\u003e\u003cspan class=\"token punctuation\"\u003e)\u003c/span\u003e\u003cspan class=\"token punctuation\"\u003e;\u003c/span\u003e\r\n\u003c/span\u003e\u003cspan class=\"code-line\"\u003e                \u003cspan class=\"token keyword\"\u003ebreak\u003c/span\u003e\u003cspan class=\"token punctuation\"\u003e;\u003c/span\u003e\r\n\u003c/span\u003e\u003cspan class=\"code-line\"\u003e            \u003cspan class=\"token keyword\"\u003ecase\u003c/span\u003e LogType\u003cspan class=\"token punctuation\"\u003e.\u003c/span\u003eError\u003cspan class=\"token punctuation\"\u003e:\u003c/span\u003e\r\n\u003c/span\u003e\u003cspan class=\"code-line\"\u003e                Debug\u003cspan class=\"token punctuation\"\u003e.\u003c/span\u003e\u003cspan class=\"token function\"\u003eLogError\u003c/span\u003e\u003cspan class=\"token punctuation\"\u003e(\u003c/span\u003e\u003cspan class=\"token interpolation-string\"\u003e\u003cspan class=\"token string\"\u003e$\"[ERROR] \u003c/span\u003e\u003cspan class=\"token interpolation\"\u003e\u003cspan class=\"token punctuation\"\u003e{\u003c/span\u003e\u003cspan class=\"token expression language-csharp\"\u003emessage\u003c/span\u003e\u003cspan class=\"token punctuation\"\u003e}\u003c/span\u003e\u003c/span\u003e\u003cspan class=\"token string\"\u003e\"\u003c/span\u003e\u003c/span\u003e\u003cspan class=\"token punctuation\"\u003e)\u003c/span\u003e\u003cspan class=\"token punctuation\"\u003e;\u003c/span\u003e\r\n\u003c/span\u003e\u003cspan class=\"code-line\"\u003e                \u003cspan class=\"token keyword\"\u003ebreak\u003c/span\u003e\u003cspan class=\"token punctuation\"\u003e;\u003c/span\u003e\r\n\u003c/span\u003e\u003cspan class=\"code-line\"\u003e        \u003cspan class=\"token punctuation\"\u003e}\u003c/span\u003e\r\n\u003c/span\u003e\u003cspan class=\"code-line\"\u003e    \u003cspan class=\"token punctuation\"\u003e}\u003c/span\u003e\r\n\u003c/span\u003e\u003cspan class=\"code-line\"\u003e\r\n\u003c/span\u003e\u003cspan class=\"code-line\"\u003e    \u003cspan class=\"token keyword\"\u003epublic\u003c/span\u003e \u003cspan class=\"token keyword\"\u003eenum\u003c/span\u003e \u003cspan class=\"token class-name\"\u003eLogType\u003c/span\u003e \u003cspan class=\"token punctuation\"\u003e{\u003c/span\u003e Info\u003cspan class=\"token punctuation\"\u003e,\u003c/span\u003e Warning\u003cspan class=\"token punctuation\"\u003e,\u003c/span\u003e Error \u003cspan class=\"token punctuation\"\u003e}\u003c/span\u003e\r\n\u003c/span\u003e\u003cspan class=\"code-line\"\u003e\u003cspan class=\"token punctuation\"\u003e}\u003c/span\u003e\n\u003c/span\u003e\u003c/code\u003e\u003c/pre\u003e\n\u003c/li\u003e\n\u003cli\u003e\n\u003cp\u003e\u003cstrong\u003eデバッグUIの準備\u003c/strong\u003e\u003c/p\u003e\n\u003cul\u003e\n\u003cli\u003e簡易的なデバッグUIパネルのプレハブ作成\u003c/li\u003e\n\u003cli\u003eフレームレートやメモリ使用量などを表示\u003c/li\u003e\n\u003c/ul\u003e\n\u003c/li\u003e\n\u003c/ol\u003e\n\u003ch3\u003e1.6. 初期アセットの導入\u003c/h3\u003e\n\u003ch4\u003eプレースホルダーアセットの作成\u003c/h4\u003e\n\u003cp\u003e迅速なプロトタイピングのために基本的なアセットを準備します：\u003c/p\u003e\n\u003col\u003e\n\u003cli\u003e\n\u003cp\u003e\u003cstrong\u003e基本的なプレースホルダーモデル\u003c/strong\u003e\u003c/p\u003e\n\u003cul\u003e\n\u003cli\u003eシンプルなキャラクターモデル（立方体や球体など）\u003c/li\u003e\n\u003cli\u003e基本的な環境要素（平面、壁、障害物）\u003c/li\u003e\n\u003c/ul\u003e\n\u003c/li\u003e\n\u003cli\u003e\n\u003cp\u003e\u003cstrong\u003eテスト用マテリアル\u003c/strong\u003e\u003c/p\u003e\n\u003cul\u003e\n\u003cli\u003e異なる表面特性を持つ基本マテリアル\u003c/li\u003e\n\u003cli\u003eグリッドテクスチャで距離感を掴みやすく\u003c/li\u003e\n\u003c/ul\u003e\n\u003c/li\u003e\n\u003c/ol\u003e\n\u003ch4\u003eテクスチャとマテリアルのベース設定\u003c/h4\u003e\n\u003cp\u003eインポート設定のベースラインを確立します：\u003c/p\u003e\n\u003col\u003e\n\u003cli\u003e\n\u003cp\u003e\u003cstrong\u003eテクスチャインポート設定\u003c/strong\u003e\u003c/p\u003e\n\u003cul\u003e\n\u003cli\u003e適切な圧縮フォーマットのプリセット\u003c/li\u003e\n\u003cli\u003eMipMap設定の最適化\u003c/li\u003e\n\u003cli\u003eノーマルマップ用設定プリセット\u003c/li\u003e\n\u003c/ul\u003e\n\u003c/li\u003e\n\u003cli\u003e\n\u003cp\u003e\u003cstrong\u003eマテリアル設定\u003c/strong\u003e\u003c/p\u003e\n\u003cul\u003e\n\u003cli\u003eURP/HDRPシェーダーの基本設定\u003c/li\u003e\n\u003cli\u003ePBRワークフローに基づく標準マテリアル\u003c/li\u003e\n\u003c/ul\u003e\n\u003c/li\u003e\n\u003c/ol\u003e\n\u003ch3\u003e1.7. 初期設定の確認とテスト\u003c/h3\u003e\n\u003ch4\u003eプロジェクト設定の確認\u003c/h4\u003e\n\u003cp\u003eすべての設定が適切に行われているか確認します：\u003c/p\u003e\n\u003col\u003e\n\u003cli\u003e\n\u003cp\u003e\u003cstrong\u003eチェックリスト\u003c/strong\u003e\u003c/p\u003e\n\u003cul\u003e\n\u003cli\u003eレンダリングパイプラインの設定\u003c/li\u003e\n\u003cli\u003e入力システムの設定\u003c/li\u003e\n\u003cli\u003e物理設定\u003c/li\u003e\n\u003cli\u003e品質設定\u003c/li\u003e\n\u003cli\u003eプラットフォーム設定\u003c/li\u003e\n\u003c/ul\u003e\n\u003c/li\u003e\n\u003cli\u003e\n\u003cp\u003e\u003cstrong\u003eパフォーマンスベースラインの測定\u003c/strong\u003e\u003c/p\u003e\n\u003cul\u003e\n\u003cli\u003e空のシーンでのフレームレート測定\u003c/li\u003e\n\u003cli\u003eメモリ使用量のベースライン記録\u003c/li\u003e\n\u003cli\u003eプロファイラーの設定と初期データ取得\u003c/li\u003e\n\u003c/ul\u003e\n\u003c/li\u003e\n\u003c/ol\u003e\n\u003ch4\u003eフォルダ構造とアクセスのテスト\u003c/h4\u003e\n\u003cp\u003e作成したフォルダ構造が適切に機能するか検証します：\u003c/p\u003e\n\u003col\u003e\n\u003cli\u003e\n\u003cp\u003e\u003cstrong\u003eリソースロードテスト\u003c/strong\u003e\u003c/p\u003e\n\u003cpre class=\"language-csharp\"\u003e\u003ccode class=\"language-csharp code-highlight\"\u003e\u003cspan class=\"code-line\"\u003e\u003cspan class=\"token comment\"\u003e// Resources フォルダからの読み込みテスト\u003c/span\u003e\r\n\u003c/span\u003e\u003cspan class=\"code-line\"\u003e\u003cspan class=\"token class-name\"\u003e\u003cspan class=\"token keyword\"\u003evar\u003c/span\u003e\u003c/span\u003e testObject \u003cspan class=\"token operator\"\u003e=\u003c/span\u003e Resources\u003cspan class=\"token punctuation\"\u003e.\u003c/span\u003e\u003cspan class=\"token generic-method\"\u003e\u003cspan class=\"token function\"\u003eLoad\u003c/span\u003e\u003cspan class=\"token generic class-name\"\u003e\u003cspan class=\"token punctuation\"\u003e\u0026#x3C;\u003c/span\u003eGameObject\u003cspan class=\"token punctuation\"\u003e\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003cspan class=\"token punctuation\"\u003e(\u003c/span\u003e\u003cspan class=\"token string\"\u003e\"TestPrefab\"\u003c/span\u003e\u003cspan class=\"token punctuation\"\u003e)\u003c/span\u003e\u003cspan class=\"token punctuation\"\u003e;\u003c/span\u003e\r\n\u003c/span\u003e\u003cspan class=\"code-line\"\u003eLogger\u003cspan class=\"token punctuation\"\u003e.\u003c/span\u003e\u003cspan class=\"token function\"\u003eLog\u003c/span\u003e\u003cspan class=\"token punctuation\"\u003e(\u003c/span\u003etestObject \u003cspan class=\"token operator\"\u003e!=\u003c/span\u003e \u003cspan class=\"token keyword\"\u003enull\u003c/span\u003e \u003cspan class=\"token punctuation\"\u003e?\u003c/span\u003e \u003cspan class=\"token string\"\u003e\"Resource loading successful\"\u003c/span\u003e \u003cspan class=\"token punctuation\"\u003e:\u003c/span\u003e \u003cspan class=\"token string\"\u003e\"Resource loading failed\"\u003c/span\u003e\u003cspan class=\"token punctuation\"\u003e)\u003c/span\u003e\u003cspan class=\"token punctuation\"\u003e;\u003c/span\u003e\n\u003c/span\u003e\u003c/code\u003e\u003c/pre\u003e\n\u003c/li\u003e\n\u003cli\u003e\n\u003cp\u003e\u003cstrong\u003eアセットバンドルのテスト設定\u003c/strong\u003e（必要に応じて）\u003c/p\u003e\n\u003cul\u003e\n\u003cli\u003eアセットバンドルのビルドテスト\u003c/li\u003e\n\u003cli\u003eアセットバンドルからのロードテスト\u003c/li\u003e\n\u003c/ul\u003e\n\u003c/li\u003e\n\u003c/ol\u003e\n\u003ch4\u003eバージョン管理の確認\u003c/h4\u003e\n\u003cp\u003eGit設定が適切に機能するか確認します：\u003c/p\u003e\n\u003col\u003e\n\u003cli\u003e\n\u003cp\u003e\u003cstrong\u003e基本的なGit操作の確認\u003c/strong\u003e\u003c/p\u003e\n\u003cpre class=\"language-bash\"\u003e\u003ccode class=\"language-bash code-highlight\"\u003e\u003cspan class=\"code-line\"\u003e\u003cspan class=\"token comment\"\u003e# 小さな変更を加える\u003c/span\u003e\r\n\u003c/span\u003e\u003cspan class=\"code-line\"\u003e\u003cspan class=\"token function\"\u003etouch\u003c/span\u003e test.txt\r\n\u003c/span\u003e\u003cspan class=\"code-line\"\u003e\u003cspan class=\"token comment\"\u003e# 変更をステージングとコミット\u003c/span\u003e\r\n\u003c/span\u003e\u003cspan class=\"code-line\"\u003e\u003cspan class=\"token function\"\u003egit\u003c/span\u003e \u003cspan class=\"token function\"\u003eadd\u003c/span\u003e test.txt\r\n\u003c/span\u003e\u003cspan class=\"code-line\"\u003e\u003cspan class=\"token function\"\u003egit\u003c/span\u003e commit \u003cspan class=\"token parameter variable\"\u003e-m\u003c/span\u003e \u003cspan class=\"token string\"\u003e\"Test commit\"\u003c/span\u003e\r\n\u003c/span\u003e\u003cspan class=\"code-line\"\u003e\u003cspan class=\"token comment\"\u003e# リモートリポジトリがある場合はプッシュ\u003c/span\u003e\r\n\u003c/span\u003e\u003cspan class=\"code-line\"\u003e\u003cspan class=\"token function\"\u003egit\u003c/span\u003e push\n\u003c/span\u003e\u003c/code\u003e\u003c/pre\u003e\n\u003c/li\u003e\n\u003cli\u003e\n\u003cp\u003e\u003cstrong\u003e複数人での同時作業シミュレーション\u003c/strong\u003e（必要に応じて）\u003c/p\u003e\n\u003cul\u003e\n\u003cli\u003e異なるブランチでの同時作業テスト\u003c/li\u003e\n\u003cli\u003eマージの練習とコンフリクト解決\u003c/li\u003e\n\u003c/ul\u003e\n\u003c/li\u003e\n\u003c/ol\u003e\n\u003ch2\u003eまとめ\u003c/h2\u003e\n\u003cp\u003e適切なプロジェクトセットアップは、Unityでの開発プロセス全体の効率と品質に大きな影響を与えます。この記事で紹介した手順に従うことで、堅固な基盤を構築し、後の開発段階でのトラブルを未然に防ぐことができます。\u003c/p\u003e\n\u003cp\u003e特にフォルダ構造と命名規則を初期段階でしっかり確立することで、チーム全体の生産性が向上し、長期的なメンテナンスが容易になります。これらのベストプラクティスは、個人開発から大規模チーム開発まで、あらゆるUnityプロジェクトに応用可能です。\u003c/p\u003e\n\u003chr\u003e\n\u003cp\u003e\u003cem\u003eこの記事は、Unity 2022.3を基準に作成されています。新しいバージョンでは設定方法が異なる場合があります。\u003c/em\u003e\u003c/p\u003e"])</script><script>self.__next_f.push([1,"b:[\"$\",\"article\",null,{\"className\":\"min-h-screen\",\"children\":[[\"$\",\"div\",null,{\"className\":\"bg-gradient-to-b from-green-50/60 to-transparent dark:from-gray-900 dark:to-transparent\",\"children\":[\"$\",\"div\",null,{\"className\":\"max-w-4xl mx-auto px-6 md:px-8 pt-28 md:pt-32 pb-10 md:pb-14\",\"children\":[[\"$\",\"h1\",null,{\"className\":\"font-katyou text-4xl md:text-5xl lg:text-6xl text-gray-900 dark:text-white leading-tight mb-6\",\"children\":\"Unityプロジェクトのセットアップガイド\"}],[\"$\",\"time\",null,{\"className\":\"text-base font-medium text-gray-600 dark:text-gray-400\",\"children\":\"2025-03-05\"}]]}]}],[\"$\",\"div\",null,{\"className\":\"max-w-4xl mx-auto px-6 md:px-8 pb-16 md:pb-24\",\"children\":[[\"$\",\"div\",null,{\"id\":\"post-content\",\"className\":\"prose prose-lg dark:prose-invert max-w-none prose-headings:font-katyou prose-headings:tracking-tight prose-h2:text-3xl prose-h2:mt-12 prose-h2:mb-6 prose-h3:text-2xl prose-h3:mt-10 prose-h3:mb-5 prose-h4:text-xl prose-h4:mt-8 prose-h4:mb-4 prose-p:leading-relaxed prose-p:mb-6 prose-li:my-2 prose-a:text-green-600 prose-a:no-underline prose-a:font-medium hover:prose-a:text-green-700 hover:prose-a:underline dark:prose-a:text-green-400 dark:hover:prose-a:text-green-300 prose-code:text-green-700 prose-code:bg-green-50 dark:prose-code:text-green-300 dark:prose-code:bg-green-900/20 prose-pre:bg-gray-900 dark:prose-pre:bg-gray-950 prose-img:rounded-lg prose-img:shadow-md prose-hr:my-12 prose-hr:border-gray-300 dark:prose-hr:border-gray-700 border-t border-gray-200 dark:border-gray-800 pt-8\",\"dangerouslySetInnerHTML\":{\"__html\":\"$18\"}}],[\"$\",\"$L19\",null,{}],[\"$\",\"div\",null,{\"className\":\"mt-16 pt-10 border-t border-gray-200 dark:border-gray-800\",\"children\":[[\"$\",\"p\",null,{\"className\":\"text-sm font-semibold text-gray-500 dark:text-gray-400 mb-4\",\"children\":\"タグ\"}],[\"$\",\"div\",null,{\"className\":\"flex flex-wrap gap-2.5\",\"children\":[[\"$\",\"$L12\",\"Unity\",{\"href\":\"/tags/Unity\",\"className\":\"inline-flex items-center px-4 py-1.5 rounded-full text-sm font-medium bg-green-100 text-green-800 dark:bg-green-900/30 dark:text-green-300 hover:bg-green-200 dark:hover:bg-green-800/50 transition-colors duration-200 shadow-sm\",\"children\":\"Unity\"}],[\"$\",\"$L12\",\"プロジェクト管理\",{\"href\":\"/tags/プロジェクト管理\",\"className\":\"inline-flex items-center px-4 py-1.5 rounded-full text-sm font-medium bg-green-100 text-green-800 dark:bg-green-900/30 dark:text-green-300 hover:bg-green-200 dark:hover:bg-green-800/50 transition-colors duration-200 shadow-sm\",\"children\":\"プロジェクト管理\"}],[\"$\",\"$L12\",\"環境構築\",{\"href\":\"/tags/環境構築\",\"className\":\"inline-flex items-center px-4 py-1.5 rounded-full text-sm font-medium bg-green-100 text-green-800 dark:bg-green-900/30 dark:text-green-300 hover:bg-green-200 dark:hover:bg-green-800/50 transition-colors duration-200 shadow-sm\",\"children\":\"環境構築\"}],[\"$\",\"$L12\",\"開発環境\",{\"href\":\"/tags/開発環境\",\"className\":\"inline-flex items-center px-4 py-1.5 rounded-full text-sm font-medium bg-green-100 text-green-800 dark:bg-green-900/30 dark:text-green-300 hover:bg-green-200 dark:hover:bg-green-800/50 transition-colors duration-200 shadow-sm\",\"children\":\"開発環境\"}]]}]]}]]}]]}]\n"])</script><script>self.__next_f.push([1,"15:[[\"$\",\"meta\",\"0\",{\"name\":\"viewport\",\"content\":\"width=device-width, initial-scale=1\"}],[\"$\",\"meta\",\"1\",{\"charSet\":\"utf-8\"}],[\"$\",\"title\",\"2\",{\"children\":\"Unityプロジェクトのセットアップガイド | ブログタイトル\"}],[\"$\",\"meta\",\"3\",{\"name\":\"description\",\"content\":\"Unity開発の効率と品質を高めるための汎用的なプロジェクトセットアップと初期設定の完全ガイド\"}],[\"$\",\"meta\",\"4\",{\"property\":\"og:title\",\"content\":\"Unityプロジェクトのセットアップガイド\"}],[\"$\",\"meta\",\"5\",{\"property\":\"og:description\",\"content\":\"Unity開発の効率と品質を高めるための汎用的なプロジェクトセットアップと初期設定の完全ガイド\"}],[\"$\",\"meta\",\"6\",{\"property\":\"og:url\",\"content\":\"https://maemaemae.blog/posts/unity_20250305\"}],[\"$\",\"meta\",\"7\",{\"property\":\"og:image\",\"content\":\"https://maemaemae.blog/images/unity-pause-menu.jpg\"}],[\"$\",\"meta\",\"8\",{\"property\":\"og:type\",\"content\":\"article\"}],[\"$\",\"meta\",\"9\",{\"property\":\"article:published_time\",\"content\":\"2025-03-05\"}],[\"$\",\"meta\",\"10\",{\"name\":\"twitter:card\",\"content\":\"summary_large_image\"}],[\"$\",\"meta\",\"11\",{\"name\":\"twitter:title\",\"content\":\"Unityプロジェクトのセットアップガイド\"}],[\"$\",\"meta\",\"12\",{\"name\":\"twitter:description\",\"content\":\"Unity開発の効率と品質を高めるための汎用的なプロジェクトセットアップと初期設定の完全ガイド\"}],[\"$\",\"meta\",\"13\",{\"name\":\"twitter:image\",\"content\":\"https://maemaemae.blog/images/unity-pause-menu.jpg\"}],[\"$\",\"link\",\"14\",{\"rel\":\"icon\",\"href\":\"/favicon.ico\",\"type\":\"image/x-icon\",\"sizes\":\"16x16\"}],[\"$\",\"meta\",\"15\",{\"name\":\"next-size-adjust\"}]]\na:null\n"])</script></body></html>

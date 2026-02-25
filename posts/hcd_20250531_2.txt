@@ -1,0 +1,317 @@
+3:I[4707,[],""]
+5:I[6423,[],""]
+6:I[4888,["972","static/chunks/972-f241a8fd644428c6.js","70","static/chunks/70-f52c2ad284c6cd86.js","185","static/chunks/app/layout-97d049cf0fc78146.js"],"GoogleAnalytics"]
+7:I[6806,["972","static/chunks/972-f241a8fd644428c6.js","70","static/chunks/70-f52c2ad284c6cd86.js","185","static/chunks/app/layout-97d049cf0fc78146.js"],"default"]
+8:I[7213,["972","static/chunks/972-f241a8fd644428c6.js","70","static/chunks/70-f52c2ad284c6cd86.js","185","static/chunks/app/layout-97d049cf0fc78146.js"],"default"]
+9:I[2972,["972","static/chunks/972-f241a8fd644428c6.js","333","static/chunks/app/posts/%5Bslug%5D/page-acd6669982df1354.js"],""]
+a:I[5878,["972","static/chunks/972-f241a8fd644428c6.js","70","static/chunks/70-f52c2ad284c6cd86.js","185","static/chunks/app/layout-97d049cf0fc78146.js"],"Image"]
+b:I[2374,["972","static/chunks/972-f241a8fd644428c6.js","70","static/chunks/70-f52c2ad284c6cd86.js","185","static/chunks/app/layout-97d049cf0fc78146.js"],"default"]
+4:["slug","hcd_20250531_2","d"]
+0:["0oJGNGFmzz_LorUWHIimP",[[["",{"children":["posts",{"children":[["slug","hcd_20250531_2","d"],{"children":["__PAGE__?{\"slug\":\"hcd_20250531_2\"}",{}]}]}]},"$undefined","$undefined",true],["",{"children":["posts",{"children":[["slug","hcd_20250531_2","d"],{"children":["__PAGE__",{},[["$L1","$L2",null],null],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","posts","children","$4","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","posts","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/3add334ee59f67ac.css","precedence":"next","crossOrigin":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/css/cec3dd424af6abe7.css","precedence":"next","crossOrigin":"$undefined"}],["$","link","2",{"rel":"stylesheet","href":"/_next/static/css/31924b81bd2c71c2.css","precedence":"next","crossOrigin":"$undefined"}]],["$","html",null,{"lang":"jp","className":"__variable_f367f3 __variable_8c8862 __variable_6beb74 __variable_b784c9 __variable_d575de","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){try{var s=localStorage.getItem('darkMode');var p=window.matchMedia('(prefers-color-scheme: dark)').matches;if(s!==null?s==='true':p){document.documentElement.classList.add('dark');}}catch(e){}})();"}}],["$","$L6",null,{"gaId":"G-FWRP8962MB"}]]}],["$","body",null,{"className":"__className_f367f3","children":["$","$L7",null,{"children":[["$","header",null,{"children":["$","$L8",null,{"children":["$","div",null,{"className":"fixed top-0 left-0 w-full z-50 bg-green-700 dark:bg-gray-900 shadow-md border-b border-green-600/50 dark:border-gray-800","children":["$","div",null,{"className":"max-w-7xl mx-auto","children":["$","div",null,{"className":"flex items-center justify-between px-6 md:px-8 h-20 md:h-24","children":[["$","$L9",null,{"href":"/","className":"group flex items-center gap-3 transition-opacity hover:opacity-80","children":[["$","$La",null,{"alt":"Maemaemae","src":"/header.jpg","width":44,"height":44,"className":"rounded-full object-cover ring-2 ring-white/20 group-hover:ring-white/40 transition-all"}],["$","span",null,{"className":"text-xl md:text-2xl font-katyou text-[#fffef9] tracking-wide","children":"Maemaemae"}]]}],["$","div",null,{"className":"flex items-center gap-2","children":[["$","a",null,{"href":"https://x.com/maemaemae_rm","target":"_blank","rel":"noopener noreferrer","className":"p-2.5 rounded-full hover:bg-white/10 transition-colors","aria-label":"X (Twitter)","children":["$","$La",null,{"src":"/x-logo-white.png","width":24,"height":24,"alt":""}]}],["$","$Lb",null,{}]]}]]}]}]}]}]}],["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[]}]]}]}]]}]],null],null],["$Lc",null]]]]
+e:I[7426,["972","static/chunks/972-f241a8fd644428c6.js","333","static/chunks/app/posts/%5Bslug%5D/page-acd6669982df1354.js"],"default"]
+d:T4528,<p>ISO 9241-210は、人間中心設計（HCD）を体系化した国際規格として、現代のプロダクト開発において重要な指針となっています。本記事では、規格の概要から実践的な活用方法まで詳しく解説します。</p>
+<h2>ISO 9241-210とは</h2>
+<h3>規格の基本情報</h3>
+<p>ISO 9241-210は「人間工学 - インタラクティブシステムの人間中心設計」を規定する国際規格です。</p>
+<pre class="language-markdown"><code class="language-markdown code-highlight"><span class="code-line"><span class="token title important"><span class="token punctuation">##</span> 規格の変遷</span>
+</span><span class="code-line"><span class="token list punctuation">-</span> 初版: 2010年発行
+</span><span class="code-line"><span class="token list punctuation">-</span> 第2版: 2019年発行（現行版）
+</span><span class="code-line"><span class="token list punctuation">-</span> 前身: ISO 13407（1999年）
+</span></code></pre>
+<h3>規格の目的</h3>
+<p><strong>主要な目標</strong>:</p>
+<ul>
+<li>ユーザビリティとUXの向上</li>
+<li>設計プロセスの標準化</li>
+<li>開発リスクの軽減</li>
+<li>製品の市場競争力強化</li>
+</ul>
+<h2>人間中心設計（HCD）の基本原則</h2>
+<h3>4つの基本原則</h3>
+<p>ISO 9241-210では、HCDの基本原則として以下の4つを定義しています。</p>
+<p><strong>1. 設計はユーザー、タスク、環境の明確な理解に基づく</strong></p>
+<ul>
+<li>ユーザーの特性、ニーズ、制約の把握</li>
+<li>利用状況の詳細な分析</li>
+<li>環境的要因の考慮</li>
+</ul>
+<p><strong>2. ユーザーは設計および開発プロセス全体を通じて関与する</strong></p>
+<ul>
+<li>継続的なユーザー参加</li>
+<li>フィードバックループの確立</li>
+<li>反復的な検証と改善</li>
+</ul>
+<p><strong>3. 設計はユーザー中心の評価によって推進・改良される</strong></p>
+<ul>
+<li>定期的なユーザビリティテスト</li>
+<li>データドリブンな意思決定</li>
+<li>客観的な評価指標の活用</li>
+</ul>
+<p><strong>4. プロセスは反復的である</strong></p>
+<ul>
+<li>段階的な改善サイクル</li>
+<li>プロトタイピングと検証の繰り返し</li>
+<li>継続的な学習と適応</li>
+</ul>
+<h2>HCDの4つのプロセス活動</h2>
+<h3>1. 利用状況の理解と明示</h3>
+<p><strong>活動内容</strong>:</p>
+<ul>
+<li>ユーザー特性の分析</li>
+<li>タスク分析</li>
+<li>環境・技術的制約の調査</li>
+</ul>
+<p><strong>成果物例</strong>:</p>
+<pre class="language-markdown"><code class="language-markdown code-highlight"><span class="code-line"><span class="token list punctuation">-</span> ユーザーペルソナ
+</span><span class="code-line"><span class="token list punctuation">-</span> ユーザージャーニーマップ
+</span><span class="code-line"><span class="token list punctuation">-</span> タスクフロー図
+</span><span class="code-line"><span class="token list punctuation">-</span> 環境分析レポート
+</span></code></pre>
+<h3>2. ユーザー要求事項の明示</h3>
+<p><strong>活動内容</strong>:</p>
+<ul>
+<li>ユーザーニーズの具体化</li>
+<li>機能要件の定義</li>
+<li>パフォーマンス基準の設定</li>
+</ul>
+<p><strong>要求事項の分類</strong>:</p>
+<ul>
+<li><strong>機能要求</strong>: システムが提供すべき機能</li>
+<li><strong>ユーザビリティ要求</strong>: 使いやすさの基準</li>
+<li><strong>UX要求</strong>: 体験価値の目標</li>
+</ul>
+<h3>3. 設計解決策の作成</h3>
+<p><strong>設計アプローチ</strong>:</p>
+<ul>
+<li>段階的プロトタイピング</li>
+<li>デザインパターンの活用</li>
+<li>アクセシビリティの考慮</li>
+</ul>
+<p><strong>プロトタイプの種類</strong>:</p>
+<pre class="language-markdown"><code class="language-markdown code-highlight"><span class="code-line">低忠実度:
+</span><span class="code-line"><span class="token list punctuation">-</span> ペーパープロトタイプ
+</span><span class="code-line"><span class="token list punctuation">-</span> ワイヤーフレーム
+</span><span class="code-line">
+</span><span class="code-line">高忠実度:
+</span><span class="code-line"><span class="token list punctuation">-</span> インタラクティブプロトタイプ
+</span><span class="code-line"><span class="token list punctuation">-</span> 機能プロトタイプ
+</span></code></pre>
+<h3>4. 要求事項に照らした設計の評価</h3>
+<p><strong>評価手法</strong>:</p>
+<ul>
+<li>ユーザビリティテスト</li>
+<li>ヒューリスティック評価</li>
+<li>A/Bテスト</li>
+<li>アクセシビリティ監査</li>
+</ul>
+<p><strong>評価指標</strong>:</p>
+<ul>
+<li><strong>定量指標</strong>: 完了率、エラー率、時間</li>
+<li><strong>定性指標</strong>: 満足度、使用感、推奨度</li>
+</ul>
+<h2>UXとユーザビリティの定義</h2>
+<h3>UXの定義（ISO 9241-210）</h3>
+<p>「製品、システム、サービスの利用や利用予定から生じる人の知覚や反応」</p>
+<p><strong>UXの特徴</strong>:</p>
+<ul>
+<li>利用前、利用中、利用後の全体験を包含</li>
+<li>認知的、感情的、身体的反応を含む</li>
+<li>個人的で主観的な体験</li>
+</ul>
+<h3>ユーザビリティとの関係</h3>
+<pre class="language-markdown"><code class="language-markdown code-highlight"><span class="code-line"><span class="token title important"><span class="token punctuation">##</span> UXとユーザビリティの関係性</span>
+</span><span class="code-line">
+</span><span class="code-line">UX（包括的体験）
+</span><span class="code-line">├── 利用前の体験
+</span><span class="code-line">│   ├── ブランド認知
+</span><span class="code-line">│   └── 期待値形成
+</span><span class="code-line">├── 利用中の体験
+</span><span class="code-line">│   ├── ユーザビリティ ← ISO 9241-11
+</span><span class="code-line">│   ├── 感情的反応
+</span><span class="code-line">│   └── 価値実感
+</span><span class="code-line">└── 利用後の体験
+</span><span class="code-line">    ├── 満足度
+</span><span class="code-line">    └── 再利用意向
+</span></code></pre>
+<h2>実践的な活用方法</h2>
+<h3>既存開発手法との統合</h3>
+<p><strong>アジャイル開発との組み合わせ</strong>:</p>
+<pre class="language-markdown"><code class="language-markdown code-highlight"><span class="code-line">スプリント0: 利用状況の理解
+</span><span class="code-line">スプリント1-N: 設計・開発・評価の反復
+</span><span class="code-line">リリース後: 継続的なUX改善
+</span></code></pre>
+<p><strong>デザイン思考との関係</strong>:</p>
+<ul>
+<li>共感 → 利用状況の理解</li>
+<li>定義 → ユーザー要求事項の明示</li>
+<li>発想・プロトタイプ → 設計解決策の作成</li>
+<li>検証 → 設計の評価</li>
+</ul>
+<h3>組織での導入ステップ</h3>
+<p><strong>段階1: 基盤整備</strong></p>
+<ul>
+<li>HCDの理解促進</li>
+<li>体制とプロセスの構築</li>
+<li>ツールと環境の準備</li>
+</ul>
+<p><strong>段階2: パイロット実施</strong></p>
+<ul>
+<li>小規模プロジェクトでの試行</li>
+<li>課題の抽出と改善</li>
+<li>成功事例の蓄積</li>
+</ul>
+<p><strong>段階3: 本格展開</strong></p>
+<ul>
+<li>全社的な展開</li>
+<li>継続的な改善活動</li>
+<li>専門人材の育成</li>
+</ul>
+<h2>よくある課題と解決策</h2>
+<h3>課題1: リソース不足</h3>
+<p><strong>解決策</strong>:</p>
+<ul>
+<li>段階的な導入計画</li>
+<li>既存プロセスとの統合</li>
+<li>外部リソースの活用</li>
+</ul>
+<h3>課題2: ステークホルダーの理解不足</h3>
+<p><strong>解決策</strong>:</p>
+<ul>
+<li>ROIの可視化</li>
+<li>成功事例の共有</li>
+<li>体験型ワークショップの実施</li>
+</ul>
+<h3>課題3: 評価指標の設定困難</h3>
+<p><strong>解決策</strong>:</p>
+<ul>
+<li>業界標準指標の活用</li>
+<li>段階的な指標の導入</li>
+<li>定性・定量の組み合わせ</li>
+</ul>
+<h2>問題集(AI生成)</h2>
+<h3>【基礎知識編】規格の理解</h3>
+<p><strong>問題1</strong> ISO 9241-210の正式名称として正しいものはどれか。</p>
+<p>A. 人間工学 - ユーザビリティの測定と評価</p>
+<p>B. 人間工学 - インタラクティブシステムの人間中心設計</p>
+<p>C. 情報技術 - ユーザーインターフェース設計指針</p>
+<p>D. 品質管理 - ユーザーエクスペリエンス評価基準</p>
+<hr>
+<p><strong>問題2</strong> ISO 9241-210におけるUXの定義として最も適切なものはどれか。</p>
+<p>A. 製品の使いやすさと効率性の度合い</p>
+<p>B. ユーザーインターフェースの視覚的品質</p>
+<p>C. 製品、システム、サービスの利用や利用予定から生じる人の知覚や反応</p>
+<p>D. システムの機能的要件と性能指標</p>
+<h3>【HCDプロセス編】4つの活動</h3>
+<p><strong>問題3</strong> HCDの4つのプロセス活動に含まれないものはどれか。</p>
+<p>A. 利用状況の理解と明示</p>
+<p>B. ユーザー要求事項の明示</p>
+<p>C. 技術仕様の詳細設計</p>
+<p>D. 要求事項に照らした設計の評価</p>
+<hr>
+<p><strong>問題4</strong> 「利用状況の理解と明示」プロセスで作成される成果物として適切でないものはどれか。</p>
+<p>A. ユーザーペルソナ</p>
+<p>B. ユーザージャーニーマップ</p>
+<p>C. 機能仕様書</p>
+<p>D. 環境分析レポート</p>
+<h3>【HCD原則編】基本原則の理解</h3>
+<p><strong>問題5</strong> HCDの基本原則「設計はユーザー中心の評価によって推進・改良される」を実践する活動として最も適切なものはどれか。</p>
+<p>A. 競合製品の機能比較分析</p>
+<p>B. 技術的制約の詳細調査</p>
+<p>C. 定期的なユーザビリティテストの実施</p>
+<p>D. 開発工数の見積もり作成</p>
+<hr>
+<p><strong>問題6</strong> HCDプロセスが「反復的である」という原則の意味として正しいものはどれか。</p>
+<p>A. 同じ作業を何度も繰り返すこと</p>
+<p>B. 段階的な改善サイクルを継続すること</p>
+<p>C. プロジェクトを最初からやり直すこと</p>
+<p>D. 複数のプロジェクトを並行実行すること</p>
+<h3>【実践応用編】統合的な理解</h3>
+<p><strong>問題7</strong> アジャイル開発とHCDプロセスを統合する際、スプリント0で主に実施すべき活動はどれか。</p>
+<p>A. 詳細なUI設計とプロトタイプ作成</p>
+<p>B. 利用状況の理解とユーザー要求事項の明示</p>
+<p>C. システムアーキテクチャの設計</p>
+<p>D. 最終的なユーザビリティテスト</p>
+<hr>
+<p><strong>問題8</strong> HCD導入の障壁として「ステークホルダーの理解不足」がある場合、最も効果的な解決策はどれか。</p>
+<p>A. 導入を延期して時期を待つ</p>
+<p>B. 小規模で密かに実施する</p>
+<p>C. ROIの可視化と成功事例の共有</p>
+<p>D. 外部コンサルタントに全面委託</p>
+<h3>【評価手法編】測定と改善</h3>
+<p><strong>問題9</strong> HCDプロセスにおける「設計の評価」で使用する指標の組み合わせとして最も適切なものはどれか。</p>
+<p>A. 開発コストと開発期間のみ</p>
+<p>B. 技術的性能と安定性のみ</p>
+<p>C. 定量指標（完了率、エラー率）と定性指標（満足度、使用感）</p>
+<p>D. 売上高と市場シェアのみ</p>
+<hr>
+<p><strong>問題10</strong> ユーザビリティテストの実施タイミングとして、HCDプロセスの観点から最も適切なものはどれか。</p>
+<p>A. 開発完了後に1回のみ実施</p>
+<p>B. プロジェクト開始前に1回のみ実施</p>
+<p>C. 設計・開発プロセス全体を通じて反復的に実施</p>
+<p>D. 市場リリース後に1回のみ実施</p>
+<h3>【総合理解編】包括的な知識</h3>
+<p><strong>問題11</strong> ISO 9241-210とISO 9241-11の関係として最も適切なものはどれか。</p>
+<p>A. 両者は全く異なる分野の規格である</p>
+<p>B. 9241-210は9241-11のユーザビリティ概念を包含したUX向上のプロセス規格</p>
+<p>C. 9241-11は9241-210の改訂版である</p>
+<p>D. 両者は競合する規格である</p>
+<hr>
+<p><strong>問題12</strong> HCDプロセスにおいて「ユーザーは設計および開発プロセス全体を通じて関与する」原則を実践する方法として適切でないものはどれか。</p>
+<p>A. 定期的なユーザーインタビューの実施</p>
+<p>B. プロトタイプに対するユーザーフィードバックの収集</p>
+<p>C. 開発チーム内のみでの意思決定</p>
+<p>D. 継続的なユーザビリティテストの実施</p>
+<h2>参考資料とさらなる学習</h2>
+<h3>関連規格</h3>
+<ul>
+<li><strong>ISO 9241-11</strong>: ユーザビリティの定義と測定</li>
+<li><strong>ISO 14915</strong>: マルチメディアユーザーインターフェース</li>
+<li><strong>ISO/IEC 25010</strong>: システム・ソフトウェア品質モデル</li>
+</ul>
+<h3>学習リソース</h3>
+<ul>
+<li><a href="https://www.iso.org/standard/77520.html" rel="nofollow" target="_blank">ISO公式サイト - 9241-210</a></li>
+<li><a href="https://www.hcdnet.org/" rel="nofollow" target="_blank">人間中心設計推進機構</a></li>
+<li><a href="https://www.nngroup.com/" rel="nofollow" target="_blank">Nielsen Norman Group - UX Research</a></li>
+</ul>
+<h3>実践ツール</h3>
+<pre class="language-markdown"><code class="language-markdown code-highlight"><span class="code-line">調査・分析:
+</span><span class="code-line"><span class="token list punctuation">-</span> Miro (ユーザージャーニーマップ作成)
+</span><span class="code-line"><span class="token list punctuation">-</span> Figma (ペルソナ作成)
+</span><span class="code-line">
+</span><span class="code-line">プロトタイピング:
+</span><span class="code-line"><span class="token list punctuation">-</span> Figma, Sketch (UIプロトタイプ)
+</span><span class="code-line"><span class="token list punctuation">-</span> InVision, Principle (インタラクション)
+</span><span class="code-line">
+</span><span class="code-line">評価・テスト:
+</span><span class="code-line"><span class="token list punctuation">-</span> UserTesting (リモートユーザビリティテスト)
+</span><span class="code-line"><span class="token list punctuation">-</span> Hotjar (ユーザー行動分析)
+</span></code></pre>
+<h2>まとめ</h2>
+<p>ISO 9241-210は、人間中心設計を体系化した重要な国際規格です。4つのプロセス活動を反復的に実施することで、ユーザビリティとUXの両面から優れた製品・サービスを開発できます。</p>
+<p><strong>成功のポイント</strong>:</p>
+<ul>
+<li>ユーザーを設計プロセスの中心に据える</li>
+<li>継続的な評価と改善を行う</li>
+<li>組織全体でHCDマインドセットを共有する</li>
+<li>既存の開発手法と適切に統合する</li>
+</ul>
+<p>HCD基礎検定の取得を通じて、より深い理解と実践スキルを身につけることをお勧めします。</p>
+<hr>
+<h2>問題集 解答</h2>
+<p><strong>問題1：B</strong> - ISO 9241-210の正式名称は「人間工学 - インタラクティブシステムの人間中心設計」です。</p>
+<p><strong>問題2：C</strong> - UXは「製品、システム、サービスの利用や利用予定から生じる人の知覚や反応」と定義されています。</p>
+<p><strong>問題3：C</strong> - 技術仕様の詳細設計はHCDプロセスの直接的な活動ではありません。HCDは設計の方向性を定める上位プロセスです。</p>
+<p><strong>問題4：C</strong> - 機能仕様書は「ユーザー要求事項の明示」プロセスで作成される成果物です。</p>
+<p><strong>問題5：C</strong> - ユーザー中心の評価の代表例がユーザビリティテストです。実際のユーザーによる評価が重要です。</p>
+<p><strong>問題6：B</strong> - 反復的プロセスは、段階的な改善サイクルを継続することを意味します。</p>
+<p><strong>問題7：B</strong> - スプリント0では、開発に入る前の基盤となる理解と要求定義を行います。</p>
+<p><strong>問題8：C</strong> - ステークホルダーの理解促進には、具体的な価値（ROI）と成功事例の提示が効果的です。</p>
+<p><strong>問題9：C</strong> - 包括的な評価には定量指標と定性指標の両方が必要です。</p>
+<p><strong>問題10：C</strong> - HCDは反復的プロセスであり、継続的な評価が基本原則です。</p>
+<p><strong>問題11：B</strong> - 9241-210は9241-11のユーザビリティ概念を含むより広範囲なUX向上プロセスを規定しています。</p>
+<p><strong>問題12：C</strong> - ユーザー関与の原則に反するのは、開発チーム内のみでの意思決定です。ユーザーの継続的な参加が重要です。</p>
+<hr>
+<p><em>この記事はISO 9241-210:2019および関連規格を基準としています。</em></p>2:["$","article",null,{"className":"min-h-screen","children":[["$","div",null,{"className":"bg-gradient-to-b from-green-50/60 to-transparent dark:from-gray-900 dark:to-transparent","children":["$","div",null,{"className":"max-w-4xl mx-auto px-6 md:px-8 pt-28 md:pt-32 pb-10 md:pb-14","children":[["$","h1",null,{"className":"font-katyou text-4xl md:text-5xl lg:text-6xl text-gray-900 dark:text-white leading-tight mb-6","children":"ISO 9241-210 人間中心設計の国際規格を理解する"}],["$","time",null,{"className":"text-base font-medium text-gray-600 dark:text-gray-400","children":"2025-05-31"}]]}]}],["$","div",null,{"className":"max-w-4xl mx-auto px-6 md:px-8 pb-16 md:pb-24","children":[["$","div",null,{"id":"post-content","className":"prose prose-lg dark:prose-invert max-w-none prose-headings:font-katyou prose-headings:tracking-tight prose-h2:text-3xl prose-h2:mt-12 prose-h2:mb-6 prose-h3:text-2xl prose-h3:mt-10 prose-h3:mb-5 prose-h4:text-xl prose-h4:mt-8 prose-h4:mb-4 prose-p:leading-relaxed prose-p:mb-6 prose-li:my-2 prose-a:text-green-600 prose-a:no-underline prose-a:font-medium hover:prose-a:text-green-700 hover:prose-a:underline dark:prose-a:text-green-400 dark:hover:prose-a:text-green-300 prose-code:text-green-700 prose-code:bg-green-50 dark:prose-code:text-green-300 dark:prose-code:bg-green-900/20 prose-pre:bg-gray-900 dark:prose-pre:bg-gray-950 prose-img:rounded-lg prose-img:shadow-md prose-hr:my-12 prose-hr:border-gray-300 dark:prose-hr:border-gray-700 border-t border-gray-200 dark:border-gray-800 pt-8","dangerouslySetInnerHTML":{"__html":"$d"}}],["$","$Le",null,{}],["$","div",null,{"className":"mt-16 pt-10 border-t border-gray-200 dark:border-gray-800","children":[["$","p",null,{"className":"text-sm font-semibold text-gray-500 dark:text-gray-400 mb-4","children":"タグ"}],["$","div",null,{"className":"flex flex-wrap gap-2.5","children":[["$","$L9","ISO 9241-210",{"href":"/tags/ISO 9241-210","className":"inline-flex items-center px-4 py-1.5 rounded-full text-sm font-medium bg-green-100 text-green-800 dark:bg-green-900/30 dark:text-green-300 hover:bg-green-200 dark:hover:bg-green-800/50 transition-colors duration-200 shadow-sm","children":"ISO 9241-210"}],["$","$L9","HCD",{"href":"/tags/HCD","className":"inline-flex items-center px-4 py-1.5 rounded-full text-sm font-medium bg-green-100 text-green-800 dark:bg-green-900/30 dark:text-green-300 hover:bg-green-200 dark:hover:bg-green-800/50 transition-colors duration-200 shadow-sm","children":"HCD"}],["$","$L9","人間中心設計",{"href":"/tags/人間中心設計","className":"inline-flex items-center px-4 py-1.5 rounded-full text-sm font-medium bg-green-100 text-green-800 dark:bg-green-900/30 dark:text-green-300 hover:bg-green-200 dark:hover:bg-green-800/50 transition-colors duration-200 shadow-sm","children":"人間中心設計"}],["$","$L9","UX",{"href":"/tags/UX","className":"inline-flex items-center px-4 py-1.5 rounded-full text-sm font-medium bg-green-100 text-green-800 dark:bg-green-900/30 dark:text-green-300 hover:bg-green-200 dark:hover:bg-green-800/50 transition-colors duration-200 shadow-sm","children":"UX"}],["$","$L9","ユーザビリティ",{"href":"/tags/ユーザビリティ","className":"inline-flex items-center px-4 py-1.5 rounded-full text-sm font-medium bg-green-100 text-green-800 dark:bg-green-900/30 dark:text-green-300 hover:bg-green-200 dark:hover:bg-green-800/50 transition-colors duration-200 shadow-sm","children":"ユーザビリティ"}],["$","$L9","国際規格",{"href":"/tags/国際規格","className":"inline-flex items-center px-4 py-1.5 rounded-full text-sm font-medium bg-green-100 text-green-800 dark:bg-green-900/30 dark:text-green-300 hover:bg-green-200 dark:hover:bg-green-800/50 transition-colors duration-200 shadow-sm","children":"国際規格"}]]}]]}]]}]]}]
+c:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"ISO 9241-210 人間中心設計の国際規格を理解する | ブログタイトル"}],["$","meta","3",{"name":"description","content":"ISO 9241-210の概要から実践まで、HCD基礎検定対策問題集付きで詳しく解説"}],["$","meta","4",{"property":"og:title","content":"ISO 9241-210 人間中心設計の国際規格を理解する"}],["$","meta","5",{"property":"og:description","content":"ISO 9241-210の概要から実践まで、HCD基礎検定対策問題集付きで詳しく解説"}],["$","meta","6",{"property":"og:url","content":"https://maemaemae.blog/posts/hcd_20250531_2"}],["$","meta","7",{"property":"og:image","content":"https://maemaemae.blog/images/iso-9241-210-hcd-guide.jpg"}],["$","meta","8",{"property":"og:type","content":"article"}],["$","meta","9",{"property":"article:published_time","content":"2025-05-31"}],["$","meta","10",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","11",{"name":"twitter:title","content":"ISO 9241-210 人間中心設計の国際規格を理解する"}],["$","meta","12",{"name":"twitter:description","content":"ISO 9241-210の概要から実践まで、HCD基礎検定対策問題集付きで詳しく解説"}],["$","meta","13",{"name":"twitter:image","content":"https://maemaemae.blog/images/iso-9241-210-hcd-guide.jpg"}],["$","link","14",{"rel":"icon","href":"/favicon.ico","type":"image/x-icon","sizes":"16x16"}],["$","meta","15",{"name":"next-size-adjust"}]]
+1:null

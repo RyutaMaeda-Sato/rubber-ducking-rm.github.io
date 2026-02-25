@@ -1,0 +1,361 @@
+3:I[4707,[],""]
+5:I[6423,[],""]
+6:I[4888,["972","static/chunks/972-f241a8fd644428c6.js","70","static/chunks/70-f52c2ad284c6cd86.js","185","static/chunks/app/layout-97d049cf0fc78146.js"],"GoogleAnalytics"]
+7:I[6806,["972","static/chunks/972-f241a8fd644428c6.js","70","static/chunks/70-f52c2ad284c6cd86.js","185","static/chunks/app/layout-97d049cf0fc78146.js"],"default"]
+8:I[7213,["972","static/chunks/972-f241a8fd644428c6.js","70","static/chunks/70-f52c2ad284c6cd86.js","185","static/chunks/app/layout-97d049cf0fc78146.js"],"default"]
+9:I[2972,["972","static/chunks/972-f241a8fd644428c6.js","333","static/chunks/app/posts/%5Bslug%5D/page-acd6669982df1354.js"],""]
+a:I[5878,["972","static/chunks/972-f241a8fd644428c6.js","70","static/chunks/70-f52c2ad284c6cd86.js","185","static/chunks/app/layout-97d049cf0fc78146.js"],"Image"]
+b:I[2374,["972","static/chunks/972-f241a8fd644428c6.js","70","static/chunks/70-f52c2ad284c6cd86.js","185","static/chunks/app/layout-97d049cf0fc78146.js"],"default"]
+4:["slug","python_venv_20250913","d"]
+0:["0oJGNGFmzz_LorUWHIimP",[[["",{"children":["posts",{"children":[["slug","python_venv_20250913","d"],{"children":["__PAGE__?{\"slug\":\"python_venv_20250913\"}",{}]}]}]},"$undefined","$undefined",true],["",{"children":["posts",{"children":[["slug","python_venv_20250913","d"],{"children":["__PAGE__",{},[["$L1","$L2",null],null],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","posts","children","$4","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","posts","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/3add334ee59f67ac.css","precedence":"next","crossOrigin":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/css/cec3dd424af6abe7.css","precedence":"next","crossOrigin":"$undefined"}],["$","link","2",{"rel":"stylesheet","href":"/_next/static/css/31924b81bd2c71c2.css","precedence":"next","crossOrigin":"$undefined"}]],["$","html",null,{"lang":"jp","className":"__variable_f367f3 __variable_8c8862 __variable_6beb74 __variable_b784c9 __variable_d575de","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){try{var s=localStorage.getItem('darkMode');var p=window.matchMedia('(prefers-color-scheme: dark)').matches;if(s!==null?s==='true':p){document.documentElement.classList.add('dark');}}catch(e){}})();"}}],["$","$L6",null,{"gaId":"G-FWRP8962MB"}]]}],["$","body",null,{"className":"__className_f367f3","children":["$","$L7",null,{"children":[["$","header",null,{"children":["$","$L8",null,{"children":["$","div",null,{"className":"fixed top-0 left-0 w-full z-50 bg-green-700 dark:bg-gray-900 shadow-md border-b border-green-600/50 dark:border-gray-800","children":["$","div",null,{"className":"max-w-7xl mx-auto","children":["$","div",null,{"className":"flex items-center justify-between px-6 md:px-8 h-20 md:h-24","children":[["$","$L9",null,{"href":"/","className":"group flex items-center gap-3 transition-opacity hover:opacity-80","children":[["$","$La",null,{"alt":"Maemaemae","src":"/header.jpg","width":44,"height":44,"className":"rounded-full object-cover ring-2 ring-white/20 group-hover:ring-white/40 transition-all"}],["$","span",null,{"className":"text-xl md:text-2xl font-katyou text-[#fffef9] tracking-wide","children":"Maemaemae"}]]}],["$","div",null,{"className":"flex items-center gap-2","children":[["$","a",null,{"href":"https://x.com/maemaemae_rm","target":"_blank","rel":"noopener noreferrer","className":"p-2.5 rounded-full hover:bg-white/10 transition-colors","aria-label":"X (Twitter)","children":["$","$La",null,{"src":"/x-logo-white.png","width":24,"height":24,"alt":""}]}],["$","$Lb",null,{}]]}]]}]}]}]}]}],["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[]}]]}]}]]}]],null],null],["$Lc",null]]]]
+e:I[7426,["972","static/chunks/972-f241a8fd644428c6.js","333","static/chunks/app/posts/%5Bslug%5D/page-acd6669982df1354.js"],"default"]
+d:T8f10,<h1>Python venv 実践ガイド - コピペで使える環境構築コマンド集</h1>
+<p>Python 開発で避けて通れない仮想環境の構築。「毎回調べるのが面倒」「プロジェクト別にコマンドが違う」そんな悩みを解決する実践的なコマンド集です。</p>
+<h2>プロジェクト別 環境構築コマンド</h2>
+<h3>Web 開発（Django）</h3>
+<pre class="language-bash"><code class="language-bash code-highlight"><span class="code-line"><span class="token comment"># プロジェクト作成から起動まで</span>
+</span><span class="code-line"><span class="token function">mkdir</span> django_project <span class="token operator">&#x26;&#x26;</span> <span class="token builtin class-name">cd</span> django_project
+</span><span class="code-line">python <span class="token parameter variable">-m</span> venv .venv
+</span><span class="code-line"><span class="token builtin class-name">source</span> .venv/bin/activate  <span class="token comment"># macOS/Linux</span>
+</span><span class="code-line"><span class="token comment"># .venv\Scripts\activate   # Windows</span>
+</span><span class="code-line">
+</span><span class="code-line">pip <span class="token function">install</span> <span class="token parameter variable">--upgrade</span> pip
+</span><span class="code-line">pip <span class="token function">install</span> django python-decouple pillow
+</span><span class="code-line">django-admin startproject config <span class="token builtin class-name">.</span>
+</span><span class="code-line">python manage.py migrate
+</span><span class="code-line">pip freeze <span class="token operator">></span> requirements.txt
+</span></code></pre>
+<h3>API 開発（FastAPI）</h3>
+<pre class="language-bash"><code class="language-bash code-highlight"><span class="code-line"><span class="token comment"># FastAPI + 必須パッケージセット</span>
+</span><span class="code-line"><span class="token function">mkdir</span> fastapi_project <span class="token operator">&#x26;&#x26;</span> <span class="token builtin class-name">cd</span> fastapi_project
+</span><span class="code-line">python <span class="token parameter variable">-m</span> venv .venv
+</span><span class="code-line"><span class="token builtin class-name">source</span> .venv/bin/activate
+</span><span class="code-line">
+</span><span class="code-line">pip <span class="token function">install</span> fastapi uvicorn python-multipart pydantic python-jose passlib bcrypt
+</span><span class="code-line">pip freeze <span class="token operator">></span> requirements.txt
+</span><span class="code-line">
+</span><span class="code-line"><span class="token comment"># 起動確認用</span>
+</span><span class="code-line"><span class="token builtin class-name">echo</span> <span class="token string">'from fastapi import FastAPI
+</span></span><span class="code-line"><span class="token string">app = FastAPI()
+</span></span><span class="code-line"><span class="token string">
+</span></span><span class="code-line"><span class="token string">@app.get("/")
+</span></span><span class="code-line"><span class="token string">def read_root():
+</span></span><span class="code-line"><span class="token string">    return {"message": "Hello World"}'</span> <span class="token operator">></span> main.py
+</span></code></pre>
+<h3>データサイエンス環境</h3>
+<pre class="language-bash"><code class="language-bash code-highlight"><span class="code-line"><span class="token comment"># データ分析・機械学習セット</span>
+</span><span class="code-line"><span class="token function">mkdir</span> data_project <span class="token operator">&#x26;&#x26;</span> <span class="token builtin class-name">cd</span> data_project
+</span><span class="code-line">python <span class="token parameter variable">-m</span> venv .venv
+</span><span class="code-line"><span class="token builtin class-name">source</span> .venv/bin/activate
+</span><span class="code-line">
+</span><span class="code-line">pip <span class="token function">install</span> pandas numpy matplotlib seaborn scikit-learn jupyter notebook plotly
+</span><span class="code-line">pip freeze <span class="token operator">></span> requirements.txt
+</span><span class="code-line">
+</span><span class="code-line"><span class="token comment"># Jupyter 起動</span>
+</span><span class="code-line">jupyter notebook
+</span></code></pre>
+<h3>スクレイピング環境</h3>
+<pre class="language-bash"><code class="language-bash code-highlight"><span class="code-line"><span class="token comment"># Web スクレイピング特化セット</span>
+</span><span class="code-line"><span class="token function">mkdir</span> scraping_project <span class="token operator">&#x26;&#x26;</span> <span class="token builtin class-name">cd</span> scraping_project
+</span><span class="code-line">python <span class="token parameter variable">-m</span> venv .venv
+</span><span class="code-line"><span class="token builtin class-name">source</span> .venv/bin/activate
+</span><span class="code-line">
+</span><span class="code-line">pip <span class="token function">install</span> requests beautifulsoup4 selenium pandas lxml python-dotenv
+</span><span class="code-line">pip freeze <span class="token operator">></span> requirements.txt
+</span></code></pre>
+<h2>便利なワンライナーコマンド</h2>
+<h3>高速環境構築</h3>
+<pre class="language-bash"><code class="language-bash code-highlight"><span class="code-line"><span class="token comment"># Flask 環境（1行）</span>
+</span><span class="code-line">python <span class="token parameter variable">-m</span> venv .venv <span class="token operator">&#x26;&#x26;</span> <span class="token builtin class-name">source</span> .venv/bin/activate <span class="token operator">&#x26;&#x26;</span> pip <span class="token function">install</span> flask requests python-dotenv
+</span><span class="code-line">
+</span><span class="code-line"><span class="token comment"># 機械学習環境（1行）</span>
+</span><span class="code-line">python <span class="token parameter variable">-m</span> venv .venv <span class="token operator">&#x26;&#x26;</span> <span class="token builtin class-name">source</span> .venv/bin/activate <span class="token operator">&#x26;&#x26;</span> pip <span class="token function">install</span> pandas numpy scikit-learn matplotlib
+</span><span class="code-line">
+</span><span class="code-line"><span class="token comment"># テスト環境（1行）</span>
+</span><span class="code-line">python <span class="token parameter variable">-m</span> venv .venv <span class="token operator">&#x26;&#x26;</span> <span class="token builtin class-name">source</span> .venv/bin/activate <span class="token operator">&#x26;&#x26;</span> pip <span class="token function">install</span> pytest pytest-cov black flake8
+</span></code></pre>
+<h3>既存プロジェクトのクローン対応</h3>
+<pre class="language-bash"><code class="language-bash code-highlight"><span class="code-line"><span class="token comment"># Git クローン → 環境構築 → 起動</span>
+</span><span class="code-line"><span class="token function">git</span> clone <span class="token operator">&#x3C;</span>repository-url<span class="token operator">></span> <span class="token operator">&#x26;&#x26;</span> <span class="token builtin class-name">cd</span> <span class="token operator">&#x3C;</span>project-name<span class="token operator">></span>
+</span><span class="code-line">python <span class="token parameter variable">-m</span> venv .venv <span class="token operator">&#x26;&#x26;</span> <span class="token builtin class-name">source</span> .venv/bin/activate
+</span><span class="code-line">pip <span class="token function">install</span> <span class="token parameter variable">-r</span> requirements.txt
+</span></code></pre>
+<h2>開発効率を上げる自動化</h2>
+<h3>Makefile での環境管理</h3>
+<p>プロジェクトルートに <code>Makefile</code> を配置：</p>
+<pre class="language-makefile"><code class="language-makefile code-highlight"><span class="code-line"><span class="token builtin-target builtin">.PHONY</span><span class="token punctuation">:</span> setup install run test clean deploy
+</span><span class="code-line">
+</span><span class="code-line"><span class="token comment"># 初回セットアップ</span>
+</span><span class="code-line"><span class="token target symbol">setup</span><span class="token punctuation">:</span>
+</span><span class="code-line">	python -m venv .venv
+</span><span class="code-line">	source .venv/bin/activate &#x26;&#x26; pip install --upgrade pip
+</span><span class="code-line">
+</span><span class="code-line"><span class="token comment"># 依存関係インストール</span>
+</span><span class="code-line"><span class="token target symbol">install</span><span class="token punctuation">:</span>
+</span><span class="code-line">	source .venv/bin/activate &#x26;&#x26; pip install -r requirements.txt
+</span><span class="code-line">
+</span><span class="code-line"><span class="token comment"># 開発サーバー起動</span>
+</span><span class="code-line"><span class="token target symbol">run</span><span class="token punctuation">:</span>
+</span><span class="code-line">	source .venv/bin/activate &#x26;&#x26; python manage.py runserver
+</span><span class="code-line">
+</span><span class="code-line"><span class="token comment"># テスト実行</span>
+</span><span class="code-line"><span class="token target symbol">test</span><span class="token punctuation">:</span>
+</span><span class="code-line">	source .venv/bin/activate &#x26;&#x26; python -m pytest
+</span><span class="code-line">
+</span><span class="code-line"><span class="token comment"># 環境クリーンアップ</span>
+</span><span class="code-line"><span class="token target symbol">clean</span><span class="token punctuation">:</span>
+</span><span class="code-line">	rm -rf .venv __pycache__ .pytest_cache .coverage
+</span><span class="code-line">
+</span><span class="code-line"><span class="token comment"># 本番デプロイ用パッケージ作成</span>
+</span><span class="code-line"><span class="token target symbol">deploy</span><span class="token punctuation">:</span>
+</span><span class="code-line">	source .venv/bin/activate &#x26;&#x26; pip freeze > requirements.txt
+</span></code></pre>
+<p>使用方法：</p>
+<pre class="language-bash"><code class="language-bash code-highlight"><span class="code-line"><span class="token function">make</span> setup    <span class="token comment"># 初回のみ</span>
+</span><span class="code-line"><span class="token function">make</span> <span class="token function">install</span>  <span class="token comment"># 依存関係インストール</span>
+</span><span class="code-line"><span class="token function">make</span> run      <span class="token comment"># サーバー起動</span>
+</span></code></pre>
+<h3>シェルスクリプトでの完全自動化</h3>
+<p><code>setup.sh</code> ファイルを作成：</p>
+<pre class="language-bash"><code class="language-bash code-highlight"><span class="code-line"><span class="token shebang important">#!/bin/bash</span>
+</span><span class="code-line"><span class="token comment"># setup.sh - Python プロジェクト自動セットアップ</span>
+</span><span class="code-line">
+</span><span class="code-line"><span class="token assign-left variable">PROJECT_TYPE</span><span class="token operator">=</span><span class="token variable">${1<span class="token operator">:-</span>"web"}</span>
+</span><span class="code-line">
+</span><span class="code-line"><span class="token builtin class-name">echo</span> <span class="token string">"🚀 Python プロジェクトをセットアップ中..."</span>
+</span><span class="code-line">
+</span><span class="code-line"><span class="token comment"># 仮想環境作成</span>
+</span><span class="code-line"><span class="token keyword">if</span> <span class="token punctuation">[</span> <span class="token operator">!</span> <span class="token parameter variable">-d</span> <span class="token string">".venv"</span> <span class="token punctuation">]</span><span class="token punctuation">;</span> <span class="token keyword">then</span>
+</span><span class="code-line">    <span class="token builtin class-name">echo</span> <span class="token string">"📦 仮想環境を作成中..."</span>
+</span><span class="code-line">    python <span class="token parameter variable">-m</span> venv .venv
+</span><span class="code-line"><span class="token keyword">fi</span>
+</span><span class="code-line">
+</span><span class="code-line"><span class="token comment"># 仮想環境有効化</span>
+</span><span class="code-line"><span class="token builtin class-name">echo</span> <span class="token string">"✅ 仮想環境を有効化中..."</span>
+</span><span class="code-line"><span class="token builtin class-name">source</span> .venv/bin/activate
+</span><span class="code-line">
+</span><span class="code-line"><span class="token comment"># pip アップグレード</span>
+</span><span class="code-line">pip <span class="token function">install</span> <span class="token parameter variable">--upgrade</span> pip
+</span><span class="code-line">
+</span><span class="code-line"><span class="token comment"># プロジェクトタイプ別インストール</span>
+</span><span class="code-line"><span class="token keyword">case</span> <span class="token variable">$PROJECT_TYPE</span> <span class="token keyword">in</span>
+</span><span class="code-line">    <span class="token string">"web"</span><span class="token punctuation">)</span>
+</span><span class="code-line">        <span class="token builtin class-name">echo</span> <span class="token string">"🌐 Web開発パッケージをインストール中..."</span>
+</span><span class="code-line">        pip <span class="token function">install</span> django requests python-decouple
+</span><span class="code-line">        <span class="token punctuation">;</span><span class="token punctuation">;</span>
+</span><span class="code-line">    <span class="token string">"api"</span><span class="token punctuation">)</span>
+</span><span class="code-line">        <span class="token builtin class-name">echo</span> <span class="token string">"🔌 API開発パッケージをインストール中..."</span>
+</span><span class="code-line">        pip <span class="token function">install</span> fastapi uvicorn pydantic
+</span><span class="code-line">        <span class="token punctuation">;</span><span class="token punctuation">;</span>
+</span><span class="code-line">    <span class="token string">"data"</span><span class="token punctuation">)</span>
+</span><span class="code-line">        <span class="token builtin class-name">echo</span> <span class="token string">"📊 データサイエンスパッケージをインストール中..."</span>
+</span><span class="code-line">        pip <span class="token function">install</span> pandas numpy matplotlib jupyter
+</span><span class="code-line">        <span class="token punctuation">;</span><span class="token punctuation">;</span>
+</span><span class="code-line">    *<span class="token punctuation">)</span>
+</span><span class="code-line">        <span class="token builtin class-name">echo</span> <span class="token string">"❓ 不明なプロジェクトタイプ: <span class="token variable">$PROJECT_TYPE</span>"</span>
+</span><span class="code-line">        <span class="token builtin class-name">exit</span> <span class="token number">1</span>
+</span><span class="code-line">        <span class="token punctuation">;</span><span class="token punctuation">;</span>
+</span><span class="code-line"><span class="token keyword">esac</span>
+</span><span class="code-line">
+</span><span class="code-line"><span class="token comment"># requirements.txt 生成</span>
+</span><span class="code-line">pip freeze <span class="token operator">></span> requirements.txt
+</span><span class="code-line">
+</span><span class="code-line"><span class="token builtin class-name">echo</span> <span class="token string">"🎉 セットアップ完了！"</span>
+</span><span class="code-line"><span class="token builtin class-name">echo</span> <span class="token string">"次回以降は 'source .venv/bin/activate' で環境を有効化してください"</span>
+</span></code></pre>
+<p>使用方法：</p>
+<pre class="language-bash"><code class="language-bash code-highlight"><span class="code-line"><span class="token function">chmod</span> +x setup.sh
+</span><span class="code-line">./setup.sh web   <span class="token comment"># Web開発用</span>
+</span><span class="code-line">./setup.sh api   <span class="token comment"># API開発用</span>
+</span><span class="code-line">./setup.sh data  <span class="token comment"># データサイエンス用</span>
+</span></code></pre>
+<h2>複数環境の効率的な管理</h2>
+<h3>開発・テスト・本番環境の分離</h3>
+<pre class="language-bash"><code class="language-bash code-highlight"><span class="code-line"><span class="token comment"># 環境別 requirements ファイル作成</span>
+</span><span class="code-line"><span class="token function">mkdir</span> requirements
+</span><span class="code-line">
+</span><span class="code-line"><span class="token comment"># requirements/base.txt（共通パッケージ）</span>
+</span><span class="code-line"><span class="token builtin class-name">echo</span> <span class="token string">"requests>=2.28.0
+</span></span><span class="code-line"><span class="token string">python-dotenv>=0.19.0"</span> <span class="token operator">></span> requirements/base.txt
+</span><span class="code-line">
+</span><span class="code-line"><span class="token comment"># requirements/dev.txt（開発環境）</span>
+</span><span class="code-line"><span class="token builtin class-name">echo</span> <span class="token string">"-r base.txt
+</span></span><span class="code-line"><span class="token string">pytest>=7.0.0
+</span></span><span class="code-line"><span class="token string">black>=22.0.0
+</span></span><span class="code-line"><span class="token string">flake8>=5.0.0
+</span></span><span class="code-line"><span class="token string">pre-commit>=2.17.0"</span> <span class="token operator">></span> requirements/dev.txt
+</span><span class="code-line">
+</span><span class="code-line"><span class="token comment"># requirements/prod.txt（本番環境）</span>
+</span><span class="code-line"><span class="token builtin class-name">echo</span> <span class="token string">"-r base.txt
+</span></span><span class="code-line"><span class="token string">gunicorn>=20.1.0
+</span></span><span class="code-line"><span class="token string">psycopg2-binary>=2.9.0"</span> <span class="token operator">></span> requirements/prod.txt
+</span></code></pre>
+<p>環境切り替えコマンド：</p>
+<pre class="language-bash"><code class="language-bash code-highlight"><span class="code-line"><span class="token comment"># 開発環境</span>
+</span><span class="code-line">python <span class="token parameter variable">-m</span> venv .venv-dev
+</span><span class="code-line"><span class="token builtin class-name">source</span> .venv-dev/bin/activate
+</span><span class="code-line">pip <span class="token function">install</span> <span class="token parameter variable">-r</span> requirements/dev.txt
+</span><span class="code-line">
+</span><span class="code-line"><span class="token comment"># 本番環境</span>
+</span><span class="code-line">python <span class="token parameter variable">-m</span> venv .venv-prod
+</span><span class="code-line"><span class="token builtin class-name">source</span> .venv-prod/bin/activate
+</span><span class="code-line">pip <span class="token function">install</span> <span class="token parameter variable">-r</span> requirements/prod.txt
+</span></code></pre>
+<h3>環境状態の可視化</h3>
+<pre class="language-bash"><code class="language-bash code-highlight"><span class="code-line"><span class="token comment"># 現在の環境情報を表示</span>
+</span><span class="code-line"><span class="token keyword">function</span> <span class="token function-name function">venv_info</span><span class="token punctuation">(</span><span class="token punctuation">)</span> <span class="token punctuation">{</span>
+</span><span class="code-line">    <span class="token builtin class-name">echo</span> <span class="token string">"🐍 Python: <span class="token variable"><span class="token variable">$(</span>python <span class="token parameter variable">--version</span><span class="token variable">)</span></span>"</span>
+</span><span class="code-line">    <span class="token builtin class-name">echo</span> <span class="token string">"📦 pip: <span class="token variable"><span class="token variable">$(</span>pip <span class="token parameter variable">--version</span><span class="token variable">)</span></span>"</span>
+</span><span class="code-line">    <span class="token builtin class-name">echo</span> <span class="token string">"🏠 仮想環境: <span class="token variable">$VIRTUAL_ENV</span>"</span>
+</span><span class="code-line">    <span class="token builtin class-name">echo</span> <span class="token string">"📋 インストール済みパッケージ数: <span class="token variable"><span class="token variable">$(</span>pip list <span class="token operator">|</span> <span class="token function">wc</span> <span class="token parameter variable">-l</span><span class="token variable">)</span></span>"</span>
+</span><span class="code-line"><span class="token punctuation">}</span>
+</span></code></pre>
+<h2>Docker との統合パターン</h2>
+<h3>開発環境での Docker + venv</h3>
+<pre class="language-dockerfile"><code class="language-dockerfile code-highlight"><span class="code-line"><span class="token comment"># Dockerfile.dev</span>
+</span><span class="code-line"><span class="token instruction"><span class="token keyword">FROM</span> python:3.11-slim</span>
+</span><span class="code-line">
+</span><span class="code-line"><span class="token instruction"><span class="token keyword">WORKDIR</span> /app</span>
+</span><span class="code-line">
+</span><span class="code-line"><span class="token comment"># 仮想環境作成</span>
+</span><span class="code-line"><span class="token instruction"><span class="token keyword">RUN</span> python -m venv /opt/venv</span>
+</span><span class="code-line"><span class="token instruction"><span class="token keyword">ENV</span> PATH=<span class="token string">"/opt/venv/bin:$PATH"</span></span>
+</span><span class="code-line">
+</span><span class="code-line"><span class="token comment"># 依存関係インストール</span>
+</span><span class="code-line"><span class="token instruction"><span class="token keyword">COPY</span> requirements/dev.txt .</span>
+</span><span class="code-line"><span class="token instruction"><span class="token keyword">RUN</span> pip install --no-cache-dir -r dev.txt</span>
+</span><span class="code-line">
+</span><span class="code-line"><span class="token comment"># ソースコード配置</span>
+</span><span class="code-line"><span class="token instruction"><span class="token keyword">COPY</span> . .</span>
+</span><span class="code-line">
+</span><span class="code-line"><span class="token comment"># 開発サーバー起動</span>
+</span><span class="code-line"><span class="token instruction"><span class="token keyword">CMD</span> [<span class="token string">"python"</span>, <span class="token string">"manage.py"</span>, <span class="token string">"runserver"</span>, <span class="token string">"0.0.0.0:8000"</span>]</span>
+</span></code></pre>
+<h3>docker-compose での環境管理</h3>
+<pre class="language-yaml"><code class="language-yaml code-highlight"><span class="code-line"><span class="token comment"># docker-compose.yml</span>
+</span><span class="code-line"><span class="token key atrule">version</span><span class="token punctuation">:</span> <span class="token string">'3.8'</span>
+</span><span class="code-line">
+</span><span class="code-line"><span class="token key atrule">services</span><span class="token punctuation">:</span>
+</span><span class="code-line">  <span class="token key atrule">web</span><span class="token punctuation">:</span>
+</span><span class="code-line">    <span class="token key atrule">build</span><span class="token punctuation">:</span>
+</span><span class="code-line">      <span class="token key atrule">context</span><span class="token punctuation">:</span> .
+</span><span class="code-line">      <span class="token key atrule">dockerfile</span><span class="token punctuation">:</span> Dockerfile.dev
+</span><span class="code-line">    <span class="token key atrule">ports</span><span class="token punctuation">:</span>
+</span><span class="code-line">      <span class="token punctuation">-</span> <span class="token string">"8000:8000"</span>
+</span><span class="code-line">    <span class="token key atrule">volumes</span><span class="token punctuation">:</span>
+</span><span class="code-line">      <span class="token punctuation">-</span> .<span class="token punctuation">:</span>/app
+</span><span class="code-line">    <span class="token key atrule">environment</span><span class="token punctuation">:</span>
+</span><span class="code-line">      <span class="token punctuation">-</span> DEBUG=1
+</span><span class="code-line">    <span class="token key atrule">command</span><span class="token punctuation">:</span> python manage.py runserver 0.0.0.0<span class="token punctuation">:</span><span class="token number">8000</span>
+</span><span class="code-line">
+</span><span class="code-line">  <span class="token key atrule">db</span><span class="token punctuation">:</span>
+</span><span class="code-line">    <span class="token key atrule">image</span><span class="token punctuation">:</span> postgres<span class="token punctuation">:</span><span class="token number">13</span>
+</span><span class="code-line">    <span class="token key atrule">environment</span><span class="token punctuation">:</span>
+</span><span class="code-line">      <span class="token key atrule">POSTGRES_DB</span><span class="token punctuation">:</span> myproject
+</span><span class="code-line">      <span class="token key atrule">POSTGRES_USER</span><span class="token punctuation">:</span> user
+</span><span class="code-line">      <span class="token key atrule">POSTGRES_PASSWORD</span><span class="token punctuation">:</span> password
+</span></code></pre>
+<h2>トラブルシューティング集</h2>
+<h3>依存関係の競合解決</h3>
+<pre class="language-bash"><code class="language-bash code-highlight"><span class="code-line"><span class="token comment"># 環境完全リセット</span>
+</span><span class="code-line">deactivate
+</span><span class="code-line"><span class="token function">rm</span> <span class="token parameter variable">-rf</span> .venv
+</span><span class="code-line">python <span class="token parameter variable">-m</span> venv .venv
+</span><span class="code-line"><span class="token builtin class-name">source</span> .venv/bin/activate
+</span><span class="code-line">pip <span class="token function">install</span> <span class="token parameter variable">-r</span> requirements.txt
+</span></code></pre>
+<h3>パッケージ管理のメンテナンス</h3>
+<pre class="language-bash"><code class="language-bash code-highlight"><span class="code-line"><span class="token comment"># 古いパッケージの確認・更新</span>
+</span><span class="code-line">pip list <span class="token parameter variable">--outdated</span>
+</span><span class="code-line">pip freeze <span class="token operator">|</span> <span class="token function">cut</span> <span class="token parameter variable">-d</span><span class="token operator">=</span> <span class="token parameter variable">-f1</span> <span class="token operator">|</span> <span class="token function">xargs</span> pip <span class="token function">install</span> <span class="token parameter variable">-U</span>
+</span><span class="code-line">
+</span><span class="code-line"><span class="token comment"># 依存関係の整合性チェック</span>
+</span><span class="code-line">pip check
+</span><span class="code-line">
+</span><span class="code-line"><span class="token comment"># 未使用パッケージの特定</span>
+</span><span class="code-line">pip freeze <span class="token operator">></span> current.txt
+</span><span class="code-line">pipdeptree <span class="token parameter variable">--warn</span> silence <span class="token operator">|</span> <span class="token function">grep</span> <span class="token parameter variable">-E</span> <span class="token string">'^[a-zA-Z]'</span> <span class="token operator">></span> used.txt
+</span></code></pre>
+<h3>よくあるエラーの対処法</h3>
+<p><strong>権限エラーの場合</strong>：</p>
+<pre class="language-bash"><code class="language-bash code-highlight"><span class="code-line"><span class="token comment"># ユーザー領域にインストール</span>
+</span><span class="code-line">pip <span class="token function">install</span> <span class="token parameter variable">--user</span> package_name
+</span><span class="code-line">
+</span><span class="code-line"><span class="token comment"># 管理者権限での pip 更新</span>
+</span><span class="code-line">python <span class="token parameter variable">-m</span> pip <span class="token function">install</span> <span class="token parameter variable">--upgrade</span> pip <span class="token parameter variable">--user</span>
+</span></code></pre>
+<p><strong>SSL エラーの場合</strong>：</p>
+<pre class="language-bash"><code class="language-bash code-highlight"><span class="code-line"><span class="token comment"># 信頼できるホストを指定</span>
+</span><span class="code-line">pip <span class="token function">install</span> --trusted-host pypi.org --trusted-host pypi.python.org package_name
+</span></code></pre>
+<h2>VS Code での環境統合</h2>
+<h3>settings.json 設定</h3>
+<pre class="language-json"><code class="language-json code-highlight"><span class="code-line"><span class="token punctuation">{</span>
+</span><span class="code-line">    <span class="token property">"python.defaultInterpreterPath"</span><span class="token operator">:</span> <span class="token string">"./.venv/bin/python"</span><span class="token punctuation">,</span>
+</span><span class="code-line">    <span class="token property">"python.terminal.activateEnvironment"</span><span class="token operator">:</span> <span class="token boolean">true</span><span class="token punctuation">,</span>
+</span><span class="code-line">    <span class="token property">"python.formatting.provider"</span><span class="token operator">:</span> <span class="token string">"black"</span><span class="token punctuation">,</span>
+</span><span class="code-line">    <span class="token property">"python.linting.enabled"</span><span class="token operator">:</span> <span class="token boolean">true</span><span class="token punctuation">,</span>
+</span><span class="code-line">    <span class="token property">"python.linting.flake8Enabled"</span><span class="token operator">:</span> <span class="token boolean">true</span>
+</span><span class="code-line"><span class="token punctuation">}</span>
+</span></code></pre>
+<h3>.vscode/launch.json（デバッグ設定）</h3>
+<pre class="language-json"><code class="language-json code-highlight"><span class="code-line"><span class="token punctuation">{</span>
+</span><span class="code-line">    <span class="token property">"version"</span><span class="token operator">:</span> <span class="token string">"0.2.0"</span><span class="token punctuation">,</span>
+</span><span class="code-line">    <span class="token property">"configurations"</span><span class="token operator">:</span> <span class="token punctuation">[</span>
+</span><span class="code-line">        <span class="token punctuation">{</span>
+</span><span class="code-line">            <span class="token property">"name"</span><span class="token operator">:</span> <span class="token string">"Python: Current File"</span><span class="token punctuation">,</span>
+</span><span class="code-line">            <span class="token property">"type"</span><span class="token operator">:</span> <span class="token string">"python"</span><span class="token punctuation">,</span>
+</span><span class="code-line">            <span class="token property">"request"</span><span class="token operator">:</span> <span class="token string">"launch"</span><span class="token punctuation">,</span>
+</span><span class="code-line">            <span class="token property">"program"</span><span class="token operator">:</span> <span class="token string">"${file}"</span><span class="token punctuation">,</span>
+</span><span class="code-line">            <span class="token property">"console"</span><span class="token operator">:</span> <span class="token string">"integratedTerminal"</span><span class="token punctuation">,</span>
+</span><span class="code-line">            <span class="token property">"python"</span><span class="token operator">:</span> <span class="token string">"${workspaceFolder}/.venv/bin/python"</span>
+</span><span class="code-line">        <span class="token punctuation">}</span>
+</span><span class="code-line">    <span class="token punctuation">]</span>
+</span><span class="code-line"><span class="token punctuation">}</span>
+</span></code></pre>
+<h2>パフォーマンス最適化</h2>
+<h3>pip キャッシュの活用</h3>
+<pre class="language-bash"><code class="language-bash code-highlight"><span class="code-line"><span class="token comment"># キャッシュディレクトリの確認</span>
+</span><span class="code-line">pip cache <span class="token function">dir</span>
+</span><span class="code-line">
+</span><span class="code-line"><span class="token comment"># キャッシュを利用した高速インストール</span>
+</span><span class="code-line">pip <span class="token function">install</span> --cache-dir ~/.pip/cache package_name
+</span><span class="code-line">
+</span><span class="code-line"><span class="token comment"># キャッシュクリア（必要時のみ）</span>
+</span><span class="code-line">pip cache purge
+</span></code></pre>
+<h3>並列インストールの設定</h3>
+<pre class="language-bash"><code class="language-bash code-highlight"><span class="code-line"><span class="token comment"># pip 設定ファイル作成</span>
+</span><span class="code-line"><span class="token function">mkdir</span> <span class="token parameter variable">-p</span> ~/.pip
+</span><span class="code-line"><span class="token builtin class-name">echo</span> <span class="token string">"[global]
+</span></span><span class="code-line"><span class="token string">timeout = 60
+</span></span><span class="code-line"><span class="token string">trusted-host = pypi.org
+</span></span><span class="code-line"><span class="token string">               pypi.python.org
+</span></span><span class="code-line"><span class="token string">cache-dir = ~/.pip/cache"</span> <span class="token operator">></span> ~/.pip/pip.conf
+</span></code></pre>
+<h2>まとめ</h2>
+<p>Python の venv を効率的に活用するためのポイント：</p>
+<p><strong>実践のコツ</strong>：</p>
+<ul>
+<li>プロジェクト開始時は必ず仮想環境を作成</li>
+<li>requirements ファイルで依存関係を明確化</li>
+<li>Makefile やシェルスクリプトで作業を自動化</li>
+<li>環境別に requirements を分割管理</li>
+</ul>
+<p><strong>よくある落とし穴</strong>：</p>
+<ul>
+<li>仮想環境の有効化忘れ</li>
+<li>グローバル環境への誤インストール</li>
+<li>requirements.txt の更新忘れ</li>
+</ul>
+<p>これらのコマンドとスクリプトを活用して、Python 開発の環境構築を効率化しましょう。</p>
+<h2>参考資料</h2>
+<ul>
+<li><a href="https://docs.python.org/ja/3/library/venv.html" rel="nofollow" target="_blank">Python 公式ドキュメント - venv</a></li>
+<li><a href="https://pip.pypa.io/en/stable/" rel="nofollow" target="_blank">pip 公式ドキュメント</a></li>
+<li><a href="https://packaging.python.org/" rel="nofollow" target="_blank">Python パッケージングガイド</a></li>
+</ul>
+<hr>
+<p><em>この記事は Python 3.8 以上を基準としています。</em></p>2:["$","article",null,{"className":"min-h-screen","children":[["$","div",null,{"className":"bg-gradient-to-b from-green-50/60 to-transparent dark:from-gray-900 dark:to-transparent","children":["$","div",null,{"className":"max-w-4xl mx-auto px-6 md:px-8 pt-28 md:pt-32 pb-10 md:pb-14","children":[["$","h1",null,{"className":"font-katyou text-4xl md:text-5xl lg:text-6xl text-gray-900 dark:text-white leading-tight mb-6","children":"Python venv 実践ガイド - コピペで使える環境構築コマンド集"}],["$","time",null,{"className":"text-base font-medium text-gray-600 dark:text-gray-400","children":"2025-09-13"}]]}]}],["$","div",null,{"className":"max-w-4xl mx-auto px-6 md:px-8 pb-16 md:pb-24","children":[["$","div",null,{"id":"post-content","className":"prose prose-lg dark:prose-invert max-w-none prose-headings:font-katyou prose-headings:tracking-tight prose-h2:text-3xl prose-h2:mt-12 prose-h2:mb-6 prose-h3:text-2xl prose-h3:mt-10 prose-h3:mb-5 prose-h4:text-xl prose-h4:mt-8 prose-h4:mb-4 prose-p:leading-relaxed prose-p:mb-6 prose-li:my-2 prose-a:text-green-600 prose-a:no-underline prose-a:font-medium hover:prose-a:text-green-700 hover:prose-a:underline dark:prose-a:text-green-400 dark:hover:prose-a:text-green-300 prose-code:text-green-700 prose-code:bg-green-50 dark:prose-code:text-green-300 dark:prose-code:bg-green-900/20 prose-pre:bg-gray-900 dark:prose-pre:bg-gray-950 prose-img:rounded-lg prose-img:shadow-md prose-hr:my-12 prose-hr:border-gray-300 dark:prose-hr:border-gray-700 border-t border-gray-200 dark:border-gray-800 pt-8","dangerouslySetInnerHTML":{"__html":"$d"}}],["$","$Le",null,{}],["$","div",null,{"className":"mt-16 pt-10 border-t border-gray-200 dark:border-gray-800","children":[["$","p",null,{"className":"text-sm font-semibold text-gray-500 dark:text-gray-400 mb-4","children":"タグ"}],["$","div",null,{"className":"flex flex-wrap gap-2.5","children":[["$","$L9","Python",{"href":"/tags/Python","className":"inline-flex items-center px-4 py-1.5 rounded-full text-sm font-medium bg-green-100 text-green-800 dark:bg-green-900/30 dark:text-green-300 hover:bg-green-200 dark:hover:bg-green-800/50 transition-colors duration-200 shadow-sm","children":"Python"}],["$","$L9","venv",{"href":"/tags/venv","className":"inline-flex items-center px-4 py-1.5 rounded-full text-sm font-medium bg-green-100 text-green-800 dark:bg-green-900/30 dark:text-green-300 hover:bg-green-200 dark:hover:bg-green-800/50 transition-colors duration-200 shadow-sm","children":"venv"}],["$","$L9","仮想環境",{"href":"/tags/仮想環境","className":"inline-flex items-center px-4 py-1.5 rounded-full text-sm font-medium bg-green-100 text-green-800 dark:bg-green-900/30 dark:text-green-300 hover:bg-green-200 dark:hover:bg-green-800/50 transition-colors duration-200 shadow-sm","children":"仮想環境"}],["$","$L9","環境構築",{"href":"/tags/環境構築","className":"inline-flex items-center px-4 py-1.5 rounded-full text-sm font-medium bg-green-100 text-green-800 dark:bg-green-900/30 dark:text-green-300 hover:bg-green-200 dark:hover:bg-green-800/50 transition-colors duration-200 shadow-sm","children":"環境構築"}],["$","$L9","開発環境",{"href":"/tags/開発環境","className":"inline-flex items-center px-4 py-1.5 rounded-full text-sm font-medium bg-green-100 text-green-800 dark:bg-green-900/30 dark:text-green-300 hover:bg-green-200 dark:hover:bg-green-800/50 transition-colors duration-200 shadow-sm","children":"開発環境"}]]}]]}]]}]]}]
+c:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"Python venv 実践ガイド - コピペで使える環境構築コマンド集 | ブログタイトル"}],["$","meta","3",{"name":"description","content":"Python の venv を使った仮想環境構築をプロジェクト別に整理。コピペですぐに使えるコマンド集"}],["$","meta","4",{"property":"og:title","content":"Python venv 実践ガイド - コピペで使える環境構築コマンド集"}],["$","meta","5",{"property":"og:description","content":"Python の venv を使った仮想環境構築をプロジェクト別に整理。コピペですぐに使えるコマンド集"}],["$","meta","6",{"property":"og:url","content":"https://maemaemae.blog/posts/python_venv_20250913"}],["$","meta","7",{"property":"og:image","content":"https://maemaemae.blog/images/python-venv-practical-guide.jpg"}],["$","meta","8",{"property":"og:type","content":"article"}],["$","meta","9",{"property":"article:published_time","content":"2025-09-13"}],["$","meta","10",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","11",{"name":"twitter:title","content":"Python venv 実践ガイド - コピペで使える環境構築コマンド集"}],["$","meta","12",{"name":"twitter:description","content":"Python の venv を使った仮想環境構築をプロジェクト別に整理。コピペですぐに使えるコマンド集"}],["$","meta","13",{"name":"twitter:image","content":"https://maemaemae.blog/images/python-venv-practical-guide.jpg"}],["$","link","14",{"rel":"icon","href":"/favicon.ico","type":"image/x-icon","sizes":"16x16"}],["$","meta","15",{"name":"next-size-adjust"}]]
+1:null

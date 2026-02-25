@@ -1,0 +1,243 @@
+3:I[4707,[],""]
+5:I[6423,[],""]
+6:I[4888,["972","static/chunks/972-f241a8fd644428c6.js","70","static/chunks/70-f52c2ad284c6cd86.js","185","static/chunks/app/layout-97d049cf0fc78146.js"],"GoogleAnalytics"]
+7:I[6806,["972","static/chunks/972-f241a8fd644428c6.js","70","static/chunks/70-f52c2ad284c6cd86.js","185","static/chunks/app/layout-97d049cf0fc78146.js"],"default"]
+8:I[7213,["972","static/chunks/972-f241a8fd644428c6.js","70","static/chunks/70-f52c2ad284c6cd86.js","185","static/chunks/app/layout-97d049cf0fc78146.js"],"default"]
+9:I[2972,["972","static/chunks/972-f241a8fd644428c6.js","333","static/chunks/app/posts/%5Bslug%5D/page-acd6669982df1354.js"],""]
+a:I[5878,["972","static/chunks/972-f241a8fd644428c6.js","70","static/chunks/70-f52c2ad284c6cd86.js","185","static/chunks/app/layout-97d049cf0fc78146.js"],"Image"]
+b:I[2374,["972","static/chunks/972-f241a8fd644428c6.js","70","static/chunks/70-f52c2ad284c6cd86.js","185","static/chunks/app/layout-97d049cf0fc78146.js"],"default"]
+4:["slug","hcd_20250531","d"]
+0:["0oJGNGFmzz_LorUWHIimP",[[["",{"children":["posts",{"children":[["slug","hcd_20250531","d"],{"children":["__PAGE__?{\"slug\":\"hcd_20250531\"}",{}]}]}]},"$undefined","$undefined",true],["",{"children":["posts",{"children":[["slug","hcd_20250531","d"],{"children":["__PAGE__",{},[["$L1","$L2",null],null],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","posts","children","$4","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","posts","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/3add334ee59f67ac.css","precedence":"next","crossOrigin":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/css/cec3dd424af6abe7.css","precedence":"next","crossOrigin":"$undefined"}],["$","link","2",{"rel":"stylesheet","href":"/_next/static/css/31924b81bd2c71c2.css","precedence":"next","crossOrigin":"$undefined"}]],["$","html",null,{"lang":"jp","className":"__variable_f367f3 __variable_8c8862 __variable_6beb74 __variable_b784c9 __variable_d575de","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){try{var s=localStorage.getItem('darkMode');var p=window.matchMedia('(prefers-color-scheme: dark)').matches;if(s!==null?s==='true':p){document.documentElement.classList.add('dark');}}catch(e){}})();"}}],["$","$L6",null,{"gaId":"G-FWRP8962MB"}]]}],["$","body",null,{"className":"__className_f367f3","children":["$","$L7",null,{"children":[["$","header",null,{"children":["$","$L8",null,{"children":["$","div",null,{"className":"fixed top-0 left-0 w-full z-50 bg-green-700 dark:bg-gray-900 shadow-md border-b border-green-600/50 dark:border-gray-800","children":["$","div",null,{"className":"max-w-7xl mx-auto","children":["$","div",null,{"className":"flex items-center justify-between px-6 md:px-8 h-20 md:h-24","children":[["$","$L9",null,{"href":"/","className":"group flex items-center gap-3 transition-opacity hover:opacity-80","children":[["$","$La",null,{"alt":"Maemaemae","src":"/header.jpg","width":44,"height":44,"className":"rounded-full object-cover ring-2 ring-white/20 group-hover:ring-white/40 transition-all"}],["$","span",null,{"className":"text-xl md:text-2xl font-katyou text-[#fffef9] tracking-wide","children":"Maemaemae"}]]}],["$","div",null,{"className":"flex items-center gap-2","children":[["$","a",null,{"href":"https://x.com/maemaemae_rm","target":"_blank","rel":"noopener noreferrer","className":"p-2.5 rounded-full hover:bg-white/10 transition-colors","aria-label":"X (Twitter)","children":["$","$La",null,{"src":"/x-logo-white.png","width":24,"height":24,"alt":""}]}],["$","$Lb",null,{}]]}]]}]}]}]}]}],["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[]}]]}]}]]}]],null],null],["$Lc",null]]]]
+e:I[7426,["972","static/chunks/972-f241a8fd644428c6.js","333","static/chunks/app/posts/%5Bslug%5D/page-acd6669982df1354.js"],"default"]
+d:T44e8,<p>HCD（Human-Centered Design）は、ユーザーのニーズと使いやすさを最優先に考える設計手法です。この記事では、ISO 9241-210で標準化されたHCDの4つの基本プロセスを実践的に解説し、HCD基礎検定の対策も含めて紹介します。</p>
+<h2>HCDとは何か</h2>
+<p>HCDは「人間が中心となる設計プロセス」として、製品やサービスの開発において<strong>ユーザーの視点を起点</strong>とする設計アプローチです。</p>
+<h3>HCDが解決する課題</h3>
+<ul>
+<li>「作ったけど誰も使わない」機能の削減</li>
+<li>ユーザビリティ問題の早期発見</li>
+<li>開発コストの効率化</li>
+<li>ユーザー満足度の向上</li>
+</ul>
+<h2>ISO 9241-210による4つの基本プロセス</h2>
+<h3>1. 利用状況の理解と明示</h3>
+<p><strong>目的</strong>: ユーザーと使用環境の詳細把握</p>
+<pre class="language-markdown"><code class="language-markdown code-highlight"><span class="code-line"><span class="token title important"><span class="token punctuation">##</span> 主要な活動</span>
+</span><span class="code-line"><span class="token list punctuation">-</span> ユーザー調査（インタビュー、観察、アンケート）
+</span><span class="code-line"><span class="token list punctuation">-</span> ペルソナ作成
+</span><span class="code-line"><span class="token list punctuation">-</span> ユーザージャーニーマップ作成
+</span><span class="code-line"><span class="token list punctuation">-</span> 利用環境分析（物理的・社会的・技術的環境）
+</span></code></pre>
+<p><strong>実践例</strong>:</p>
+<pre><code class="code-highlight"><span class="code-line">ターゲット: 30代働く母親
+</span><span class="code-line">利用環境: 通勤中のスマートフォン
+</span><span class="code-line">制約条件: 片手操作、短時間利用
+</span></code></pre>
+<h3>2. ユーザー要求事項の明示</h3>
+<p><strong>目的</strong>: ユーザーニーズの具体化と優先順位付け</p>
+<pre class="language-markdown"><code class="language-markdown code-highlight"><span class="code-line"><span class="token title important"><span class="token punctuation">##</span> ユーザーストーリーの作成</span>
+</span><span class="code-line">「[ペルソナ]として、[ゴール]したい、なぜなら[理由]だから」
+</span><span class="code-line">
+</span><span class="code-line">例:
+</span><span class="code-line"><span class="token list punctuation">-</span> 忙しい母親として、電車内で簡単に買い物を完了したい、なぜなら家事の時間を確保したいから
+</span><span class="code-line"><span class="token list punctuation">-</span> 新人エンジニアとして、エラーメッセージを理解したい、なぜなら迅速に問題を解決したいから
+</span></code></pre>
+<p><strong>要求事項の分類</strong>:</p>
+<ul>
+<li><strong>Must</strong>: 必須機能（基本的なタスク完了に必要）</li>
+<li><strong>Want</strong>: 望ましい機能（満足度向上）</li>
+<li><strong>Nice</strong>: あれば良い機能（差別化要素）</li>
+</ul>
+<h3>3. 設計解決策の作成</h3>
+<p><strong>目的</strong>: 要求事項を満たす具体的な設計案の作成</p>
+<pre class="language-markdown"><code class="language-markdown code-highlight"><span class="code-line"><span class="token title important"><span class="token punctuation">##</span> 段階的なプロトタイピング</span>
+</span><span class="code-line">
+</span><span class="code-line"><span class="token list punctuation">1.</span> スケッチ・ワイヤーフレーム
+</span><span class="code-line">   → 基本構造の検討
+</span><span class="code-line">
+</span><span class="code-line"><span class="token list punctuation">2.</span> ペーパープロトタイプ
+</span><span class="code-line">   → 低コストでの初期検証
+</span><span class="code-line">
+</span><span class="code-line"><span class="token list punctuation">3.</span> デジタルプロトタイプ
+</span><span class="code-line">   → 詳細なインタラクション設計
+</span><span class="code-line">
+</span><span class="code-line"><span class="token list punctuation">4.</span> 実装プロトタイプ
+</span><span class="code-line">   → 技術的制約の確認
+</span></code></pre>
+<p><strong>情報アーキテクチャの設計</strong>:</p>
+<ul>
+<li>ナビゲーション構造</li>
+<li>コンテンツの階層化</li>
+<li>ラベリングシステム</li>
+</ul>
+<h3>4. 要求事項に照らした設計の評価</h3>
+<p><strong>目的</strong>: 設計が要求事項を満たしているかの検証</p>
+<pre class="language-markdown"><code class="language-markdown code-highlight"><span class="code-line"><span class="token title important"><span class="token punctuation">##</span> 評価手法の選択</span>
+</span><span class="code-line">
+</span><span class="code-line"><span class="token title important"><span class="token punctuation">###</span> ユーザビリティテスト</span>
+</span><span class="code-line"><span class="token list punctuation">-</span> 実際のユーザーによる操作確認
+</span><span class="code-line"><span class="token list punctuation">-</span> タスク完了率、所要時間、エラー数の測定
+</span><span class="code-line"><span class="token list punctuation">-</span> 主観的満足度の評価
+</span><span class="code-line">
+</span><span class="code-line"><span class="token title important"><span class="token punctuation">###</span> ヒューリスティック評価</span>
+</span><span class="code-line"><span class="token list punctuation">-</span> 専門家による設計原則に基づく検査
+</span><span class="code-line"><span class="token list punctuation">-</span> ニールセンの10の原則などを使用
+</span><span class="code-line"><span class="token list punctuation">-</span> 効率的な問題発見
+</span><span class="code-line">
+</span><span class="code-line"><span class="token title important"><span class="token punctuation">###</span> アクセシビリティチェック</span>
+</span><span class="code-line"><span class="token list punctuation">-</span> WCAG 2.1ガイドラインの確認
+</span><span class="code-line"><span class="token list punctuation">-</span> スクリーンリーダーでの動作確認
+</span><span class="code-line"><span class="token list punctuation">-</span> 多様なユーザーの利用可能性検証
+</span></code></pre>
+<h2>反復的アプローチの実践</h2>
+<p>HCDの最大の特徴は<strong>反復的な改善プロセス</strong>です。</p>
+<pre class="language-mermaid"><code class="language-mermaid code-highlight"><span class="code-line"><span class="token keyword">graph</span>
+</span><span class="code-line">    A<span class="token text string">[利用状況の理解]</span> <span class="token arrow operator">--></span> B<span class="token text string">[要求事項の明示]</span>
+</span><span class="code-line">    B <span class="token arrow operator">--></span> C<span class="token text string">[設計解決策の作成]</span>
+</span><span class="code-line">    C <span class="token arrow operator">--></span> D<span class="token text string">[設計の評価]</span>
+</span><span class="code-line">    D <span class="token arrow operator">--></span> A
+</span><span class="code-line">    D <span class="token arrow operator">--></span> B
+</span><span class="code-line">    D <span class="token arrow operator">--></span> C
+</span></code></pre>
+<h3>反復サイクルの例</h3>
+<pre class="language-markdown"><code class="language-markdown code-highlight"><span class="code-line"><span class="token title important"><span class="token punctuation">##</span> 第1回イテレーション</span>
+</span><span class="code-line"><span class="token list punctuation">1.</span> 調査: ユーザーインタビュー（5名）
+</span><span class="code-line"><span class="token list punctuation">2.</span> 要求: 基本機能の特定
+</span><span class="code-line"><span class="token list punctuation">3.</span> 設計: ワイヤーフレーム作成
+</span><span class="code-line"><span class="token list punctuation">4.</span> 評価: ペーパープロトタイプテスト
+</span><span class="code-line">   → 問題発見: ナビゲーションが分かりにくい
+</span><span class="code-line">
+</span><span class="code-line"><span class="token title important"><span class="token punctuation">##</span> 第2回イテレーション</span>
+</span><span class="code-line"><span class="token list punctuation">1.</span> 調査: ナビゲーション使用パターンの詳細分析
+</span><span class="code-line"><span class="token list punctuation">2.</span> 要求: ナビゲーション要求事項の見直し
+</span><span class="code-line"><span class="token list punctuation">3.</span> 設計: 改善されたナビゲーション設計
+</span><span class="code-line"><span class="token list punctuation">4.</span> 評価: デジタルプロトタイプテスト
+</span><span class="code-line">   → 改善確認、新たな課題発見
+</span></code></pre>
+<h2>実践時の重要ポイント</h2>
+<h3>早期からのユーザー参加</h3>
+<pre class="language-markdown"><code class="language-markdown code-highlight"><span class="code-line">× 悪い例: 完成間近になってからユーザーテスト
+</span><span class="code-line">○ 良い例: 企画段階からユーザーインタビュー実施
+</span></code></pre>
+<h3>データドリブンな意思決定</h3>
+<pre class="language-markdown"><code class="language-markdown code-highlight"><span class="code-line">× 悪い例: 「たぶんユーザーはこう思うだろう」
+</span><span class="code-line">○ 良い例: 「ユーザー調査の結果、80%が...」
+</span></code></pre>
+<h3>多様性の考慮</h3>
+<pre class="language-markdown"><code class="language-markdown code-highlight"><span class="code-line">チェックリスト:
+</span><span class="code-line">□ 異なる年齢層のユーザー
+</span><span class="code-line">□ 技術習熟度の違い
+</span><span class="code-line">□ 身体的制約のあるユーザー
+</span><span class="code-line">□ 異なる利用環境（デバイス、ネットワーク）
+</span></code></pre>
+<h2>問題集(AI生成)</h2>
+<h3>【基本知識編】プロセス名と順序</h3>
+<p><strong>問題1</strong> ISO 9241-210で定義されているHCDの4つの基本プロセスの正しい組み合わせはどれか。</p>
+<p>A. 利用状況の理解と明示 / ユーザー要求事項の明示 / 設計解決策の作成 / 要求事項に照らした設計の評価</p>
+<p>B. 市場調査 / 要求事項の明示 / 設計解決策の作成 / 製品テスト</p>
+<p>C. ユーザー調査 / 仕様書作成 / プロトタイプ作成 / 品質評価</p>
+<p>D. ペルソナ作成 / 要求分析 / UI設計 / ユーザビリティテスト</p>
+<p><strong>解答：A</strong>
+<strong>解説：</strong> ISO 9241-210では4つのプロセスが明確に定義されています。特に「明示」「作成」「評価」の表現が重要です。</p>
+<hr>
+<p><strong>問題2</strong> HCDプロセスの実行方法として最も適切なものはどれか。</p>
+<p>A. 1→2→3→4の順序で一度だけ実行する</p>
+<p>B. 各プロセスを完全に並行して同時実行する</p>
+<p>C. 4つのプロセスを反復的に繰り返し実行する</p>
+<p>D. 予算に応じてプロセスを省略して実行する</p>
+<p><strong>解答：C</strong>
+<strong>解説：</strong> HCDの最大の特徴は反復的アプローチです。評価結果を受けて前のプロセスに戻り、改善を重ねます。</p>
+<h3>【手法分類編】具体的活動の理解</h3>
+<p><strong>問題3</strong> 「ペルソナの作成」はHCDのどのプロセスに該当するか。</p>
+<p>A. 利用状況の理解と明示</p>
+<p>B. ユーザー要求事項の明示</p>
+<p>C. 設計解決策の作成</p>
+<p>D. 要求事項に照らした設計の評価</p>
+<p><strong>解答：A</strong>
+<strong>解説：</strong> ペルソナは典型的なユーザー像を設定し、利用状況を明確にする手法です。</p>
+<hr>
+<p><strong>問題4</strong> 「ユーザーストーリー」の作成が該当するプロセスはどれか。</p>
+<p>A. 利用状況の理解と明示</p>
+<p>B. ユーザー要求事項の明示</p>
+<p>C. 設計解決策の作成</p>
+<p>D. 要求事項に照らした設計の評価</p>
+<p><strong>解答：B</strong>
+<strong>解説：</strong> ユーザーストーリーは「○○として、△△したい、なぜなら□□だから」の形式でユーザーニーズを明確化する手法です。</p>
+<hr>
+<p><strong>問題5</strong> 「ヒューリスティック評価」が該当するプロセスはどれか。</p>
+<p>A. 利用状況の理解と明示</p>
+<p>B. ユーザー要求事項の明示</p>
+<p>C. 設計解決策の作成</p>
+<p>D. 要求事項に照らした設計の評価</p>
+<p><strong>解答：D</strong>
+<strong>解説：</strong> ヒューリスティック評価は専門家による設計原則に基づく検査で、設計の評価プロセスに含まれます。</p>
+<h3>【実践応用編】シナリオベース問題</h3>
+<p><strong>問題6</strong> ECサイトの改善プロジェクトで、「30代働く母親が通勤中にスマートフォンで買い物をしている」という情報を収集した。この活動はどのプロセスに該当するか。</p>
+<p>A. 利用状況の理解と明示</p>
+<p>B. ユーザー要求事項の明示</p>
+<p>C. 設計解決策の作成</p>
+<p>D. 要求事項に照らした設計の評価</p>
+<p><strong>解答：A</strong>
+<strong>解説：</strong> ユーザーの属性と利用環境の把握は「利用状況の理解と明示」プロセスの活動です。</p>
+<hr>
+<p><strong>問題7</strong> ユーザビリティテストで「チェックアウトボタンが見つからない」という問題が発見された。次に実行すべきプロセスはどれか。</p>
+<p>A. 利用状況の理解と明示</p>
+<p>B. ユーザー要求事項の明示</p>
+<p>C. 設計解決策の作成</p>
+<p>D. プロジェクトの終了</p>
+<p><strong>解答：C</strong>
+<strong>解説：</strong> 評価で問題が発見されたら、その解決策を設計するプロセスに戻ります。HCDは反復的なアプローチです。</p>
+<h3>【用語理解編】重要概念の確認</h3>
+<p><strong>問題8</strong> HCDにおける「反復的アプローチ」の主な目的はどれか。</p>
+<p>A. 開発スピードの向上</p>
+<p>B. 開発コストの削減</p>
+<p>C. 設計品質の継続的改善</p>
+<p>D. プロジェクト管理の効率化</p>
+<p><strong>解答：C</strong>
+<strong>解説：</strong> 反復により評価結果を設計に反映し、ユーザーニーズにより適した設計に改善していくことが目的です。</p>
+<hr>
+<p><strong>問題9</strong> HCDプロセスで「要求事項の優先順位付け」を行う主な理由はどれか。</p>
+<p>A. 開発工数の正確な見積もりのため</p>
+<p>B. 限られたリソースで最大の価値を提供するため</p>
+<p>C. プロジェクトスケジュールの短縮のため</p>
+<p>D. チームメンバーの役割分担のため</p>
+<p><strong>解答：B</strong>
+<strong>解説：</strong> Must/Want/Niceの分類により、限られた時間と予算で最も重要なユーザーニーズを満たすことを目指します。</p>
+<h3>【総合理解編】プロセス連携の把握</h3>
+<p><strong>問題10</strong> HCDプロセスにおいて、各プロセスが「明示」「作成」「評価」という異なる動詞を使う理由として最も適切なものはどれか。</p>
+<p>A. 国際標準での表記統一のため</p>
+<p>B. 各プロセスの成果物の性質が異なるため</p>
+<p>C. プロセスの実行順序を明確にするため</p>
+<p>D. 専門用語として定着しているため</p>
+<p><strong>解答：B</strong>
+<strong>解説：</strong> 「明示」は情報の整理と表現、「作成」は新しいものの生成、「評価」は判断を表し、それぞれ異なる性質の活動を示しています。</p>
+<hr>
+<h2>まとめとベストプラクティス</h2>
+<p>HCDプロセスを成功させるための要点：</p>
+<p><strong>計画段階</strong></p>
+<ul>
+<li>適切なユーザー代表の選定</li>
+<li>反復回数とスケジュールの設定</li>
+<li>評価基準の事前定義</li>
+</ul>
+<p><strong>実行段階</strong></p>
+<ul>
+<li>各プロセスでの成果物の明確化</li>
+<li>ステークホルダーとの継続的な共有</li>
+<li>学んだことの文書化</li>
+</ul>
+<p><strong>改善段階</strong></p>
+<ul>
+<li>評価結果の客観的な分析</li>
+<li>改善優先順位の決定</li>
+<li>次回イテレーションの計画立案</li>
+</ul>
+<h2>参考資料</h2>
+<ul>
+<li><a href="https://www.iso.org/standard/77520.html" rel="nofollow" target="_blank">ISO 9241-210:2019 - 人間中心設計</a></li>
+<li><a href="https://www.hcdnet.org/" rel="nofollow" target="_blank">HCD-Net 人間中心設計推進機構</a></li>
+<li><a href="https://www.nngroup.com/articles/" rel="nofollow" target="_blank">Nielsen Norman Group - UX Research Methods</a></li>
+</ul>
+<hr>2:["$","article",null,{"className":"min-h-screen","children":[["$","div",null,{"className":"bg-gradient-to-b from-green-50/60 to-transparent dark:from-gray-900 dark:to-transparent","children":["$","div",null,{"className":"max-w-4xl mx-auto px-6 md:px-8 pt-28 md:pt-32 pb-10 md:pb-14","children":[["$","h1",null,{"className":"font-katyou text-4xl md:text-5xl lg:text-6xl text-gray-900 dark:text-white leading-tight mb-6","children":"HCD（人間中心設計）プロセスガイド"}],["$","time",null,{"className":"text-base font-medium text-gray-600 dark:text-gray-400","children":"2025-05-31"}]]}]}],["$","div",null,{"className":"max-w-4xl mx-auto px-6 md:px-8 pb-16 md:pb-24","children":[["$","div",null,{"id":"post-content","className":"prose prose-lg dark:prose-invert max-w-none prose-headings:font-katyou prose-headings:tracking-tight prose-h2:text-3xl prose-h2:mt-12 prose-h2:mb-6 prose-h3:text-2xl prose-h3:mt-10 prose-h3:mb-5 prose-h4:text-xl prose-h4:mt-8 prose-h4:mb-4 prose-p:leading-relaxed prose-p:mb-6 prose-li:my-2 prose-a:text-green-600 prose-a:no-underline prose-a:font-medium hover:prose-a:text-green-700 hover:prose-a:underline dark:prose-a:text-green-400 dark:hover:prose-a:text-green-300 prose-code:text-green-700 prose-code:bg-green-50 dark:prose-code:text-green-300 dark:prose-code:bg-green-900/20 prose-pre:bg-gray-900 dark:prose-pre:bg-gray-950 prose-img:rounded-lg prose-img:shadow-md prose-hr:my-12 prose-hr:border-gray-300 dark:prose-hr:border-gray-700 border-t border-gray-200 dark:border-gray-800 pt-8","dangerouslySetInnerHTML":{"__html":"$d"}}],["$","$Le",null,{}],["$","div",null,{"className":"mt-16 pt-10 border-t border-gray-200 dark:border-gray-800","children":[["$","p",null,{"className":"text-sm font-semibold text-gray-500 dark:text-gray-400 mb-4","children":"タグ"}],["$","div",null,{"className":"flex flex-wrap gap-2.5","children":[["$","$L9","HCD",{"href":"/tags/HCD","className":"inline-flex items-center px-4 py-1.5 rounded-full text-sm font-medium bg-green-100 text-green-800 dark:bg-green-900/30 dark:text-green-300 hover:bg-green-200 dark:hover:bg-green-800/50 transition-colors duration-200 shadow-sm","children":"HCD"}],["$","$L9","UXデザイン",{"href":"/tags/UXデザイン","className":"inline-flex items-center px-4 py-1.5 rounded-full text-sm font-medium bg-green-100 text-green-800 dark:bg-green-900/30 dark:text-green-300 hover:bg-green-200 dark:hover:bg-green-800/50 transition-colors duration-200 shadow-sm","children":"UXデザイン"}],["$","$L9","人間中心設計",{"href":"/tags/人間中心設計","className":"inline-flex items-center px-4 py-1.5 rounded-full text-sm font-medium bg-green-100 text-green-800 dark:bg-green-900/30 dark:text-green-300 hover:bg-green-200 dark:hover:bg-green-800/50 transition-colors duration-200 shadow-sm","children":"人間中心設計"}],["$","$L9","ユーザビリティ",{"href":"/tags/ユーザビリティ","className":"inline-flex items-center px-4 py-1.5 rounded-full text-sm font-medium bg-green-100 text-green-800 dark:bg-green-900/30 dark:text-green-300 hover:bg-green-200 dark:hover:bg-green-800/50 transition-colors duration-200 shadow-sm","children":"ユーザビリティ"}],["$","$L9","ISO9241-210",{"href":"/tags/ISO9241-210","className":"inline-flex items-center px-4 py-1.5 rounded-full text-sm font-medium bg-green-100 text-green-800 dark:bg-green-900/30 dark:text-green-300 hover:bg-green-200 dark:hover:bg-green-800/50 transition-colors duration-200 shadow-sm","children":"ISO9241-210"}]]}]]}]]}]]}]
+c:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"HCD（人間中心設計）プロセスガイド | ブログタイトル"}],["$","meta","3",{"name":"description","content":"ISO 9241-210準拠のHCDプロセスを実践的に学ぶ - 基礎検定対策も含む"}],["$","meta","4",{"property":"og:title","content":"HCD（人間中心設計）プロセスガイド"}],["$","meta","5",{"property":"og:description","content":"ISO 9241-210準拠のHCDプロセスを実践的に学ぶ - 基礎検定対策も含む"}],["$","meta","6",{"property":"og:url","content":"https://maemaemae.blog/posts/hcd_20250531"}],["$","meta","7",{"property":"og:image","content":"https://maemaemae.blog/images/hcd-process-guide.jpg"}],["$","meta","8",{"property":"og:type","content":"article"}],["$","meta","9",{"property":"article:published_time","content":"2025-05-31"}],["$","meta","10",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","11",{"name":"twitter:title","content":"HCD（人間中心設計）プロセスガイド"}],["$","meta","12",{"name":"twitter:description","content":"ISO 9241-210準拠のHCDプロセスを実践的に学ぶ - 基礎検定対策も含む"}],["$","meta","13",{"name":"twitter:image","content":"https://maemaemae.blog/images/hcd-process-guide.jpg"}],["$","link","14",{"rel":"icon","href":"/favicon.ico","type":"image/x-icon","sizes":"16x16"}],["$","meta","15",{"name":"next-size-adjust"}]]
+1:null

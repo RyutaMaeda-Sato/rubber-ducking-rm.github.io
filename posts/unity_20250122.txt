@@ -1,0 +1,220 @@
+3:I[4707,[],""]
+5:I[6423,[],""]
+6:I[4888,["972","static/chunks/972-f241a8fd644428c6.js","70","static/chunks/70-f52c2ad284c6cd86.js","185","static/chunks/app/layout-97d049cf0fc78146.js"],"GoogleAnalytics"]
+7:I[6806,["972","static/chunks/972-f241a8fd644428c6.js","70","static/chunks/70-f52c2ad284c6cd86.js","185","static/chunks/app/layout-97d049cf0fc78146.js"],"default"]
+8:I[7213,["972","static/chunks/972-f241a8fd644428c6.js","70","static/chunks/70-f52c2ad284c6cd86.js","185","static/chunks/app/layout-97d049cf0fc78146.js"],"default"]
+9:I[2972,["972","static/chunks/972-f241a8fd644428c6.js","333","static/chunks/app/posts/%5Bslug%5D/page-acd6669982df1354.js"],""]
+a:I[5878,["972","static/chunks/972-f241a8fd644428c6.js","70","static/chunks/70-f52c2ad284c6cd86.js","185","static/chunks/app/layout-97d049cf0fc78146.js"],"Image"]
+b:I[2374,["972","static/chunks/972-f241a8fd644428c6.js","70","static/chunks/70-f52c2ad284c6cd86.js","185","static/chunks/app/layout-97d049cf0fc78146.js"],"default"]
+4:["slug","unity_20250122","d"]
+0:["0oJGNGFmzz_LorUWHIimP",[[["",{"children":["posts",{"children":[["slug","unity_20250122","d"],{"children":["__PAGE__?{\"slug\":\"unity_20250122\"}",{}]}]}]},"$undefined","$undefined",true],["",{"children":["posts",{"children":[["slug","unity_20250122","d"],{"children":["__PAGE__",{},[["$L1","$L2",null],null],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","posts","children","$4","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","posts","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/3add334ee59f67ac.css","precedence":"next","crossOrigin":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/css/cec3dd424af6abe7.css","precedence":"next","crossOrigin":"$undefined"}],["$","link","2",{"rel":"stylesheet","href":"/_next/static/css/31924b81bd2c71c2.css","precedence":"next","crossOrigin":"$undefined"}]],["$","html",null,{"lang":"jp","className":"__variable_f367f3 __variable_8c8862 __variable_6beb74 __variable_b784c9 __variable_d575de","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){try{var s=localStorage.getItem('darkMode');var p=window.matchMedia('(prefers-color-scheme: dark)').matches;if(s!==null?s==='true':p){document.documentElement.classList.add('dark');}}catch(e){}})();"}}],["$","$L6",null,{"gaId":"G-FWRP8962MB"}]]}],["$","body",null,{"className":"__className_f367f3","children":["$","$L7",null,{"children":[["$","header",null,{"children":["$","$L8",null,{"children":["$","div",null,{"className":"fixed top-0 left-0 w-full z-50 bg-green-700 dark:bg-gray-900 shadow-md border-b border-green-600/50 dark:border-gray-800","children":["$","div",null,{"className":"max-w-7xl mx-auto","children":["$","div",null,{"className":"flex items-center justify-between px-6 md:px-8 h-20 md:h-24","children":[["$","$L9",null,{"href":"/","className":"group flex items-center gap-3 transition-opacity hover:opacity-80","children":[["$","$La",null,{"alt":"Maemaemae","src":"/header.jpg","width":44,"height":44,"className":"rounded-full object-cover ring-2 ring-white/20 group-hover:ring-white/40 transition-all"}],["$","span",null,{"className":"text-xl md:text-2xl font-katyou text-[#fffef9] tracking-wide","children":"Maemaemae"}]]}],["$","div",null,{"className":"flex items-center gap-2","children":[["$","a",null,{"href":"https://x.com/maemaemae_rm","target":"_blank","rel":"noopener noreferrer","className":"p-2.5 rounded-full hover:bg-white/10 transition-colors","aria-label":"X (Twitter)","children":["$","$La",null,{"src":"/x-logo-white.png","width":24,"height":24,"alt":""}]}],["$","$Lb",null,{}]]}]]}]}]}]}]}],["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[]}]]}]}]]}]],null],null],["$Lc",null]]]]
+e:I[7426,["972","static/chunks/972-f241a8fd644428c6.js","333","static/chunks/app/posts/%5Bslug%5D/page-acd6669982df1354.js"],"default"]
+d:T780f,<h2>質問内容</h2>
+<p>Unityにおいて、オブジェクトのY方向（上下方向）に力を加える方法を教えてください。特に以下の点について知りたいです：</p>
+<ol>
+<li>基本的な力の適用方法</li>
+<li>様々な力の適用モード（ForceMode）の違い</li>
+<li>実践的な使用例（ジャンプ、浮力など）</li>
+</ol>
+<h2>回答</h2>
+<p>こんにちは！UnityでのY方向への力の適用方法について、実践的な観点から説明します。</p>
+<h3>1. 基本的な概念と構文</h3>
+<p>Unityでは主にRigidbodyコンポーネントを持つオブジェクトに対して力を加えることができます。Y方向（通常は上方向）への力の適用の基本的な方法は以下の通りです：</p>
+<pre class="language-csharp"><code class="language-csharp code-highlight"><span class="code-line"><span class="token keyword">using</span> <span class="token namespace">UnityEngine</span><span class="token punctuation">;</span>
+</span><span class="code-line">
+</span><span class="code-line"><span class="token keyword">public</span> <span class="token keyword">class</span> <span class="token class-name">ForceApplier</span> <span class="token punctuation">:</span> <span class="token type-list"><span class="token class-name">MonoBehaviour</span></span>
+</span><span class="code-line"><span class="token punctuation">{</span>
+</span><span class="code-line">    <span class="token comment">// インスペクターで設定できるパラメータ</span>
+</span><span class="code-line">    <span class="token punctuation">[</span><span class="token attribute"><span class="token class-name">SerializeField</span></span><span class="token punctuation">]</span> <span class="token keyword">private</span> <span class="token class-name"><span class="token keyword">float</span></span> forceAmount <span class="token operator">=</span> <span class="token number">10f</span><span class="token punctuation">;</span>
+</span><span class="code-line">
+</span><span class="code-line">    <span class="token comment">// コンポーネント参照</span>
+</span><span class="code-line">    <span class="token keyword">private</span> <span class="token class-name">Rigidbody</span> rb<span class="token punctuation">;</span>
+</span><span class="code-line">
+</span><span class="code-line">    <span class="token return-type class-name"><span class="token keyword">void</span></span> <span class="token function">Start</span><span class="token punctuation">(</span><span class="token punctuation">)</span>
+</span><span class="code-line">    <span class="token punctuation">{</span>
+</span><span class="code-line">        <span class="token comment">// Rigidbodyコンポーネントの取得</span>
+</span><span class="code-line">        rb <span class="token operator">=</span> <span class="token generic-method"><span class="token function">GetComponent</span><span class="token generic class-name"><span class="token punctuation">&#x3C;</span>Rigidbody<span class="token punctuation">></span></span></span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">;</span>
+</span><span class="code-line">    <span class="token punctuation">}</span>
+</span><span class="code-line">
+</span><span class="code-line">    <span class="token return-type class-name"><span class="token keyword">void</span></span> <span class="token function">Update</span><span class="token punctuation">(</span><span class="token punctuation">)</span>
+</span><span class="code-line">    <span class="token punctuation">{</span>
+</span><span class="code-line">        <span class="token comment">// 例：スペースキーを押したときにY方向に力を加える</span>
+</span><span class="code-line">        <span class="token keyword">if</span> <span class="token punctuation">(</span>Input<span class="token punctuation">.</span><span class="token function">GetKeyDown</span><span class="token punctuation">(</span>KeyCode<span class="token punctuation">.</span>Space<span class="token punctuation">)</span><span class="token punctuation">)</span>
+</span><span class="code-line">        <span class="token punctuation">{</span>
+</span><span class="code-line">            <span class="token function">ApplyYForce</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">;</span>
+</span><span class="code-line">        <span class="token punctuation">}</span>
+</span><span class="code-line">    <span class="token punctuation">}</span>
+</span><span class="code-line">
+</span><span class="code-line">    <span class="token return-type class-name"><span class="token keyword">void</span></span> <span class="token function">ApplyYForce</span><span class="token punctuation">(</span><span class="token punctuation">)</span>
+</span><span class="code-line">    <span class="token punctuation">{</span>
+</span><span class="code-line">        <span class="token comment">// 方法1: 座標を直接指定</span>
+</span><span class="code-line">        rb<span class="token punctuation">.</span><span class="token function">AddForce</span><span class="token punctuation">(</span><span class="token number">0</span><span class="token punctuation">,</span> forceAmount<span class="token punctuation">,</span> <span class="token number">0</span><span class="token punctuation">)</span><span class="token punctuation">;</span>
+</span><span class="code-line">
+</span><span class="code-line">        <span class="token comment">// 方法2: Vector3.upを使用</span>
+</span><span class="code-line">        <span class="token comment">// rb.AddForce(Vector3.up * forceAmount);</span>
+</span><span class="code-line">    <span class="token punctuation">}</span>
+</span><span class="code-line"><span class="token punctuation">}</span>
+</span></code></pre>
+<h3>2. 異なる力の適用モード（ForceMode）</h3>
+<p>Unityでは力を加える際の挙動を制御する4つのForceModeが用意されています：</p>
+<pre class="language-csharp"><code class="language-csharp code-highlight"><span class="code-line"><span class="token comment">// 継続的な力を加える (F = ma) - デフォルト</span>
+</span><span class="code-line">rb<span class="token punctuation">.</span><span class="token function">AddForce</span><span class="token punctuation">(</span>Vector3<span class="token punctuation">.</span>up <span class="token operator">*</span> forceAmount<span class="token punctuation">,</span> ForceMode<span class="token punctuation">.</span>Force<span class="token punctuation">)</span><span class="token punctuation">;</span>
+</span><span class="code-line">
+</span><span class="code-line"><span class="token comment">// 瞬間的な力（インパルス）を加える</span>
+</span><span class="code-line">rb<span class="token punctuation">.</span><span class="token function">AddForce</span><span class="token punctuation">(</span>Vector3<span class="token punctuation">.</span>up <span class="token operator">*</span> forceAmount<span class="token punctuation">,</span> ForceMode<span class="token punctuation">.</span>Impulse<span class="token punctuation">)</span><span class="token punctuation">;</span>
+</span><span class="code-line">
+</span><span class="code-line"><span class="token comment">// 質量を無視して加速度として適用</span>
+</span><span class="code-line">rb<span class="token punctuation">.</span><span class="token function">AddForce</span><span class="token punctuation">(</span>Vector3<span class="token punctuation">.</span>up <span class="token operator">*</span> forceAmount<span class="token punctuation">,</span> ForceMode<span class="token punctuation">.</span>Acceleration<span class="token punctuation">)</span><span class="token punctuation">;</span>
+</span><span class="code-line">
+</span><span class="code-line"><span class="token comment">// 質量を無視して速度変化として適用</span>
+</span><span class="code-line">rb<span class="token punctuation">.</span><span class="token function">AddForce</span><span class="token punctuation">(</span>Vector3<span class="token punctuation">.</span>up <span class="token operator">*</span> forceAmount<span class="token punctuation">,</span> ForceMode<span class="token punctuation">.</span>VelocityChange<span class="token punctuation">)</span><span class="token punctuation">;</span>
+</span></code></pre>
+<p>各モードの特徴と使い分け：</p>
+<p><strong>ForceMode.Force</strong></p>
+<ul>
+<li>説明: 継続的な力を加えます。質量の影響を受けるため、重いオブジェクトほど加速は緩やかになります。</li>
+<li>適した使用場面: エンジンの推進力、風の影響、水流など、時間をかけて徐々に影響する力に最適です。</li>
+</ul>
+<p><strong>ForceMode.Impulse</strong></p>
+<ul>
+<li>説明: 瞬間的な力（衝撃）を加えます。質量の影響を受けますが、一度に大きな力を適用します。</li>
+<li>適した使用場面: ジャンプ、爆発による吹き飛ばし、衝突反発など、瞬間的な力が必要な場面に適しています。</li>
+</ul>
+<p><strong>ForceMode.Acceleration</strong></p>
+<ul>
+<li>説明: 質量に関係なく一定の加速度として力を適用します。すべてのオブジェクトが同じように加速します。</li>
+<li>適した使用場面: 重力のような環境効果、一定の加速が必要な場面、質量に関わらず同じ挙動が求められる場合に使用します。</li>
+</ul>
+<p><strong>ForceMode.VelocityChange</strong></p>
+<ul>
+<li>説明: 質量に関係なく速度の変化として直接適用します。即座に速度を変更できます。</li>
+<li>適した使用場面: テレポート効果、瞬間移動、速度の即時リセットなど、物理法則よりも直接的な制御が必要な場合に使用します。</li>
+</ul>
+<h3>3. 実践的な使用例</h3>
+<h4>3.1 ジャンプ機能の実装</h4>
+<pre class="language-csharp"><code class="language-csharp code-highlight"><span class="code-line"><span class="token keyword">using</span> <span class="token namespace">UnityEngine</span><span class="token punctuation">;</span>
+</span><span class="code-line">
+</span><span class="code-line"><span class="token keyword">public</span> <span class="token keyword">class</span> <span class="token class-name">CharacterJump</span> <span class="token punctuation">:</span> <span class="token type-list"><span class="token class-name">MonoBehaviour</span></span>
+</span><span class="code-line"><span class="token punctuation">{</span>
+</span><span class="code-line">    <span class="token punctuation">[</span><span class="token attribute"><span class="token class-name">SerializeField</span></span><span class="token punctuation">]</span> <span class="token keyword">private</span> <span class="token class-name"><span class="token keyword">float</span></span> jumpForce <span class="token operator">=</span> <span class="token number">5f</span><span class="token punctuation">;</span>
+</span><span class="code-line">    <span class="token punctuation">[</span><span class="token attribute"><span class="token class-name">SerializeField</span></span><span class="token punctuation">]</span> <span class="token keyword">private</span> <span class="token class-name">Transform</span> groundCheck<span class="token punctuation">;</span>
+</span><span class="code-line">    <span class="token punctuation">[</span><span class="token attribute"><span class="token class-name">SerializeField</span></span><span class="token punctuation">]</span> <span class="token keyword">private</span> <span class="token class-name"><span class="token keyword">float</span></span> groundCheckRadius <span class="token operator">=</span> <span class="token number">0.2f</span><span class="token punctuation">;</span>
+</span><span class="code-line">    <span class="token punctuation">[</span><span class="token attribute"><span class="token class-name">SerializeField</span></span><span class="token punctuation">]</span> <span class="token keyword">private</span> <span class="token class-name">LayerMask</span> groundLayer<span class="token punctuation">;</span>
+</span><span class="code-line">
+</span><span class="code-line">    <span class="token keyword">private</span> <span class="token class-name">Rigidbody</span> rb<span class="token punctuation">;</span>
+</span><span class="code-line">    <span class="token keyword">private</span> <span class="token class-name"><span class="token keyword">bool</span></span> isGrounded<span class="token punctuation">;</span>
+</span><span class="code-line">
+</span><span class="code-line">    <span class="token return-type class-name"><span class="token keyword">void</span></span> <span class="token function">Start</span><span class="token punctuation">(</span><span class="token punctuation">)</span>
+</span><span class="code-line">    <span class="token punctuation">{</span>
+</span><span class="code-line">        rb <span class="token operator">=</span> <span class="token generic-method"><span class="token function">GetComponent</span><span class="token generic class-name"><span class="token punctuation">&#x3C;</span>Rigidbody<span class="token punctuation">></span></span></span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">;</span>
+</span><span class="code-line">    <span class="token punctuation">}</span>
+</span><span class="code-line">
+</span><span class="code-line">    <span class="token return-type class-name"><span class="token keyword">void</span></span> <span class="token function">Update</span><span class="token punctuation">(</span><span class="token punctuation">)</span>
+</span><span class="code-line">    <span class="token punctuation">{</span>
+</span><span class="code-line">        <span class="token comment">// 地面との接触を判定</span>
+</span><span class="code-line">        isGrounded <span class="token operator">=</span> Physics<span class="token punctuation">.</span><span class="token function">CheckSphere</span><span class="token punctuation">(</span>groundCheck<span class="token punctuation">.</span>position<span class="token punctuation">,</span> groundCheckRadius<span class="token punctuation">,</span> groundLayer<span class="token punctuation">)</span><span class="token punctuation">;</span>
+</span><span class="code-line">
+</span><span class="code-line">        <span class="token comment">// ジャンプ入力</span>
+</span><span class="code-line">        <span class="token keyword">if</span> <span class="token punctuation">(</span>Input<span class="token punctuation">.</span><span class="token function">GetKeyDown</span><span class="token punctuation">(</span>KeyCode<span class="token punctuation">.</span>Space<span class="token punctuation">)</span> <span class="token operator">&#x26;&#x26;</span> isGrounded<span class="token punctuation">)</span>
+</span><span class="code-line">        <span class="token punctuation">{</span>
+</span><span class="code-line">            <span class="token function">Jump</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">;</span>
+</span><span class="code-line">        <span class="token punctuation">}</span>
+</span><span class="code-line">    <span class="token punctuation">}</span>
+</span><span class="code-line">
+</span><span class="code-line">    <span class="token return-type class-name"><span class="token keyword">void</span></span> <span class="token function">Jump</span><span class="token punctuation">(</span><span class="token punctuation">)</span>
+</span><span class="code-line">    <span class="token punctuation">{</span>
+</span><span class="code-line">        <span class="token comment">// ジャンプにはImpulseモードが適している</span>
+</span><span class="code-line">        rb<span class="token punctuation">.</span><span class="token function">AddForce</span><span class="token punctuation">(</span>Vector3<span class="token punctuation">.</span>up <span class="token operator">*</span> jumpForce<span class="token punctuation">,</span> ForceMode<span class="token punctuation">.</span>Impulse<span class="token punctuation">)</span><span class="token punctuation">;</span>
+</span><span class="code-line">    <span class="token punctuation">}</span>
+</span><span class="code-line"><span class="token punctuation">}</span>
+</span></code></pre>
+<h4>3.2 浮力の実装</h4>
+<pre class="language-csharp"><code class="language-csharp code-highlight"><span class="code-line"><span class="token keyword">using</span> <span class="token namespace">UnityEngine</span><span class="token punctuation">;</span>
+</span><span class="code-line">
+</span><span class="code-line"><span class="token keyword">public</span> <span class="token keyword">class</span> <span class="token class-name">BuoyancyEffect</span> <span class="token punctuation">:</span> <span class="token type-list"><span class="token class-name">MonoBehaviour</span></span>
+</span><span class="code-line"><span class="token punctuation">{</span>
+</span><span class="code-line">    <span class="token punctuation">[</span><span class="token attribute"><span class="token class-name">SerializeField</span></span><span class="token punctuation">]</span> <span class="token keyword">private</span> <span class="token class-name"><span class="token keyword">float</span></span> volume <span class="token operator">=</span> <span class="token number">1.0f</span><span class="token punctuation">;</span>
+</span><span class="code-line">    <span class="token punctuation">[</span><span class="token attribute"><span class="token class-name">SerializeField</span></span><span class="token punctuation">]</span> <span class="token keyword">private</span> <span class="token class-name"><span class="token keyword">float</span></span> waterDensity <span class="token operator">=</span> <span class="token number">1.0f</span><span class="token punctuation">;</span>
+</span><span class="code-line">    <span class="token punctuation">[</span><span class="token attribute"><span class="token class-name">SerializeField</span></span><span class="token punctuation">]</span> <span class="token keyword">private</span> <span class="token class-name">Transform</span> waterSurfaceCheck<span class="token punctuation">;</span>
+</span><span class="code-line">
+</span><span class="code-line">    <span class="token keyword">private</span> <span class="token class-name">Rigidbody</span> rb<span class="token punctuation">;</span>
+</span><span class="code-line">    <span class="token keyword">private</span> <span class="token class-name"><span class="token keyword">bool</span></span> isUnderwater<span class="token punctuation">;</span>
+</span><span class="code-line">
+</span><span class="code-line">    <span class="token return-type class-name"><span class="token keyword">void</span></span> <span class="token function">Start</span><span class="token punctuation">(</span><span class="token punctuation">)</span>
+</span><span class="code-line">    <span class="token punctuation">{</span>
+</span><span class="code-line">        rb <span class="token operator">=</span> <span class="token generic-method"><span class="token function">GetComponent</span><span class="token generic class-name"><span class="token punctuation">&#x3C;</span>Rigidbody<span class="token punctuation">></span></span></span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">;</span>
+</span><span class="code-line">    <span class="token punctuation">}</span>
+</span><span class="code-line">
+</span><span class="code-line">    <span class="token return-type class-name"><span class="token keyword">void</span></span> <span class="token function">FixedUpdate</span><span class="token punctuation">(</span><span class="token punctuation">)</span>
+</span><span class="code-line">    <span class="token punctuation">{</span>
+</span><span class="code-line">        <span class="token comment">// 水中判定</span>
+</span><span class="code-line">        isUnderwater <span class="token operator">=</span> waterSurfaceCheck<span class="token punctuation">.</span>position<span class="token punctuation">.</span>y <span class="token operator">&#x3C;</span> <span class="token number">0</span><span class="token punctuation">;</span> <span class="token comment">// 0を水面の高さに置き換え</span>
+</span><span class="code-line">
+</span><span class="code-line">        <span class="token keyword">if</span> <span class="token punctuation">(</span>isUnderwater<span class="token punctuation">)</span>
+</span><span class="code-line">        <span class="token punctuation">{</span>
+</span><span class="code-line">            <span class="token comment">// アルキメデスの原理に基づく浮力</span>
+</span><span class="code-line">            <span class="token class-name"><span class="token keyword">float</span></span> buoyancyForce <span class="token operator">=</span> volume <span class="token operator">*</span> waterDensity <span class="token operator">*</span> Physics<span class="token punctuation">.</span>gravity<span class="token punctuation">.</span>magnitude<span class="token punctuation">;</span>
+</span><span class="code-line">            rb<span class="token punctuation">.</span><span class="token function">AddForce</span><span class="token punctuation">(</span>Vector3<span class="token punctuation">.</span>up <span class="token operator">*</span> buoyancyForce<span class="token punctuation">)</span><span class="token punctuation">;</span>
+</span><span class="code-line">        <span class="token punctuation">}</span>
+</span><span class="code-line">    <span class="token punctuation">}</span>
+</span><span class="code-line"><span class="token punctuation">}</span>
+</span></code></pre>
+<h4>3.3 風力や揚力の実装</h4>
+<pre class="language-csharp"><code class="language-csharp code-highlight"><span class="code-line"><span class="token keyword">using</span> <span class="token namespace">UnityEngine</span><span class="token punctuation">;</span>
+</span><span class="code-line">
+</span><span class="code-line"><span class="token keyword">public</span> <span class="token keyword">class</span> <span class="token class-name">WindLiftEffect</span> <span class="token punctuation">:</span> <span class="token type-list"><span class="token class-name">MonoBehaviour</span></span>
+</span><span class="code-line"><span class="token punctuation">{</span>
+</span><span class="code-line">    <span class="token punctuation">[</span><span class="token attribute"><span class="token class-name">SerializeField</span></span><span class="token punctuation">]</span> <span class="token keyword">private</span> <span class="token class-name"><span class="token keyword">float</span></span> windStrength <span class="token operator">=</span> <span class="token number">2.0f</span><span class="token punctuation">;</span>
+</span><span class="code-line">    <span class="token punctuation">[</span><span class="token attribute"><span class="token class-name">SerializeField</span></span><span class="token punctuation">]</span> <span class="token keyword">private</span> <span class="token class-name"><span class="token keyword">float</span></span> maxWindEffect <span class="token operator">=</span> <span class="token number">10.0f</span><span class="token punctuation">;</span>
+</span><span class="code-line">    <span class="token punctuation">[</span><span class="token attribute"><span class="token class-name">SerializeField</span></span><span class="token punctuation">]</span> <span class="token keyword">private</span> <span class="token class-name">AnimationCurve</span> windCurve<span class="token punctuation">;</span>
+</span><span class="code-line">
+</span><span class="code-line">    <span class="token keyword">private</span> <span class="token class-name">Rigidbody</span> rb<span class="token punctuation">;</span>
+</span><span class="code-line">    <span class="token keyword">private</span> <span class="token class-name"><span class="token keyword">float</span></span> currentWindTime <span class="token operator">=</span> <span class="token number">0f</span><span class="token punctuation">;</span>
+</span><span class="code-line">
+</span><span class="code-line">    <span class="token return-type class-name"><span class="token keyword">void</span></span> <span class="token function">Start</span><span class="token punctuation">(</span><span class="token punctuation">)</span>
+</span><span class="code-line">    <span class="token punctuation">{</span>
+</span><span class="code-line">        rb <span class="token operator">=</span> <span class="token generic-method"><span class="token function">GetComponent</span><span class="token generic class-name"><span class="token punctuation">&#x3C;</span>Rigidbody<span class="token punctuation">></span></span></span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">;</span>
+</span><span class="code-line">    <span class="token punctuation">}</span>
+</span><span class="code-line">
+</span><span class="code-line">    <span class="token return-type class-name"><span class="token keyword">void</span></span> <span class="token function">FixedUpdate</span><span class="token punctuation">(</span><span class="token punctuation">)</span>
+</span><span class="code-line">    <span class="token punctuation">{</span>
+</span><span class="code-line">        <span class="token comment">// 時間経過に基づく風の強さの変化</span>
+</span><span class="code-line">        currentWindTime <span class="token operator">+=</span> Time<span class="token punctuation">.</span>fixedDeltaTime<span class="token punctuation">;</span>
+</span><span class="code-line">        <span class="token class-name"><span class="token keyword">float</span></span> windEffect <span class="token operator">=</span> windCurve<span class="token punctuation">.</span><span class="token function">Evaluate</span><span class="token punctuation">(</span>Mathf<span class="token punctuation">.</span><span class="token function">PingPong</span><span class="token punctuation">(</span>currentWindTime<span class="token punctuation">,</span> <span class="token number">1.0f</span><span class="token punctuation">)</span><span class="token punctuation">)</span> <span class="token operator">*</span> maxWindEffect<span class="token punctuation">;</span>
+</span><span class="code-line">
+</span><span class="code-line">        <span class="token comment">// Y方向に風力を適用</span>
+</span><span class="code-line">        rb<span class="token punctuation">.</span><span class="token function">AddForce</span><span class="token punctuation">(</span>Vector3<span class="token punctuation">.</span>up <span class="token operator">*</span> windStrength <span class="token operator">*</span> windEffect<span class="token punctuation">)</span><span class="token punctuation">;</span>
+</span><span class="code-line">    <span class="token punctuation">}</span>
+</span><span class="code-line"><span class="token punctuation">}</span>
+</span></code></pre>
+<h3>4. 直接速度を変更する方法</h3>
+<p>AddForceの代わりに、直接速度を設定することもできます：</p>
+<pre class="language-csharp"><code class="language-csharp code-highlight"><span class="code-line"><span class="token return-type class-name"><span class="token keyword">void</span></span> <span class="token function">SetYVelocity</span><span class="token punctuation">(</span><span class="token class-name"><span class="token keyword">float</span></span> yVelocity<span class="token punctuation">)</span>
+</span><span class="code-line"><span class="token punctuation">{</span>
+</span><span class="code-line">    <span class="token comment">// 現在のX, Z速度を維持しつつ、Y速度のみを変更</span>
+</span><span class="code-line">    rb<span class="token punctuation">.</span>velocity <span class="token operator">=</span> <span class="token keyword">new</span> <span class="token constructor-invocation class-name">Vector3</span><span class="token punctuation">(</span>rb<span class="token punctuation">.</span>velocity<span class="token punctuation">.</span>x<span class="token punctuation">,</span> yVelocity<span class="token punctuation">,</span> rb<span class="token punctuation">.</span>velocity<span class="token punctuation">.</span>z<span class="token punctuation">)</span><span class="token punctuation">;</span>
+</span><span class="code-line"><span class="token punctuation">}</span>
+</span></code></pre>
+<p>これは即時的な速度変更が必要な場合（例：二段ジャンプ、速度のリセットなど）に有効です。</p>
+<h2>実装時の注意点</h2>
+<ul>
+<li><strong>FixedUpdateの使用</strong>: 物理計算に関わる処理は<code>Update</code>ではなく<code>FixedUpdate</code>内に実装するのが適切です</li>
+<li><strong>過剰な力の防止</strong>: 力を毎フレーム加え続けると予想以上に加速する場合があるので注意</li>
+<li><strong>物理演算の安定性</strong>: 極端に大きな力を一度に加えると挙動が不安定になることがあります</li>
+<li><strong>最適な力の値</strong>: 適切な力の大きさはオブジェクトの質量に左右されるため、調整が必要です</li>
+<li><strong>衝突判定の正確性</strong>: 特にジャンプ機能では、地面との接触判定の精度が重要です</li>
+</ul>
+<h2>参考資料とリンク</h2>
+<ul>
+<li><a href="https://docs.unity3d.com/ScriptReference/Rigidbody.AddForce.html" rel="nofollow" target="_blank">Unity公式ドキュメント - Rigidbody.AddForce</a></li>
+<li><a href="https://docs.unity3d.com/ScriptReference/ForceMode.html" rel="nofollow" target="_blank">Unity公式ドキュメント - ForceMode</a></li>
+</ul>
+<h2>更新履歴</h2>
+<ul>
+<li>2025-03-04: 初版作成</li>
+<li>[次回更新予定] 2Dゲームでの力の適用方法（Rigidbody2D）について追加予定</li>
+</ul>
+<hr>
+<p><em>この回答は、Unity 2022.3 LTS を基準に作成されています。新しいバージョンでは仕様が変更されている可能性があるため、適宜公式ドキュメントを参照してください。</em></p>2:["$","article",null,{"className":"min-h-screen","children":[["$","div",null,{"className":"bg-gradient-to-b from-green-50/60 to-transparent dark:from-gray-900 dark:to-transparent","children":["$","div",null,{"className":"max-w-4xl mx-auto px-6 md:px-8 pt-28 md:pt-32 pb-10 md:pb-14","children":[["$","h1",null,{"className":"font-katyou text-4xl md:text-5xl lg:text-6xl text-gray-900 dark:text-white leading-tight mb-6","children":"UnityでY方向に力を加える方法"}],["$","time",null,{"className":"text-base font-medium text-gray-600 dark:text-gray-400","children":"2025-01-22"}]]}]}],["$","div",null,{"className":"max-w-4xl mx-auto px-6 md:px-8 pb-16 md:pb-24","children":[["$","div",null,{"id":"post-content","className":"prose prose-lg dark:prose-invert max-w-none prose-headings:font-katyou prose-headings:tracking-tight prose-h2:text-3xl prose-h2:mt-12 prose-h2:mb-6 prose-h3:text-2xl prose-h3:mt-10 prose-h3:mb-5 prose-h4:text-xl prose-h4:mt-8 prose-h4:mb-4 prose-p:leading-relaxed prose-p:mb-6 prose-li:my-2 prose-a:text-green-600 prose-a:no-underline prose-a:font-medium hover:prose-a:text-green-700 hover:prose-a:underline dark:prose-a:text-green-400 dark:hover:prose-a:text-green-300 prose-code:text-green-700 prose-code:bg-green-50 dark:prose-code:text-green-300 dark:prose-code:bg-green-900/20 prose-pre:bg-gray-900 dark:prose-pre:bg-gray-950 prose-img:rounded-lg prose-img:shadow-md prose-hr:my-12 prose-hr:border-gray-300 dark:prose-hr:border-gray-700 border-t border-gray-200 dark:border-gray-800 pt-8","dangerouslySetInnerHTML":{"__html":"$d"}}],["$","$Le",null,{}],["$","div",null,{"className":"mt-16 pt-10 border-t border-gray-200 dark:border-gray-800","children":[["$","p",null,{"className":"text-sm font-semibold text-gray-500 dark:text-gray-400 mb-4","children":"タグ"}],["$","div",null,{"className":"flex flex-wrap gap-2.5","children":[["$","$L9","Unity",{"href":"/tags/Unity","className":"inline-flex items-center px-4 py-1.5 rounded-full text-sm font-medium bg-green-100 text-green-800 dark:bg-green-900/30 dark:text-green-300 hover:bg-green-200 dark:hover:bg-green-800/50 transition-colors duration-200 shadow-sm","children":"Unity"}],["$","$L9","物理演算",{"href":"/tags/物理演算","className":"inline-flex items-center px-4 py-1.5 rounded-full text-sm font-medium bg-green-100 text-green-800 dark:bg-green-900/30 dark:text-green-300 hover:bg-green-200 dark:hover:bg-green-800/50 transition-colors duration-200 shadow-sm","children":"物理演算"}],["$","$L9","Rigidbody",{"href":"/tags/Rigidbody","className":"inline-flex items-center px-4 py-1.5 rounded-full text-sm font-medium bg-green-100 text-green-800 dark:bg-green-900/30 dark:text-green-300 hover:bg-green-200 dark:hover:bg-green-800/50 transition-colors duration-200 shadow-sm","children":"Rigidbody"}],["$","$L9","力学",{"href":"/tags/力学","className":"inline-flex items-center px-4 py-1.5 rounded-full text-sm font-medium bg-green-100 text-green-800 dark:bg-green-900/30 dark:text-green-300 hover:bg-green-200 dark:hover:bg-green-800/50 transition-colors duration-200 shadow-sm","children":"力学"}],["$","$L9","ゲーム開発",{"href":"/tags/ゲーム開発","className":"inline-flex items-center px-4 py-1.5 rounded-full text-sm font-medium bg-green-100 text-green-800 dark:bg-green-900/30 dark:text-green-300 hover:bg-green-200 dark:hover:bg-green-800/50 transition-colors duration-200 shadow-sm","children":"ゲーム開発"}],["$","$L9","AddForce",{"href":"/tags/AddForce","className":"inline-flex items-center px-4 py-1.5 rounded-full text-sm font-medium bg-green-100 text-green-800 dark:bg-green-900/30 dark:text-green-300 hover:bg-green-200 dark:hover:bg-green-800/50 transition-colors duration-200 shadow-sm","children":"AddForce"}]]}]]}]]}]]}]
+c:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"UnityでY方向に力を加える方法 | ブログタイトル"}],["$","meta","3",{"name":"description","content":"Unity環境で物理演算を使ったY方向（上下方向）への力の適用方法について、基本から応用まで解説します。"}],["$","meta","4",{"property":"og:title","content":"UnityでY方向に力を加える方法"}],["$","meta","5",{"property":"og:description","content":"Unity環境で物理演算を使ったY方向（上下方向）への力の適用方法について、基本から応用まで解説します。"}],["$","meta","6",{"property":"og:url","content":"https://maemaemae.blog/posts/unity_20250122"}],["$","meta","7",{"property":"og:image","content":"https://maemaemae.blog/images/unity-physics.jpg"}],["$","meta","8",{"property":"og:type","content":"article"}],["$","meta","9",{"property":"article:published_time","content":"2025-01-22"}],["$","meta","10",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","11",{"name":"twitter:title","content":"UnityでY方向に力を加える方法"}],["$","meta","12",{"name":"twitter:description","content":"Unity環境で物理演算を使ったY方向（上下方向）への力の適用方法について、基本から応用まで解説します。"}],["$","meta","13",{"name":"twitter:image","content":"https://maemaemae.blog/images/unity-physics.jpg"}],["$","link","14",{"rel":"icon","href":"/favicon.ico","type":"image/x-icon","sizes":"16x16"}],["$","meta","15",{"name":"next-size-adjust"}]]
+1:null

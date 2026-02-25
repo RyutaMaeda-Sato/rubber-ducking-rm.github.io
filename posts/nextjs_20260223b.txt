@@ -1,0 +1,214 @@
+3:I[4707,[],""]
+5:I[6423,[],""]
+6:I[4888,["972","static/chunks/972-f241a8fd644428c6.js","70","static/chunks/70-f52c2ad284c6cd86.js","185","static/chunks/app/layout-97d049cf0fc78146.js"],"GoogleAnalytics"]
+7:I[6806,["972","static/chunks/972-f241a8fd644428c6.js","70","static/chunks/70-f52c2ad284c6cd86.js","185","static/chunks/app/layout-97d049cf0fc78146.js"],"default"]
+8:I[7213,["972","static/chunks/972-f241a8fd644428c6.js","70","static/chunks/70-f52c2ad284c6cd86.js","185","static/chunks/app/layout-97d049cf0fc78146.js"],"default"]
+9:I[2972,["972","static/chunks/972-f241a8fd644428c6.js","333","static/chunks/app/posts/%5Bslug%5D/page-acd6669982df1354.js"],""]
+a:I[5878,["972","static/chunks/972-f241a8fd644428c6.js","70","static/chunks/70-f52c2ad284c6cd86.js","185","static/chunks/app/layout-97d049cf0fc78146.js"],"Image"]
+b:I[2374,["972","static/chunks/972-f241a8fd644428c6.js","70","static/chunks/70-f52c2ad284c6cd86.js","185","static/chunks/app/layout-97d049cf0fc78146.js"],"default"]
+4:["slug","nextjs_20260223b","d"]
+0:["0oJGNGFmzz_LorUWHIimP",[[["",{"children":["posts",{"children":[["slug","nextjs_20260223b","d"],{"children":["__PAGE__?{\"slug\":\"nextjs_20260223b\"}",{}]}]}]},"$undefined","$undefined",true],["",{"children":["posts",{"children":[["slug","nextjs_20260223b","d"],{"children":["__PAGE__",{},[["$L1","$L2",null],null],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","posts","children","$4","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","posts","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/3add334ee59f67ac.css","precedence":"next","crossOrigin":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/css/cec3dd424af6abe7.css","precedence":"next","crossOrigin":"$undefined"}],["$","link","2",{"rel":"stylesheet","href":"/_next/static/css/31924b81bd2c71c2.css","precedence":"next","crossOrigin":"$undefined"}]],["$","html",null,{"lang":"jp","className":"__variable_f367f3 __variable_8c8862 __variable_6beb74 __variable_b784c9 __variable_d575de","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){try{var s=localStorage.getItem('darkMode');var p=window.matchMedia('(prefers-color-scheme: dark)').matches;if(s!==null?s==='true':p){document.documentElement.classList.add('dark');}}catch(e){}})();"}}],["$","$L6",null,{"gaId":"G-FWRP8962MB"}]]}],["$","body",null,{"className":"__className_f367f3","children":["$","$L7",null,{"children":[["$","header",null,{"children":["$","$L8",null,{"children":["$","div",null,{"className":"fixed top-0 left-0 w-full z-50 bg-green-700 dark:bg-gray-900 shadow-md border-b border-green-600/50 dark:border-gray-800","children":["$","div",null,{"className":"max-w-7xl mx-auto","children":["$","div",null,{"className":"flex items-center justify-between px-6 md:px-8 h-20 md:h-24","children":[["$","$L9",null,{"href":"/","className":"group flex items-center gap-3 transition-opacity hover:opacity-80","children":[["$","$La",null,{"alt":"Maemaemae","src":"/header.jpg","width":44,"height":44,"className":"rounded-full object-cover ring-2 ring-white/20 group-hover:ring-white/40 transition-all"}],["$","span",null,{"className":"text-xl md:text-2xl font-katyou text-[#fffef9] tracking-wide","children":"Maemaemae"}]]}],["$","div",null,{"className":"flex items-center gap-2","children":[["$","a",null,{"href":"https://x.com/maemaemae_rm","target":"_blank","rel":"noopener noreferrer","className":"p-2.5 rounded-full hover:bg-white/10 transition-colors","aria-label":"X (Twitter)","children":["$","$La",null,{"src":"/x-logo-white.png","width":24,"height":24,"alt":""}]}],["$","$Lb",null,{}]]}]]}]}]}]}]}],["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[]}]]}]}]]}]],null],null],["$Lc",null]]]]
+e:I[7426,["972","static/chunks/972-f241a8fd644428c6.js","333","static/chunks/app/posts/%5Bslug%5D/page-acd6669982df1354.js"],"default"]
+d:T86c0,<p><code>description</code> を書き忘れた記事でも OGP やタイトルタグが空にならないよう、Markdown 本文から自動で説明文を抽出する <code>generateExcerpt()</code> 関数の実装を紹介する。
+正規表現でノイズを除去してから文字数制限をかけるシンプルな実装で、日本語にも対応している。</p>
+<h2>description 未設定時の問題</h2>
+<p>フロントマターに <code>description</code> を書き忘れると、以下の場所が空文字になってしまう。</p>
+<ul>
+<li><code>&#x3C;meta name="description"></code> — 検索結果のスニペット</li>
+<li>OGP の <code>og:description</code> — SNS シェア時のカード説明文</li>
+<li>Twitter Card の <code>twitter:description</code></li>
+</ul>
+<p>毎回手で書けば済む話だが、下書きをそのまま公開した場合や記事数が増えてきたときに抜け漏れが起きやすい。
+<code>generateExcerpt()</code> を挟むことで、<code>description ?? 自動生成</code> というフォールバックが完成する。</p>
+<h2>generateExcerpt 関数の実装</h2>
+<pre class="language-typescript"><code class="language-typescript code-highlight"><span class="code-line"><span class="token comment">// src/app/lib/functions.ts</span>
+</span><span class="code-line">
+</span><span class="code-line"><span class="token comment">/**
+</span></span><span class="code-line"><span class="token comment"> * Markdown 本文から description 用の抜粋テキストを生成する。
+</span></span><span class="code-line"><span class="token comment"> * frontmatter の description が未設定のときに使用する。
+</span></span><span class="code-line"><span class="token comment"> */</span>
+</span><span class="code-line"><span class="token keyword">function</span> <span class="token function">generateExcerpt</span><span class="token punctuation">(</span>markdownContent<span class="token operator">:</span> <span class="token builtin">string</span><span class="token punctuation">,</span> maxLength <span class="token operator">=</span> <span class="token number">120</span><span class="token punctuation">)</span><span class="token operator">:</span> <span class="token builtin">string</span> <span class="token punctuation">{</span>
+</span><span class="code-line">  <span class="token keyword">const</span> text <span class="token operator">=</span> markdownContent
+</span><span class="code-line">    <span class="token comment">// frontmatter は呼び出し元で除去済みを想定するが念のため除去</span>
+</span><span class="code-line">    <span class="token punctuation">.</span><span class="token function">replace</span><span class="token punctuation">(</span><span class="token regex"><span class="token regex-delimiter">/</span><span class="token regex-source language-regex"><span class="token anchor function">^</span>---<span class="token char-class"><span class="token char-class-punctuation punctuation">[</span><span class="token char-set class-name">\s</span><span class="token char-set class-name">\S</span><span class="token char-class-punctuation punctuation">]</span></span><span class="token quantifier number">*?</span>---<span class="token escape">\n</span><span class="token quantifier number">?</span></span><span class="token regex-delimiter">/</span></span><span class="token punctuation">,</span> <span class="token string">""</span><span class="token punctuation">)</span>
+</span><span class="code-line">    <span class="token comment">// コードブロック (``` ... ```) を除去</span>
+</span><span class="code-line">    <span class="token punctuation">.</span><span class="token function">replace</span><span class="token punctuation">(</span><span class="token regex"><span class="token regex-delimiter">/</span><span class="token regex-source language-regex">```<span class="token char-class"><span class="token char-class-punctuation punctuation">[</span><span class="token char-set class-name">\s</span><span class="token char-set class-name">\S</span><span class="token char-class-punctuation punctuation">]</span></span><span class="token quantifier number">*?</span>```</span><span class="token regex-delimiter">/</span><span class="token regex-flags">g</span></span><span class="token punctuation">,</span> <span class="token string">""</span><span class="token punctuation">)</span>
+</span><span class="code-line">    <span class="token comment">// インラインコード</span>
+</span><span class="code-line">    <span class="token punctuation">.</span><span class="token function">replace</span><span class="token punctuation">(</span><span class="token regex"><span class="token regex-delimiter">/</span><span class="token regex-source language-regex">`<span class="token char-class"><span class="token char-class-punctuation punctuation">[</span><span class="token char-class-negation operator">^</span>`<span class="token char-class-punctuation punctuation">]</span></span><span class="token quantifier number">*</span>`</span><span class="token regex-delimiter">/</span><span class="token regex-flags">g</span></span><span class="token punctuation">,</span> <span class="token string">""</span><span class="token punctuation">)</span>
+</span><span class="code-line">    <span class="token comment">// 見出し記号</span>
+</span><span class="code-line">    <span class="token punctuation">.</span><span class="token function">replace</span><span class="token punctuation">(</span><span class="token regex"><span class="token regex-delimiter">/</span><span class="token regex-source language-regex"><span class="token anchor function">^</span>#<span class="token quantifier number">{1,6}</span><span class="token char-set class-name">\s</span><span class="token quantifier number">+</span></span><span class="token regex-delimiter">/</span><span class="token regex-flags">gm</span></span><span class="token punctuation">,</span> <span class="token string">""</span><span class="token punctuation">)</span>
+</span><span class="code-line">    <span class="token comment">// 画像</span>
+</span><span class="code-line">    <span class="token punctuation">.</span><span class="token function">replace</span><span class="token punctuation">(</span><span class="token regex"><span class="token regex-delimiter">/</span><span class="token regex-source language-regex">!<span class="token special-escape escape">\[</span><span class="token char-set class-name">.</span><span class="token quantifier number">*?</span><span class="token special-escape escape">\]</span><span class="token special-escape escape">\(</span><span class="token char-set class-name">.</span><span class="token quantifier number">*?</span><span class="token special-escape escape">\)</span></span><span class="token regex-delimiter">/</span><span class="token regex-flags">g</span></span><span class="token punctuation">,</span> <span class="token string">""</span><span class="token punctuation">)</span>
+</span><span class="code-line">    <span class="token comment">// リンク → リンクテキストだけ残す</span>
+</span><span class="code-line">    <span class="token punctuation">.</span><span class="token function">replace</span><span class="token punctuation">(</span><span class="token regex"><span class="token regex-delimiter">/</span><span class="token regex-source language-regex"><span class="token special-escape escape">\[</span><span class="token group punctuation">(</span><span class="token char-class"><span class="token char-class-punctuation punctuation">[</span><span class="token char-class-negation operator">^</span><span class="token special-escape escape">\]</span><span class="token char-class-punctuation punctuation">]</span></span><span class="token quantifier number">*</span><span class="token group punctuation">)</span><span class="token special-escape escape">\]</span><span class="token special-escape escape">\(</span><span class="token char-class"><span class="token char-class-punctuation punctuation">[</span><span class="token char-class-negation operator">^</span>)<span class="token char-class-punctuation punctuation">]</span></span><span class="token quantifier number">*</span><span class="token special-escape escape">\)</span></span><span class="token regex-delimiter">/</span><span class="token regex-flags">g</span></span><span class="token punctuation">,</span> <span class="token string">"$1"</span><span class="token punctuation">)</span>
+</span><span class="code-line">    <span class="token comment">// 強調・太字</span>
+</span><span class="code-line">    <span class="token punctuation">.</span><span class="token function">replace</span><span class="token punctuation">(</span><span class="token regex"><span class="token regex-delimiter">/</span><span class="token regex-source language-regex"><span class="token group punctuation">(</span><span class="token special-escape escape">\*</span><span class="token quantifier number">{1,3}</span><span class="token alternation keyword">|</span>_<span class="token quantifier number">{1,3}</span><span class="token group punctuation">)</span><span class="token group punctuation">(</span><span class="token char-set class-name">.</span><span class="token quantifier number">*?</span><span class="token group punctuation">)</span><span class="token backreference keyword">\1</span></span><span class="token regex-delimiter">/</span><span class="token regex-flags">g</span></span><span class="token punctuation">,</span> <span class="token string">"$2"</span><span class="token punctuation">)</span>
+</span><span class="code-line">    <span class="token comment">// 水平線</span>
+</span><span class="code-line">    <span class="token punctuation">.</span><span class="token function">replace</span><span class="token punctuation">(</span><span class="token regex"><span class="token regex-delimiter">/</span><span class="token regex-source language-regex"><span class="token anchor function">^</span><span class="token char-class"><span class="token char-class-punctuation punctuation">[</span>-*_<span class="token char-class-punctuation punctuation">]</span></span><span class="token quantifier number">{3,}</span><span class="token char-set class-name">\s</span><span class="token quantifier number">*</span><span class="token anchor function">$</span></span><span class="token regex-delimiter">/</span><span class="token regex-flags">gm</span></span><span class="token punctuation">,</span> <span class="token string">""</span><span class="token punctuation">)</span>
+</span><span class="code-line">    <span class="token comment">// HTML タグ</span>
+</span><span class="code-line">    <span class="token punctuation">.</span><span class="token function">replace</span><span class="token punctuation">(</span><span class="token regex"><span class="token regex-delimiter">/</span><span class="token regex-source language-regex">&#x3C;<span class="token char-class"><span class="token char-class-punctuation punctuation">[</span><span class="token char-class-negation operator">^</span>><span class="token char-class-punctuation punctuation">]</span></span><span class="token quantifier number">+</span>></span><span class="token regex-delimiter">/</span><span class="token regex-flags">g</span></span><span class="token punctuation">,</span> <span class="token string">""</span><span class="token punctuation">)</span>
+</span><span class="code-line">    <span class="token comment">// 複数の改行や空白を単一スペースに</span>
+</span><span class="code-line">    <span class="token punctuation">.</span><span class="token function">replace</span><span class="token punctuation">(</span><span class="token regex"><span class="token regex-delimiter">/</span><span class="token regex-source language-regex"><span class="token char-set class-name">\s</span><span class="token quantifier number">+</span></span><span class="token regex-delimiter">/</span><span class="token regex-flags">g</span></span><span class="token punctuation">,</span> <span class="token string">" "</span><span class="token punctuation">)</span>
+</span><span class="code-line">    <span class="token punctuation">.</span><span class="token function">trim</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">;</span>
+</span><span class="code-line">
+</span><span class="code-line">  <span class="token keyword">if</span> <span class="token punctuation">(</span>text<span class="token punctuation">.</span>length <span class="token operator">&#x3C;=</span> maxLength<span class="token punctuation">)</span> <span class="token keyword">return</span> text<span class="token punctuation">;</span>
+</span><span class="code-line">  <span class="token comment">// 単語境界で切らずに文字数で切る（日本語対応）</span>
+</span><span class="code-line">  <span class="token keyword">return</span> text<span class="token punctuation">.</span><span class="token function">slice</span><span class="token punctuation">(</span><span class="token number">0</span><span class="token punctuation">,</span> maxLength<span class="token punctuation">)</span> <span class="token operator">+</span> <span class="token string">"…"</span><span class="token punctuation">;</span>
+</span><span class="code-line"><span class="token punctuation">}</span>
+</span></code></pre>
+<h3>各正規表現が除去する対象</h3>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th>正規表現</th><th>除去対象</th><th>理由</th></tr></thead><tbody><tr><td><code>/^---[\s\S]*?---\n?/</code></td><td>frontmatter</td><td>YAML がそのまま説明文に入るのを防ぐ</td></tr><tr><td><code>/\</code>``[\s\S]*?```/g`</td><td>コードブロック</td><td>コードは説明文に不向き</td></tr><tr><td><code>/\</code>[^`]*`/g`</td><td>インラインコード</td><td>同上</td></tr><tr><td><code>/^#{1,6}\s+/gm</code></td><td>見出し記号 (<code>##</code> など)</td><td><code>##</code> だけ残ると文章が不自然になる</td></tr><tr><td><code>/!\[.*?\]\(.*?\)/g</code></td><td>画像</td><td>alt テキストごと除去</td></tr><tr><td><code>/\[([^\]]*)\]\([^)]*\)/g</code></td><td>リンク</td><td>URL を除去しテキストだけ残す</td></tr><tr><td><code>/(\*{1,3}|_{1,3})(.*?)\1/g</code></td><td>強調・太字</td><td>記号を除去しテキストだけ残す</td></tr><tr><td><code>/^[-*_]{3,}\s*$/gm</code></td><td>水平線</td><td><code>---</code> が説明文に入るのを防ぐ</td></tr><tr><td><code>/&#x3C;[^>]+>/g</code></td><td>HTML タグ</td><td><code>&#x3C;br></code> などが混入するのを防ぐ</td></tr><tr><td><code>/\s+/g</code></td><td>連続する空白・改行</td><td>単一スペースに正規化</td></tr></tbody></table>
+<h3>文字数制限と日本語対応</h3>
+<pre class="language-typescript"><code class="language-typescript code-highlight"><span class="code-line"><span class="token keyword">if</span> <span class="token punctuation">(</span>text<span class="token punctuation">.</span>length <span class="token operator">&#x3C;=</span> maxLength<span class="token punctuation">)</span> <span class="token keyword">return</span> text<span class="token punctuation">;</span>
+</span><span class="code-line"><span class="token keyword">return</span> text<span class="token punctuation">.</span><span class="token function">slice</span><span class="token punctuation">(</span><span class="token number">0</span><span class="token punctuation">,</span> maxLength<span class="token punctuation">)</span> <span class="token operator">+</span> <span class="token string">"…"</span><span class="token punctuation">;</span>
+</span></code></pre>
+<p><code>String.prototype.slice()</code> は UTF-16 コードユニット単位でカウントするため、日本語（BMP 内の文字）は 1 文字 = 1 カウントとなり、デフォルトの <code>maxLength = 120</code> は日本語で 120 文字に相当する。
+英語の場合は単語の途中で切れる可能性があるが、<code>description</code> 用途では許容範囲内。</p>
+<h2>generateMetadata との連携</h2>
+<p>実際の使用箇所は記事個別ページの <code>generateMetadata</code> 内。</p>
+<pre class="language-typescript"><code class="language-typescript code-highlight"><span class="code-line"><span class="token comment">// src/app/posts/[slug]/page.tsx</span>
+</span><span class="code-line"><span class="token keyword">import</span> <span class="token punctuation">{</span> generateExcerpt <span class="token punctuation">}</span> <span class="token keyword">from</span> <span class="token string">"../../lib/functions"</span><span class="token punctuation">;</span>
+</span><span class="code-line"><span class="token keyword">import</span> matter <span class="token keyword">from</span> <span class="token string">"gray-matter"</span><span class="token punctuation">;</span>
+</span><span class="code-line"><span class="token keyword">import</span> fs <span class="token keyword">from</span> <span class="token string">"fs"</span><span class="token punctuation">;</span>
+</span><span class="code-line"><span class="token keyword">import</span> path <span class="token keyword">from</span> <span class="token string">"path"</span><span class="token punctuation">;</span>
+</span><span class="code-line">
+</span><span class="code-line"><span class="token keyword">export</span> <span class="token keyword">async</span> <span class="token keyword">function</span> <span class="token function">generateMetadata</span><span class="token punctuation">(</span><span class="token punctuation">{</span> params <span class="token punctuation">}</span><span class="token operator">:</span> Props<span class="token punctuation">)</span><span class="token operator">:</span> <span class="token builtin">Promise</span><span class="token operator">&#x3C;</span>Metadata<span class="token operator">></span> <span class="token punctuation">{</span>
+</span><span class="code-line">  <span class="token keyword">const</span> filePath <span class="token operator">=</span> path<span class="token punctuation">.</span><span class="token function">join</span><span class="token punctuation">(</span>process<span class="token punctuation">.</span><span class="token function">cwd</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">,</span> <span class="token string">"posts"</span><span class="token punctuation">,</span> <span class="token template-string"><span class="token template-punctuation string">`</span><span class="token interpolation"><span class="token interpolation-punctuation punctuation">${</span>params<span class="token punctuation">.</span>slug<span class="token interpolation-punctuation punctuation">}</span></span><span class="token string">.md</span><span class="token template-punctuation string">`</span></span><span class="token punctuation">)</span><span class="token punctuation">;</span>
+</span><span class="code-line">  <span class="token keyword">const</span> fileContents <span class="token operator">=</span> fs<span class="token punctuation">.</span><span class="token function">readFileSync</span><span class="token punctuation">(</span>filePath<span class="token punctuation">,</span> <span class="token string">"utf8"</span><span class="token punctuation">)</span><span class="token punctuation">;</span>
+</span><span class="code-line">  <span class="token keyword">const</span> <span class="token punctuation">{</span> data<span class="token punctuation">,</span> content <span class="token punctuation">}</span> <span class="token operator">=</span> <span class="token function">matter</span><span class="token punctuation">(</span>fileContents<span class="token punctuation">)</span><span class="token punctuation">;</span>
+</span><span class="code-line">
+</span><span class="code-line">  <span class="token comment">// description が未設定なら Markdown 本文から自動生成</span>
+</span><span class="code-line">  <span class="token keyword">const</span> description<span class="token operator">:</span> <span class="token builtin">string</span> <span class="token operator">=</span>
+</span><span class="code-line">    data<span class="token punctuation">.</span>description <span class="token operator">??</span> <span class="token function">generateExcerpt</span><span class="token punctuation">(</span>content<span class="token punctuation">)</span><span class="token punctuation">;</span>
+</span><span class="code-line">
+</span><span class="code-line">  <span class="token keyword">return</span> <span class="token punctuation">{</span>
+</span><span class="code-line">    title<span class="token operator">:</span> <span class="token template-string"><span class="token template-punctuation string">`</span><span class="token interpolation"><span class="token interpolation-punctuation punctuation">${</span>data<span class="token punctuation">.</span>title<span class="token interpolation-punctuation punctuation">}</span></span><span class="token string"> | ブログタイトル</span><span class="token template-punctuation string">`</span></span><span class="token punctuation">,</span>
+</span><span class="code-line">    description<span class="token punctuation">,</span>
+</span><span class="code-line">    openGraph<span class="token operator">:</span> <span class="token punctuation">{</span>
+</span><span class="code-line">      type<span class="token operator">:</span> <span class="token string">"article"</span><span class="token punctuation">,</span>
+</span><span class="code-line">      description<span class="token punctuation">,</span>
+</span><span class="code-line">      <span class="token comment">// ...</span>
+</span><span class="code-line">    <span class="token punctuation">}</span><span class="token punctuation">,</span>
+</span><span class="code-line">    twitter<span class="token operator">:</span> <span class="token punctuation">{</span>
+</span><span class="code-line">      card<span class="token operator">:</span> <span class="token string">"summary_large_image"</span><span class="token punctuation">,</span>
+</span><span class="code-line">      description<span class="token punctuation">,</span>
+</span><span class="code-line">      <span class="token comment">// ...</span>
+</span><span class="code-line">    <span class="token punctuation">}</span><span class="token punctuation">,</span>
+</span><span class="code-line">  <span class="token punctuation">}</span><span class="token punctuation">;</span>
+</span><span class="code-line"><span class="token punctuation">}</span>
+</span></code></pre>
+<p><code>gray-matter</code> の <code>matter()</code> は <code>data</code>（frontmatter）と <code>content</code>（frontmatter を除いた本文）を分けて返す。
+<code>content</code> をそのまま <code>generateExcerpt()</code> に渡せるため、関数内の frontmatter 除去の正規表現は二重の保険として機能する。</p>
+<h2>ハマりやすいポイント</h2>
+<h3>1. コードブロックの中身が説明文に混入する</h3>
+<p>正規表現の順番が重要で、コードブロック除去（<code>```</code>）をインラインコード除去（<code>`</code>）より先に行う必要がある。
+逆にすると、コードブロックの開始・終了の <code>```</code> が 3 つのインラインコードとして解釈され、中身が残ってしまう。</p>
+<pre class="language-typescript"><code class="language-typescript code-highlight"><span class="code-line"><span class="token comment">// NG: インラインコードを先に除去するとコードブロックが壊れる</span>
+</span><span class="code-line"><span class="token punctuation">.</span><span class="token function">replace</span><span class="token punctuation">(</span><span class="token regex"><span class="token regex-delimiter">/</span><span class="token regex-source language-regex">`<span class="token char-class"><span class="token char-class-punctuation punctuation">[</span><span class="token char-class-negation operator">^</span>`<span class="token char-class-punctuation punctuation">]</span></span><span class="token quantifier number">*</span>`</span><span class="token regex-delimiter">/</span><span class="token regex-flags">g</span></span><span class="token punctuation">,</span> <span class="token string">""</span><span class="token punctuation">)</span>        <span class="token comment">// ← 先にやると ``` が壊れる</span>
+</span><span class="code-line"><span class="token punctuation">.</span><span class="token function">replace</span><span class="token punctuation">(</span><span class="token regex"><span class="token regex-delimiter">/</span><span class="token regex-source language-regex">```<span class="token char-class"><span class="token char-class-punctuation punctuation">[</span><span class="token char-set class-name">\s</span><span class="token char-set class-name">\S</span><span class="token char-class-punctuation punctuation">]</span></span><span class="token quantifier number">*?</span>```</span><span class="token regex-delimiter">/</span><span class="token regex-flags">g</span></span><span class="token punctuation">,</span> <span class="token string">""</span><span class="token punctuation">)</span> <span class="token comment">// ← 中身が残る</span>
+</span><span class="code-line">
+</span><span class="code-line"><span class="token comment">// OK: コードブロックを先に除去する</span>
+</span><span class="code-line"><span class="token punctuation">.</span><span class="token function">replace</span><span class="token punctuation">(</span><span class="token regex"><span class="token regex-delimiter">/</span><span class="token regex-source language-regex">```<span class="token char-class"><span class="token char-class-punctuation punctuation">[</span><span class="token char-set class-name">\s</span><span class="token char-set class-name">\S</span><span class="token char-class-punctuation punctuation">]</span></span><span class="token quantifier number">*?</span>```</span><span class="token regex-delimiter">/</span><span class="token regex-flags">g</span></span><span class="token punctuation">,</span> <span class="token string">""</span><span class="token punctuation">)</span> <span class="token comment">// ← 先にコードブロックごと除去</span>
+</span><span class="code-line"><span class="token punctuation">.</span><span class="token function">replace</span><span class="token punctuation">(</span><span class="token regex"><span class="token regex-delimiter">/</span><span class="token regex-source language-regex">`<span class="token char-class"><span class="token char-class-punctuation punctuation">[</span><span class="token char-class-negation operator">^</span>`<span class="token char-class-punctuation punctuation">]</span></span><span class="token quantifier number">*</span>`</span><span class="token regex-delimiter">/</span><span class="token regex-flags">g</span></span><span class="token punctuation">,</span> <span class="token string">""</span><span class="token punctuation">)</span>        <span class="token comment">// ← 残ったインラインコードを除去</span>
+</span></code></pre>
+<h3>2. 記事冒頭がコードブロックで始まる場合</h3>
+<p>記事の冒頭にコードブロックが来ると、そのブロックが除去された後に続くテキストが先頭になる。
+意図した説明文が得られない場合は、フロントマターに明示的に <code>description</code> を書くのが確実。</p>
+<h3>3. サロゲートペア文字（絵文字など）</h3>
+<p><code>slice()</code> は UTF-16 コードユニット単位のため、絵文字（サロゲートペア）を含む場合に境界がずれて文字化けすることがある。
+技術ブログの本文に絵文字が多用されるケースは少ないが、気になる場合は <code>Array.from(text).slice(0, maxLength).join("")</code> を使うと安全。</p>
+<pre class="language-typescript"><code class="language-typescript code-highlight"><span class="code-line"><span class="token comment">// サロゲートペア対応版</span>
+</span><span class="code-line"><span class="token keyword">if</span> <span class="token punctuation">(</span>text<span class="token punctuation">.</span>length <span class="token operator">&#x3C;=</span> maxLength<span class="token punctuation">)</span> <span class="token keyword">return</span> text<span class="token punctuation">;</span>
+</span><span class="code-line"><span class="token keyword">return</span> <span class="token builtin">Array</span><span class="token punctuation">.</span><span class="token function">from</span><span class="token punctuation">(</span>text<span class="token punctuation">)</span><span class="token punctuation">.</span><span class="token function">slice</span><span class="token punctuation">(</span><span class="token number">0</span><span class="token punctuation">,</span> maxLength<span class="token punctuation">)</span><span class="token punctuation">.</span><span class="token function">join</span><span class="token punctuation">(</span><span class="token string">""</span><span class="token punctuation">)</span> <span class="token operator">+</span> <span class="token string">"…"</span><span class="token punctuation">;</span>
+</span></code></pre>
+<h2>業務での使いどころ</h2>
+<h3>CMS 移行・インポート時のフォールバック</h3>
+<p>既存記事を別システムから移行する際、<code>description</code> が未設定のデータが大量にある場合に役立つ。
+移行スクリプト内で <code>generateExcerpt()</code> を呼び出し、フロントマターに自動補完してからインポートすることもできる。</p>
+<pre class="language-typescript"><code class="language-typescript code-highlight"><span class="code-line"><span class="token comment">// 移行スクリプトの例</span>
+</span><span class="code-line"><span class="token keyword">import</span> <span class="token punctuation">{</span> generateExcerpt <span class="token punctuation">}</span> <span class="token keyword">from</span> <span class="token string">"./functions"</span><span class="token punctuation">;</span>
+</span><span class="code-line"><span class="token keyword">import</span> matter <span class="token keyword">from</span> <span class="token string">"gray-matter"</span><span class="token punctuation">;</span>
+</span><span class="code-line"><span class="token keyword">import</span> fs <span class="token keyword">from</span> <span class="token string">"fs"</span><span class="token punctuation">;</span>
+</span><span class="code-line">
+</span><span class="code-line"><span class="token keyword">const</span> filePath <span class="token operator">=</span> <span class="token string">"posts/some-post.md"</span><span class="token punctuation">;</span>
+</span><span class="code-line"><span class="token keyword">const</span> <span class="token punctuation">{</span> data<span class="token punctuation">,</span> content <span class="token punctuation">}</span> <span class="token operator">=</span> <span class="token function">matter</span><span class="token punctuation">(</span>fs<span class="token punctuation">.</span><span class="token function">readFileSync</span><span class="token punctuation">(</span>filePath<span class="token punctuation">,</span> <span class="token string">"utf8"</span><span class="token punctuation">)</span><span class="token punctuation">)</span><span class="token punctuation">;</span>
+</span><span class="code-line">
+</span><span class="code-line"><span class="token keyword">if</span> <span class="token punctuation">(</span><span class="token operator">!</span>data<span class="token punctuation">.</span>description<span class="token punctuation">)</span> <span class="token punctuation">{</span>
+</span><span class="code-line">  <span class="token keyword">const</span> excerpt <span class="token operator">=</span> <span class="token function">generateExcerpt</span><span class="token punctuation">(</span>content<span class="token punctuation">)</span><span class="token punctuation">;</span>
+</span><span class="code-line">  <span class="token comment">// フロントマターに書き戻す</span>
+</span><span class="code-line">  <span class="token keyword">const</span> updated <span class="token operator">=</span> matter<span class="token punctuation">.</span><span class="token function">stringify</span><span class="token punctuation">(</span>content<span class="token punctuation">,</span> <span class="token punctuation">{</span> <span class="token operator">...</span>data<span class="token punctuation">,</span> description<span class="token operator">:</span> excerpt <span class="token punctuation">}</span><span class="token punctuation">)</span><span class="token punctuation">;</span>
+</span><span class="code-line">  fs<span class="token punctuation">.</span><span class="token function">writeFileSync</span><span class="token punctuation">(</span>filePath<span class="token punctuation">,</span> updated<span class="token punctuation">)</span><span class="token punctuation">;</span>
+</span><span class="code-line"><span class="token punctuation">}</span>
+</span></code></pre>
+<h3>RSS フィード生成との連携</h3>
+<p>RSS の <code>&#x3C;description></code> タグにも同じ関数を流用できる。
+記事一覧を生成するスクリプトで <code>description ?? generateExcerpt(content)</code> とすれば、フィードの説明文も自動補完される。</p>
+<h2>まとめ</h2>
+<ul>
+<li><code>generateExcerpt(content)</code> は Markdown 本文からコード・記号・タグを除去し、120 文字以内のテキストを返す</li>
+<li><code>data.description ?? generateExcerpt(content)</code> のフォールバックパターンで、description の書き忘れを自動カバーできる</li>
+<li>OGP / Twitter Card / RSS の説明文を一元管理でき、SEO の抜け漏れを防げる</li>
+<li>記事冒頭をコードブロックにしている場合や絵文字を多用する場合は注意が必要</li>
+</ul>2:["$","article",null,{"className":"min-h-screen","children":[["$","div",null,{"className":"bg-gradient-to-b from-green-50/60 to-transparent dark:from-gray-900 dark:to-transparent","children":["$","div",null,{"className":"max-w-4xl mx-auto px-6 md:px-8 pt-28 md:pt-32 pb-10 md:pb-14","children":[["$","h1",null,{"className":"font-katyou text-4xl md:text-5xl lg:text-6xl text-gray-900 dark:text-white leading-tight mb-6","children":"Markdown から説明文を自動生成する — generateExcerpt 関数の実装と使い方"}],["$","time",null,{"className":"text-base font-medium text-gray-600 dark:text-gray-400","children":"2026-02-23"}]]}]}],["$","div",null,{"className":"max-w-4xl mx-auto px-6 md:px-8 pb-16 md:pb-24","children":[["$","div",null,{"id":"post-content","className":"prose prose-lg dark:prose-invert max-w-none prose-headings:font-katyou prose-headings:tracking-tight prose-h2:text-3xl prose-h2:mt-12 prose-h2:mb-6 prose-h3:text-2xl prose-h3:mt-10 prose-h3:mb-5 prose-h4:text-xl prose-h4:mt-8 prose-h4:mb-4 prose-p:leading-relaxed prose-p:mb-6 prose-li:my-2 prose-a:text-green-600 prose-a:no-underline prose-a:font-medium hover:prose-a:text-green-700 hover:prose-a:underline dark:prose-a:text-green-400 dark:hover:prose-a:text-green-300 prose-code:text-green-700 prose-code:bg-green-50 dark:prose-code:text-green-300 dark:prose-code:bg-green-900/20 prose-pre:bg-gray-900 dark:prose-pre:bg-gray-950 prose-img:rounded-lg prose-img:shadow-md prose-hr:my-12 prose-hr:border-gray-300 dark:prose-hr:border-gray-700 border-t border-gray-200 dark:border-gray-800 pt-8","dangerouslySetInnerHTML":{"__html":"$d"}}],["$","$Le",null,{}],["$","div",null,{"className":"mt-16 pt-10 border-t border-gray-200 dark:border-gray-800","children":[["$","p",null,{"className":"text-sm font-semibold text-gray-500 dark:text-gray-400 mb-4","children":"タグ"}],["$","div",null,{"className":"flex flex-wrap gap-2.5","children":[["$","$L9","Next.js",{"href":"/tags/Next.js","className":"inline-flex items-center px-4 py-1.5 rounded-full text-sm font-medium bg-green-100 text-green-800 dark:bg-green-900/30 dark:text-green-300 hover:bg-green-200 dark:hover:bg-green-800/50 transition-colors duration-200 shadow-sm","children":"Next.js"}],["$","$L9","TypeScript",{"href":"/tags/TypeScript","className":"inline-flex items-center px-4 py-1.5 rounded-full text-sm font-medium bg-green-100 text-green-800 dark:bg-green-900/30 dark:text-green-300 hover:bg-green-200 dark:hover:bg-green-800/50 transition-colors duration-200 shadow-sm","children":"TypeScript"}],["$","$L9","Markdown",{"href":"/tags/Markdown","className":"inline-flex items-center px-4 py-1.5 rounded-full text-sm font-medium bg-green-100 text-green-800 dark:bg-green-900/30 dark:text-green-300 hover:bg-green-200 dark:hover:bg-green-800/50 transition-colors duration-200 shadow-sm","children":"Markdown"}]]}]]}]]}]]}]
+c:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"Markdown から説明文を自動生成する — generateExcerpt 関数の実装と使い方 | ブログタイトル"}],["$","meta","3",{"name":"description","content":"frontmatter の description が未設定でも Markdown 本文から自動で抜粋テキストを生成する generateExcerpt 関数の実装と、OGP・Twitter Card への連携方法を解説する。"}],["$","meta","4",{"property":"og:title","content":"Markdown から説明文を自動生成する — generateExcerpt 関数の実装と使い方"}],["$","meta","5",{"property":"og:description","content":"frontmatter の description が未設定でも Markdown 本文から自動で抜粋テキストを生成する generateExcerpt 関数の実装と、OGP・Twitter Card への連携方法を解説する。"}],["$","meta","6",{"property":"og:url","content":"https://maemaemae.blog/posts/nextjs_20260223b"}],["$","meta","7",{"property":"og:image","content":"https://maemaemae.blog/header.jpg"}],["$","meta","8",{"property":"og:type","content":"article"}],["$","meta","9",{"property":"article:published_time","content":"2026-02-23"}],["$","meta","10",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","11",{"name":"twitter:title","content":"Markdown から説明文を自動生成する — generateExcerpt 関数の実装と使い方"}],["$","meta","12",{"name":"twitter:description","content":"frontmatter の description が未設定でも Markdown 本文から自動で抜粋テキストを生成する generateExcerpt 関数の実装と、OGP・Twitter Card への連携方法を解説する。"}],["$","meta","13",{"name":"twitter:image","content":"https://maemaemae.blog/header.jpg"}],["$","link","14",{"rel":"icon","href":"/favicon.ico","type":"image/x-icon","sizes":"16x16"}],["$","meta","15",{"name":"next-size-adjust"}]]
+1:null

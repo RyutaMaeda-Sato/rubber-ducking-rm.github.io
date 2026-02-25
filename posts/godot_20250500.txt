@@ -1,0 +1,112 @@
+3:I[4707,[],""]
+5:I[6423,[],""]
+6:I[4888,["972","static/chunks/972-f241a8fd644428c6.js","70","static/chunks/70-f52c2ad284c6cd86.js","185","static/chunks/app/layout-97d049cf0fc78146.js"],"GoogleAnalytics"]
+7:I[6806,["972","static/chunks/972-f241a8fd644428c6.js","70","static/chunks/70-f52c2ad284c6cd86.js","185","static/chunks/app/layout-97d049cf0fc78146.js"],"default"]
+8:I[7213,["972","static/chunks/972-f241a8fd644428c6.js","70","static/chunks/70-f52c2ad284c6cd86.js","185","static/chunks/app/layout-97d049cf0fc78146.js"],"default"]
+9:I[2972,["972","static/chunks/972-f241a8fd644428c6.js","333","static/chunks/app/posts/%5Bslug%5D/page-acd6669982df1354.js"],""]
+a:I[5878,["972","static/chunks/972-f241a8fd644428c6.js","70","static/chunks/70-f52c2ad284c6cd86.js","185","static/chunks/app/layout-97d049cf0fc78146.js"],"Image"]
+b:I[2374,["972","static/chunks/972-f241a8fd644428c6.js","70","static/chunks/70-f52c2ad284c6cd86.js","185","static/chunks/app/layout-97d049cf0fc78146.js"],"default"]
+4:["slug","godot_20250500","d"]
+0:["0oJGNGFmzz_LorUWHIimP",[[["",{"children":["posts",{"children":[["slug","godot_20250500","d"],{"children":["__PAGE__?{\"slug\":\"godot_20250500\"}",{}]}]}]},"$undefined","$undefined",true],["",{"children":["posts",{"children":[["slug","godot_20250500","d"],{"children":["__PAGE__",{},[["$L1","$L2",null],null],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","posts","children","$4","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","posts","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/3add334ee59f67ac.css","precedence":"next","crossOrigin":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/css/cec3dd424af6abe7.css","precedence":"next","crossOrigin":"$undefined"}],["$","link","2",{"rel":"stylesheet","href":"/_next/static/css/31924b81bd2c71c2.css","precedence":"next","crossOrigin":"$undefined"}]],["$","html",null,{"lang":"jp","className":"__variable_f367f3 __variable_8c8862 __variable_6beb74 __variable_b784c9 __variable_d575de","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){try{var s=localStorage.getItem('darkMode');var p=window.matchMedia('(prefers-color-scheme: dark)').matches;if(s!==null?s==='true':p){document.documentElement.classList.add('dark');}}catch(e){}})();"}}],["$","$L6",null,{"gaId":"G-FWRP8962MB"}]]}],["$","body",null,{"className":"__className_f367f3","children":["$","$L7",null,{"children":[["$","header",null,{"children":["$","$L8",null,{"children":["$","div",null,{"className":"fixed top-0 left-0 w-full z-50 bg-green-700 dark:bg-gray-900 shadow-md border-b border-green-600/50 dark:border-gray-800","children":["$","div",null,{"className":"max-w-7xl mx-auto","children":["$","div",null,{"className":"flex items-center justify-between px-6 md:px-8 h-20 md:h-24","children":[["$","$L9",null,{"href":"/","className":"group flex items-center gap-3 transition-opacity hover:opacity-80","children":[["$","$La",null,{"alt":"Maemaemae","src":"/header.jpg","width":44,"height":44,"className":"rounded-full object-cover ring-2 ring-white/20 group-hover:ring-white/40 transition-all"}],["$","span",null,{"className":"text-xl md:text-2xl font-katyou text-[#fffef9] tracking-wide","children":"Maemaemae"}]]}],["$","div",null,{"className":"flex items-center gap-2","children":[["$","a",null,{"href":"https://x.com/maemaemae_rm","target":"_blank","rel":"noopener noreferrer","className":"p-2.5 rounded-full hover:bg-white/10 transition-colors","aria-label":"X (Twitter)","children":["$","$La",null,{"src":"/x-logo-white.png","width":24,"height":24,"alt":""}]}],["$","$Lb",null,{}]]}]]}]}]}]}]}],["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[]}]]}]}]]}]],null],null],["$Lc",null]]]]
+e:I[7426,["972","static/chunks/972-f241a8fd644428c6.js","333","static/chunks/app/posts/%5Bslug%5D/page-acd6669982df1354.js"],"default"]
+d:T22fe,<p>Godotでゲーム開発を始めると、多くの初心者が直面する問題の一つがプロジェクトのフォルダ構成です。整理されたフォルダ構造は開発効率を高め、プロジェクトの成長に伴う複雑さを管理するのに役立ちます。この記事では、Godotプロジェクトのための汎用的なフォルダ構成と、その設計における考慮事項を解説します。</p>
+<h2>なぜフォルダ構成が重要なのか</h2>
+<p>Godotはファイルシステムに関して特に制限を設けていないため、プロジェクトの構造は完全に開発者の裁量に任されています。しかし、整理されていないプロジェクトは以下の問題を引き起こす可能性があります：</p>
+<ul>
+<li>ファイルを探すのに時間がかかる</li>
+<li>チーム開発での混乱</li>
+<li>リソース参照の破損リスク</li>
+<li>長期的なメンテナンスの困難さ</li>
+</ul>
+<p>効率的なフォルダ構成を事前に計画することで、これらの問題を回避し、開発プロセスをスムーズに進めることができます。</p>
+<h2>基本的なフォルダ構造</h2>
+<p>Godotプロジェクトの汎用的なフォルダ構成は以下のようになります：</p>
+<h3>ルートレベル</h3>
+<pre><code class="code-highlight"><span class="code-line">/プロジェクト
+</span><span class="code-line">├── addons/
+</span><span class="code-line">├── assets/
+</span><span class="code-line">├── scenes/
+</span><span class="code-line">├── src/
+</span><span class="code-line">└── _debug/
+</span></code></pre>
+<p>各フォルダの役割は次の通りです：</p>
+<ul>
+<li><strong>addons/</strong> - サードパーティのプラグインやリソース</li>
+<li><strong>assets/</strong> - ゲームアセットのメインコンテナ</li>
+<li><strong>scenes/</strong> - ゲームのシーンファイル</li>
+<li><strong>src/</strong> または <strong>scripts/</strong> - オートロードスクリプトやスタンドアロンコード</li>
+<li><strong>_debug/</strong> - デバッグツールやテストレベル（エクスポート時に除外可能）</li>
+</ul>
+<h2>アセットのサブフォルダ構成</h2>
+<p>アセットフォルダは以下のように細分化できます：</p>
+<pre><code class="code-highlight"><span class="code-line">/assets
+</span><span class="code-line">├── sprites/     # 2Dゲームの場合
+</span><span class="code-line">├── models/      # 3Dゲームの場合
+</span><span class="code-line">├── textures/
+</span><span class="code-line">├── materials/   # 3Dゲームの場合
+</span><span class="code-line">├── audio/
+</span><span class="code-line">├── fonts/
+</span><span class="code-line">├── data/        # JSONやその他のゲームデータ
+</span><span class="code-line">└── custom_types/ # カスタムリソーススクリプト
+</span></code></pre>
+<h2>シーンのサブフォルダ構成</h2>
+<p>シーンフォルダは以下のように整理できます：</p>
+<pre><code class="code-highlight"><span class="code-line">/scenes
+</span><span class="code-line">├── levels/      # ゲームレベル
+</span><span class="code-line">├── ui/          # ユーザーインターフェース要素
+</span><span class="code-line">├── characters/  # プレイヤーとNPCキャラクター
+</span><span class="code-line">├── objects/     # インタラクティブなオブジェクトや小道具
+</span><span class="code-line">├── components/  # 再利用可能なシーンコンポーネント
+</span><span class="code-line">└── _debug/      # デバッグシーン
+</span></code></pre>
+<h2>効率的なフォルダ構成のポイント</h2>
+<h3>1. 関連アセットのグループ化</h3>
+<p>アセットはそれを使用するシーンにできるだけ近く配置すると、関連性が明確になり管理しやすくなります。例えば、特定のキャラクターに関連するすべてのアセットは、そのキャラクターのフォルダ内にまとめておくと良いでしょう。</p>
+<h3>2. 一貫した命名規則</h3>
+<p>ファイル名には一貫した命名規則を使用しましょう。Godotの仮想ファイルシステムは大文字小文字を区別するため、snake_case（小文字のみ）の使用が推奨されています。</p>
+<p>例：</p>
+<pre><code class="code-highlight"><span class="code-line"># 良い例
+</span><span class="code-line">player_character.tscn
+</span><span class="code-line">enemy_goblin.tscn
+</span><span class="code-line">
+</span><span class="code-line"># 避けるべき例
+</span><span class="code-line">PlayerCharacter.tscn
+</span><span class="code-line">Enemy-Goblin.tscn
+</span></code></pre>
+<h3>3. .gdignore ファイルの活用</h3>
+<p>特定のフォルダをGodotのインポートプロセスから除外したい場合は、そのフォルダに空の <code>.gdignore</code> ファイルを作成します。これにより、大規模なプロジェクトの初期インポート時間を短縮できます。</p>
+<h3>4. メインシーンの設計</h3>
+<p><code>scenes</code> フォルダ内に <code>main.tscn</code> を作成し、ゲームの初期化とシーン切り替えを処理するエントリーポイントとして使用すると良いでしょう。このシーンをプロジェクト設定でメインシーンとして設定します。</p>
+<h2>よくある問題と解決策</h2>
+<h3>ファイル移動による参照破損</h3>
+<p><strong>問題</strong>: ファイルを移動すると、それを参照しているシーンやスクリプトが壊れることがあります。</p>
+<p><strong>解決策</strong>:</p>
+<pre class="language-bash"><code class="language-bash code-highlight"><span class="code-line"><span class="token comment"># Godot内でのみファイル移動を行う</span>
+</span><span class="code-line"><span class="token comment"># エディタ外でファイルを移動しないこと</span>
+</span></code></pre>
+<p>Godotエディタ内のFileSystemドックからファイルを移動すると、Godotは自動的に参照を更新します。</p>
+<h3>リソースパスの使用</h3>
+<p><strong>問題</strong>: ハードコードされたパスを使用すると、ファイル構造の変更時に問題が発生します。</p>
+<p><strong>解決策</strong>:</p>
+<pre class="language-gdscript"><code class="language-gdscript code-highlight"><span class="code-line"><span class="token comment"># 悪い例</span>
+</span><span class="code-line"><span class="token keyword">var</span> texture <span class="token operator">=</span> <span class="token function">load</span><span class="token punctuation">(</span><span class="token string">"res://assets/sprites/player.png"</span><span class="token punctuation">)</span>
+</span><span class="code-line">
+</span><span class="code-line"><span class="token comment"># 良い例（エクスポート変数を使用）</span>
+</span><span class="code-line">@<span class="token keyword">export</span> <span class="token keyword">var</span> player_texture<span class="token punctuation">:</span> <span class="token class-name">Texture</span>
+</span></code></pre>
+<h2>ベストプラクティスのチェックリスト</h2>
+<ul class="contains-task-list">
+<li class="task-list-item"><input type="checkbox" disabled> プロジェクト開始時にフォルダ構造を計画する</li>
+<li class="task-list-item"><input type="checkbox" disabled> 一貫した命名規則を使用する</li>
+<li class="task-list-item"><input type="checkbox" disabled> ファイルの移動はGodotエディタ内で行う</li>
+<li class="task-list-item"><input type="checkbox" disabled> 関連するアセットをグループ化する</li>
+<li class="task-list-item"><input type="checkbox" disabled> 再利用可能なコンポーネントをモジュール化する</li>
+<li class="task-list-item"><input type="checkbox" disabled> エクスポート時に不要なファイルを除外する</li>
+</ul>
+<h2>まとめ</h2>
+<p>効率的なフォルダ構成はGodotプロジェクトの成功に不可欠です。ここで紹介した汎用的な構造は、あなたのプロジェクトのニーズに合わせて調整できます。重要なのは、開発の早い段階で一貫した組織を確立し、それを維持することです。</p>
+<p>良いフォルダ構成は目に見えないメリットをもたらします。開発中に悩む時間が減り、コードやアセットに集中できるようになるでしょう。</p>
+<hr>
+<p><em>Godot 4.x を基準としています。コミュニティによって推奨される構造は変わる可能性があるため、公式ドキュメントも参照してください。</em></p>2:["$","article",null,{"className":"min-h-screen","children":[["$","div",null,{"className":"bg-gradient-to-b from-green-50/60 to-transparent dark:from-gray-900 dark:to-transparent","children":["$","div",null,{"className":"max-w-4xl mx-auto px-6 md:px-8 pt-28 md:pt-32 pb-10 md:pb-14","children":[["$","h1",null,{"className":"font-katyou text-4xl md:text-5xl lg:text-6xl text-gray-900 dark:text-white leading-tight mb-6","children":"Godotプロジェクトのフォルダ構成ベストプラクティス"}],["$","time",null,{"className":"text-base font-medium text-gray-600 dark:text-gray-400","children":"2025-05-01"}]]}]}],["$","div",null,{"className":"max-w-4xl mx-auto px-6 md:px-8 pb-16 md:pb-24","children":[["$","div",null,{"id":"post-content","className":"prose prose-lg dark:prose-invert max-w-none prose-headings:font-katyou prose-headings:tracking-tight prose-h2:text-3xl prose-h2:mt-12 prose-h2:mb-6 prose-h3:text-2xl prose-h3:mt-10 prose-h3:mb-5 prose-h4:text-xl prose-h4:mt-8 prose-h4:mb-4 prose-p:leading-relaxed prose-p:mb-6 prose-li:my-2 prose-a:text-green-600 prose-a:no-underline prose-a:font-medium hover:prose-a:text-green-700 hover:prose-a:underline dark:prose-a:text-green-400 dark:hover:prose-a:text-green-300 prose-code:text-green-700 prose-code:bg-green-50 dark:prose-code:text-green-300 dark:prose-code:bg-green-900/20 prose-pre:bg-gray-900 dark:prose-pre:bg-gray-950 prose-img:rounded-lg prose-img:shadow-md prose-hr:my-12 prose-hr:border-gray-300 dark:prose-hr:border-gray-700 border-t border-gray-200 dark:border-gray-800 pt-8","dangerouslySetInnerHTML":{"__html":"$d"}}],["$","$Le",null,{}],["$","div",null,{"className":"mt-16 pt-10 border-t border-gray-200 dark:border-gray-800","children":[["$","p",null,{"className":"text-sm font-semibold text-gray-500 dark:text-gray-400 mb-4","children":"タグ"}],["$","div",null,{"className":"flex flex-wrap gap-2.5","children":[["$","$L9","Godot",{"href":"/tags/Godot","className":"inline-flex items-center px-4 py-1.5 rounded-full text-sm font-medium bg-green-100 text-green-800 dark:bg-green-900/30 dark:text-green-300 hover:bg-green-200 dark:hover:bg-green-800/50 transition-colors duration-200 shadow-sm","children":"Godot"}],["$","$L9","ゲーム開発",{"href":"/tags/ゲーム開発","className":"inline-flex items-center px-4 py-1.5 rounded-full text-sm font-medium bg-green-100 text-green-800 dark:bg-green-900/30 dark:text-green-300 hover:bg-green-200 dark:hover:bg-green-800/50 transition-colors duration-200 shadow-sm","children":"ゲーム開発"}],["$","$L9","フォルダ構成",{"href":"/tags/フォルダ構成","className":"inline-flex items-center px-4 py-1.5 rounded-full text-sm font-medium bg-green-100 text-green-800 dark:bg-green-900/30 dark:text-green-300 hover:bg-green-200 dark:hover:bg-green-800/50 transition-colors duration-200 shadow-sm","children":"フォルダ構成"}],["$","$L9","プロジェクト管理",{"href":"/tags/プロジェクト管理","className":"inline-flex items-center px-4 py-1.5 rounded-full text-sm font-medium bg-green-100 text-green-800 dark:bg-green-900/30 dark:text-green-300 hover:bg-green-200 dark:hover:bg-green-800/50 transition-colors duration-200 shadow-sm","children":"プロジェクト管理"}]]}]]}]]}]]}]
+c:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"Godotプロジェクトのフォルダ構成ベストプラクティス | ブログタイトル"}],["$","meta","3",{"name":"description","content":"効率的で保守しやすいGodotプロジェクトのフォルダ構造を設計するためのガイド"}],["$","meta","4",{"property":"og:title","content":"Godotプロジェクトのフォルダ構成ベストプラクティス"}],["$","meta","5",{"property":"og:description","content":"効率的で保守しやすいGodotプロジェクトのフォルダ構造を設計するためのガイド"}],["$","meta","6",{"property":"og:url","content":"https://maemaemae.blog/posts/godot_20250500"}],["$","meta","7",{"property":"og:image","content":"https://maemaemae.blog/images/godot-folder-structure.jpg"}],["$","meta","8",{"property":"og:type","content":"article"}],["$","meta","9",{"property":"article:published_time","content":"2025-05-01"}],["$","meta","10",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","11",{"name":"twitter:title","content":"Godotプロジェクトのフォルダ構成ベストプラクティス"}],["$","meta","12",{"name":"twitter:description","content":"効率的で保守しやすいGodotプロジェクトのフォルダ構造を設計するためのガイド"}],["$","meta","13",{"name":"twitter:image","content":"https://maemaemae.blog/images/godot-folder-structure.jpg"}],["$","link","14",{"rel":"icon","href":"/favicon.ico","type":"image/x-icon","sizes":"16x16"}],["$","meta","15",{"name":"next-size-adjust"}]]
+1:null

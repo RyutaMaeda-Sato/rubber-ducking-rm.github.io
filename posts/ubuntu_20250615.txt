@@ -1,0 +1,163 @@
+3:I[4707,[],""]
+5:I[6423,[],""]
+6:I[4888,["972","static/chunks/972-f241a8fd644428c6.js","70","static/chunks/70-f52c2ad284c6cd86.js","185","static/chunks/app/layout-97d049cf0fc78146.js"],"GoogleAnalytics"]
+7:I[6806,["972","static/chunks/972-f241a8fd644428c6.js","70","static/chunks/70-f52c2ad284c6cd86.js","185","static/chunks/app/layout-97d049cf0fc78146.js"],"default"]
+8:I[7213,["972","static/chunks/972-f241a8fd644428c6.js","70","static/chunks/70-f52c2ad284c6cd86.js","185","static/chunks/app/layout-97d049cf0fc78146.js"],"default"]
+9:I[2972,["972","static/chunks/972-f241a8fd644428c6.js","333","static/chunks/app/posts/%5Bslug%5D/page-acd6669982df1354.js"],""]
+a:I[5878,["972","static/chunks/972-f241a8fd644428c6.js","70","static/chunks/70-f52c2ad284c6cd86.js","185","static/chunks/app/layout-97d049cf0fc78146.js"],"Image"]
+b:I[2374,["972","static/chunks/972-f241a8fd644428c6.js","70","static/chunks/70-f52c2ad284c6cd86.js","185","static/chunks/app/layout-97d049cf0fc78146.js"],"default"]
+4:["slug","ubuntu_20250615","d"]
+0:["0oJGNGFmzz_LorUWHIimP",[[["",{"children":["posts",{"children":[["slug","ubuntu_20250615","d"],{"children":["__PAGE__?{\"slug\":\"ubuntu_20250615\"}",{}]}]}]},"$undefined","$undefined",true],["",{"children":["posts",{"children":[["slug","ubuntu_20250615","d"],{"children":["__PAGE__",{},[["$L1","$L2",null],null],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","posts","children","$4","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","posts","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/3add334ee59f67ac.css","precedence":"next","crossOrigin":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/css/cec3dd424af6abe7.css","precedence":"next","crossOrigin":"$undefined"}],["$","link","2",{"rel":"stylesheet","href":"/_next/static/css/31924b81bd2c71c2.css","precedence":"next","crossOrigin":"$undefined"}]],["$","html",null,{"lang":"jp","className":"__variable_f367f3 __variable_8c8862 __variable_6beb74 __variable_b784c9 __variable_d575de","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){try{var s=localStorage.getItem('darkMode');var p=window.matchMedia('(prefers-color-scheme: dark)').matches;if(s!==null?s==='true':p){document.documentElement.classList.add('dark');}}catch(e){}})();"}}],["$","$L6",null,{"gaId":"G-FWRP8962MB"}]]}],["$","body",null,{"className":"__className_f367f3","children":["$","$L7",null,{"children":[["$","header",null,{"children":["$","$L8",null,{"children":["$","div",null,{"className":"fixed top-0 left-0 w-full z-50 bg-green-700 dark:bg-gray-900 shadow-md border-b border-green-600/50 dark:border-gray-800","children":["$","div",null,{"className":"max-w-7xl mx-auto","children":["$","div",null,{"className":"flex items-center justify-between px-6 md:px-8 h-20 md:h-24","children":[["$","$L9",null,{"href":"/","className":"group flex items-center gap-3 transition-opacity hover:opacity-80","children":[["$","$La",null,{"alt":"Maemaemae","src":"/header.jpg","width":44,"height":44,"className":"rounded-full object-cover ring-2 ring-white/20 group-hover:ring-white/40 transition-all"}],["$","span",null,{"className":"text-xl md:text-2xl font-katyou text-[#fffef9] tracking-wide","children":"Maemaemae"}]]}],["$","div",null,{"className":"flex items-center gap-2","children":[["$","a",null,{"href":"https://x.com/maemaemae_rm","target":"_blank","rel":"noopener noreferrer","className":"p-2.5 rounded-full hover:bg-white/10 transition-colors","aria-label":"X (Twitter)","children":["$","$La",null,{"src":"/x-logo-white.png","width":24,"height":24,"alt":""}]}],["$","$Lb",null,{}]]}]]}]}]}]}]}],["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[]}]]}]}]]}]],null],null],["$Lc",null]]]]
+e:I[7426,["972","static/chunks/972-f241a8fd644428c6.js","333","static/chunks/app/posts/%5Bslug%5D/page-acd6669982df1354.js"],"default"]
+d:T4045,<p>Ubuntuを使用する際、現在のバージョンを正確に把握することは、パッケージ管理やトラブルシューティングにおいて重要です。この記事では、Ubuntuのバージョンを確認する様々な方法を詳しく解説します。</p>
+<h2>基本的なバージョン確認方法</h2>
+<h3>lsb_release コマンド</h3>
+<p>最も一般的で推奨される方法です。</p>
+<pre class="language-bash"><code class="language-bash code-highlight"><span class="code-line"><span class="token comment"># 全情報を表示</span>
+</span><span class="code-line">lsb_release <span class="token parameter variable">-a</span>
+</span><span class="code-line">
+</span><span class="code-line"><span class="token comment"># 出力例</span>
+</span><span class="code-line">No LSB modules are available.
+</span><span class="code-line">Distributor ID: Ubuntu
+</span><span class="code-line">Description:    Ubuntu <span class="token number">22.04</span>.3 LTS
+</span><span class="code-line">Release:        <span class="token number">22.04</span>
+</span><span class="code-line">Codename:       jammy
+</span></code></pre>
+<pre class="language-bash"><code class="language-bash code-highlight"><span class="code-line"><span class="token comment"># バージョン番号のみ</span>
+</span><span class="code-line">lsb_release <span class="token parameter variable">-rs</span>
+</span><span class="code-line"><span class="token comment"># 出力: 22.04</span>
+</span><span class="code-line">
+</span><span class="code-line"><span class="token comment"># ディストリビューション名とバージョン</span>
+</span><span class="code-line">lsb_release <span class="token parameter variable">-ds</span>
+</span><span class="code-line"><span class="token comment"># 出力: "Ubuntu 22.04.3 LTS"</span>
+</span></code></pre>
+<h3>/etc/os-release ファイル</h3>
+<p>システム情報を格納したファイルから確認する方法です。</p>
+<pre class="language-bash"><code class="language-bash code-highlight"><span class="code-line"><span class="token function">cat</span> /etc/os-release
+</span></code></pre>
+<pre class="language-bash"><code class="language-bash code-highlight"><span class="code-line"><span class="token comment"># 出力例</span>
+</span><span class="code-line"><span class="token assign-left variable">NAME</span><span class="token operator">=</span><span class="token string">"Ubuntu"</span>
+</span><span class="code-line"><span class="token assign-left variable">VERSION</span><span class="token operator">=</span><span class="token string">"22.04.3 LTS (Jammy Jellyfish)"</span>
+</span><span class="code-line"><span class="token assign-left variable">ID</span><span class="token operator">=</span>ubuntu
+</span><span class="code-line"><span class="token assign-left variable">ID_LIKE</span><span class="token operator">=</span>debian
+</span><span class="code-line"><span class="token assign-left variable">PRETTY_NAME</span><span class="token operator">=</span><span class="token string">"Ubuntu 22.04.3 LTS"</span>
+</span><span class="code-line"><span class="token assign-left variable">VERSION_ID</span><span class="token operator">=</span><span class="token string">"22.04"</span>
+</span><span class="code-line"><span class="token assign-left variable">VERSION_CODENAME</span><span class="token operator">=</span>jammy
+</span></code></pre>
+<h3>hostnamectl コマンド</h3>
+<p>systemd環境でのシステム情報確認です。</p>
+<pre class="language-bash"><code class="language-bash code-highlight"><span class="code-line">hostnamectl
+</span></code></pre>
+<pre class="language-bash"><code class="language-bash code-highlight"><span class="code-line"><span class="token comment"># 出力例（抜粋）</span>
+</span><span class="code-line">Operating System: Ubuntu <span class="token number">22.04</span>.3 LTS
+</span><span class="code-line">Kernel: Linux <span class="token number">5.15</span>.0-91-generic
+</span><span class="code-line">Architecture: x86-64
+</span></code></pre>
+<h2>追加的な確認方法</h2>
+<h3>uname コマンド</h3>
+<p>カーネル情報と合わせて確認できます。</p>
+<pre class="language-bash"><code class="language-bash code-highlight"><span class="code-line"><span class="token comment"># カーネルバージョン</span>
+</span><span class="code-line"><span class="token function">uname</span> <span class="token parameter variable">-r</span>
+</span><span class="code-line">
+</span><span class="code-line"><span class="token comment"># 全システム情報</span>
+</span><span class="code-line"><span class="token function">uname</span> <span class="token parameter variable">-a</span>
+</span></code></pre>
+<h3>/etc/issue ファイル</h3>
+<p>ログイン画面に表示される情報です。</p>
+<pre class="language-bash"><code class="language-bash code-highlight"><span class="code-line"><span class="token function">cat</span> /etc/issue
+</span><span class="code-line"><span class="token comment"># 出力: Ubuntu 22.04.3 LTS \n \l</span>
+</span></code></pre>
+<h3>dpkg による確認</h3>
+<p>パッケージ管理システムからベースシステムの情報を取得します。</p>
+<pre class="language-bash"><code class="language-bash code-highlight"><span class="code-line">dpkg <span class="token parameter variable">-l</span> <span class="token operator">|</span> <span class="token function">grep</span> base-files
+</span></code></pre>
+<h2>実践的な活用シーン</h2>
+<h3>スクリプトでの自動判定</h3>
+<pre class="language-bash"><code class="language-bash code-highlight"><span class="code-line"><span class="token shebang important">#!/bin/bash</span>
+</span><span class="code-line">
+</span><span class="code-line"><span class="token assign-left variable">VERSION</span><span class="token operator">=</span><span class="token variable"><span class="token variable">$(</span>lsb_release <span class="token parameter variable">-rs</span><span class="token variable">)</span></span>
+</span><span class="code-line"><span class="token assign-left variable">CODENAME</span><span class="token operator">=</span><span class="token variable"><span class="token variable">$(</span>lsb_release <span class="token parameter variable">-cs</span><span class="token variable">)</span></span>
+</span><span class="code-line">
+</span><span class="code-line"><span class="token keyword">if</span> <span class="token punctuation">[</span><span class="token punctuation">[</span> <span class="token string">"<span class="token variable">$VERSION</span>"</span> <span class="token operator">==</span> <span class="token string">"22.04"</span> <span class="token punctuation">]</span><span class="token punctuation">]</span><span class="token punctuation">;</span> <span class="token keyword">then</span>
+</span><span class="code-line">    <span class="token builtin class-name">echo</span> <span class="token string">"Ubuntu 22.04 LTS detected"</span>
+</span><span class="code-line">    <span class="token comment"># 22.04専用の処理</span>
+</span><span class="code-line"><span class="token keyword">elif</span> <span class="token punctuation">[</span><span class="token punctuation">[</span> <span class="token string">"<span class="token variable">$VERSION</span>"</span> <span class="token operator">==</span> <span class="token string">"20.04"</span> <span class="token punctuation">]</span><span class="token punctuation">]</span><span class="token punctuation">;</span> <span class="token keyword">then</span>
+</span><span class="code-line">    <span class="token builtin class-name">echo</span> <span class="token string">"Ubuntu 20.04 LTS detected"</span>
+</span><span class="code-line">    <span class="token comment"># 20.04専用の処理</span>
+</span><span class="code-line"><span class="token keyword">else</span>
+</span><span class="code-line">    <span class="token builtin class-name">echo</span> <span class="token string">"Unsupported Ubuntu version: <span class="token variable">$VERSION</span>"</span>
+</span><span class="code-line"><span class="token keyword">fi</span>
+</span></code></pre>
+<h3>リモートサーバーでの一括確認</h3>
+<pre class="language-bash"><code class="language-bash code-highlight"><span class="code-line"><span class="token comment"># SSH経由での確認</span>
+</span><span class="code-line"><span class="token function">ssh</span> user@server <span class="token string">"lsb_release -ds"</span>
+</span><span class="code-line">
+</span><span class="code-line"><span class="token comment"># 複数サーバー一括確認</span>
+</span><span class="code-line"><span class="token keyword">for</span> <span class="token for-or-select variable">server</span> <span class="token keyword">in</span> server1 server2 server3<span class="token punctuation">;</span> <span class="token keyword">do</span>
+</span><span class="code-line">    <span class="token builtin class-name">echo</span> <span class="token string">"=== <span class="token variable">$server</span> ==="</span>
+</span><span class="code-line">    <span class="token function">ssh</span> user@<span class="token variable">$server</span> <span class="token string">"lsb_release -ds"</span>
+</span><span class="code-line"><span class="token keyword">done</span>
+</span></code></pre>
+<h2>トラブルシューティング</h2>
+<h3>lsb_release が見つからない場合</h3>
+<pre class="language-bash"><code class="language-bash code-highlight"><span class="code-line"><span class="token comment"># lsb-releaseパッケージのインストール</span>
+</span><span class="code-line"><span class="token function">sudo</span> <span class="token function">apt</span> update
+</span><span class="code-line"><span class="token function">sudo</span> <span class="token function">apt</span> <span class="token function">install</span> lsb-release
+</span></code></pre>
+<h3>最小インストール環境での確認</h3>
+<pre class="language-bash"><code class="language-bash code-highlight"><span class="code-line"><span class="token comment"># /etc/os-releaseは常に利用可能</span>
+</span><span class="code-line"><span class="token function">cat</span> /etc/os-release <span class="token operator">|</span> <span class="token function">grep</span> VERSION_ID
+</span></code></pre>
+<h2>パッケージ管理での活用</h2>
+<h3>バージョン別リポジトリ設定</h3>
+<pre class="language-bash"><code class="language-bash code-highlight"><span class="code-line"><span class="token assign-left variable">CODENAME</span><span class="token operator">=</span><span class="token variable"><span class="token variable">$(</span>lsb_release <span class="token parameter variable">-cs</span><span class="token variable">)</span></span>
+</span><span class="code-line"><span class="token builtin class-name">echo</span> <span class="token string">"deb http://archive.ubuntu.com/ubuntu <span class="token variable">$CODENAME</span> main"</span> <span class="token operator">|</span> <span class="token function">sudo</span> <span class="token function">tee</span> /etc/apt/sources.list.d/custom.list
+</span></code></pre>
+<h3>PPA追加時のバージョン確認</h3>
+<pre class="language-bash"><code class="language-bash code-highlight"><span class="code-line"><span class="token comment"># バージョンに応じたPPA追加</span>
+</span><span class="code-line"><span class="token assign-left variable">VERSION</span><span class="token operator">=</span><span class="token variable"><span class="token variable">$(</span>lsb_release <span class="token parameter variable">-rs</span><span class="token variable">)</span></span>
+</span><span class="code-line"><span class="token keyword">if</span> <span class="token punctuation">[</span><span class="token punctuation">[</span> <span class="token string">"<span class="token variable">$VERSION</span>"</span> <span class="token operator">==</span> <span class="token string">"22.04"</span> <span class="token punctuation">]</span><span class="token punctuation">]</span><span class="token punctuation">;</span> <span class="token keyword">then</span>
+</span><span class="code-line">    <span class="token function">sudo</span> add-apt-repository ppa:example/jammy
+</span><span class="code-line"><span class="token keyword">fi</span>
+</span></code></pre>
+<h2>便利なエイリアス設定</h2>
+<p><code>.bashrc</code> や <code>.zshrc</code> に追加できる便利なエイリアス：</p>
+<pre class="language-bash"><code class="language-bash code-highlight"><span class="code-line"><span class="token comment"># バージョン情報のエイリアス</span>
+</span><span class="code-line"><span class="token builtin class-name">alias</span> <span class="token assign-left variable">ubver</span><span class="token operator">=</span><span class="token string">'lsb_release -ds'</span>
+</span><span class="code-line"><span class="token builtin class-name">alias</span> <span class="token assign-left variable">ubcode</span><span class="token operator">=</span><span class="token string">'lsb_release -cs'</span>
+</span><span class="code-line"><span class="token builtin class-name">alias</span> <span class="token assign-left variable">sysinfo</span><span class="token operator">=</span><span class="token string">'hostnamectl &#x26;&#x26; echo &#x26;&#x26; lsb_release -a'</span>
+</span></code></pre>
+<h2>CI/CD環境での活用</h2>
+<h3>GitHub Actions</h3>
+<pre class="language-yaml"><code class="language-yaml code-highlight"><span class="code-line"><span class="token key atrule">name</span><span class="token punctuation">:</span> Ubuntu Version Check
+</span><span class="code-line"><span class="token key atrule">on</span><span class="token punctuation">:</span> <span class="token punctuation">[</span>push<span class="token punctuation">]</span>
+</span><span class="code-line">
+</span><span class="code-line"><span class="token key atrule">jobs</span><span class="token punctuation">:</span>
+</span><span class="code-line">  <span class="token key atrule">check-version</span><span class="token punctuation">:</span>
+</span><span class="code-line">    <span class="token key atrule">runs-on</span><span class="token punctuation">:</span> ubuntu<span class="token punctuation">-</span>latest
+</span><span class="code-line">    <span class="token key atrule">steps</span><span class="token punctuation">:</span>
+</span><span class="code-line">      <span class="token punctuation">-</span> <span class="token key atrule">name</span><span class="token punctuation">:</span> Check Ubuntu Version
+</span><span class="code-line">        <span class="token key atrule">run</span><span class="token punctuation">:</span> <span class="token punctuation">|</span><span class="token scalar string">
+</span></span><span class="code-line"><span class="token scalar string">          echo "Ubuntu Version: $(lsb_release -ds)"
+</span></span><span class="code-line"><span class="token scalar string">          echo "Codename: $(lsb_release -cs)"</span>
+</span></code></pre>
+<h3>Docker での確認</h3>
+<pre class="language-dockerfile"><code class="language-dockerfile code-highlight"><span class="code-line"><span class="token instruction"><span class="token keyword">FROM</span> ubuntu:22.04</span>
+</span><span class="code-line">
+</span><span class="code-line"><span class="token instruction"><span class="token keyword">RUN</span> apt-get update &#x26;&#x26; apt-get install -y lsb-release</span>
+</span><span class="code-line">
+</span><span class="code-line"><span class="token comment"># バージョン情報をビルド時に表示</span>
+</span><span class="code-line"><span class="token instruction"><span class="token keyword">RUN</span> lsb_release -a</span>
+</span></code></pre>
+<h2>まとめ</h2>
+<p>Ubuntuのバージョン確認には複数の方法があります：</p>
+<ul>
+<li><strong>推奨</strong>: <code>lsb_release -a</code> - 最も詳細で信頼性が高い</li>
+<li><strong>シンプル</strong>: <code>cat /etc/os-release</code> - 常に利用可能</li>
+<li><strong>システム情報込み</strong>: <code>hostnamectl</code> - 包括的な情報</li>
+</ul>
+<p>用途に応じて適切な方法を選択し、スクリプトや自動化での活用も検討してください。</p>
+<hr>
+<p><em>この記事はUbuntu 18.04 LTS以降を対象としています。</em></p>2:["$","article",null,{"className":"min-h-screen","children":[["$","div",null,{"className":"bg-gradient-to-b from-green-50/60 to-transparent dark:from-gray-900 dark:to-transparent","children":["$","div",null,{"className":"max-w-4xl mx-auto px-6 md:px-8 pt-28 md:pt-32 pb-10 md:pb-14","children":[["$","h1",null,{"className":"font-katyou text-4xl md:text-5xl lg:text-6xl text-gray-900 dark:text-white leading-tight mb-6","children":"Ubuntu バージョン確認"}],["$","time",null,{"className":"text-base font-medium text-gray-600 dark:text-gray-400","children":"2025-06-15"}]]}]}],["$","div",null,{"className":"max-w-4xl mx-auto px-6 md:px-8 pb-16 md:pb-24","children":[["$","div",null,{"id":"post-content","className":"prose prose-lg dark:prose-invert max-w-none prose-headings:font-katyou prose-headings:tracking-tight prose-h2:text-3xl prose-h2:mt-12 prose-h2:mb-6 prose-h3:text-2xl prose-h3:mt-10 prose-h3:mb-5 prose-h4:text-xl prose-h4:mt-8 prose-h4:mb-4 prose-p:leading-relaxed prose-p:mb-6 prose-li:my-2 prose-a:text-green-600 prose-a:no-underline prose-a:font-medium hover:prose-a:text-green-700 hover:prose-a:underline dark:prose-a:text-green-400 dark:hover:prose-a:text-green-300 prose-code:text-green-700 prose-code:bg-green-50 dark:prose-code:text-green-300 dark:prose-code:bg-green-900/20 prose-pre:bg-gray-900 dark:prose-pre:bg-gray-950 prose-img:rounded-lg prose-img:shadow-md prose-hr:my-12 prose-hr:border-gray-300 dark:prose-hr:border-gray-700 border-t border-gray-200 dark:border-gray-800 pt-8","dangerouslySetInnerHTML":{"__html":"$d"}}],["$","$Le",null,{}],["$","div",null,{"className":"mt-16 pt-10 border-t border-gray-200 dark:border-gray-800","children":[["$","p",null,{"className":"text-sm font-semibold text-gray-500 dark:text-gray-400 mb-4","children":"タグ"}],["$","div",null,{"className":"flex flex-wrap gap-2.5","children":[["$","$L9","Ubuntu",{"href":"/tags/Ubuntu","className":"inline-flex items-center px-4 py-1.5 rounded-full text-sm font-medium bg-green-100 text-green-800 dark:bg-green-900/30 dark:text-green-300 hover:bg-green-200 dark:hover:bg-green-800/50 transition-colors duration-200 shadow-sm","children":"Ubuntu"}],["$","$L9","Linux",{"href":"/tags/Linux","className":"inline-flex items-center px-4 py-1.5 rounded-full text-sm font-medium bg-green-100 text-green-800 dark:bg-green-900/30 dark:text-green-300 hover:bg-green-200 dark:hover:bg-green-800/50 transition-colors duration-200 shadow-sm","children":"Linux"}],["$","$L9","コマンドライン",{"href":"/tags/コマンドライン","className":"inline-flex items-center px-4 py-1.5 rounded-full text-sm font-medium bg-green-100 text-green-800 dark:bg-green-900/30 dark:text-green-300 hover:bg-green-200 dark:hover:bg-green-800/50 transition-colors duration-200 shadow-sm","children":"コマンドライン"}],["$","$L9","システム管理",{"href":"/tags/システム管理","className":"inline-flex items-center px-4 py-1.5 rounded-full text-sm font-medium bg-green-100 text-green-800 dark:bg-green-900/30 dark:text-green-300 hover:bg-green-200 dark:hover:bg-green-800/50 transition-colors duration-200 shadow-sm","children":"システム管理"}]]}]]}]]}]]}]
+c:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"Ubuntu バージョン確認 | ブログタイトル"}],["$","meta","3",{"name":"description","content":"Ubuntuのバージョンを確認する様々な方法と実践的な活用法"}],["$","meta","4",{"property":"og:title","content":"Ubuntu バージョン確認"}],["$","meta","5",{"property":"og:description","content":"Ubuntuのバージョンを確認する様々な方法と実践的な活用法"}],["$","meta","6",{"property":"og:url","content":"https://maemaemae.blog/posts/ubuntu_20250615"}],["$","meta","7",{"property":"og:image","content":"https://maemaemae.blog/images/ubuntu-version-check.jpg"}],["$","meta","8",{"property":"og:type","content":"article"}],["$","meta","9",{"property":"article:published_time","content":"2025-06-15"}],["$","meta","10",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","11",{"name":"twitter:title","content":"Ubuntu バージョン確認"}],["$","meta","12",{"name":"twitter:description","content":"Ubuntuのバージョンを確認する様々な方法と実践的な活用法"}],["$","meta","13",{"name":"twitter:image","content":"https://maemaemae.blog/images/ubuntu-version-check.jpg"}],["$","link","14",{"rel":"icon","href":"/favicon.ico","type":"image/x-icon","sizes":"16x16"}],["$","meta","15",{"name":"next-size-adjust"}]]
+1:null

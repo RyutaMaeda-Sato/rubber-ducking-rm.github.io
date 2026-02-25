@@ -1,0 +1,336 @@
+3:I[4707,[],""]
+5:I[6423,[],""]
+6:I[4888,["972","static/chunks/972-f241a8fd644428c6.js","70","static/chunks/70-f52c2ad284c6cd86.js","185","static/chunks/app/layout-97d049cf0fc78146.js"],"GoogleAnalytics"]
+7:I[6806,["972","static/chunks/972-f241a8fd644428c6.js","70","static/chunks/70-f52c2ad284c6cd86.js","185","static/chunks/app/layout-97d049cf0fc78146.js"],"default"]
+8:I[7213,["972","static/chunks/972-f241a8fd644428c6.js","70","static/chunks/70-f52c2ad284c6cd86.js","185","static/chunks/app/layout-97d049cf0fc78146.js"],"default"]
+9:I[2972,["972","static/chunks/972-f241a8fd644428c6.js","333","static/chunks/app/posts/%5Bslug%5D/page-acd6669982df1354.js"],""]
+a:I[5878,["972","static/chunks/972-f241a8fd644428c6.js","70","static/chunks/70-f52c2ad284c6cd86.js","185","static/chunks/app/layout-97d049cf0fc78146.js"],"Image"]
+b:I[2374,["972","static/chunks/972-f241a8fd644428c6.js","70","static/chunks/70-f52c2ad284c6cd86.js","185","static/chunks/app/layout-97d049cf0fc78146.js"],"default"]
+4:["slug","vite_20250913","d"]
+0:["0oJGNGFmzz_LorUWHIimP",[[["",{"children":["posts",{"children":[["slug","vite_20250913","d"],{"children":["__PAGE__?{\"slug\":\"vite_20250913\"}",{}]}]}]},"$undefined","$undefined",true],["",{"children":["posts",{"children":[["slug","vite_20250913","d"],{"children":["__PAGE__",{},[["$L1","$L2",null],null],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","posts","children","$4","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","posts","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/3add334ee59f67ac.css","precedence":"next","crossOrigin":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/css/cec3dd424af6abe7.css","precedence":"next","crossOrigin":"$undefined"}],["$","link","2",{"rel":"stylesheet","href":"/_next/static/css/31924b81bd2c71c2.css","precedence":"next","crossOrigin":"$undefined"}]],["$","html",null,{"lang":"jp","className":"__variable_f367f3 __variable_8c8862 __variable_6beb74 __variable_b784c9 __variable_d575de","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){try{var s=localStorage.getItem('darkMode');var p=window.matchMedia('(prefers-color-scheme: dark)').matches;if(s!==null?s==='true':p){document.documentElement.classList.add('dark');}}catch(e){}})();"}}],["$","$L6",null,{"gaId":"G-FWRP8962MB"}]]}],["$","body",null,{"className":"__className_f367f3","children":["$","$L7",null,{"children":[["$","header",null,{"children":["$","$L8",null,{"children":["$","div",null,{"className":"fixed top-0 left-0 w-full z-50 bg-green-700 dark:bg-gray-900 shadow-md border-b border-green-600/50 dark:border-gray-800","children":["$","div",null,{"className":"max-w-7xl mx-auto","children":["$","div",null,{"className":"flex items-center justify-between px-6 md:px-8 h-20 md:h-24","children":[["$","$L9",null,{"href":"/","className":"group flex items-center gap-3 transition-opacity hover:opacity-80","children":[["$","$La",null,{"alt":"Maemaemae","src":"/header.jpg","width":44,"height":44,"className":"rounded-full object-cover ring-2 ring-white/20 group-hover:ring-white/40 transition-all"}],["$","span",null,{"className":"text-xl md:text-2xl font-katyou text-[#fffef9] tracking-wide","children":"Maemaemae"}]]}],["$","div",null,{"className":"flex items-center gap-2","children":[["$","a",null,{"href":"https://x.com/maemaemae_rm","target":"_blank","rel":"noopener noreferrer","className":"p-2.5 rounded-full hover:bg-white/10 transition-colors","aria-label":"X (Twitter)","children":["$","$La",null,{"src":"/x-logo-white.png","width":24,"height":24,"alt":""}]}],["$","$Lb",null,{}]]}]]}]}]}]}]}],["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[]}]]}]}]]}]],null],null],["$Lc",null]]]]
+e:I[7426,["972","static/chunks/972-f241a8fd644428c6.js","333","static/chunks/app/posts/%5Bslug%5D/page-acd6669982df1354.js"],"default"]
+d:Tab3b,<h1>Tailwind CSS v4.0とViteでReact + TypeScript環境を構築する完全ガイド</h1>
+<p>2025年にリリースされたTailwind CSS v4.0は、従来のバージョンから大幅にアップデートされ、設定の簡素化とパフォーマンスの向上を実現しました。この記事では、最新のTailwind CSS v4.0を使ってVite + React + TypeScript環境を効率的に構築する方法を解説します。</p>
+<h2>Tailwind CSS v4.0の主要な変更点</h2>
+<h3>革新的な改善</h3>
+<p><strong>パフォーマンスの大幅向上</strong></p>
+<ul>
+<li>フルビルドが最大5倍高速化</li>
+<li>インクリメンタルビルドは100倍以上の高速化</li>
+<li>マイクロ秒単位での処理を実現</li>
+</ul>
+<p><strong>設定の簡素化</strong></p>
+<ul>
+<li>設定ファイル不要（Zero Configuration）</li>
+<li>CSSファイル1行でのセットアップ</li>
+<li>テンプレートファイルの自動検出</li>
+</ul>
+<p><strong>モダンWeb技術への対応</strong></p>
+<ul>
+<li>Cascade Layers対応</li>
+<li>CSS Custom Propertiesの活用</li>
+<li>Lightning CSSによる最適化</li>
+</ul>
+<h2>環境構築手順</h2>
+<h3>ステップ1: Viteプロジェクトの作成</h3>
+<pre class="language-bash"><code class="language-bash code-highlight"><span class="code-line"><span class="token comment"># React + TypeScriptテンプレートでプロジェクト作成</span>
+</span><span class="code-line"><span class="token function">npm</span> create vite@latest my-tailwind-app -- <span class="token parameter variable">--template</span> react-ts
+</span><span class="code-line">
+</span><span class="code-line"><span class="token comment"># プロジェクトディレクトリに移動</span>
+</span><span class="code-line"><span class="token builtin class-name">cd</span> my-tailwind-app
+</span><span class="code-line">
+</span><span class="code-line"><span class="token comment"># 依存関係のインストール</span>
+</span><span class="code-line"><span class="token function">npm</span> <span class="token function">install</span>
+</span></code></pre>
+<h3>ステップ2: Tailwind CSS v4.0のインストール</h3>
+<pre class="language-bash"><code class="language-bash code-highlight"><span class="code-line"><span class="token comment"># Tailwind CSS v4.0とViteプラグインをインストール</span>
+</span><span class="code-line"><span class="token function">npm</span> <span class="token function">install</span> tailwindcss @tailwindcss/vite
+</span></code></pre>
+<h3>ステップ3: Vite設定の更新</h3>
+<p><code>vite.config.ts</code>を以下のように編集：</p>
+<pre class="language-typescript"><code class="language-typescript code-highlight"><span class="code-line"><span class="token keyword">import</span> <span class="token punctuation">{</span> defineConfig <span class="token punctuation">}</span> <span class="token keyword">from</span> <span class="token string">"vite"</span>
+</span><span class="code-line"><span class="token keyword">import</span> react <span class="token keyword">from</span> <span class="token string">"@vitejs/plugin-react"</span>
+</span><span class="code-line"><span class="token keyword">import</span> tailwindcss <span class="token keyword">from</span> <span class="token string">"@tailwindcss/vite"</span>
+</span><span class="code-line">
+</span><span class="code-line"><span class="token comment">// https://vite.dev/config/</span>
+</span><span class="code-line"><span class="token keyword">export</span> <span class="token keyword">default</span> <span class="token function">defineConfig</span><span class="token punctuation">(</span><span class="token punctuation">{</span>
+</span><span class="code-line">  plugins<span class="token operator">:</span> <span class="token punctuation">[</span><span class="token function">react</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">,</span> <span class="token function">tailwindcss</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">]</span><span class="token punctuation">,</span>
+</span><span class="code-line"><span class="token punctuation">}</span><span class="token punctuation">)</span>
+</span></code></pre>
+<h3>ステップ4: CSSファイルの設定</h3>
+<p><code>src/index.css</code>の内容を以下の1行に置き換え：</p>
+<pre class="language-css"><code class="language-css code-highlight"><span class="code-line"><span class="token atrule"><span class="token rule">@import</span> <span class="token string">"tailwindcss"</span><span class="token punctuation">;</span></span>
+</span></code></pre>
+<p><strong>注意</strong>: 従来の<code>@tailwind</code>ディレクティブは不要になりました。</p>
+<h3>ステップ5: 動作確認用コンポーネント</h3>
+<p><code>src/App.tsx</code>を以下のように更新してテスト：</p>
+<pre class="language-tsx"><code class="language-tsx code-highlight"><span class="code-line"><span class="token keyword">function</span> <span class="token function">App</span><span class="token punctuation">(</span><span class="token punctuation">)</span> <span class="token punctuation">{</span>
+</span><span class="code-line">  <span class="token keyword">return</span> <span class="token punctuation">(</span>
+</span><span class="code-line">    <span class="token tag"><span class="token tag"><span class="token punctuation">&#x3C;</span>div</span> <span class="token attr-name">className</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">"</span>min-h-screen bg-gradient-to-br from-blue-400 to-purple-600 flex items-center justify-center<span class="token punctuation">"</span></span><span class="token punctuation">></span></span><span class="token plain-text">
+</span></span><span class="code-line"><span class="token plain-text">      </span><span class="token tag"><span class="token tag"><span class="token punctuation">&#x3C;</span>div</span> <span class="token attr-name">className</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">"</span>bg-white p-8 rounded-xl shadow-2xl max-w-md text-center<span class="token punctuation">"</span></span><span class="token punctuation">></span></span><span class="token plain-text">
+</span></span><span class="code-line"><span class="token plain-text">        </span><span class="token tag"><span class="token tag"><span class="token punctuation">&#x3C;</span>h1</span> <span class="token attr-name">className</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">"</span>text-3xl font-bold text-gray-800 mb-4<span class="token punctuation">"</span></span><span class="token punctuation">></span></span><span class="token plain-text">
+</span></span><span class="code-line"><span class="token plain-text">          Tailwind CSS v4.0
+</span></span><span class="code-line"><span class="token plain-text">        </span><span class="token tag"><span class="token tag"><span class="token punctuation">&#x3C;/</span>h1</span><span class="token punctuation">></span></span><span class="token plain-text">
+</span></span><span class="code-line"><span class="token plain-text">        </span><span class="token tag"><span class="token tag"><span class="token punctuation">&#x3C;</span>p</span> <span class="token attr-name">className</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">"</span>text-gray-600 mb-6<span class="token punctuation">"</span></span><span class="token punctuation">></span></span><span class="token plain-text">
+</span></span><span class="code-line"><span class="token plain-text">          ViteとReactで構築された高速開発環境
+</span></span><span class="code-line"><span class="token plain-text">        </span><span class="token tag"><span class="token tag"><span class="token punctuation">&#x3C;/</span>p</span><span class="token punctuation">></span></span><span class="token plain-text">
+</span></span><span class="code-line"><span class="token plain-text">        </span><span class="token tag"><span class="token tag"><span class="token punctuation">&#x3C;</span>button</span> <span class="token attr-name">className</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">"</span>bg-blue-500 hover:bg-blue-600 text-white px-6 py-3 rounded-lg font-semibold transition-colors<span class="token punctuation">"</span></span><span class="token punctuation">></span></span><span class="token plain-text">
+</span></span><span class="code-line"><span class="token plain-text">          始めましょう
+</span></span><span class="code-line"><span class="token plain-text">        </span><span class="token tag"><span class="token tag"><span class="token punctuation">&#x3C;/</span>button</span><span class="token punctuation">></span></span><span class="token plain-text">
+</span></span><span class="code-line"><span class="token plain-text">      </span><span class="token tag"><span class="token tag"><span class="token punctuation">&#x3C;/</span>div</span><span class="token punctuation">></span></span><span class="token plain-text">
+</span></span><span class="code-line"><span class="token plain-text">    </span><span class="token tag"><span class="token tag"><span class="token punctuation">&#x3C;/</span>div</span><span class="token punctuation">></span></span>
+</span><span class="code-line">  <span class="token punctuation">)</span>
+</span><span class="code-line"><span class="token punctuation">}</span>
+</span><span class="code-line">
+</span><span class="code-line"><span class="token keyword">export</span> <span class="token keyword">default</span> <span class="token maybe-class-name">App</span>
+</span></code></pre>
+<h3>ステップ6: 開発サーバーの起動</h3>
+<pre class="language-bash"><code class="language-bash code-highlight"><span class="code-line"><span class="token function">npm</span> run dev
+</span></code></pre>
+<p>ブラウザで<code>http://localhost:5173</code>を開き、Tailwind CSSが適用されていることを確認してください。</p>
+<h2>v4.0と従来版の比較</h2>
+<h3>設定ファイルの違い</h3>
+<p><strong>v3.x（従来版）</strong>:</p>
+<pre class="language-javascript"><code class="language-javascript code-highlight"><span class="code-line"><span class="token comment">// tailwind.config.js が必要</span>
+</span><span class="code-line"><span class="token doc-comment comment">/** <span class="token keyword">@type</span> <span class="token class-name"><span class="token punctuation">{</span><span class="token keyword">import</span><span class="token punctuation">(</span><span class="token string">'tailwindcss'</span><span class="token punctuation">)</span><span class="token punctuation">.</span>Config<span class="token punctuation">}</span></span> */</span>
+</span><span class="code-line"><span class="token keyword module">export</span> <span class="token keyword module">default</span> <span class="token punctuation">{</span>
+</span><span class="code-line">  <span class="token literal-property property">content</span><span class="token operator">:</span> <span class="token punctuation">[</span>
+</span><span class="code-line">    <span class="token string">"./index.html"</span><span class="token punctuation">,</span>
+</span><span class="code-line">    <span class="token string">"./src/**/*.{js,ts,jsx,tsx}"</span><span class="token punctuation">,</span>
+</span><span class="code-line">  <span class="token punctuation">]</span><span class="token punctuation">,</span>
+</span><span class="code-line">  <span class="token literal-property property">theme</span><span class="token operator">:</span> <span class="token punctuation">{</span>
+</span><span class="code-line">    <span class="token literal-property property">extend</span><span class="token operator">:</span> <span class="token punctuation">{</span><span class="token punctuation">}</span><span class="token punctuation">,</span>
+</span><span class="code-line">  <span class="token punctuation">}</span><span class="token punctuation">,</span>
+</span><span class="code-line">  <span class="token literal-property property">plugins</span><span class="token operator">:</span> <span class="token punctuation">[</span><span class="token punctuation">]</span><span class="token punctuation">,</span>
+</span><span class="code-line"><span class="token punctuation">}</span>
+</span></code></pre>
+<p><strong>v4.0（新版）</strong>:</p>
+<pre class="language-css"><code class="language-css code-highlight"><span class="code-line"><span class="token comment">/* 設定ファイル不要、CSS内で直接設定 */</span>
+</span><span class="code-line"><span class="token atrule"><span class="token rule">@import</span> <span class="token string">"tailwindcss"</span><span class="token punctuation">;</span></span>
+</span></code></pre>
+<h3>CSSファイルの違い</h3>
+<p><strong>v3.x（従来版）</strong>:</p>
+<pre class="language-css"><code class="language-css code-highlight"><span class="code-line"><span class="token atrule"><span class="token rule">@tailwind</span> base<span class="token punctuation">;</span></span>
+</span><span class="code-line"><span class="token atrule"><span class="token rule">@tailwind</span> components<span class="token punctuation">;</span></span>
+</span><span class="code-line"><span class="token atrule"><span class="token rule">@tailwind</span> utilities<span class="token punctuation">;</span></span>
+</span></code></pre>
+<p><strong>v4.0（新版）</strong>:</p>
+<pre class="language-css"><code class="language-css code-highlight"><span class="code-line"><span class="token atrule"><span class="token rule">@import</span> <span class="token string">"tailwindcss"</span><span class="token punctuation">;</span></span>
+</span></code></pre>
+<h2>カスタマイゼーション方法</h2>
+<h3>CSS Variables での色定義</h3>
+<pre class="language-css"><code class="language-css code-highlight"><span class="code-line"><span class="token atrule"><span class="token rule">@import</span> <span class="token string">"tailwindcss"</span><span class="token punctuation">;</span></span>
+</span><span class="code-line">
+</span><span class="code-line"><span class="token comment">/* カスタム色の定義 */</span>
+</span><span class="code-line"><span class="token selector"><span class="token pseudo-class">:root</span></span> <span class="token punctuation">{</span>
+</span><span class="code-line">  <span class="token variable">--color-primary</span><span class="token punctuation">:</span> <span class="token hexcode color">#3b82f6</span><span class="token punctuation">;</span>
+</span><span class="code-line">  <span class="token variable">--color-secondary</span><span class="token punctuation">:</span> <span class="token hexcode color">#10b981</span><span class="token punctuation">;</span>
+</span><span class="code-line"><span class="token punctuation">}</span>
+</span><span class="code-line">
+</span><span class="code-line"><span class="token comment">/* Tailwindクラスで使用可能 */</span>
+</span><span class="code-line"><span class="token selector"><span class="token class">.bg-primary</span></span> <span class="token punctuation">{</span>
+</span><span class="code-line">  <span class="token property">background-color</span><span class="token punctuation">:</span> <span class="token function">var</span><span class="token punctuation">(</span><span class="token variable">--color-primary</span><span class="token punctuation">)</span><span class="token punctuation">;</span>
+</span><span class="code-line"><span class="token punctuation">}</span>
+</span></code></pre>
+<h3>テーマのカスタマイズ</h3>
+<pre class="language-css"><code class="language-css code-highlight"><span class="code-line"><span class="token atrule"><span class="token rule">@import</span> <span class="token string">"tailwindcss"</span><span class="token punctuation">;</span></span>
+</span><span class="code-line">
+</span><span class="code-line"><span class="token comment">/* カスタムユーティリティの追加 */</span>
+</span><span class="code-line"><span class="token atrule"><span class="token rule">@layer</span> utilities</span> <span class="token punctuation">{</span>
+</span><span class="code-line">  <span class="token selector"><span class="token class">.text-gradient</span></span> <span class="token punctuation">{</span>
+</span><span class="code-line">    <span class="token property">background</span><span class="token punctuation">:</span> <span class="token function">linear-gradient</span><span class="token punctuation">(</span><span class="token number">45</span><span class="token unit">deg</span><span class="token punctuation">,</span> <span class="token hexcode color">#3b82f6</span><span class="token punctuation">,</span> <span class="token hexcode color">#8b5cf6</span><span class="token punctuation">)</span><span class="token punctuation">;</span>
+</span><span class="code-line">    <span class="token property">-webkit-background-clip</span><span class="token punctuation">:</span> text<span class="token punctuation">;</span>
+</span><span class="code-line">    <span class="token property">-webkit-text-fill-color</span><span class="token punctuation">:</span> <span class="token color">transparent</span><span class="token punctuation">;</span>
+</span><span class="code-line">    <span class="token property">background-clip</span><span class="token punctuation">:</span> text<span class="token punctuation">;</span>
+</span><span class="code-line">  <span class="token punctuation">}</span>
+</span><span class="code-line"><span class="token punctuation">}</span>
+</span></code></pre>
+<h2>よくある問題と解決策</h2>
+<h3>問題1: スタイルが適用されない</h3>
+<p><strong>原因</strong>: CSSファイルが正しくインポートされていない</p>
+<p><strong>解決策</strong>:</p>
+<ol>
+<li><code>src/main.tsx</code>で<code>index.css</code>がインポートされているか確認</li>
+<li><code>index.css</code>に<code>@import "tailwindcss"</code>が記載されているか確認</li>
+</ol>
+<pre class="language-typescript"><code class="language-typescript code-highlight"><span class="code-line"><span class="token comment">// src/main.tsx</span>
+</span><span class="code-line"><span class="token keyword">import</span> <span class="token punctuation">{</span> StrictMode <span class="token punctuation">}</span> <span class="token keyword">from</span> <span class="token string">'react'</span>
+</span><span class="code-line"><span class="token keyword">import</span> <span class="token punctuation">{</span> createRoot <span class="token punctuation">}</span> <span class="token keyword">from</span> <span class="token string">'react-dom/client'</span>
+</span><span class="code-line"><span class="token keyword">import</span> <span class="token string">'./index.css'</span> <span class="token comment">// 必須</span>
+</span><span class="code-line"><span class="token keyword">import</span> App <span class="token keyword">from</span> <span class="token string">'./App.tsx'</span>
+</span><span class="code-line">
+</span><span class="code-line"><span class="token function">createRoot</span><span class="token punctuation">(</span>document<span class="token punctuation">.</span><span class="token function">getElementById</span><span class="token punctuation">(</span><span class="token string">'root'</span><span class="token punctuation">)</span><span class="token operator">!</span><span class="token punctuation">)</span><span class="token punctuation">.</span><span class="token function">render</span><span class="token punctuation">(</span>
+</span><span class="code-line">  <span class="token operator">&#x3C;</span>StrictMode<span class="token operator">></span>
+</span><span class="code-line">    <span class="token operator">&#x3C;</span>App <span class="token operator">/</span><span class="token operator">></span>
+</span><span class="code-line">  <span class="token operator">&#x3C;</span><span class="token operator">/</span>StrictMode<span class="token operator">></span><span class="token punctuation">,</span>
+</span><span class="code-line"><span class="token punctuation">)</span>
+</span></code></pre>
+<h3>問題2: TypeScriptエラー</h3>
+<p><strong>症状</strong>: Viteプラグインが認識されない</p>
+<p><strong>解決策</strong>: <code>@tailwindcss/vite</code>の型定義を確認</p>
+<pre class="language-typescript"><code class="language-typescript code-highlight"><span class="code-line"><span class="token comment">// vite.config.ts</span>
+</span><span class="code-line"><span class="token keyword">import</span> tailwindcss <span class="token keyword">from</span> <span class="token string">"@tailwindcss/vite"</span>
+</span><span class="code-line">
+</span><span class="code-line"><span class="token comment">// 型エラーが出る場合は明示的に型を指定</span>
+</span><span class="code-line"><span class="token keyword">import</span> <span class="token keyword">type</span> <span class="token punctuation">{</span> Plugin <span class="token punctuation">}</span> <span class="token keyword">from</span> <span class="token string">'vite'</span>
+</span><span class="code-line"><span class="token keyword">const</span> tailwindPlugin <span class="token operator">=</span> <span class="token function">tailwindcss</span><span class="token punctuation">(</span><span class="token punctuation">)</span> <span class="token keyword">as</span> Plugin
+</span></code></pre>
+<h3>問題3: ビルド時のエラー</h3>
+<p><strong>症状</strong>: 本番ビルドでCSSが生成されない</p>
+<p><strong>解決策</strong>: Viteの設定でプラグインの順序を調整</p>
+<pre class="language-typescript"><code class="language-typescript code-highlight"><span class="code-line"><span class="token keyword">export</span> <span class="token keyword">default</span> <span class="token function">defineConfig</span><span class="token punctuation">(</span><span class="token punctuation">{</span>
+</span><span class="code-line">  plugins<span class="token operator">:</span> <span class="token punctuation">[</span>
+</span><span class="code-line">    <span class="token function">tailwindcss</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">,</span> <span class="token comment">// Reactプラグインより前に配置</span>
+</span><span class="code-line">    <span class="token function">react</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">,</span>
+</span><span class="code-line">  <span class="token punctuation">]</span><span class="token punctuation">,</span>
+</span><span class="code-line"><span class="token punctuation">}</span><span class="token punctuation">)</span>
+</span></code></pre>
+<h2>パフォーマンス最適化</h2>
+<h3>開発環境での高速化</h3>
+<p>v4.0では以下の最適化が自動で適用されます：</p>
+<ul>
+<li><strong>自動コンテンツ検出</strong>: テンプレートファイルを自動で発見</li>
+<li><strong>インクリメンタルビルド</strong>: 変更箇所のみを高速処理</li>
+<li><strong>Lightning CSS</strong>: 高速なCSS処理エンジン</li>
+</ul>
+<h3>本番ビルドの最適化</h3>
+<pre class="language-bash"><code class="language-bash code-highlight"><span class="code-line"><span class="token comment"># 本番ビルドの実行</span>
+</span><span class="code-line"><span class="token function">npm</span> run build
+</span><span class="code-line">
+</span><span class="code-line"><span class="token comment"># ビルド結果の確認</span>
+</span><span class="code-line"><span class="token function">npm</span> run preview
+</span></code></pre>
+<h2>TypeScript型定義の活用</h2>
+<h3>カスタムクラス用の型定義</h3>
+<pre class="language-typescript"><code class="language-typescript code-highlight"><span class="code-line"><span class="token comment">// types/tailwind.d.ts</span>
+</span><span class="code-line"><span class="token keyword">declare</span> <span class="token keyword">module</span> <span class="token string">'tailwindcss'</span> <span class="token punctuation">{</span>
+</span><span class="code-line">  <span class="token keyword">interface</span> <span class="token class-name">CustomUtilities</span> <span class="token punctuation">{</span>
+</span><span class="code-line">    <span class="token string-property property">'text-gradient'</span><span class="token operator">:</span> <span class="token builtin">string</span><span class="token punctuation">;</span>
+</span><span class="code-line">    <span class="token string-property property">'bg-primary'</span><span class="token operator">:</span> <span class="token builtin">string</span><span class="token punctuation">;</span>
+</span><span class="code-line">  <span class="token punctuation">}</span>
+</span><span class="code-line"><span class="token punctuation">}</span>
+</span></code></pre>
+<h3>コンポーネントでの型安全性</h3>
+<pre class="language-tsx"><code class="language-tsx code-highlight"><span class="code-line"><span class="token keyword">interface</span> <span class="token class-name">ButtonProps</span> <span class="token punctuation">{</span>
+</span><span class="code-line">  variant<span class="token operator">:</span> <span class="token string">'primary'</span> <span class="token operator">|</span> <span class="token string">'secondary'</span> <span class="token operator">|</span> <span class="token string">'outline'</span><span class="token punctuation">;</span>
+</span><span class="code-line">  size<span class="token operator">:</span> <span class="token string">'sm'</span> <span class="token operator">|</span> <span class="token string">'md'</span> <span class="token operator">|</span> <span class="token string">'lg'</span><span class="token punctuation">;</span>
+</span><span class="code-line">  children<span class="token operator">:</span> <span class="token maybe-class-name">React</span><span class="token punctuation">.</span><span class="token property-access"><span class="token maybe-class-name">ReactNode</span></span><span class="token punctuation">;</span>
+</span><span class="code-line"><span class="token punctuation">}</span>
+</span><span class="code-line">
+</span><span class="code-line"><span class="token keyword">const</span> <span class="token maybe-class-name">Button</span><span class="token operator">:</span> <span class="token maybe-class-name">React</span><span class="token punctuation">.</span><span class="token constant">FC</span><span class="token operator">&#x3C;</span><span class="token maybe-class-name">ButtonProps</span><span class="token operator">></span> <span class="token operator">=</span> <span class="token punctuation">(</span><span class="token punctuation">{</span> variant<span class="token punctuation">,</span> size<span class="token punctuation">,</span> children <span class="token punctuation">}</span><span class="token punctuation">)</span> <span class="token arrow operator">=></span> <span class="token punctuation">{</span>
+</span><span class="code-line">  <span class="token keyword">const</span> baseClasses <span class="token operator">=</span> <span class="token string">"font-semibold rounded-lg transition-colors"</span>
+</span><span class="code-line">
+</span><span class="code-line">  <span class="token keyword">const</span> variantClasses <span class="token operator">=</span> <span class="token punctuation">{</span>
+</span><span class="code-line">    primary<span class="token operator">:</span> <span class="token string">"bg-blue-500 hover:bg-blue-600 text-white"</span><span class="token punctuation">,</span>
+</span><span class="code-line">    secondary<span class="token operator">:</span> <span class="token string">"bg-gray-500 hover:bg-gray-600 text-white"</span><span class="token punctuation">,</span>
+</span><span class="code-line">    outline<span class="token operator">:</span> <span class="token string">"border-2 border-blue-500 text-blue-500 hover:bg-blue-50"</span>
+</span><span class="code-line">  <span class="token punctuation">}</span>
+</span><span class="code-line">
+</span><span class="code-line">  <span class="token keyword">const</span> sizeClasses <span class="token operator">=</span> <span class="token punctuation">{</span>
+</span><span class="code-line">    sm<span class="token operator">:</span> <span class="token string">"px-3 py-1.5 text-sm"</span><span class="token punctuation">,</span>
+</span><span class="code-line">    md<span class="token operator">:</span> <span class="token string">"px-4 py-2"</span><span class="token punctuation">,</span>
+</span><span class="code-line">    lg<span class="token operator">:</span> <span class="token string">"px-6 py-3 text-lg"</span>
+</span><span class="code-line">  <span class="token punctuation">}</span>
+</span><span class="code-line">
+</span><span class="code-line">  <span class="token keyword">return</span> <span class="token punctuation">(</span>
+</span><span class="code-line">    <span class="token tag"><span class="token tag"><span class="token punctuation">&#x3C;</span>button</span> <span class="token attr-name">className</span><span class="token script language-javascript"><span class="token script-punctuation punctuation">=</span><span class="token punctuation">{</span><span class="token template-string"><span class="token template-punctuation string">`</span><span class="token interpolation"><span class="token interpolation-punctuation punctuation">${</span>baseClasses<span class="token interpolation-punctuation punctuation">}</span></span><span class="token string"> </span><span class="token interpolation"><span class="token interpolation-punctuation punctuation">${</span>variantClasses<span class="token punctuation">[</span>variant<span class="token punctuation">]</span><span class="token interpolation-punctuation punctuation">}</span></span><span class="token string"> </span><span class="token interpolation"><span class="token interpolation-punctuation punctuation">${</span>sizeClasses<span class="token punctuation">[</span>size<span class="token punctuation">]</span><span class="token interpolation-punctuation punctuation">}</span></span><span class="token template-punctuation string">`</span></span><span class="token punctuation">}</span></span><span class="token punctuation">></span></span><span class="token plain-text">
+</span></span><span class="code-line"><span class="token plain-text">      </span><span class="token punctuation">{</span>children<span class="token punctuation">}</span><span class="token plain-text">
+</span></span><span class="code-line"><span class="token plain-text">    </span><span class="token tag"><span class="token tag"><span class="token punctuation">&#x3C;/</span>button</span><span class="token punctuation">></span></span>
+</span><span class="code-line">  <span class="token punctuation">)</span>
+</span><span class="code-line"><span class="token punctuation">}</span>
+</span></code></pre>
+<h2>実際の開発フローでの活用</h2>
+<h3>コンポーネント開発例</h3>
+<pre class="language-tsx"><code class="language-tsx code-highlight"><span class="code-line"><span class="token comment">// components/Card.tsx</span>
+</span><span class="code-line"><span class="token keyword">interface</span> <span class="token class-name">CardProps</span> <span class="token punctuation">{</span>
+</span><span class="code-line">  title<span class="token operator">:</span> <span class="token builtin">string</span><span class="token punctuation">;</span>
+</span><span class="code-line">  description<span class="token operator">:</span> <span class="token builtin">string</span><span class="token punctuation">;</span>
+</span><span class="code-line">  imageUrl<span class="token operator">?</span><span class="token operator">:</span> <span class="token builtin">string</span><span class="token punctuation">;</span>
+</span><span class="code-line">  actions<span class="token operator">?</span><span class="token operator">:</span> <span class="token maybe-class-name">React</span><span class="token punctuation">.</span><span class="token property-access"><span class="token maybe-class-name">ReactNode</span></span><span class="token punctuation">;</span>
+</span><span class="code-line"><span class="token punctuation">}</span>
+</span><span class="code-line">
+</span><span class="code-line"><span class="token keyword">export</span> <span class="token keyword">const</span> <span class="token maybe-class-name">Card</span><span class="token operator">:</span> <span class="token maybe-class-name">React</span><span class="token punctuation">.</span><span class="token constant">FC</span><span class="token operator">&#x3C;</span><span class="token maybe-class-name">CardProps</span><span class="token operator">></span> <span class="token operator">=</span> <span class="token punctuation">(</span><span class="token punctuation">{</span>
+</span><span class="code-line">  title<span class="token punctuation">,</span>
+</span><span class="code-line">  description<span class="token punctuation">,</span>
+</span><span class="code-line">  imageUrl<span class="token punctuation">,</span>
+</span><span class="code-line">  actions
+</span><span class="code-line"><span class="token punctuation">}</span><span class="token punctuation">)</span> <span class="token arrow operator">=></span> <span class="token punctuation">{</span>
+</span><span class="code-line">  <span class="token keyword">return</span> <span class="token punctuation">(</span>
+</span><span class="code-line">    <span class="token tag"><span class="token tag"><span class="token punctuation">&#x3C;</span>div</span> <span class="token attr-name">className</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">"</span>bg-white rounded-xl shadow-lg overflow-hidden hover:shadow-xl transition-shadow<span class="token punctuation">"</span></span><span class="token punctuation">></span></span><span class="token plain-text">
+</span></span><span class="code-line"><span class="token plain-text">      </span><span class="token punctuation">{</span>imageUrl <span class="token operator">&#x26;&#x26;</span> <span class="token punctuation">(</span>
+</span><span class="code-line">        <span class="token tag"><span class="token tag"><span class="token punctuation">&#x3C;</span>img</span>
+</span></span><span class="code-line"><span class="token tag">          <span class="token attr-name">src</span><span class="token script language-javascript"><span class="token script-punctuation punctuation">=</span><span class="token punctuation">{</span>imageUrl<span class="token punctuation">}</span></span>
+</span></span><span class="code-line"><span class="token tag">          <span class="token attr-name">alt</span><span class="token script language-javascript"><span class="token script-punctuation punctuation">=</span><span class="token punctuation">{</span>title<span class="token punctuation">}</span></span>
+</span></span><span class="code-line"><span class="token tag">          <span class="token attr-name">className</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">"</span>w-full h-48 object-cover<span class="token punctuation">"</span></span>
+</span></span><span class="code-line"><span class="token tag">        <span class="token punctuation">/></span></span>
+</span><span class="code-line">      <span class="token punctuation">)</span><span class="token punctuation">}</span><span class="token plain-text">
+</span></span><span class="code-line"><span class="token plain-text">      </span><span class="token tag"><span class="token tag"><span class="token punctuation">&#x3C;</span>div</span> <span class="token attr-name">className</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">"</span>p-6<span class="token punctuation">"</span></span><span class="token punctuation">></span></span><span class="token plain-text">
+</span></span><span class="code-line"><span class="token plain-text">        </span><span class="token tag"><span class="token tag"><span class="token punctuation">&#x3C;</span>h3</span> <span class="token attr-name">className</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">"</span>text-xl font-bold text-gray-800 mb-2<span class="token punctuation">"</span></span><span class="token punctuation">></span></span><span class="token punctuation">{</span>title<span class="token punctuation">}</span><span class="token tag"><span class="token tag"><span class="token punctuation">&#x3C;/</span>h3</span><span class="token punctuation">></span></span><span class="token plain-text">
+</span></span><span class="code-line"><span class="token plain-text">        </span><span class="token tag"><span class="token tag"><span class="token punctuation">&#x3C;</span>p</span> <span class="token attr-name">className</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">"</span>text-gray-600 mb-4<span class="token punctuation">"</span></span><span class="token punctuation">></span></span><span class="token punctuation">{</span>description<span class="token punctuation">}</span><span class="token tag"><span class="token tag"><span class="token punctuation">&#x3C;/</span>p</span><span class="token punctuation">></span></span><span class="token plain-text">
+</span></span><span class="code-line"><span class="token plain-text">        </span><span class="token punctuation">{</span>actions <span class="token operator">&#x26;&#x26;</span> <span class="token punctuation">(</span>
+</span><span class="code-line">          <span class="token tag"><span class="token tag"><span class="token punctuation">&#x3C;</span>div</span> <span class="token attr-name">className</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">"</span>flex gap-2 justify-end<span class="token punctuation">"</span></span><span class="token punctuation">></span></span><span class="token plain-text">
+</span></span><span class="code-line"><span class="token plain-text">            </span><span class="token punctuation">{</span>actions<span class="token punctuation">}</span><span class="token plain-text">
+</span></span><span class="code-line"><span class="token plain-text">          </span><span class="token tag"><span class="token tag"><span class="token punctuation">&#x3C;/</span>div</span><span class="token punctuation">></span></span>
+</span><span class="code-line">        <span class="token punctuation">)</span><span class="token punctuation">}</span><span class="token plain-text">
+</span></span><span class="code-line"><span class="token plain-text">      </span><span class="token tag"><span class="token tag"><span class="token punctuation">&#x3C;/</span>div</span><span class="token punctuation">></span></span><span class="token plain-text">
+</span></span><span class="code-line"><span class="token plain-text">    </span><span class="token tag"><span class="token tag"><span class="token punctuation">&#x3C;/</span>div</span><span class="token punctuation">></span></span>
+</span><span class="code-line">  <span class="token punctuation">)</span>
+</span><span class="code-line"><span class="token punctuation">}</span>
+</span></code></pre>
+<h2>トラブルシューティングチェックリスト</h2>
+<p>開発中に問題が発生した場合は、以下を確認してください：</p>
+<h3>基本設定の確認</h3>
+<ul class="contains-task-list">
+<li class="task-list-item"><input type="checkbox" disabled> <code>@tailwindcss/vite</code>プラグインがインストールされているか</li>
+<li class="task-list-item"><input type="checkbox" disabled> <code>vite.config.ts</code>でプラグインが正しく設定されているか</li>
+<li class="task-list-item"><input type="checkbox" disabled> <code>src/index.css</code>に<code>@import "tailwindcss"</code>が記載されているか</li>
+<li class="task-list-item"><input type="checkbox" disabled> <code>src/main.tsx</code>で<code>index.css</code>がインポートされているか</li>
+</ul>
+<h3>キャッシュ関連</h3>
+<pre class="language-bash"><code class="language-bash code-highlight"><span class="code-line"><span class="token comment"># ノードモジュールとロックファイルを削除</span>
+</span><span class="code-line"><span class="token function">rm</span> <span class="token parameter variable">-rf</span> node_modules package-lock.json
+</span><span class="code-line">
+</span><span class="code-line"><span class="token comment"># 再インストール</span>
+</span><span class="code-line"><span class="token function">npm</span> <span class="token function">install</span>
+</span><span class="code-line">
+</span><span class="code-line"><span class="token comment"># Viteキャッシュのクリア</span>
+</span><span class="code-line"><span class="token function">npm</span> run dev -- <span class="token parameter variable">--force</span>
+</span></code></pre>
+<h3>ブラウザ確認</h3>
+<ul class="contains-task-list">
+<li class="task-list-item"><input type="checkbox" disabled> 開発者ツールでCSSが読み込まれているか</li>
+<li class="task-list-item"><input type="checkbox" disabled> コンソールエラーが発生していないか</li>
+<li class="task-list-item"><input type="checkbox" disabled> ネットワークタブでCSSファイルが404エラーになっていないか</li>
+</ul>
+<h2>まとめ</h2>
+<p>Tailwind CSS v4.0は従来版から大幅に改善され、より簡単で高速な開発体験を提供します。主な利点は：</p>
+<p><strong>設定の簡素化</strong></p>
+<ul>
+<li>設定ファイル不要</li>
+<li>CSSファイル1行でセットアップ完了</li>
+<li>自動コンテンツ検出</li>
+</ul>
+<p><strong>パフォーマンス向上</strong></p>
+<ul>
+<li>最大5倍のビルド高速化</li>
+<li>マイクロ秒単位の処理速度</li>
+<li>Lightning CSSによる最適化</li>
+</ul>
+<p><strong>開発体験の向上</strong></p>
+<ul>
+<li>ViteプラグインによるHMR対応</li>
+<li>TypeScriptとの完全互換性</li>
+<li>モダンCSS機能の活用</li>
+</ul>
+<p>新しいプロジェクトでは積極的にv4.0を採用し、効率的なフロントエンド開発を実現しましょう。</p>
+<h2>参考資料</h2>
+<ul>
+<li><a href="https://tailwindcss.com/blog/tailwindcss-v4" rel="nofollow" target="_blank">Tailwind CSS v4.0 公式ドキュメント</a></li>
+<li><a href="https://vitejs.dev/" rel="nofollow" target="_blank">Vite公式ドキュメント</a></li>
+<li><a href="https://react-typescript-cheatsheet.netlify.app/" rel="nofollow" target="_blank">React TypeScript公式ガイド</a></li>
+<li><a href="https://lightningcss.dev/" rel="nofollow" target="_blank">Lightning CSS</a></li>
+</ul>
+<hr>
+<p><em>この記事はTailwind CSS v4.0、Vite 5.x、React 18.x、TypeScript 5.xを基準としています。</em></p>2:["$","article",null,{"className":"min-h-screen","children":[["$","div",null,{"className":"bg-gradient-to-b from-green-50/60 to-transparent dark:from-gray-900 dark:to-transparent","children":["$","div",null,{"className":"max-w-4xl mx-auto px-6 md:px-8 pt-28 md:pt-32 pb-10 md:pb-14","children":[["$","h1",null,{"className":"font-katyou text-4xl md:text-5xl lg:text-6xl text-gray-900 dark:text-white leading-tight mb-6","children":"Tailwind CSS v4.0とViteでReact + TypeScript環境を構築する完全ガイド"}],["$","time",null,{"className":"text-base font-medium text-gray-600 dark:text-gray-400","children":"2025-09-13"}]]}]}],["$","div",null,{"className":"max-w-4xl mx-auto px-6 md:px-8 pb-16 md:pb-24","children":[["$","div",null,{"id":"post-content","className":"prose prose-lg dark:prose-invert max-w-none prose-headings:font-katyou prose-headings:tracking-tight prose-h2:text-3xl prose-h2:mt-12 prose-h2:mb-6 prose-h3:text-2xl prose-h3:mt-10 prose-h3:mb-5 prose-h4:text-xl prose-h4:mt-8 prose-h4:mb-4 prose-p:leading-relaxed prose-p:mb-6 prose-li:my-2 prose-a:text-green-600 prose-a:no-underline prose-a:font-medium hover:prose-a:text-green-700 hover:prose-a:underline dark:prose-a:text-green-400 dark:hover:prose-a:text-green-300 prose-code:text-green-700 prose-code:bg-green-50 dark:prose-code:text-green-300 dark:prose-code:bg-green-900/20 prose-pre:bg-gray-900 dark:prose-pre:bg-gray-950 prose-img:rounded-lg prose-img:shadow-md prose-hr:my-12 prose-hr:border-gray-300 dark:prose-hr:border-gray-700 border-t border-gray-200 dark:border-gray-800 pt-8","dangerouslySetInnerHTML":{"__html":"$d"}}],["$","$Le",null,{}],["$","div",null,{"className":"mt-16 pt-10 border-t border-gray-200 dark:border-gray-800","children":[["$","p",null,{"className":"text-sm font-semibold text-gray-500 dark:text-gray-400 mb-4","children":"タグ"}],["$","div",null,{"className":"flex flex-wrap gap-2.5","children":[["$","$L9","Tailwind CSS",{"href":"/tags/Tailwind CSS","className":"inline-flex items-center px-4 py-1.5 rounded-full text-sm font-medium bg-green-100 text-green-800 dark:bg-green-900/30 dark:text-green-300 hover:bg-green-200 dark:hover:bg-green-800/50 transition-colors duration-200 shadow-sm","children":"Tailwind CSS"}],["$","$L9","Vite",{"href":"/tags/Vite","className":"inline-flex items-center px-4 py-1.5 rounded-full text-sm font-medium bg-green-100 text-green-800 dark:bg-green-900/30 dark:text-green-300 hover:bg-green-200 dark:hover:bg-green-800/50 transition-colors duration-200 shadow-sm","children":"Vite"}],["$","$L9","React",{"href":"/tags/React","className":"inline-flex items-center px-4 py-1.5 rounded-full text-sm font-medium bg-green-100 text-green-800 dark:bg-green-900/30 dark:text-green-300 hover:bg-green-200 dark:hover:bg-green-800/50 transition-colors duration-200 shadow-sm","children":"React"}],["$","$L9","TypeScript",{"href":"/tags/TypeScript","className":"inline-flex items-center px-4 py-1.5 rounded-full text-sm font-medium bg-green-100 text-green-800 dark:bg-green-900/30 dark:text-green-300 hover:bg-green-200 dark:hover:bg-green-800/50 transition-colors duration-200 shadow-sm","children":"TypeScript"}],["$","$L9","v4.0",{"href":"/tags/v4.0","className":"inline-flex items-center px-4 py-1.5 rounded-full text-sm font-medium bg-green-100 text-green-800 dark:bg-green-900/30 dark:text-green-300 hover:bg-green-200 dark:hover:bg-green-800/50 transition-colors duration-200 shadow-sm","children":"v4.0"}],["$","$L9","フロントエンド",{"href":"/tags/フロントエンド","className":"inline-flex items-center px-4 py-1.5 rounded-full text-sm font-medium bg-green-100 text-green-800 dark:bg-green-900/30 dark:text-green-300 hover:bg-green-200 dark:hover:bg-green-800/50 transition-colors duration-200 shadow-sm","children":"フロントエンド"}]]}]]}]]}]]}]
+c:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"Tailwind CSS v4.0とViteでReact + TypeScript環境を構築する完全ガイド | ブログタイトル"}],["$","meta","3",{"name":"description","content":"最新のTailwind CSS v4.0を使ってVite + React + TypeScript環境を効率的に構築する方法"}],["$","meta","4",{"property":"og:title","content":"Tailwind CSS v4.0とViteでReact + TypeScript環境を構築する完全ガイド"}],["$","meta","5",{"property":"og:description","content":"最新のTailwind CSS v4.0を使ってVite + React + TypeScript環境を効率的に構築する方法"}],["$","meta","6",{"property":"og:url","content":"https://maemaemae.blog/posts/vite_20250913"}],["$","meta","7",{"property":"og:image","content":"https://maemaemae.blog/images/tailwind-v4-vite-react-setup.jpg"}],["$","meta","8",{"property":"og:type","content":"article"}],["$","meta","9",{"property":"article:published_time","content":"2025-09-13"}],["$","meta","10",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","11",{"name":"twitter:title","content":"Tailwind CSS v4.0とViteでReact + TypeScript環境を構築する完全ガイド"}],["$","meta","12",{"name":"twitter:description","content":"最新のTailwind CSS v4.0を使ってVite + React + TypeScript環境を効率的に構築する方法"}],["$","meta","13",{"name":"twitter:image","content":"https://maemaemae.blog/images/tailwind-v4-vite-react-setup.jpg"}],["$","link","14",{"rel":"icon","href":"/favicon.ico","type":"image/x-icon","sizes":"16x16"}],["$","meta","15",{"name":"next-size-adjust"}]]
+1:null

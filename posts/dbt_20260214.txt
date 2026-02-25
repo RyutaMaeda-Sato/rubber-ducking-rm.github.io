@@ -1,0 +1,218 @@
+3:I[4707,[],""]
+5:I[6423,[],""]
+6:I[4888,["972","static/chunks/972-f241a8fd644428c6.js","70","static/chunks/70-f52c2ad284c6cd86.js","185","static/chunks/app/layout-97d049cf0fc78146.js"],"GoogleAnalytics"]
+7:I[6806,["972","static/chunks/972-f241a8fd644428c6.js","70","static/chunks/70-f52c2ad284c6cd86.js","185","static/chunks/app/layout-97d049cf0fc78146.js"],"default"]
+8:I[7213,["972","static/chunks/972-f241a8fd644428c6.js","70","static/chunks/70-f52c2ad284c6cd86.js","185","static/chunks/app/layout-97d049cf0fc78146.js"],"default"]
+9:I[2972,["972","static/chunks/972-f241a8fd644428c6.js","333","static/chunks/app/posts/%5Bslug%5D/page-acd6669982df1354.js"],""]
+a:I[5878,["972","static/chunks/972-f241a8fd644428c6.js","70","static/chunks/70-f52c2ad284c6cd86.js","185","static/chunks/app/layout-97d049cf0fc78146.js"],"Image"]
+b:I[2374,["972","static/chunks/972-f241a8fd644428c6.js","70","static/chunks/70-f52c2ad284c6cd86.js","185","static/chunks/app/layout-97d049cf0fc78146.js"],"default"]
+4:["slug","dbt_20260214","d"]
+0:["0oJGNGFmzz_LorUWHIimP",[[["",{"children":["posts",{"children":[["slug","dbt_20260214","d"],{"children":["__PAGE__?{\"slug\":\"dbt_20260214\"}",{}]}]}]},"$undefined","$undefined",true],["",{"children":["posts",{"children":[["slug","dbt_20260214","d"],{"children":["__PAGE__",{},[["$L1","$L2",null],null],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","posts","children","$4","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","posts","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/3add334ee59f67ac.css","precedence":"next","crossOrigin":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/css/cec3dd424af6abe7.css","precedence":"next","crossOrigin":"$undefined"}],["$","link","2",{"rel":"stylesheet","href":"/_next/static/css/31924b81bd2c71c2.css","precedence":"next","crossOrigin":"$undefined"}]],["$","html",null,{"lang":"jp","className":"__variable_f367f3 __variable_8c8862 __variable_6beb74 __variable_b784c9 __variable_d575de","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){try{var s=localStorage.getItem('darkMode');var p=window.matchMedia('(prefers-color-scheme: dark)').matches;if(s!==null?s==='true':p){document.documentElement.classList.add('dark');}}catch(e){}})();"}}],["$","$L6",null,{"gaId":"G-FWRP8962MB"}]]}],["$","body",null,{"className":"__className_f367f3","children":["$","$L7",null,{"children":[["$","header",null,{"children":["$","$L8",null,{"children":["$","div",null,{"className":"fixed top-0 left-0 w-full z-50 bg-green-700 dark:bg-gray-900 shadow-md border-b border-green-600/50 dark:border-gray-800","children":["$","div",null,{"className":"max-w-7xl mx-auto","children":["$","div",null,{"className":"flex items-center justify-between px-6 md:px-8 h-20 md:h-24","children":[["$","$L9",null,{"href":"/","className":"group flex items-center gap-3 transition-opacity hover:opacity-80","children":[["$","$La",null,{"alt":"Maemaemae","src":"/header.jpg","width":44,"height":44,"className":"rounded-full object-cover ring-2 ring-white/20 group-hover:ring-white/40 transition-all"}],["$","span",null,{"className":"text-xl md:text-2xl font-katyou text-[#fffef9] tracking-wide","children":"Maemaemae"}]]}],["$","div",null,{"className":"flex items-center gap-2","children":[["$","a",null,{"href":"https://x.com/maemaemae_rm","target":"_blank","rel":"noopener noreferrer","className":"p-2.5 rounded-full hover:bg-white/10 transition-colors","aria-label":"X (Twitter)","children":["$","$La",null,{"src":"/x-logo-white.png","width":24,"height":24,"alt":""}]}],["$","$Lb",null,{}]]}]]}]}]}]}]}],["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[]}]]}]}]]}]],null],null],["$Lc",null]]]]
+e:I[7426,["972","static/chunks/972-f241a8fd644428c6.js","333","static/chunks/app/posts/%5Bslug%5D/page-acd6669982df1354.js"],"default"]
+d:T3567,<p>2026年に入り、dbt (data build tool)が大きな進化を遂げています。Fusion Engineによるパフォーマンス革新、State-Aware Orchestrationによるコスト最適化など、データエンジニアリング実務に直結する最新動向を整理します。</p>
+<h2>dbt Fusion Engine</h2>
+<h3>PythonからRustへの移行</h3>
+<p>dbtの実行エンジンがRustベースに刷新され、「テンプレートレンダリングツール」から「データコンパイラ」へ進化。</p>
+<p><strong>パフォーマンス改善</strong>:</p>
+<ul>
+<li>5,000モデルプロジェクトのパース時間: 4秒未満</li>
+<li>Python GIL（Global Interpreter Lock）のボトルネック解消</li>
+<li>16コア環境での完全な並列処理</li>
+</ul>
+<h3>アーキテクチャの比較</h3>
+<pre class="language-markdown"><code class="language-markdown code-highlight"><span class="code-line">従来のdbt Core（Python）:
+</span><span class="code-line"><span class="token list punctuation">-</span> シングルスレッド処理
+</span><span class="code-line"><span class="token list punctuation">-</span> YAMLファイルの逐次パース
+</span><span class="code-line"><span class="token list punctuation">-</span> 大規模プロジェクトでの遅延発生
+</span><span class="code-line">
+</span><span class="code-line">dbt Fusion（Rust）:
+</span><span class="code-line"><span class="token list punctuation">-</span> マルチコア並列処理
+</span><span class="code-line"><span class="token list punctuation">-</span> 高速ファイル解析
+</span><span class="code-line"><span class="token list punctuation">-</span> 最適化されたメモリ管理
+</span></code></pre>
+<p>これまで数分かかっていたCI/CDパイプラインが数秒で完了。開発サイクルの大幅な高速化を実現します。</p>
+<h2>State-Aware Orchestration</h2>
+<h3>データ変更トリガーへの移行</h3>
+<p>従来の時間ベースcronジョブから、実際のデータ変更を検知する仕組みへ。不要な実行を削減し、コスト最適化を実現。</p>
+<p><strong>フィンガープリントの構成要素</strong>:</p>
+<ol>
+<li><strong>コード</strong>: モデルのSQL/Pythonロジック</li>
+<li><strong>メタデータ</strong>: YAMLファイルの設定</li>
+<li><strong>データ状態</strong>: 上流テーブルの最終更新時刻</li>
+</ol>
+<h3>静的解析による賢い依存管理</h3>
+<pre class="language-markdown"><code class="language-markdown code-highlight"><span class="code-line">従来のdbt:
+</span><span class="code-line">ステージングモデルでカラム名変更
+</span><span class="code-line">→ 下流の全モデルを再ビルド
+</span><span class="code-line">
+</span><span class="code-line">State-Aware Orchestration:
+</span><span class="code-line">AST（抽象構文木）を解析
+</span><span class="code-line">→ 影響を受けないモデルはスキップ
+</span><span class="code-line">→ 必要なモデルのみ再ビルド
+</span></code></pre>
+<p><strong>実際の効果</strong>:</p>
+<ul>
+<li>あるプロジェクトで€14.20のコンピュートコスト削減</li>
+<li>大規模環境ではさらに大きな削減効果</li>
+</ul>
+<h3>State Manifestの管理</h3>
+<p>前回の実行成功時のフィンガープリントをS3またはdbt Cloudに保存。次回実行時に比較して変更検知を行います。</p>
+<h2>Semantic Layer YAML仕様の刷新</h2>
+<h3>オープンスタンダード化</h3>
+<p>複数プラットフォームで動作する新しいYAML仕様を公開。dbt Fusion Engineで利用可能。</p>
+<p><strong>主な改善点</strong>:</p>
+<ul>
+<li>セマンティックモデルをモデルYAML内に統合</li>
+<li>複数ファイル管理が不要に</li>
+<li>measureからsimple metricsへの進化</li>
+<li>ネスト深度の削減</li>
+</ul>
+<h3>移行の流れ</h3>
+<p>既存のSemantic Layer利用者向けに公式マイグレーションガイドを提供。段階的な移行が可能です。</p>
+<pre class="language-yaml"><code class="language-yaml code-highlight"><span class="code-line"><span class="token comment"># 新しい仕様の例</span>
+</span><span class="code-line"><span class="token key atrule">models</span><span class="token punctuation">:</span>
+</span><span class="code-line">  <span class="token punctuation">-</span> <span class="token key atrule">name</span><span class="token punctuation">:</span> orders
+</span><span class="code-line">    <span class="token key atrule">semantic_model</span><span class="token punctuation">:</span>
+</span><span class="code-line">      <span class="token key atrule">measures</span><span class="token punctuation">:</span>
+</span><span class="code-line">        <span class="token punctuation">-</span> <span class="token key atrule">name</span><span class="token punctuation">:</span> revenue
+</span><span class="code-line">          <span class="token key atrule">type</span><span class="token punctuation">:</span> sum
+</span><span class="code-line">          <span class="token key atrule">expr</span><span class="token punctuation">:</span> amount
+</span></code></pre>
+<h2>開発環境の改善</h2>
+<h3>Studio IDE</h3>
+<p><strong>新機能</strong>:</p>
+<ul>
+<li>検索・置換機能</li>
+<li>コマンドパレット</li>
+<li>defer-env-id設定のIDE対応</li>
+</ul>
+<h3>Fusion CLIの.env対応</h3>
+<p>認証情報の管理が簡素化。カレントディレクトリの<code>.env</code>ファイルを自動読み込み。</p>
+<pre class="language-bash"><code class="language-bash code-highlight"><span class="code-line"><span class="token comment"># .envファイル例</span>
+</span><span class="code-line"><span class="token assign-left variable">DBT_SNOWFLAKE_ACCOUNT</span><span class="token operator">=</span>my-account
+</span><span class="code-line"><span class="token assign-left variable">DBT_SNOWFLAKE_USER</span><span class="token operator">=</span>my-user
+</span><span class="code-line"><span class="token assign-left variable">DBT_SNOWFLAKE_PASSWORD</span><span class="token operator">=</span>my-password
+</span></code></pre>
+<p>profiles.ymlへのハードコーディングが不要になり、セキュリティも向上します。</p>
+<h3>dbt Copilot</h3>
+<p><strong>機能強化</strong>:</p>
+<ul>
+<li>スキーマYAMLファイル間でのカラム名正確検出</li>
+<li>既存descriptionの保持</li>
+<li>不足分のみ追加</li>
+<li>Analyst Agentがベータ版で提供開始</li>
+</ul>
+<h2>dbt Labs + Fivetran 合併</h2>
+<p>2026年、dbt LabsとFivetranが合併の最終合意を締結。</p>
+<p><strong>統合の意義</strong>:</p>
+<ul>
+<li>データ取り込み（Fivetran）から変換（dbt）のシームレス化</li>
+<li>エンドツーエンドのデータパイプライン管理</li>
+<li>Analytics Engineeringエコシステムの強化</li>
+</ul>
+<p>モダンデータスタックの未来に大きな影響を与える動き。</p>
+<h2>dbt Summit 2026</h2>
+<h3>イベント概要</h3>
+<p>「Coalesce」から「dbt Summit」に改称。2026年もラスベガスで開催予定。</p>
+<p><strong>Call for Papersのテーマ</strong>:</p>
+<ul>
+<li>Analytics Engineeringの本番環境事例</li>
+<li>プラットフォームスケール</li>
+<li>コスト最適化</li>
+<li>AI対応</li>
+</ul>
+<p>提出締切: 2026年3月31日</p>
+<h2>dbt Core 1.11</h2>
+<h3>リリース予定: 2026年2月19日</h3>
+<p><strong>主な機能</strong>:</p>
+<ul>
+<li>ネストされたキー traversalサポート（<code>dbt ls</code> JSON出力）</li>
+<li>汎用テストの引数プロパティがデフォルトTrue</li>
+<li>Snowflake向け<code>immutable_where</code>設定対応</li>
+<li>デバッグログの適切なトランケート処理</li>
+</ul>
+<h3>バージョンサポート</h3>
+<p>2025年からdbt Core v1.0〜v1.2のサポート終了予定。最新バージョンへの移行を推奨。</p>
+<h2>コミュニティ動向</h2>
+<h3>State of Analytics Engineering 2026</h3>
+<p>業界標準を定義する年次調査を実施中。職種、スキル、報酬、ツールのベンチマークデータを収集。</p>
+<h3>注目のコミュニティツール</h3>
+<p>最近リリースされたプロジェクト:</p>
+<ul>
+<li>dbt系統とSupersetメタデータを統合するAI搭載プラグイン</li>
+<li>1マクロで27分類メトリクス + 9回帰メトリクスを生成するMLパッケージ</li>
+<li>dbtアーティファクトから即座にメタデータ抽出するCLI</li>
+<li>データコネクタ自動構築AIエージェント</li>
+</ul>
+<h2>実践のポイント</h2>
+<h3>Docker環境での標準化</h3>
+<p>チーム開発ではDockerでバージョンを統一。環境差分の問題を防止。</p>
+<pre class="language-dockerfile"><code class="language-dockerfile code-highlight"><span class="code-line"><span class="token instruction"><span class="token keyword">FROM</span> ghcr.io/dbt-labs/dbt-core:1.11.0</span>
+</span><span class="code-line">
+</span><span class="code-line"><span class="token instruction"><span class="token keyword">WORKDIR</span> /usr/app/dbt</span>
+</span><span class="code-line"><span class="token instruction"><span class="token keyword">COPY</span> . .</span>
+</span><span class="code-line">
+</span><span class="code-line"><span class="token instruction"><span class="token keyword">RUN</span> dbt deps</span>
+</span></code></pre>
+<h3>CI/CDでのdbt clone活用</h3>
+<p>本番テーブルをCI環境にクローン。データ移動コストなしでテストが可能。</p>
+<pre class="language-yaml"><code class="language-yaml code-highlight"><span class="code-line"><span class="token comment"># dbt_project.yml</span>
+</span><span class="code-line"><span class="token key atrule">models</span><span class="token punctuation">:</span>
+</span><span class="code-line">  <span class="token key atrule">my_project</span><span class="token punctuation">:</span>
+</span><span class="code-line">    <span class="token key atrule">+materialized</span><span class="token punctuation">:</span> table
+</span><span class="code-line">    <span class="token key atrule">+on_schema_change</span><span class="token punctuation">:</span> sync_all_columns
+</span></code></pre>
+<h3>State-Aware Orchestrationの設定</h3>
+<p>Private Preview参加時のState Manifest設定例:</p>
+<pre class="language-yaml"><code class="language-yaml code-highlight"><span class="code-line"><span class="token comment"># GitHub Actions</span>
+</span><span class="code-line"><span class="token punctuation">-</span> <span class="token key atrule">name</span><span class="token punctuation">:</span> dbt build
+</span><span class="code-line">  <span class="token key atrule">run</span><span class="token punctuation">:</span> <span class="token punctuation">|</span><span class="token scalar string">
+</span></span><span class="code-line"><span class="token scalar string">    dbt build \
+</span></span><span class="code-line"><span class="token scalar string">      --state ./previous-state \
+</span></span><span class="code-line"><span class="token scalar string">      --defer</span>
+</span></code></pre>
+<h2>よくある課題と対応</h2>
+<h3>課題1: Fusionへの移行タイミング</h3>
+<p><strong>対応</strong>:</p>
+<ul>
+<li>Private Previewへの参加申請</li>
+<li>小規模プロジェクトでパイロット実施</li>
+<li>パフォーマンス測定とチーム共有</li>
+</ul>
+<h3>課題2: 既存プロジェクトの互換性</h3>
+<p><strong>対応</strong>:</p>
+<ul>
+<li>dbt Core 1.8以降なら段階的移行可能</li>
+<li>公式マイグレーションガイドの活用</li>
+<li>コミュニティSlackでの情報収集</li>
+</ul>
+<h3>課題3: コスト最適化の測定</h3>
+<p><strong>対応</strong>:</p>
+<ul>
+<li>ウェアハウスのクエリ履歴モニタリング</li>
+<li>State-Aware Orchestration導入前後の比較</li>
+<li>開発時間短縮・インフラコスト削減への変換</li>
+</ul>
+<h2>まとめ</h2>
+<p>2026年のdbtは単なる機能追加ではなく、データエンジニアリングのパラダイムシフト。</p>
+<p><strong>重要ポイント</strong>:</p>
+<ul>
+<li><strong>Fusion Engine</strong>: Rust化による劇的なパフォーマンス向上</li>
+<li><strong>State-Aware Orchestration</strong>: データ変更ベースのコスト最適化</li>
+<li><strong>Semantic Layer</strong>: シンプルで標準的な新仕様</li>
+<li><strong>開発環境</strong>: 生産性向上の各種改善</li>
+<li><strong>エコシステム</strong>: dbt Labs + Fivetran合併による拡大</li>
+</ul>
+<p>これらの進化により、開発速度向上、コスト削減、データ品質改善が実現します。まだdbt未導入の組織も、検討する好機です。</p>
+<h2>参考資料</h2>
+<ul>
+<li><a href="https://docs.getdbt.com/" rel="nofollow" target="_blank">dbt公式ドキュメント</a></li>
+<li><a href="https://github.com/dbt-labs/dbt-core" rel="nofollow" target="_blank">dbt Core GitHub</a></li>
+<li><a href="https://www.getdbt.com/community/" rel="nofollow" target="_blank">dbt Community Slack</a></li>
+<li><a href="https://www.getdbt.com/dbt-summit-2026-waitlist" rel="nofollow" target="_blank">dbt Summit 2026</a></li>
+<li><a href="https://www.getdbt.com/state-of-analytics-engineering" rel="nofollow" target="_blank">State of Analytics Engineering 2026</a></li>
+</ul>
+<hr>
+<p><em>2026年2月14日時点の情報。dbt Fusionは現在Private Preview段階で、機能・仕様が変更される可能性があります。</em></p>2:["$","article",null,{"className":"min-h-screen","children":[["$","div",null,{"className":"bg-gradient-to-b from-green-50/60 to-transparent dark:from-gray-900 dark:to-transparent","children":["$","div",null,{"className":"max-w-4xl mx-auto px-6 md:px-8 pt-28 md:pt-32 pb-10 md:pb-14","children":[["$","h1",null,{"className":"font-katyou text-4xl md:text-5xl lg:text-6xl text-gray-900 dark:text-white leading-tight mb-6","children":"dbt (data build tool) 2026年最新動向 学習ログ"}],["$","time",null,{"className":"text-base font-medium text-gray-600 dark:text-gray-400","children":"2026-02-14"}]]}]}],["$","div",null,{"className":"max-w-4xl mx-auto px-6 md:px-8 pb-16 md:pb-24","children":[["$","div",null,{"id":"post-content","className":"prose prose-lg dark:prose-invert max-w-none prose-headings:font-katyou prose-headings:tracking-tight prose-h2:text-3xl prose-h2:mt-12 prose-h2:mb-6 prose-h3:text-2xl prose-h3:mt-10 prose-h3:mb-5 prose-h4:text-xl prose-h4:mt-8 prose-h4:mb-4 prose-p:leading-relaxed prose-p:mb-6 prose-li:my-2 prose-a:text-green-600 prose-a:no-underline prose-a:font-medium hover:prose-a:text-green-700 hover:prose-a:underline dark:prose-a:text-green-400 dark:hover:prose-a:text-green-300 prose-code:text-green-700 prose-code:bg-green-50 dark:prose-code:text-green-300 dark:prose-code:bg-green-900/20 prose-pre:bg-gray-900 dark:prose-pre:bg-gray-950 prose-img:rounded-lg prose-img:shadow-md prose-hr:my-12 prose-hr:border-gray-300 dark:prose-hr:border-gray-700 border-t border-gray-200 dark:border-gray-800 pt-8","dangerouslySetInnerHTML":{"__html":"$d"}}],["$","$Le",null,{}],["$","div",null,{"className":"mt-16 pt-10 border-t border-gray-200 dark:border-gray-800","children":[["$","p",null,{"className":"text-sm font-semibold text-gray-500 dark:text-gray-400 mb-4","children":"タグ"}],["$","div",null,{"className":"flex flex-wrap gap-2.5","children":[["$","$L9","dbt",{"href":"/tags/dbt","className":"inline-flex items-center px-4 py-1.5 rounded-full text-sm font-medium bg-green-100 text-green-800 dark:bg-green-900/30 dark:text-green-300 hover:bg-green-200 dark:hover:bg-green-800/50 transition-colors duration-200 shadow-sm","children":"dbt"}],["$","$L9","データエンジニアリング",{"href":"/tags/データエンジニアリング","className":"inline-flex items-center px-4 py-1.5 rounded-full text-sm font-medium bg-green-100 text-green-800 dark:bg-green-900/30 dark:text-green-300 hover:bg-green-200 dark:hover:bg-green-800/50 transition-colors duration-200 shadow-sm","children":"データエンジニアリング"}],["$","$L9","Analytics Engineering",{"href":"/tags/Analytics Engineering","className":"inline-flex items-center px-4 py-1.5 rounded-full text-sm font-medium bg-green-100 text-green-800 dark:bg-green-900/30 dark:text-green-300 hover:bg-green-200 dark:hover:bg-green-800/50 transition-colors duration-200 shadow-sm","children":"Analytics Engineering"}],["$","$L9","学習ログ",{"href":"/tags/学習ログ","className":"inline-flex items-center px-4 py-1.5 rounded-full text-sm font-medium bg-green-100 text-green-800 dark:bg-green-900/30 dark:text-green-300 hover:bg-green-200 dark:hover:bg-green-800/50 transition-colors duration-200 shadow-sm","children":"学習ログ"}]]}]]}]]}]]}]
+c:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"dbt (data build tool) 2026年最新動向 学習ログ | ブログタイトル"}],["$","meta","3",{"name":"description","content":"Fusion Engine、State-Aware Orchestrationなど、2026年のdbt最新機能と実践ポイント"}],["$","meta","4",{"property":"og:title","content":"dbt (data build tool) 2026年最新動向 学習ログ"}],["$","meta","5",{"property":"og:description","content":"Fusion Engine、State-Aware Orchestrationなど、2026年のdbt最新機能と実践ポイント"}],["$","meta","6",{"property":"og:url","content":"https://maemaemae.blog/posts/dbt_20260214"}],["$","meta","7",{"property":"og:image","content":"https://maemaemae.blog/images/dbt-2026-updates.jpg"}],["$","meta","8",{"property":"og:type","content":"article"}],["$","meta","9",{"property":"article:published_time","content":"2026-02-14"}],["$","meta","10",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","11",{"name":"twitter:title","content":"dbt (data build tool) 2026年最新動向 学習ログ"}],["$","meta","12",{"name":"twitter:description","content":"Fusion Engine、State-Aware Orchestrationなど、2026年のdbt最新機能と実践ポイント"}],["$","meta","13",{"name":"twitter:image","content":"https://maemaemae.blog/images/dbt-2026-updates.jpg"}],["$","link","14",{"rel":"icon","href":"/favicon.ico","type":"image/x-icon","sizes":"16x16"}],["$","meta","15",{"name":"next-size-adjust"}]]
+1:null

@@ -1,0 +1,191 @@
+3:I[4707,[],""]
+5:I[6423,[],""]
+6:I[4888,["972","static/chunks/972-f241a8fd644428c6.js","70","static/chunks/70-f52c2ad284c6cd86.js","185","static/chunks/app/layout-97d049cf0fc78146.js"],"GoogleAnalytics"]
+7:I[6806,["972","static/chunks/972-f241a8fd644428c6.js","70","static/chunks/70-f52c2ad284c6cd86.js","185","static/chunks/app/layout-97d049cf0fc78146.js"],"default"]
+8:I[7213,["972","static/chunks/972-f241a8fd644428c6.js","70","static/chunks/70-f52c2ad284c6cd86.js","185","static/chunks/app/layout-97d049cf0fc78146.js"],"default"]
+9:I[2972,["972","static/chunks/972-f241a8fd644428c6.js","333","static/chunks/app/posts/%5Bslug%5D/page-acd6669982df1354.js"],""]
+a:I[5878,["972","static/chunks/972-f241a8fd644428c6.js","70","static/chunks/70-f52c2ad284c6cd86.js","185","static/chunks/app/layout-97d049cf0fc78146.js"],"Image"]
+b:I[2374,["972","static/chunks/972-f241a8fd644428c6.js","70","static/chunks/70-f52c2ad284c6cd86.js","185","static/chunks/app/layout-97d049cf0fc78146.js"],"default"]
+4:["slug","framework_20250525","d"]
+0:["0oJGNGFmzz_LorUWHIimP",[[["",{"children":["posts",{"children":[["slug","framework_20250525","d"],{"children":["__PAGE__?{\"slug\":\"framework_20250525\"}",{}]}]}]},"$undefined","$undefined",true],["",{"children":["posts",{"children":[["slug","framework_20250525","d"],{"children":["__PAGE__",{},[["$L1","$L2",null],null],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","posts","children","$4","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","posts","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/3add334ee59f67ac.css","precedence":"next","crossOrigin":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/css/cec3dd424af6abe7.css","precedence":"next","crossOrigin":"$undefined"}],["$","link","2",{"rel":"stylesheet","href":"/_next/static/css/31924b81bd2c71c2.css","precedence":"next","crossOrigin":"$undefined"}]],["$","html",null,{"lang":"jp","className":"__variable_f367f3 __variable_8c8862 __variable_6beb74 __variable_b784c9 __variable_d575de","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){try{var s=localStorage.getItem('darkMode');var p=window.matchMedia('(prefers-color-scheme: dark)').matches;if(s!==null?s==='true':p){document.documentElement.classList.add('dark');}}catch(e){}})();"}}],["$","$L6",null,{"gaId":"G-FWRP8962MB"}]]}],["$","body",null,{"className":"__className_f367f3","children":["$","$L7",null,{"children":[["$","header",null,{"children":["$","$L8",null,{"children":["$","div",null,{"className":"fixed top-0 left-0 w-full z-50 bg-green-700 dark:bg-gray-900 shadow-md border-b border-green-600/50 dark:border-gray-800","children":["$","div",null,{"className":"max-w-7xl mx-auto","children":["$","div",null,{"className":"flex items-center justify-between px-6 md:px-8 h-20 md:h-24","children":[["$","$L9",null,{"href":"/","className":"group flex items-center gap-3 transition-opacity hover:opacity-80","children":[["$","$La",null,{"alt":"Maemaemae","src":"/header.jpg","width":44,"height":44,"className":"rounded-full object-cover ring-2 ring-white/20 group-hover:ring-white/40 transition-all"}],["$","span",null,{"className":"text-xl md:text-2xl font-katyou text-[#fffef9] tracking-wide","children":"Maemaemae"}]]}],["$","div",null,{"className":"flex items-center gap-2","children":[["$","a",null,{"href":"https://x.com/maemaemae_rm","target":"_blank","rel":"noopener noreferrer","className":"p-2.5 rounded-full hover:bg-white/10 transition-colors","aria-label":"X (Twitter)","children":["$","$La",null,{"src":"/x-logo-white.png","width":24,"height":24,"alt":""}]}],["$","$Lb",null,{}]]}]]}]}]}]}]}],["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[]}]]}]}]]}]],null],null],["$Lc",null]]]]
+e:I[7426,["972","static/chunks/972-f241a8fd644428c6.js","333","static/chunks/app/posts/%5Bslug%5D/page-acd6669982df1354.js"],"default"]
+d:T1934,<h2>この記事で学べること</h2>
+<p>現状分析（As is）から理想設計（To be）、具体的な改善計画の立案まで、体系的なアプローチを習得できます。</p>
+<h2>As is To be フレームワークとは</h2>
+<p>現状と理想状態を明確に定義し、ギャップを分析して改善方針を導く手法です。</p>
+<h3>基本構成</h3>
+<ol>
+<li><strong>As is</strong>: 現状の客観的把握</li>
+<li><strong>To be</strong>: 理想状態の設計</li>
+<li><strong>Gap</strong>: 差分の特定と分析</li>
+<li><strong>Plan</strong>: 具体的改善計画</li>
+</ol>
+<h2>As is 分析の実施</h2>
+<h3>データ収集</h3>
+<p><strong>定量データ</strong></p>
+<ul>
+<li>処理時間、コスト、エラー率</li>
+<li>パフォーマンス指標</li>
+</ul>
+<p><strong>定性データ</strong></p>
+<ul>
+<li>インタビュー、現場観察</li>
+<li>課題・問題点の洗い出し</li>
+</ul>
+<h3>現状整理</h3>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th align="center">項目</th><th align="center">現状値</th><th align="center">問題点</th><th align="center">影響度</th></tr></thead><tbody><tr><td align="center">処理時間</td><td align="center">120分</td><td align="center">手作業多い</td><td align="center">高</td></tr><tr><td align="center">エラー率</td><td align="center">3%</td><td align="center">チェック漏れ</td><td align="center">中</td></tr><tr><td align="center">自動化率</td><td align="center">20%</td><td align="center">ツール不足</td><td align="center">高</td></tr></tbody></table>
+<h2>To be 状態の設計</h2>
+<h3>目標設定（SMART原則）</h3>
+<ul>
+<li><strong>具体的</strong>: 自動化率80%達成</li>
+<li><strong>測定可能</strong>: 処理時間50%短縮</li>
+<li><strong>実現可能</strong>: 予算・技術制約内</li>
+<li><strong>関連性</strong>: 事業目標と連携</li>
+<li><strong>期限</strong>: 12ヶ月以内</li>
+</ul>
+<h3>理想状態の定義</h3>
+<pre><code class="code-highlight"><span class="code-line">目標例:
+</span><span class="code-line">- 処理時間: 120分 → 60分
+</span><span class="code-line">- エラー率: 3% → 0.5%
+</span><span class="code-line">- 自動化率: 20% → 80%
+</span><span class="code-line">- 運用コスト: 30%削減
+</span></code></pre>
+<h2>ギャップ分析</h2>
+<h3>差分の特定</h3>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th align="center">項目</th><th align="center">As is</th><th align="center">To be</th><th align="center">ギャップ</th><th align="center">優先度</th></tr></thead><tbody><tr><td align="center">処理時間</td><td align="center">120分</td><td align="center">60分</td><td align="center">-60分</td><td align="center">高</td></tr><tr><td align="center">エラー率</td><td align="center">3%</td><td align="center">0.5%</td><td align="center">-2.5%</td><td align="center">高</td></tr><tr><td align="center">自動化率</td><td align="center">20%</td><td align="center">80%</td><td align="center">+60%</td><td align="center">中</td></tr></tbody></table>
+<h3>根本原因分析</h3>
+<p>なぜなぜ分析で課題の本質を特定：</p>
+<pre><code class="code-highlight"><span class="code-line">問題: 処理時間が長い
+</span><span class="code-line">→ 手作業が多い
+</span><span class="code-line">→ 自動化ツールがない
+</span><span class="code-line">→ システム投資不足
+</span><span class="code-line">→ ROI算出が不明確
+</span></code></pre>
+<h2>改善計画の策定</h2>
+<h3>優先順位付け</h3>
+<p><strong>インパクト・工数マトリックス</strong></p>
+<ul>
+<li>高インパクト・低工数: 最優先実施</li>
+<li>高インパクト・高工数: 計画的実施</li>
+<li>低インパクト・低工数: 余裕時に実施</li>
+</ul>
+<h3>実施ロードマップ</h3>
+<p><strong>Phase 1（0-3ヶ月）</strong></p>
+<ul>
+<li>既存システム最適化</li>
+<li>簡易自動化導入</li>
+</ul>
+<p><strong>Phase 2（3-6ヶ月）</strong></p>
+<ul>
+<li>基幹システム更新</li>
+<li>スタッフトレーニング</li>
+</ul>
+<p><strong>Phase 3（6-12ヶ月）</strong></p>
+<ul>
+<li>全工程自動化</li>
+<li>効果測定・改善</li>
+</ul>
+<h2>成功のポイント</h2>
+<h3>よくある失敗</h3>
+<ul>
+<li>現状分析の不足</li>
+<li>非現実的な理想設定</li>
+<li>根本原因の見落とし</li>
+</ul>
+<h3>成功の鍵</h3>
+<ul>
+<li><strong>徹底した現状把握</strong>: データに基づく客観的分析</li>
+<li><strong>実現可能な目標</strong>: 制約条件を考慮した設計</li>
+<li><strong>段階的実施</strong>: 小さな成功の積み重ね</li>
+<li><strong>継続的見直し</strong>: 環境変化への対応</li>
+</ul>
+<h2>チェックリスト</h2>
+<h3>As is 分析</h3>
+<ul class="contains-task-list">
+<li class="task-list-item"><input type="checkbox" disabled> 分析範囲の明確化</li>
+<li class="task-list-item"><input type="checkbox" disabled> データ収集完了</li>
+<li class="task-list-item"><input type="checkbox" disabled> 問題点洗い出し</li>
+<li class="task-list-item"><input type="checkbox" disabled> 根本原因特定</li>
+</ul>
+<h3>To be 設計</h3>
+<ul class="contains-task-list">
+<li class="task-list-item"><input type="checkbox" disabled> SMART目標設定</li>
+<li class="task-list-item"><input type="checkbox" disabled> 実現可能性検証</li>
+<li class="task-list-item"><input type="checkbox" disabled> 成功指標定義</li>
+</ul>
+<h3>改善計画</h3>
+<ul class="contains-task-list">
+<li class="task-list-item"><input type="checkbox" disabled> 優先順位付け</li>
+<li class="task-list-item"><input type="checkbox" disabled> 具体的施策策定</li>
+<li class="task-list-item"><input type="checkbox" disabled> スケジュール作成</li>
+<li class="task-list-item"><input type="checkbox" disabled> リソース配分</li>
+</ul>
+<h2>まとめ</h2>
+<p>As is To be フレームワークは現状と理想のギャップを明確にし、体系的改善を実現する実践的手法です。</p>
+<p>成功の鍵は徹底した現状分析と実現可能な目標設定、そして段階的な実施にあります。継続的な見直しにより、組織やプロジェクトの大幅改善が可能になります。</p>
+<hr>
+<p><em>様々な分野で応用可能。対象領域の特性に応じて調整してください。</em></p>2:["$","article",null,{"className":"min-h-screen","children":[["$","div",null,{"className":"bg-gradient-to-b from-green-50/60 to-transparent dark:from-gray-900 dark:to-transparent","children":["$","div",null,{"className":"max-w-4xl mx-auto px-6 md:px-8 pt-28 md:pt-32 pb-10 md:pb-14","children":[["$","h1",null,{"className":"font-katyou text-4xl md:text-5xl lg:text-6xl text-gray-900 dark:text-white leading-tight mb-6","children":"As is To be フレームワークで現状と理想のギャップを可視化する"}],["$","time",null,{"className":"text-base font-medium text-gray-600 dark:text-gray-400","children":"2025-05-25"}]]}]}],["$","div",null,{"className":"max-w-4xl mx-auto px-6 md:px-8 pb-16 md:pb-24","children":[["$","div",null,{"id":"post-content","className":"prose prose-lg dark:prose-invert max-w-none prose-headings:font-katyou prose-headings:tracking-tight prose-h2:text-3xl prose-h2:mt-12 prose-h2:mb-6 prose-h3:text-2xl prose-h3:mt-10 prose-h3:mb-5 prose-h4:text-xl prose-h4:mt-8 prose-h4:mb-4 prose-p:leading-relaxed prose-p:mb-6 prose-li:my-2 prose-a:text-green-600 prose-a:no-underline prose-a:font-medium hover:prose-a:text-green-700 hover:prose-a:underline dark:prose-a:text-green-400 dark:hover:prose-a:text-green-300 prose-code:text-green-700 prose-code:bg-green-50 dark:prose-code:text-green-300 dark:prose-code:bg-green-900/20 prose-pre:bg-gray-900 dark:prose-pre:bg-gray-950 prose-img:rounded-lg prose-img:shadow-md prose-hr:my-12 prose-hr:border-gray-300 dark:prose-hr:border-gray-700 border-t border-gray-200 dark:border-gray-800 pt-8","dangerouslySetInnerHTML":{"__html":"$d"}}],["$","$Le",null,{}],["$","div",null,{"className":"mt-16 pt-10 border-t border-gray-200 dark:border-gray-800","children":[["$","p",null,{"className":"text-sm font-semibold text-gray-500 dark:text-gray-400 mb-4","children":"タグ"}],["$","div",null,{"className":"flex flex-wrap gap-2.5","children":[["$","$L9","ビジネス分析",{"href":"/tags/ビジネス分析","className":"inline-flex items-center px-4 py-1.5 rounded-full text-sm font-medium bg-green-100 text-green-800 dark:bg-green-900/30 dark:text-green-300 hover:bg-green-200 dark:hover:bg-green-800/50 transition-colors duration-200 shadow-sm","children":"ビジネス分析"}],["$","$L9","問題解決",{"href":"/tags/問題解決","className":"inline-flex items-center px-4 py-1.5 rounded-full text-sm font-medium bg-green-100 text-green-800 dark:bg-green-900/30 dark:text-green-300 hover:bg-green-200 dark:hover:bg-green-800/50 transition-colors duration-200 shadow-sm","children":"問題解決"}],["$","$L9","フレームワーク",{"href":"/tags/フレームワーク","className":"inline-flex items-center px-4 py-1.5 rounded-full text-sm font-medium bg-green-100 text-green-800 dark:bg-green-900/30 dark:text-green-300 hover:bg-green-200 dark:hover:bg-green-800/50 transition-colors duration-200 shadow-sm","children":"フレームワーク"}]]}]]}]]}]]}]
+c:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"As is To be フレームワークで現状と理想のギャップを可視化する | ブログタイトル"}],["$","meta","3",{"name":"description","content":"現状分析から理想設計、改善計画まで体系的に進める手法"}],["$","meta","4",{"property":"og:title","content":"As is To be フレームワークで現状と理想のギャップを可視化する"}],["$","meta","5",{"property":"og:description","content":"現状分析から理想設計、改善計画まで体系的に進める手法"}],["$","meta","6",{"property":"og:url","content":"https://maemaemae.blog/posts/framework_20250525"}],["$","meta","7",{"property":"og:image","content":"https://maemaemae.blog/images/godot-button-disable.jpg"}],["$","meta","8",{"property":"og:type","content":"article"}],["$","meta","9",{"property":"article:published_time","content":"2025-05-25"}],["$","meta","10",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","11",{"name":"twitter:title","content":"As is To be フレームワークで現状と理想のギャップを可視化する"}],["$","meta","12",{"name":"twitter:description","content":"現状分析から理想設計、改善計画まで体系的に進める手法"}],["$","meta","13",{"name":"twitter:image","content":"https://maemaemae.blog/images/godot-button-disable.jpg"}],["$","link","14",{"rel":"icon","href":"/favicon.ico","type":"image/x-icon","sizes":"16x16"}],["$","meta","15",{"name":"next-size-adjust"}]]
+1:null

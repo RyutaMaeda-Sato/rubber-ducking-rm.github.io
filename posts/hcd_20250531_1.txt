@@ -1,0 +1,257 @@
+3:I[4707,[],""]
+5:I[6423,[],""]
+6:I[4888,["972","static/chunks/972-f241a8fd644428c6.js","70","static/chunks/70-f52c2ad284c6cd86.js","185","static/chunks/app/layout-97d049cf0fc78146.js"],"GoogleAnalytics"]
+7:I[6806,["972","static/chunks/972-f241a8fd644428c6.js","70","static/chunks/70-f52c2ad284c6cd86.js","185","static/chunks/app/layout-97d049cf0fc78146.js"],"default"]
+8:I[7213,["972","static/chunks/972-f241a8fd644428c6.js","70","static/chunks/70-f52c2ad284c6cd86.js","185","static/chunks/app/layout-97d049cf0fc78146.js"],"default"]
+9:I[2972,["972","static/chunks/972-f241a8fd644428c6.js","333","static/chunks/app/posts/%5Bslug%5D/page-acd6669982df1354.js"],""]
+a:I[5878,["972","static/chunks/972-f241a8fd644428c6.js","70","static/chunks/70-f52c2ad284c6cd86.js","185","static/chunks/app/layout-97d049cf0fc78146.js"],"Image"]
+b:I[2374,["972","static/chunks/972-f241a8fd644428c6.js","70","static/chunks/70-f52c2ad284c6cd86.js","185","static/chunks/app/layout-97d049cf0fc78146.js"],"default"]
+4:["slug","hcd_20250531_1","d"]
+0:["0oJGNGFmzz_LorUWHIimP",[[["",{"children":["posts",{"children":[["slug","hcd_20250531_1","d"],{"children":["__PAGE__?{\"slug\":\"hcd_20250531_1\"}",{}]}]}]},"$undefined","$undefined",true],["",{"children":["posts",{"children":[["slug","hcd_20250531_1","d"],{"children":["__PAGE__",{},[["$L1","$L2",null],null],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","posts","children","$4","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","posts","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/3add334ee59f67ac.css","precedence":"next","crossOrigin":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/css/cec3dd424af6abe7.css","precedence":"next","crossOrigin":"$undefined"}],["$","link","2",{"rel":"stylesheet","href":"/_next/static/css/31924b81bd2c71c2.css","precedence":"next","crossOrigin":"$undefined"}]],["$","html",null,{"lang":"jp","className":"__variable_f367f3 __variable_8c8862 __variable_6beb74 __variable_b784c9 __variable_d575de","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){try{var s=localStorage.getItem('darkMode');var p=window.matchMedia('(prefers-color-scheme: dark)').matches;if(s!==null?s==='true':p){document.documentElement.classList.add('dark');}}catch(e){}})();"}}],["$","$L6",null,{"gaId":"G-FWRP8962MB"}]]}],["$","body",null,{"className":"__className_f367f3","children":["$","$L7",null,{"children":[["$","header",null,{"children":["$","$L8",null,{"children":["$","div",null,{"className":"fixed top-0 left-0 w-full z-50 bg-green-700 dark:bg-gray-900 shadow-md border-b border-green-600/50 dark:border-gray-800","children":["$","div",null,{"className":"max-w-7xl mx-auto","children":["$","div",null,{"className":"flex items-center justify-between px-6 md:px-8 h-20 md:h-24","children":[["$","$L9",null,{"href":"/","className":"group flex items-center gap-3 transition-opacity hover:opacity-80","children":[["$","$La",null,{"alt":"Maemaemae","src":"/header.jpg","width":44,"height":44,"className":"rounded-full object-cover ring-2 ring-white/20 group-hover:ring-white/40 transition-all"}],["$","span",null,{"className":"text-xl md:text-2xl font-katyou text-[#fffef9] tracking-wide","children":"Maemaemae"}]]}],["$","div",null,{"className":"flex items-center gap-2","children":[["$","a",null,{"href":"https://x.com/maemaemae_rm","target":"_blank","rel":"noopener noreferrer","className":"p-2.5 rounded-full hover:bg-white/10 transition-colors","aria-label":"X (Twitter)","children":["$","$La",null,{"src":"/x-logo-white.png","width":24,"height":24,"alt":""}]}],["$","$Lb",null,{}]]}]]}]}]}]}]}],["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[]}]]}]}]]}]],null],null],["$Lc",null]]]]
+e:I[7426,["972","static/chunks/972-f241a8fd644428c6.js","333","static/chunks/app/posts/%5Bslug%5D/page-acd6669982df1354.js"],"default"]
+d:T460a,<p>HCD（人間中心設計）を実践する上で、ユーザビリティ、ユーザエクスペリエンス（UX）、デザイン思考は密接に関わる重要な概念です。これらの違いと統合的な活用方法を理解することで、より効果的な製品・サービス設計が可能になります。</p>
+<h2>ユーザビリティとは</h2>
+<h3>ISO 9241-11による定義</h3>
+<p>ユーザビリティは「特定の利用状況において、特定のユーザーによって、ある製品が、指定された目標を達成するために用いられる際の、有効性、効率性および満足度の度合い」として国際標準で定義されています。</p>
+<h3>ニールセンの5要素</h3>
+<pre class="language-markdown"><code class="language-markdown code-highlight"><span class="code-line"><span class="token list punctuation">1.</span> 学習しやすさ（Learnability）
+</span><span class="code-line">   → 初回利用時の習得の容易さ
+</span><span class="code-line">
+</span><span class="code-line"><span class="token list punctuation">2.</span> 効率性（Efficiency）
+</span><span class="code-line">   → 慣れたユーザーの作業効率
+</span><span class="code-line">
+</span><span class="code-line"><span class="token list punctuation">3.</span> 記憶しやすさ（Memorability）
+</span><span class="code-line">   → 再利用時の操作想起の容易さ
+</span><span class="code-line">
+</span><span class="code-line"><span class="token list punctuation">4.</span> エラー（Errors）
+</span><span class="code-line">   → 発生頻度と回復の容易さ
+</span><span class="code-line">
+</span><span class="code-line"><span class="token list punctuation">5.</span> 満足度（Satisfaction）
+</span><span class="code-line">   → 主観的な使用感
+</span></code></pre>
+<h3>測定方法の例</h3>
+<p><strong>定量的指標</strong>:</p>
+<ul>
+<li>タスク完了率: 85%以上を目標</li>
+<li>平均タスク時間: 前バージョンより20%短縮</li>
+<li>エラー発生率: 10%以下を維持</li>
+</ul>
+<p><strong>定性的指標</strong>:</p>
+<ul>
+<li>SUS（System Usability Scale）スコア</li>
+<li>ユーザーインタビューでの満足度評価</li>
+<li>Net Promoter Score（NPS）</li>
+</ul>
+<h2>ユーザエクスペリエンス（UX）</h2>
+<h3>ユーザビリティとの違い</h3>
+<p>UXはユーザビリティを包含する、より広範囲な概念です。</p>
+<pre class="language-markdown"><code class="language-markdown code-highlight"><span class="code-line"><span class="token title important"><span class="token punctuation">##</span> UXの時間軸</span>
+</span><span class="code-line">
+</span><span class="code-line">利用前:
+</span><span class="code-line"><span class="token list punctuation">-</span> ブランド認知
+</span><span class="code-line"><span class="token list punctuation">-</span> 期待値形成
+</span><span class="code-line"><span class="token list punctuation">-</span> 第一印象
+</span><span class="code-line">
+</span><span class="code-line">利用中:
+</span><span class="code-line"><span class="token list punctuation">-</span> 操作性（ユーザビリティ）
+</span><span class="code-line"><span class="token list punctuation">-</span> 感情的反応
+</span><span class="code-line"><span class="token list punctuation">-</span> 価値実感
+</span><span class="code-line">
+</span><span class="code-line">利用後:
+</span><span class="code-line"><span class="token list punctuation">-</span> 満足度
+</span><span class="code-line"><span class="token list punctuation">-</span> 再利用意向
+</span><span class="code-line"><span class="token list punctuation">-</span> 推奨意向
+</span></code></pre>
+<h3>ISO 9241-210におけるUX定義</h3>
+<p>「製品、システム、サービスの利用や利用予定から生じる人の知覚や反応」として定義。ユーザーの認知的・感情的・身体的反応すべてを含みます。</p>
+<h3>UXの構成要素</h3>
+<p><strong>Peter Morvilleのユーザエクスペリエンスハニカム</strong>:</p>
+<ul>
+<li>有用性（Useful）: 実用的価値の提供</li>
+<li>使いやすさ（Usable）: 操作の容易さ</li>
+<li>望ましさ（Desirable）: 魅力的なデザイン</li>
+<li>見つけやすさ（Findable）: 情報の発見可能性</li>
+<li>アクセス可能性（Accessible）: 多様なユーザーへの配慮</li>
+<li>信頼性（Credible）: 信頼できる情報・機能</li>
+</ul>
+<h2>デザイン思考とHCDの関係</h2>
+<h3>デザイン思考の5ステップ</h3>
+<pre class="language-markdown"><code class="language-markdown code-highlight"><span class="code-line"><span class="token list punctuation">1.</span> 共感（Empathize）
+</span><span class="code-line">   → HCD: 利用状況の理解と明示
+</span><span class="code-line">
+</span><span class="code-line"><span class="token list punctuation">2.</span> 定義（Define）
+</span><span class="code-line">   → HCD: ユーザー要求事項の明示
+</span><span class="code-line">
+</span><span class="code-line"><span class="token list punctuation">3.</span> 発想（Ideate）
+</span><span class="code-line">   → HCD: 設計解決策の作成（初期段階）
+</span><span class="code-line">
+</span><span class="code-line"><span class="token list punctuation">4.</span> 試作（Prototype）
+</span><span class="code-line">   → HCD: 設計解決策の作成（具体化）
+</span><span class="code-line">
+</span><span class="code-line"><span class="token list punctuation">5.</span> 検証（Test）
+</span><span class="code-line">   → HCD: 要求事項に照らした設計の評価
+</span></code></pre>
+<h3>思考特性</h3>
+<p><strong>人間中心</strong>: ユーザーニーズを起点とする問題解決
+<strong>反復的</strong>: 失敗から学び改善を重ねるマインドセット
+<strong>協働的</strong>: 多様な専門性を統合するアプローチ</p>
+<h2>3つの概念の統合的活用</h2>
+<h3>実践フレームワーク</h3>
+<pre class="language-markdown"><code class="language-markdown code-highlight"><span class="code-line">段階1: 共感・理解
+</span><span class="code-line"><span class="token list punctuation">-</span> デザイン思考: ユーザー観察、インタビュー
+</span><span class="code-line"><span class="token list punctuation">-</span> HCD: 利用状況の明示
+</span><span class="code-line"><span class="token list punctuation">-</span> 成果物: ペルソナ、ユーザージャーニーマップ
+</span><span class="code-line">
+</span><span class="code-line">段階2: 定義・要求分析
+</span><span class="code-line"><span class="token list punctuation">-</span> デザイン思考: 問題の再定義
+</span><span class="code-line"><span class="token list punctuation">-</span> HCD: ユーザー要求事項の明示
+</span><span class="code-line"><span class="token list punctuation">-</span> 成果物: ユーザーストーリー、要求仕様書
+</span><span class="code-line">
+</span><span class="code-line">段階3: 発想・設計
+</span><span class="code-line"><span class="token list punctuation">-</span> デザイン思考: アイデア発想
+</span><span class="code-line"><span class="token list punctuation">-</span> HCD: 設計解決策の作成
+</span><span class="code-line"><span class="token list punctuation">-</span> 成果物: ワイヤーフレーム、プロトタイプ
+</span><span class="code-line">
+</span><span class="code-line">段階4: 評価・改善
+</span><span class="code-line"><span class="token list punctuation">-</span> デザイン思考: ユーザー検証
+</span><span class="code-line"><span class="token list punctuation">-</span> HCD: 設計の評価
+</span><span class="code-line"><span class="token list punctuation">-</span> 評価軸: ユーザビリティ指標、UX評価
+</span></code></pre>
+<h3>成功事例パターン</h3>
+<p><strong>ECサイトの改善例</strong>:</p>
+<ol>
+<li><strong>共感</strong>: 購入プロセスでの離脱要因調査</li>
+<li><strong>定義</strong>: 「簡単に購入完了したい」ニーズの特定</li>
+<li><strong>発想</strong>: ワンクリック購入、ゲスト購入の検討</li>
+<li><strong>試作</strong>: プロトタイプ作成とA/Bテスト</li>
+<li><strong>検証</strong>: コンバージョン率とユーザビリティ評価</li>
+</ol>
+<h2>よくある誤解と正しい理解</h2>
+<h3>誤解1: ユーザビリティ = UX</h3>
+<pre class="language-markdown"><code class="language-markdown code-highlight"><span class="code-line">× 誤った理解: 使いやすくすればUXは向上する
+</span><span class="code-line">○ 正しい理解: ユーザビリティはUXの重要な要素の一つ
+</span></code></pre>
+<h3>誤解2: デザイン思考 = 見た目のデザイン</h3>
+<pre class="language-markdown"><code class="language-markdown code-highlight"><span class="code-line">× 誤った理解: ビジュアルデザインのための手法
+</span><span class="code-line">○ 正しい理解: 問題解決のための思考プロセス
+</span></code></pre>
+<h3>誤解3: HCD = ユーザーの言う通りに作る</h3>
+<pre class="language-markdown"><code class="language-markdown code-highlight"><span class="code-line">× 誤った理解: ユーザーの要望をそのまま実装
+</span><span class="code-line">○ 正しい理解: ユーザーニーズの本質を理解し最適解を設計
+</span></code></pre>
+<h2>実践のベストプラクティス</h2>
+<h3>段階的アプローチ</h3>
+<p><strong>フェーズ1: 基盤づくり</strong></p>
+<ul>
+<li>ステークホルダーとの認識合わせ</li>
+<li>評価基準の事前設定</li>
+<li>リソース計画の策定</li>
+</ul>
+<p><strong>フェーズ2: 調査・分析</strong></p>
+<ul>
+<li>多角的なユーザー調査</li>
+<li>競合分析とベンチマーク</li>
+<li>技術的制約の確認</li>
+</ul>
+<p><strong>フェーズ3: 設計・検証</strong></p>
+<ul>
+<li>段階的プロトタイピング</li>
+<li>継続的なユーザビリティテスト</li>
+<li>UX指標のモニタリング</li>
+</ul>
+<h3>チェックリスト</h3>
+<pre class="language-markdown"><code class="language-markdown code-highlight"><span class="code-line">□ ユーザー調査は多様な手法を組み合わせているか
+</span><span class="code-line">□ ユーザビリティとUXの両方を評価しているか
+</span><span class="code-line">□ デザイン思考の各段階で適切な成果物を作成しているか
+</span><span class="code-line">□ 定量・定性の両面から評価を行っているか
+</span><span class="code-line">□ 反復的な改善サイクルが機能しているか
+</span></code></pre>
+<h2>問題集(AI生成)</h2>
+<h3>【概念理解編】基本的な違いの把握</h3>
+<p><strong>問題1</strong> ユーザビリティとUXの関係として最も適切なものはどれか。</p>
+<p>A. ユーザビリティとUXは同じ概念である</p>
+<p>B. ユーザビリティはUXの一部である</p>
+<p>C. UXはユーザビリティの一部である</p>
+<p>D. ユーザビリティとUXは無関係である</p>
+<hr>
+<p><strong>問題2</strong> ISO 9241-11で定義されるユーザビリティの3つの構成要素はどれか。</p>
+<p>A. 学習性・効率性・満足度</p>
+<p>B. 有効性・効率性・満足度</p>
+<p>C. 使いやすさ・見つけやすさ・望ましさ</p>
+<p>D. 機能性・操作性・デザイン性</p>
+<h3>【デザイン思考編】プロセスの理解</h3>
+<p><strong>問題3</strong> デザイン思考の「共感（Empathize）」フェーズに該当する活動はどれか。</p>
+<p>A. ブレインストーミングでアイデアを発想する</p>
+<p>B. プロトタイプを作成して機能を確認する</p>
+<p>C. ユーザーインタビューでニーズを把握する</p>
+<p>D. A/Bテストで効果を測定する</p>
+<hr>
+<p><strong>問題4</strong> デザイン思考とHCDプロセスの対応として正しいものはどれか。</p>
+<p>A. 共感 → ユーザー要求事項の明示</p>
+<p>B. 定義 → 設計解決策の作成</p>
+<p>C. 発想 → 利用状況の理解と明示</p>
+<p>D. 検証 → 要求事項に照らした設計の評価</p>
+<h3>【測定・評価編】指標の理解</h3>
+<p><strong>問題5</strong> ユーザビリティの定量的評価指標として適切でないものはどれか。</p>
+<p>A. タスク完了率</p>
+<p>B. 平均タスク時間</p>
+<p>C. ブランド認知度</p>
+<p>D. エラー発生率</p>
+<hr>
+<p><strong>問題6</strong> SUS（System Usability Scale）が測定するものはどれか。</p>
+<p>A. システムの技術的性能</p>
+<p>B. ユーザーの主観的満足度</p>
+<p>C. タスクの完了時間</p>
+<p>D. エラーの発生頻度</p>
+<h3>【実践応用編】統合的な理解</h3>
+<p><strong>問題7</strong> ECサイトでユーザーが「商品は見つけられるが購入手続きが複雑」と感じている場合、主に改善すべき要素はどれか。</p>
+<p>A. 情報アーキテクチャ（見つけやすさ）</p>
+<p>B. ユーザビリティ（使いやすさ）</p>
+<p>C. ビジュアルデザイン（望ましさ）</p>
+<p>D. コンテンツの信頼性（信頼性）</p>
+<hr>
+<p><strong>問題8</strong> HCDプロセスにおいて、ユーザビリティテストを実施するのは主にどの段階か。</p>
+<p>A. 利用状況の理解と明示</p>
+<p>B. ユーザー要求事項の明示</p>
+<p>C. 設計解決策の作成</p>
+<p>D. 要求事項に照らした設計の評価</p>
+<h3>【総合理解編】概念の統合</h3>
+<p><strong>問題9</strong> 「デザイン思考はHCDプロセスを実践するための問題解決アプローチである」という説明が示す関係性として最も適切なものはどれか。</p>
+<p>A. デザイン思考とHCDは競合する手法である</p>
+<p>B. デザイン思考はHCDプロセスの実行方法論である</p>
+<p>C. HCDはデザイン思考の一部である</p>
+<p>D. デザイン思考とHCDは無関係である</p>
+<hr>
+<p><strong>問題10</strong> UXの向上を目指すプロジェクトで、ユーザビリティだけでなく他の要素も考慮する理由として最も適切なものはどれか。</p>
+<p>A. 開発コストを削減するため</p>
+<p>B. プロジェクト期間を短縮するため</p>
+<p>C. 利用前から利用後まで包括的な価値を提供するため</p>
+<p>D. 技術的な制約を回避するため</p>
+<h2>まとめ</h2>
+<p>HCDにおけるユーザビリティ、UX、デザイン思考は、それぞれ異なる役割を持ちながら相互補完的に機能します。</p>
+<p><strong>ユーザビリティ</strong>: 製品の「使いやすさ」を科学的に評価・改善
+<strong>UX</strong>: 利用の全体験を通じた価値創出
+<strong>デザイン思考</strong>: 人間中心の問題解決アプローチ</p>
+<p>これらを統合的に活用することで、真にユーザーに愛される製品・サービスの実現が可能になります。継続的な学習と実践を通じて、より効果的なHCDプロセスを構築していきましょう。</p>
+<h2>参考資料</h2>
+<ul>
+<li><a href="https://www.iso.org/standard/63500.html" rel="nofollow" target="_blank">ISO 9241-11:2018 - ユーザビリティの定義</a></li>
+<li><a href="https://www.iso.org/standard/77520.html" rel="nofollow" target="_blank">ISO 9241-210:2019 - 人間中心設計</a></li>
+<li><a href="https://www.nngroup.com/articles/definition-user-experience/" rel="nofollow" target="_blank">Nielsen Norman Group - UX Definition</a></li>
+<li><a href="https://dschool.stanford.edu/resources" rel="nofollow" target="_blank">d.school Stanford - Design Thinking Process</a></li>
+</ul>
+<hr>
+<h2>問題集 解答</h2>
+<p><strong>問題1：B</strong> - UXは利用前から利用後までの包括的な体験を指し、ユーザビリティ（使いやすさ）はその重要な構成要素の一つです。</p>
+<p><strong>問題2：B</strong> - ISO 9241-11では、ユーザビリティを「有効性（Effectiveness）・効率性（Efficiency）・満足度（Satisfaction）」の3要素で定義しています。</p>
+<p><strong>問題3：C</strong> - 「共感」フェーズは、ユーザーの行動・思考・感情を理解するためのユーザー調査活動が中心となります。</p>
+<p><strong>問題4：D</strong> - デザイン思考の「検証」はユーザーテストや評価活動であり、HCDの「要求事項に照らした設計の評価」プロセスに対応します。</p>
+<p><strong>問題5：C</strong> - ブランド認知度はUXの範囲（利用前の体験）に含まれますが、ユーザビリティの直接的な評価指標ではありません。</p>
+<p><strong>問題6：B</strong> - SUSは10項目の質問によってユーザーの主観的なシステム評価を数値化する標準的な手法です。</p>
+<p><strong>問題7：B</strong> - 「購入手続きが複雑」は操作の効率性や学習しやすさの問題であり、ユーザビリティの改善が必要です。</p>
+<p><strong>問題8：D</strong> - ユーザビリティテストは設計された解決策が要求事項を満たしているかを検証する評価活動です。</p>
+<p><strong>問題9：B</strong> - デザイン思考は、HCDの4つのプロセスを効果的に実行するためのマインドセットと方法論として機能します。</p>
+<p><strong>問題10：C</strong> - UXは利用の全体験を対象とするため、ユーザビリティ（利用中の使いやすさ）以外の要素も総合的に考慮する必要があります。</p>
+<hr>2:["$","article",null,{"className":"min-h-screen","children":[["$","div",null,{"className":"bg-gradient-to-b from-green-50/60 to-transparent dark:from-gray-900 dark:to-transparent","children":["$","div",null,{"className":"max-w-4xl mx-auto px-6 md:px-8 pt-28 md:pt-32 pb-10 md:pb-14","children":[["$","h1",null,{"className":"font-katyou text-4xl md:text-5xl lg:text-6xl text-gray-900 dark:text-white leading-tight mb-6","children":"HCDにおけるユーザビリティとUX・デザイン思考の関係性"}],["$","time",null,{"className":"text-base font-medium text-gray-600 dark:text-gray-400","children":"2025-05-31"}]]}]}],["$","div",null,{"className":"max-w-4xl mx-auto px-6 md:px-8 pb-16 md:pb-24","children":[["$","div",null,{"id":"post-content","className":"prose prose-lg dark:prose-invert max-w-none prose-headings:font-katyou prose-headings:tracking-tight prose-h2:text-3xl prose-h2:mt-12 prose-h2:mb-6 prose-h3:text-2xl prose-h3:mt-10 prose-h3:mb-5 prose-h4:text-xl prose-h4:mt-8 prose-h4:mb-4 prose-p:leading-relaxed prose-p:mb-6 prose-li:my-2 prose-a:text-green-600 prose-a:no-underline prose-a:font-medium hover:prose-a:text-green-700 hover:prose-a:underline dark:prose-a:text-green-400 dark:hover:prose-a:text-green-300 prose-code:text-green-700 prose-code:bg-green-50 dark:prose-code:text-green-300 dark:prose-code:bg-green-900/20 prose-pre:bg-gray-900 dark:prose-pre:bg-gray-950 prose-img:rounded-lg prose-img:shadow-md prose-hr:my-12 prose-hr:border-gray-300 dark:prose-hr:border-gray-700 border-t border-gray-200 dark:border-gray-800 pt-8","dangerouslySetInnerHTML":{"__html":"$d"}}],["$","$Le",null,{}],["$","div",null,{"className":"mt-16 pt-10 border-t border-gray-200 dark:border-gray-800","children":[["$","p",null,{"className":"text-sm font-semibold text-gray-500 dark:text-gray-400 mb-4","children":"タグ"}],["$","div",null,{"className":"flex flex-wrap gap-2.5","children":[["$","$L9","HCD",{"href":"/tags/HCD","className":"inline-flex items-center px-4 py-1.5 rounded-full text-sm font-medium bg-green-100 text-green-800 dark:bg-green-900/30 dark:text-green-300 hover:bg-green-200 dark:hover:bg-green-800/50 transition-colors duration-200 shadow-sm","children":"HCD"}],["$","$L9","ユーザビリティ",{"href":"/tags/ユーザビリティ","className":"inline-flex items-center px-4 py-1.5 rounded-full text-sm font-medium bg-green-100 text-green-800 dark:bg-green-900/30 dark:text-green-300 hover:bg-green-200 dark:hover:bg-green-800/50 transition-colors duration-200 shadow-sm","children":"ユーザビリティ"}],["$","$L9","UX",{"href":"/tags/UX","className":"inline-flex items-center px-4 py-1.5 rounded-full text-sm font-medium bg-green-100 text-green-800 dark:bg-green-900/30 dark:text-green-300 hover:bg-green-200 dark:hover:bg-green-800/50 transition-colors duration-200 shadow-sm","children":"UX"}],["$","$L9","デザイン思考",{"href":"/tags/デザイン思考","className":"inline-flex items-center px-4 py-1.5 rounded-full text-sm font-medium bg-green-100 text-green-800 dark:bg-green-900/30 dark:text-green-300 hover:bg-green-200 dark:hover:bg-green-800/50 transition-colors duration-200 shadow-sm","children":"デザイン思考"}],["$","$L9","人間中心設計",{"href":"/tags/人間中心設計","className":"inline-flex items-center px-4 py-1.5 rounded-full text-sm font-medium bg-green-100 text-green-800 dark:bg-green-900/30 dark:text-green-300 hover:bg-green-200 dark:hover:bg-green-800/50 transition-colors duration-200 shadow-sm","children":"人間中心設計"}]]}]]}]]}]]}]
+c:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"HCDにおけるユーザビリティとUX・デザイン思考の関係性 | ブログタイトル"}],["$","meta","3",{"name":"description","content":"人間中心設計におけるユーザビリティ、UX、デザイン思考の違いと統合的活用法"}],["$","meta","4",{"property":"og:title","content":"HCDにおけるユーザビリティとUX・デザイン思考の関係性"}],["$","meta","5",{"property":"og:description","content":"人間中心設計におけるユーザビリティ、UX、デザイン思考の違いと統合的活用法"}],["$","meta","6",{"property":"og:url","content":"https://maemaemae.blog/posts/hcd_20250531_1"}],["$","meta","7",{"property":"og:image","content":"https://maemaemae.blog/images/hcd-ux-usability-relationship.jpg"}],["$","meta","8",{"property":"og:type","content":"article"}],["$","meta","9",{"property":"article:published_time","content":"2025-05-31"}],["$","meta","10",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","11",{"name":"twitter:title","content":"HCDにおけるユーザビリティとUX・デザイン思考の関係性"}],["$","meta","12",{"name":"twitter:description","content":"人間中心設計におけるユーザビリティ、UX、デザイン思考の違いと統合的活用法"}],["$","meta","13",{"name":"twitter:image","content":"https://maemaemae.blog/images/hcd-ux-usability-relationship.jpg"}],["$","link","14",{"rel":"icon","href":"/favicon.ico","type":"image/x-icon","sizes":"16x16"}],["$","meta","15",{"name":"next-size-adjust"}]]
+1:null

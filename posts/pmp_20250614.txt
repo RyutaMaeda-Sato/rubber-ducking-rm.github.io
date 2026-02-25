@@ -1,0 +1,566 @@
+3:I[4707,[],""]
+5:I[6423,[],""]
+6:I[4888,["972","static/chunks/972-f241a8fd644428c6.js","70","static/chunks/70-f52c2ad284c6cd86.js","185","static/chunks/app/layout-97d049cf0fc78146.js"],"GoogleAnalytics"]
+7:I[6806,["972","static/chunks/972-f241a8fd644428c6.js","70","static/chunks/70-f52c2ad284c6cd86.js","185","static/chunks/app/layout-97d049cf0fc78146.js"],"default"]
+8:I[7213,["972","static/chunks/972-f241a8fd644428c6.js","70","static/chunks/70-f52c2ad284c6cd86.js","185","static/chunks/app/layout-97d049cf0fc78146.js"],"default"]
+9:I[2972,["972","static/chunks/972-f241a8fd644428c6.js","333","static/chunks/app/posts/%5Bslug%5D/page-acd6669982df1354.js"],""]
+a:I[5878,["972","static/chunks/972-f241a8fd644428c6.js","70","static/chunks/70-f52c2ad284c6cd86.js","185","static/chunks/app/layout-97d049cf0fc78146.js"],"Image"]
+b:I[2374,["972","static/chunks/972-f241a8fd644428c6.js","70","static/chunks/70-f52c2ad284c6cd86.js","185","static/chunks/app/layout-97d049cf0fc78146.js"],"default"]
+4:["slug","pmp_20250614","d"]
+0:["0oJGNGFmzz_LorUWHIimP",[[["",{"children":["posts",{"children":[["slug","pmp_20250614","d"],{"children":["__PAGE__?{\"slug\":\"pmp_20250614\"}",{}]}]}]},"$undefined","$undefined",true],["",{"children":["posts",{"children":[["slug","pmp_20250614","d"],{"children":["__PAGE__",{},[["$L1","$L2",null],null],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","posts","children","$4","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","posts","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/3add334ee59f67ac.css","precedence":"next","crossOrigin":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/css/cec3dd424af6abe7.css","precedence":"next","crossOrigin":"$undefined"}],["$","link","2",{"rel":"stylesheet","href":"/_next/static/css/31924b81bd2c71c2.css","precedence":"next","crossOrigin":"$undefined"}]],["$","html",null,{"lang":"jp","className":"__variable_f367f3 __variable_8c8862 __variable_6beb74 __variable_b784c9 __variable_d575de","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){try{var s=localStorage.getItem('darkMode');var p=window.matchMedia('(prefers-color-scheme: dark)').matches;if(s!==null?s==='true':p){document.documentElement.classList.add('dark');}}catch(e){}})();"}}],["$","$L6",null,{"gaId":"G-FWRP8962MB"}]]}],["$","body",null,{"className":"__className_f367f3","children":["$","$L7",null,{"children":[["$","header",null,{"children":["$","$L8",null,{"children":["$","div",null,{"className":"fixed top-0 left-0 w-full z-50 bg-green-700 dark:bg-gray-900 shadow-md border-b border-green-600/50 dark:border-gray-800","children":["$","div",null,{"className":"max-w-7xl mx-auto","children":["$","div",null,{"className":"flex items-center justify-between px-6 md:px-8 h-20 md:h-24","children":[["$","$L9",null,{"href":"/","className":"group flex items-center gap-3 transition-opacity hover:opacity-80","children":[["$","$La",null,{"alt":"Maemaemae","src":"/header.jpg","width":44,"height":44,"className":"rounded-full object-cover ring-2 ring-white/20 group-hover:ring-white/40 transition-all"}],["$","span",null,{"className":"text-xl md:text-2xl font-katyou text-[#fffef9] tracking-wide","children":"Maemaemae"}]]}],["$","div",null,{"className":"flex items-center gap-2","children":[["$","a",null,{"href":"https://x.com/maemaemae_rm","target":"_blank","rel":"noopener noreferrer","className":"p-2.5 rounded-full hover:bg-white/10 transition-colors","aria-label":"X (Twitter)","children":["$","$La",null,{"src":"/x-logo-white.png","width":24,"height":24,"alt":""}]}],["$","$Lb",null,{}]]}]]}]}]}]}]}],["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[]}]]}]}]]}]],null],null],["$Lc",null]]]]
+e:I[7426,["972","static/chunks/972-f241a8fd644428c6.js","333","static/chunks/app/posts/%5Bslug%5D/page-acd6669982df1354.js"],"default"]
+d:Tec45,<p>プロジェクト開始時に「なんとなく」チームを立ち上げて、後から方向性の違いや認識のズレに苦労した経験はありませんか？</p>
+<p>この記事では、チームの目的・価値観・行動指針を明文化する「チーム憲章」の作成方法から実際の活用まで、実践的な手順を詳しく解説します。</p>
+<h2>この記事で学べること</h2>
+<ul>
+<li>チーム憲章が解決する具体的な問題</li>
+<li>効果的な憲章作成の5ステップ</li>
+<li>よくある落とし穴と対策方法</li>
+<li>実際のテンプレートと活用事例</li>
+</ul>
+<h2>チーム憲章とは何か</h2>
+<h3>定義と目的</h3>
+<p>チーム憲章は、チームメンバー全員が合意した「チームの約束事」を文書化したものです。単なる規則集ではなく、チームの DNA として機能します。</p>
+<pre class="language-markdown"><code class="language-markdown code-highlight"><span class="code-line"><span class="token title important"><span class="token punctuation">##</span> チーム憲章の3つの役割</span>
+</span><span class="code-line">
+</span><span class="code-line"><span class="token list punctuation">1.</span> 方向性の統一
+</span><span class="code-line">   → 「何のために」「どこに向かって」を明確化
+</span><span class="code-line">
+</span><span class="code-line"><span class="token list punctuation">2.</span> 意思決定の基準
+</span><span class="code-line">   → 「どう判断するか」の共通ルール
+</span><span class="code-line">
+</span><span class="code-line"><span class="token list punctuation">3.</span> 文化の醸成
+</span><span class="code-line">   → 「どう振る舞うか」の行動指針
+</span></code></pre>
+<h3>なぜ必要なのか</h3>
+<p><strong>問題：よくあるチームの課題</strong></p>
+<ul>
+<li>各メンバーが異なる目標を持っている</li>
+<li>意思決定に時間がかかりすぎる</li>
+<li>コミュニケーションの方法が統一されていない</li>
+<li>品質基準があいまいで、成果物にばらつきがある</li>
+</ul>
+<p><strong>解決：チーム憲章の効果</strong></p>
+<ul>
+<li>共通の目標設定により、チーム一体感が向上</li>
+<li>明確な意思決定基準で、スピーディな判断が可能</li>
+<li>統一されたコミュニケーションルールで効率化</li>
+<li>品質基準の明示により、一貫した成果物を実現</li>
+</ul>
+<h2>効果的なチーム憲章作成の5ステップ</h2>
+<h3>ステップ1: 準備とメンバー招集</h3>
+<p><strong>事前準備のチェックリスト</strong></p>
+<ul class="contains-task-list">
+<li class="task-list-item"><input type="checkbox" disabled> 全メンバーが参加可能な日程調整（2-3時間を確保）</li>
+<li class="task-list-item"><input type="checkbox" disabled> ワークショップ用の資料準備</li>
+<li class="task-list-item"><input type="checkbox" disabled> オンライン/オフラインの会議環境整備</li>
+<li class="task-list-item"><input type="checkbox" disabled> 事前アンケートの実施（期待・懸念の収集）</li>
+</ul>
+<p><strong>事前アンケート例</strong></p>
+<pre class="language-markdown"><code class="language-markdown code-highlight"><span class="code-line"><span class="token list punctuation">1.</span> このチームに期待することは？
+</span><span class="code-line"><span class="token list punctuation">2.</span> 過去のチーム経験で良かった点・困った点は？
+</span><span class="code-line"><span class="token list punctuation">3.</span> 重視したい価値観や働き方は？
+</span><span class="code-line"><span class="token list punctuation">4.</span> チームで避けたい状況は？
+</span></code></pre>
+<h3>ステップ2: ワークショップの実施</h3>
+<p><strong>タイムスケジュール例（3時間）</strong></p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th>時間</th><th>内容</th><th>手法</th></tr></thead><tbody><tr><td>0-15分</td><td>アイスブレイク</td><td>自己紹介・期待共有</td></tr><tr><td>15-45分</td><td>ミッション・ビジョン策定</td><td>ブレインストーミング</td></tr><tr><td>45-90分</td><td>価値観・行動指針の議論</td><td>ワールドカフェ形式</td></tr><tr><td>90-120分</td><td>作業方法・ルール決定</td><td>グループ討議</td></tr><tr><td>120-150分</td><td>成功指標の設定</td><td>数値目標の具体化</td></tr><tr><td>150-180分</td><td>まとめ・次回予定</td><td>文書化の役割分担</td></tr></tbody></table>
+<p><strong>効果的な進行のコツ</strong></p>
+<ul>
+<li><strong>全員発言の機会</strong>: ローテーション発言で全員の意見を聞く</li>
+<li><strong>視覚化</strong>: 付箋やホワイトボードで意見を見える化</li>
+<li><strong>合意形成</strong>: 多数決ではなく、全員が納得できる解を探す</li>
+</ul>
+<h3>ステップ3: 文書化と構造化</h3>
+<p><strong>基本構成要素</strong></p>
+<ol>
+<li><strong>チームの基本情報</strong>（名前、メンバー、期間）</li>
+<li><strong>ミッション・ビジョン</strong>（存在意義、目指す姿）</li>
+<li><strong>価値観・行動原則</strong>（重視すること、避けること）</li>
+<li><strong>作業方法・プロセス</strong>（進め方、品質基準）</li>
+<li><strong>コミュニケーション</strong>（ツール、会議、レスポンス時間）</li>
+<li><strong>意思決定プロセス</strong>（権限、合意形成方法）</li>
+<li><strong>成功指標・KPI</strong>（測定可能な目標）</li>
+<li><strong>チームルール</strong>（時間管理、情報共有）</li>
+</ol>
+<p><strong>文書化のベストプラクティス</strong></p>
+<pre class="language-markdown"><code class="language-markdown code-highlight"><span class="code-line">✅ 推奨する書き方
+</span><span class="code-line"><span class="token list punctuation">-</span> 具体的で行動につながる表現を使う
+</span><span class="code-line"><span class="token list punctuation">-</span> 「いつでも」「必ず」などの極端な表現を避ける
+</span><span class="code-line"><span class="token list punctuation">-</span> 数値化できるものは具体的な数字を記載
+</span><span class="code-line">
+</span><span class="code-line">❌ 避けるべき書き方
+</span><span class="code-line"><span class="token list punctuation">-</span> 「頑張る」「きちんと」などの抽象的表現
+</span><span class="code-line"><span class="token list punctuation">-</span> 長すぎる文章（1項目は3行以内）
+</span><span class="code-line"><span class="token list punctuation">-</span> 実現不可能な理想論
+</span></code></pre>
+<h3>ステップ4: 合意と承認</h3>
+<p><strong>合意形成の手順</strong></p>
+<ol>
+<li><strong>草案の共有</strong>：作成した憲章を全員に事前共有</li>
+<li><strong>個別フィードバック</strong>：各自が気になる点をコメント</li>
+<li><strong>調整会議</strong>：意見の相違点を議論して修正</li>
+<li><strong>最終確認</strong>：全員が署名または明示的な合意表明</li>
+</ol>
+<p><strong>よくある意見の相違と解決法</strong></p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th>相違点</th><th>解決アプローチ</th></tr></thead><tbody><tr><td>作業時間・残業の考え方</td><td>具体的なシナリオで議論</td></tr><tr><td>品質基準のレベル</td><td>サンプルを見ながら基準設定</td></tr><tr><td>コミュニケーション頻度</td><td>試行期間を設けて調整</td></tr><tr><td>意思決定の権限範囲</td><td>決定事項を分類して整理</td></tr></tbody></table>
+<h3>ステップ5: 運用と継続的改善</h3>
+<p><strong>日常での活用方法</strong></p>
+<ul>
+<li><strong>判断に迷った時</strong>：憲章の価値観・原則を参照</li>
+<li><strong>新メンバー参加時</strong>：オンボーディング資料として使用</li>
+<li><strong>振り返り時</strong>：憲章と実際の行動の差を確認</li>
+<li><strong>評価時</strong>：成果指標と照らし合わせて評価</li>
+</ul>
+<p><strong>定期見直しのスケジュール</strong></p>
+<pre class="language-markdown"><code class="language-markdown code-highlight"><span class="code-line"><span class="token title important"><span class="token punctuation">##</span> 見直し頻度の目安</span>
+</span><span class="code-line">
+</span><span class="code-line">月次チェック:
+</span><span class="code-line"><span class="token list punctuation">-</span> 作業方法の微調整
+</span><span class="code-line"><span class="token list punctuation">-</span> コミュニケーションルールの確認
+</span><span class="code-line">
+</span><span class="code-line">四半期レビュー:
+</span><span class="code-line"><span class="token list punctuation">-</span> 成功指標の達成状況確認
+</span><span class="code-line"><span class="token list punctuation">-</span> 価値観の実践度合い評価
+</span><span class="code-line">
+</span><span class="code-line">年次更新:
+</span><span class="code-line"><span class="token list punctuation">-</span> 全体的な見直しと大幅修正
+</span><span class="code-line"><span class="token list punctuation">-</span> 新年度・新プロジェクトへの対応
+</span></code></pre>
+<h2>よくある落とし穴と対策</h2>
+<h3>落とし穴1: 作っただけで満足してしまう</h3>
+<p><strong>症状</strong></p>
+<ul>
+<li>憲章を作成後、参照されることがない</li>
+<li>新しい課題が発生しても憲章を確認しない</li>
+</ul>
+<p><strong>対策</strong></p>
+<ul>
+<li>会議室やデジタルワークスペースに常に表示</li>
+<li>意思決定時に「憲章に照らしてどうか？」を習慣化</li>
+<li>月次振り返りで憲章の実践度をチェック</li>
+</ul>
+<h3>落とし穴2: 理想論すぎて実践できない</h3>
+<p><strong>症状</strong></p>
+<ul>
+<li>「常に最高品質を追求」などの実現困難な目標</li>
+<li>リソースを無視した理想的すぎる作業方法</li>
+</ul>
+<p><strong>対策</strong></p>
+<ul>
+<li>現実的な制約（時間、予算、スキル）を考慮</li>
+<li>段階的に実現可能な目標設定</li>
+<li>定期的に実現可能性を見直し</li>
+</ul>
+<h3>落とし穴3: 一部メンバーの意見に偏る</h3>
+<p><strong>症状</strong></p>
+<ul>
+<li>声の大きいメンバーの意見が支配的</li>
+<li>内向的なメンバーの意見が反映されない</li>
+</ul>
+<p><strong>対策</strong></p>
+<ul>
+<li>匿名アンケートで事前に意見収集</li>
+<li>ファシリテーターが全員の発言を促す</li>
+<li>小グループ討議で発言しやすい環境作り</li>
+</ul>
+<h2>実践事例とテンプレート活用</h2>
+<h3>事例1: アジャイル開発チームの場合</h3>
+<p><strong>チーム構成</strong>：PO 1名、エンジニア 4名、デザイナー 1名</p>
+<p><strong>重点ポイント</strong></p>
+<ul>
+<li>スプリント期間と役割分担の明確化</li>
+<li>Daily Standupのフォーマット統一</li>
+<li>Definition of Done の具体化</li>
+</ul>
+<p><strong>効果</strong></p>
+<ul>
+<li>スプリント完了率：60% → 85% に向上</li>
+<li>バグ発生率：20件/スプリント → 8件/スプリント に削減</li>
+</ul>
+<h3>事例2: リモートワーク中心チームの場合</h3>
+<p><strong>チーム構成</strong>：マネージャー 1名、メンバー 6名（全員リモート）</p>
+<p><strong>重点ポイント</strong></p>
+<ul>
+<li>オンラインコミュニケーションルールの詳細化</li>
+<li>非同期作業のための文書化基準</li>
+<li>ワークライフバランスの境界設定</li>
+</ul>
+<p><strong>効果</strong></p>
+<ul>
+<li>レスポンス時間：平均 4時間 → 2時間 に短縮</li>
+<li>チーム満足度：NPS +20 ポイント向上</li>
+</ul>
+<h2>成功のためのベストプラクティス</h2>
+<h3>チェックリスト</h3>
+<p><strong>作成段階</strong></p>
+<ul class="contains-task-list">
+<li class="task-list-item"><input type="checkbox" disabled> 全メンバーが作成プロセスに参加した</li>
+<li class="task-list-item"><input type="checkbox" disabled> 具体的で測定可能な指標を設定した</li>
+<li class="task-list-item"><input type="checkbox" disabled> 実現可能な目標とルールになっている</li>
+<li class="task-list-item"><input type="checkbox" disabled> 全員が内容に合意している</li>
+</ul>
+<p><strong>運用段階</strong></p>
+<ul class="contains-task-list">
+<li class="task-list-item"><input type="checkbox" disabled> 定期的に憲章を参照している</li>
+<li class="task-list-item"><input type="checkbox" disabled> 新メンバーに適切にオンボーディングしている</li>
+<li class="task-list-item"><input type="checkbox" disabled> 月次で振り返りを実施している</li>
+<li class="task-list-item"><input type="checkbox" disabled> 必要に応じて更新している</li>
+</ul>
+<p><strong>継続改善</strong></p>
+<ul class="contains-task-list">
+<li class="task-list-item"><input type="checkbox" disabled> 四半期ごとに効果を測定している</li>
+<li class="task-list-item"><input type="checkbox" disabled> メンバーからの改善提案を受け付けている</li>
+<li class="task-list-item"><input type="checkbox" disabled> 組織の変化に合わせて調整している</li>
+</ul>
+<h2>まとめ</h2>
+<p>効果的なチーム憲章は、一度作って終わりではなく、チームと共に成長する「生きた文書」です。</p>
+<p><strong>成功のポイント</strong></p>
+<ul>
+<li>全員参加での作成プロセス</li>
+<li>具体的で実践可能な内容</li>
+<li>継続的な見直しと改善</li>
+</ul>
+<p>チーム憲章を通じて、メンバー全員が同じ方向を向き、効率的に協働できる環境を作り上げましょう。最初は時間がかかっても、長期的には大幅な生産性向上とチーム満足度の向上につながります。</p>
+<h2>チーム憲章マークダウンテンプレート</h2>
+<p>以下は、すぐに使用できるマークダウン形式のテンプレートです。プロジェクトに合わせてカスタマイズしてください。</p>
+<pre class="language-markdown"><code class="language-markdown code-highlight"><span class="code-line"><span class="token title important"><span class="token punctuation">#</span> チーム憲章</span>
+</span><span class="code-line">
+</span><span class="code-line"><span class="token hr punctuation">---</span>
+</span><span class="code-line">
+</span><span class="code-line"><span class="token title important"><span class="token punctuation">##</span> 基本情報</span>
+</span><span class="code-line">
+</span><span class="code-line"><span class="token bold"><span class="token punctuation">**</span><span class="token content">チーム名</span><span class="token punctuation">**</span></span>: [チーム名を記入]
+</span><span class="code-line"><span class="token bold"><span class="token punctuation">**</span><span class="token content">作成日</span><span class="token punctuation">**</span></span>: [YYYY-MM-DD]
+</span><span class="code-line"><span class="token bold"><span class="token punctuation">**</span><span class="token content">最終更新</span><span class="token punctuation">**</span></span>: [YYYY-MM-DD]
+</span><span class="code-line"><span class="token bold"><span class="token punctuation">**</span><span class="token content">有効期間</span><span class="token punctuation">**</span></span>: [期間を記入（例：2025年4月〜2026年3月）]
+</span><span class="code-line">
+</span><span class="code-line"><span class="token hr punctuation">---</span>
+</span><span class="code-line">
+</span><span class="code-line"><span class="token title important"><span class="token punctuation">##</span> 📋 チームメンバー</span>
+</span><span class="code-line">
+</span><span class="code-line"><span class="token table"><span class="token table-header-row"><span class="token punctuation">|</span><span class="token table-header important"> 名前 </span><span class="token punctuation">|</span><span class="token table-header important"> 役割 </span><span class="token punctuation">|</span><span class="token table-header important"> 責任範囲 </span><span class="token punctuation">|</span><span class="token table-header important"> 連絡先 </span><span class="token punctuation">|</span>
+</span></span></span><span class="code-line"><span class="token table"><span class="token table-header-row"></span><span class="token table-line"><span class="token punctuation">|</span><span class="token punctuation">------</span><span class="token punctuation">|</span><span class="token punctuation">------</span><span class="token punctuation">|</span><span class="token punctuation">----------</span><span class="token punctuation">|</span><span class="token punctuation">--------</span><span class="token punctuation">|</span>
+</span></span></span><span class="code-line"><span class="token table"><span class="token table-line"></span><span class="token table-data-rows"><span class="token punctuation">|</span><span class="token table-data"> [名前] </span><span class="token punctuation">|</span><span class="token table-data"> [役割] </span><span class="token punctuation">|</span><span class="token table-data"> [責任範囲] </span><span class="token punctuation">|</span><span class="token table-data"> [連絡先] </span><span class="token punctuation">|</span>
+</span></span></span><span class="code-line"><span class="token table"><span class="token table-data-rows"><span class="token punctuation">|</span><span class="token table-data"> [名前] </span><span class="token punctuation">|</span><span class="token table-data"> [役割] </span><span class="token punctuation">|</span><span class="token table-data"> [責任範囲] </span><span class="token punctuation">|</span><span class="token table-data"> [連絡先] </span><span class="token punctuation">|</span>
+</span></span></span><span class="code-line"><span class="token table"><span class="token table-data-rows"><span class="token punctuation">|</span><span class="token table-data"> [名前] </span><span class="token punctuation">|</span><span class="token table-data"> [役割] </span><span class="token punctuation">|</span><span class="token table-data"> [責任範囲] </span><span class="token punctuation">|</span><span class="token table-data"> [連絡先] </span><span class="token punctuation">|</span>
+</span></span></span><span class="code-line"><span class="token table"><span class="token table-data-rows"></span></span>
+</span><span class="code-line"><span class="token hr punctuation">---</span>
+</span><span class="code-line">
+</span><span class="code-line"><span class="token title important"><span class="token punctuation">##</span> 🎯 ミッション・ビジョン</span>
+</span><span class="code-line">
+</span><span class="code-line"><span class="token title important"><span class="token punctuation">###</span> ミッション（チームの存在意義）</span>
+</span><span class="code-line"><span class="token blockquote punctuation">></span> [チームが何のために存在するのかを1-2文で記述]
+</span><span class="code-line">
+</span><span class="code-line"><span class="token title important"><span class="token punctuation">###</span> ビジョン（目指す姿）</span>
+</span><span class="code-line"><span class="token blockquote punctuation">></span> [チームが目指す理想的な状態を1-2文で記述]
+</span><span class="code-line">
+</span><span class="code-line"><span class="token title important"><span class="token punctuation">###</span> 主要目標</span>
+</span><span class="code-line"><span class="token list punctuation">-</span> <span class="token url">[<span class="token content"> </span>] [<span class="token variable">具体的な目標1</span>]</span>
+</span><span class="code-line"><span class="token list punctuation">-</span> <span class="token url">[<span class="token content"> </span>] [<span class="token variable">具体的な目標2</span>]</span>
+</span><span class="code-line"><span class="token list punctuation">-</span> <span class="token url">[<span class="token content"> </span>] [<span class="token variable">具体的な目標3</span>]</span>
+</span><span class="code-line">
+</span><span class="code-line"><span class="token hr punctuation">---</span>
+</span><span class="code-line">
+</span><span class="code-line"><span class="token title important"><span class="token punctuation">##</span> 💎 価値観・行動原則</span>
+</span><span class="code-line">
+</span><span class="code-line"><span class="token title important"><span class="token punctuation">###</span> 重視する価値観</span>
+</span><span class="code-line"><span class="token list punctuation">1.</span> <span class="token bold"><span class="token punctuation">**</span><span class="token content">[価値観1]</span><span class="token punctuation">**</span></span>
+</span><span class="code-line">   <span class="token list punctuation">-</span> 具体的な行動例：[例を記述]
+</span><span class="code-line">
+</span><span class="code-line"><span class="token list punctuation">2.</span> <span class="token bold"><span class="token punctuation">**</span><span class="token content">[価値観2]</span><span class="token punctuation">**</span></span>
+</span><span class="code-line">   <span class="token list punctuation">-</span> 具体的な行動例：[例を記述]
+</span><span class="code-line">
+</span><span class="code-line"><span class="token list punctuation">3.</span> <span class="token bold"><span class="token punctuation">**</span><span class="token content">[価値観3]</span><span class="token punctuation">**</span></span>
+</span><span class="code-line">   <span class="token list punctuation">-</span> 具体的な行動例：[例を記述]
+</span><span class="code-line">
+</span><span class="code-line"><span class="token title important"><span class="token punctuation">###</span> 行動指針</span>
+</span><span class="code-line"><span class="token list punctuation">-</span> ✅ <span class="token bold"><span class="token punctuation">**</span><span class="token content">推奨する行動</span><span class="token punctuation">**</span></span>
+</span><span class="code-line">  <span class="token list punctuation">-</span> [推奨行動1]
+</span><span class="code-line">  <span class="token list punctuation">-</span> [推奨行動2]
+</span><span class="code-line">  <span class="token list punctuation">-</span> [推奨行動3]
+</span><span class="code-line">
+</span><span class="code-line"><span class="token list punctuation">-</span> ❌ <span class="token bold"><span class="token punctuation">**</span><span class="token content">避けるべき行動</span><span class="token punctuation">**</span></span>
+</span><span class="code-line">  <span class="token list punctuation">-</span> [避けるべき行動1]
+</span><span class="code-line">  <span class="token list punctuation">-</span> [避けるべき行動2]
+</span><span class="code-line">  <span class="token list punctuation">-</span> [避けるべき行動3]
+</span><span class="code-line">
+</span><span class="code-line"><span class="token hr punctuation">---</span>
+</span><span class="code-line">
+</span><span class="code-line"><span class="token title important"><span class="token punctuation">##</span> 🔄 作業方法・プロセス</span>
+</span><span class="code-line">
+</span><span class="code-line"><span class="token title important"><span class="token punctuation">###</span> 作業の進め方</span>
+</span><span class="code-line"><span class="token list punctuation">-</span> <span class="token bold"><span class="token punctuation">**</span><span class="token content">開発手法</span><span class="token punctuation">**</span></span>: [アジャイル/ウォーターフォール/その他]
+</span><span class="code-line"><span class="token list punctuation">-</span> <span class="token bold"><span class="token punctuation">**</span><span class="token content">スプリント期間</span><span class="token punctuation">**</span></span>: [期間]
+</span><span class="code-line"><span class="token list punctuation">-</span> <span class="token bold"><span class="token punctuation">**</span><span class="token content">作業時間</span><span class="token punctuation">**</span></span>: [コアタイム/フレックス等]
+</span><span class="code-line">
+</span><span class="code-line"><span class="token title important"><span class="token punctuation">###</span> 品質基準</span>
+</span><span class="code-line"><span class="token list punctuation">-</span> <span class="token bold"><span class="token punctuation">**</span><span class="token content">コード品質</span><span class="token punctuation">**</span></span>：[基準を記述]
+</span><span class="code-line"><span class="token list punctuation">-</span> <span class="token bold"><span class="token punctuation">**</span><span class="token content">ドキュメント</span><span class="token punctuation">**</span></span>：[基準を記述]
+</span><span class="code-line"><span class="token list punctuation">-</span> <span class="token bold"><span class="token punctuation">**</span><span class="token content">テスト</span><span class="token punctuation">**</span></span>：[基準を記述]
+</span><span class="code-line">
+</span><span class="code-line"><span class="token title important"><span class="token punctuation">###</span> レビュープロセス</span>
+</span><span class="code-line"><span class="token list punctuation">1.</span> [ステップ1]
+</span><span class="code-line"><span class="token list punctuation">2.</span> [ステップ2]
+</span><span class="code-line"><span class="token list punctuation">3.</span> [ステップ3]
+</span><span class="code-line">
+</span><span class="code-line"><span class="token hr punctuation">---</span>
+</span><span class="code-line">
+</span><span class="code-line"><span class="token title important"><span class="token punctuation">##</span> 💬 コミュニケーション</span>
+</span><span class="code-line">
+</span><span class="code-line"><span class="token title important"><span class="token punctuation">###</span> 基本ルール</span>
+</span><span class="code-line"><span class="token list punctuation">-</span> <span class="token bold"><span class="token punctuation">**</span><span class="token content">言語</span><span class="token punctuation">**</span></span>: [日本語/英語/その他]
+</span><span class="code-line"><span class="token list punctuation">-</span> <span class="token bold"><span class="token punctuation">**</span><span class="token content">レスポンス時間</span><span class="token punctuation">**</span></span>: [営業時間内XX時間以内等]
+</span><span class="code-line"><span class="token list punctuation">-</span> <span class="token bold"><span class="token punctuation">**</span><span class="token content">エスカレーション</span><span class="token punctuation">**</span></span>: [緊急時の連絡方法]
+</span><span class="code-line">
+</span><span class="code-line"><span class="token title important"><span class="token punctuation">###</span> 使用ツール</span>
+</span><span class="code-line">
+</span><span class="code-line"><span class="token table"><span class="token table-header-row"><span class="token punctuation">|</span><span class="token table-header important"> 用途 </span><span class="token punctuation">|</span><span class="token table-header important"> ツール </span><span class="token punctuation">|</span><span class="token table-header important"> 使用場面 </span><span class="token punctuation">|</span>
+</span></span></span><span class="code-line"><span class="token table"><span class="token table-header-row"></span><span class="token table-line"><span class="token punctuation">|</span><span class="token punctuation">------</span><span class="token punctuation">|</span><span class="token punctuation">--------</span><span class="token punctuation">|</span><span class="token punctuation">----------</span><span class="token punctuation">|</span>
+</span></span></span><span class="code-line"><span class="token table"><span class="token table-line"></span><span class="token table-data-rows"><span class="token punctuation">|</span><span class="token table-data"> 日常連絡 </span><span class="token punctuation">|</span><span class="token table-data"> [Slack/Teams等] </span><span class="token punctuation">|</span><span class="token table-data"> [使用場面] </span><span class="token punctuation">|</span>
+</span></span></span><span class="code-line"><span class="token table"><span class="token table-data-rows"><span class="token punctuation">|</span><span class="token table-data"> 会議 </span><span class="token punctuation">|</span><span class="token table-data"> [Zoom/Teams等] </span><span class="token punctuation">|</span><span class="token table-data"> [使用場面] </span><span class="token punctuation">|</span>
+</span></span></span><span class="code-line"><span class="token table"><span class="token table-data-rows"><span class="token punctuation">|</span><span class="token table-data"> 文書共有 </span><span class="token punctuation">|</span><span class="token table-data"> [Google Drive/SharePoint等] </span><span class="token punctuation">|</span><span class="token table-data"> [使用場面] </span><span class="token punctuation">|</span>
+</span></span></span><span class="code-line"><span class="token table"><span class="token table-data-rows"><span class="token punctuation">|</span><span class="token table-data"> プロジェクト管理 </span><span class="token punctuation">|</span><span class="token table-data"> [Jira/Trello等] </span><span class="token punctuation">|</span><span class="token table-data"> [使用場面] </span><span class="token punctuation">|</span>
+</span></span></span><span class="code-line"><span class="token table"><span class="token table-data-rows"></span></span>
+</span><span class="code-line"><span class="token title important"><span class="token punctuation">###</span> 定期会議</span>
+</span><span class="code-line">
+</span><span class="code-line"><span class="token table"><span class="token table-header-row"><span class="token punctuation">|</span><span class="token table-header important"> 会議名 </span><span class="token punctuation">|</span><span class="token table-header important"> 頻度 </span><span class="token punctuation">|</span><span class="token table-header important"> 時間 </span><span class="token punctuation">|</span><span class="token table-header important"> 参加者 </span><span class="token punctuation">|</span><span class="token table-header important"> 目的 </span><span class="token punctuation">|</span>
+</span></span></span><span class="code-line"><span class="token table"><span class="token table-header-row"></span><span class="token table-line"><span class="token punctuation">|</span><span class="token punctuation">--------</span><span class="token punctuation">|</span><span class="token punctuation">------</span><span class="token punctuation">|</span><span class="token punctuation">------</span><span class="token punctuation">|</span><span class="token punctuation">--------</span><span class="token punctuation">|</span><span class="token punctuation">------</span><span class="token punctuation">|</span>
+</span></span></span><span class="code-line"><span class="token table"><span class="token table-line"></span><span class="token table-data-rows"><span class="token punctuation">|</span><span class="token table-data"> [会議名] </span><span class="token punctuation">|</span><span class="token table-data"> [頻度] </span><span class="token punctuation">|</span><span class="token table-data"> [時間] </span><span class="token punctuation">|</span><span class="token table-data"> [参加者] </span><span class="token punctuation">|</span><span class="token table-data"> [目的] </span><span class="token punctuation">|</span>
+</span></span></span><span class="code-line"><span class="token table"><span class="token table-data-rows"><span class="token punctuation">|</span><span class="token table-data"> [会議名] </span><span class="token punctuation">|</span><span class="token table-data"> [頻度] </span><span class="token punctuation">|</span><span class="token table-data"> [時間] </span><span class="token punctuation">|</span><span class="token table-data"> [参加者] </span><span class="token punctuation">|</span><span class="token table-data"> [目的] </span><span class="token punctuation">|</span>
+</span></span></span><span class="code-line"><span class="token table"><span class="token table-data-rows"></span></span>
+</span><span class="code-line"><span class="token hr punctuation">---</span>
+</span><span class="code-line">
+</span><span class="code-line"><span class="token title important"><span class="token punctuation">##</span> ⚖️ 意思決定プロセス</span>
+</span><span class="code-line">
+</span><span class="code-line"><span class="token title important"><span class="token punctuation">###</span> 意思決定の権限</span>
+</span><span class="code-line">
+</span><span class="code-line"><span class="token table"><span class="token table-header-row"><span class="token punctuation">|</span><span class="token table-header important"> 決定事項の種類 </span><span class="token punctuation">|</span><span class="token table-header important"> 決定者 </span><span class="token punctuation">|</span><span class="token table-header important"> 相談先 </span><span class="token punctuation">|</span><span class="token table-header important"> 報告先 </span><span class="token punctuation">|</span>
+</span></span></span><span class="code-line"><span class="token table"><span class="token table-header-row"></span><span class="token table-line"><span class="token punctuation">|</span><span class="token punctuation">----------------</span><span class="token punctuation">|</span><span class="token punctuation">--------</span><span class="token punctuation">|</span><span class="token punctuation">--------</span><span class="token punctuation">|</span><span class="token punctuation">--------</span><span class="token punctuation">|</span>
+</span></span></span><span class="code-line"><span class="token table"><span class="token table-line"></span><span class="token table-data-rows"><span class="token punctuation">|</span><span class="token table-data"> [事項1] </span><span class="token punctuation">|</span><span class="token table-data"> [決定者] </span><span class="token punctuation">|</span><span class="token table-data"> [相談先] </span><span class="token punctuation">|</span><span class="token table-data"> [報告先] </span><span class="token punctuation">|</span>
+</span></span></span><span class="code-line"><span class="token table"><span class="token table-data-rows"><span class="token punctuation">|</span><span class="token table-data"> [事項2] </span><span class="token punctuation">|</span><span class="token table-data"> [決定者] </span><span class="token punctuation">|</span><span class="token table-data"> [相談先] </span><span class="token punctuation">|</span><span class="token table-data"> [報告先] </span><span class="token punctuation">|</span>
+</span></span></span><span class="code-line"><span class="token table"><span class="token table-data-rows"><span class="token punctuation">|</span><span class="token table-data"> [事項3] </span><span class="token punctuation">|</span><span class="token table-data"> [決定者] </span><span class="token punctuation">|</span><span class="token table-data"> [相談先] </span><span class="token punctuation">|</span><span class="token table-data"> [報告先] </span><span class="token punctuation">|</span>
+</span></span></span><span class="code-line"><span class="token table"><span class="token table-data-rows"></span></span>
+</span><span class="code-line"><span class="token title important"><span class="token punctuation">###</span> 合意形成の方法</span>
+</span><span class="code-line"><span class="token list punctuation">-</span> <span class="token bold"><span class="token punctuation">**</span><span class="token content">通常の意思決定</span><span class="token punctuation">**</span></span>: [方法を記述]
+</span><span class="code-line"><span class="token list punctuation">-</span> <span class="token bold"><span class="token punctuation">**</span><span class="token content">緊急時の意思決定</span><span class="token punctuation">**</span></span>: [方法を記述]
+</span><span class="code-line"><span class="token list punctuation">-</span> <span class="token bold"><span class="token punctuation">**</span><span class="token content">意見が分かれた場合</span><span class="token punctuation">**</span></span>: [解決方法を記述]
+</span><span class="code-line">
+</span><span class="code-line"><span class="token hr punctuation">---</span>
+</span><span class="code-line">
+</span><span class="code-line"><span class="token title important"><span class="token punctuation">##</span> 📊 成功指標・KPI</span>
+</span><span class="code-line">
+</span><span class="code-line"><span class="token title important"><span class="token punctuation">###</span> 主要指標</span>
+</span><span class="code-line">
+</span><span class="code-line"><span class="token table"><span class="token table-header-row"><span class="token punctuation">|</span><span class="token table-header important"> 指標名 </span><span class="token punctuation">|</span><span class="token table-header important"> 目標値 </span><span class="token punctuation">|</span><span class="token table-header important"> 測定方法 </span><span class="token punctuation">|</span><span class="token table-header important"> 測定頻度 </span><span class="token punctuation">|</span>
+</span></span></span><span class="code-line"><span class="token table"><span class="token table-header-row"></span><span class="token table-line"><span class="token punctuation">|</span><span class="token punctuation">--------</span><span class="token punctuation">|</span><span class="token punctuation">--------</span><span class="token punctuation">|</span><span class="token punctuation">----------</span><span class="token punctuation">|</span><span class="token punctuation">----------</span><span class="token punctuation">|</span>
+</span></span></span><span class="code-line"><span class="token table"><span class="token table-line"></span><span class="token table-data-rows"><span class="token punctuation">|</span><span class="token table-data"> [指標1] </span><span class="token punctuation">|</span><span class="token table-data"> [目標値] </span><span class="token punctuation">|</span><span class="token table-data"> [測定方法] </span><span class="token punctuation">|</span><span class="token table-data"> [頻度] </span><span class="token punctuation">|</span>
+</span></span></span><span class="code-line"><span class="token table"><span class="token table-data-rows"><span class="token punctuation">|</span><span class="token table-data"> [指標2] </span><span class="token punctuation">|</span><span class="token table-data"> [目標値] </span><span class="token punctuation">|</span><span class="token table-data"> [測定方法] </span><span class="token punctuation">|</span><span class="token table-data"> [頻度] </span><span class="token punctuation">|</span>
+</span></span></span><span class="code-line"><span class="token table"><span class="token table-data-rows"><span class="token punctuation">|</span><span class="token table-data"> [指標3] </span><span class="token punctuation">|</span><span class="token table-data"> [目標値] </span><span class="token punctuation">|</span><span class="token table-data"> [測定方法] </span><span class="token punctuation">|</span><span class="token table-data"> [頻度] </span><span class="token punctuation">|</span>
+</span></span></span><span class="code-line"><span class="token table"><span class="token table-data-rows"></span></span>
+</span><span class="code-line"><span class="token title important"><span class="token punctuation">###</span> 評価タイミング</span>
+</span><span class="code-line"><span class="token list punctuation">-</span> <span class="token bold"><span class="token punctuation">**</span><span class="token content">日次</span><span class="token punctuation">**</span></span>: [評価内容]
+</span><span class="code-line"><span class="token list punctuation">-</span> <span class="token bold"><span class="token punctuation">**</span><span class="token content">週次</span><span class="token punctuation">**</span></span>: [評価内容]
+</span><span class="code-line"><span class="token list punctuation">-</span> <span class="token bold"><span class="token punctuation">**</span><span class="token content">月次</span><span class="token punctuation">**</span></span>: [評価内容]
+</span><span class="code-line"><span class="token list punctuation">-</span> <span class="token bold"><span class="token punctuation">**</span><span class="token content">四半期</span><span class="token punctuation">**</span></span>: [評価内容]
+</span><span class="code-line">
+</span><span class="code-line"><span class="token hr punctuation">---</span>
+</span><span class="code-line">
+</span><span class="code-line"><span class="token title important"><span class="token punctuation">##</span> 🤝 チームルール</span>
+</span><span class="code-line">
+</span><span class="code-line"><span class="token title important"><span class="token punctuation">###</span> 時間管理</span>
+</span><span class="code-line"><span class="token list punctuation">-</span> <span class="token bold"><span class="token punctuation">**</span><span class="token content">会議開始時間</span><span class="token punctuation">**</span></span>: [厳守/5分の余裕等]
+</span><span class="code-line"><span class="token list punctuation">-</span> <span class="token bold"><span class="token punctuation">**</span><span class="token content">遅刻時の対応</span><span class="token punctuation">**</span></span>: [対応方法]
+</span><span class="code-line"><span class="token list punctuation">-</span> <span class="token bold"><span class="token punctuation">**</span><span class="token content">欠席時の連絡</span><span class="token punctuation">**</span></span>: [XX時間前までに連絡等]
+</span><span class="code-line">
+</span><span class="code-line"><span class="token title important"><span class="token punctuation">###</span> 情報共有</span>
+</span><span class="code-line"><span class="token list punctuation">-</span> <span class="token bold"><span class="token punctuation">**</span><span class="token content">進捗報告</span><span class="token punctuation">**</span></span>: [方法・タイミング]
+</span><span class="code-line"><span class="token list punctuation">-</span> <span class="token bold"><span class="token punctuation">**</span><span class="token content">課題・リスク</span><span class="token punctuation">**</span></span>: [共有方法]
+</span><span class="code-line"><span class="token list punctuation">-</span> <span class="token bold"><span class="token punctuation">**</span><span class="token content">学習・知見</span><span class="token punctuation">**</span></span>: [共有方法]
+</span><span class="code-line">
+</span><span class="code-line"><span class="token title important"><span class="token punctuation">###</span> ワークライフバランス</span>
+</span><span class="code-line"><span class="token list punctuation">-</span> <span class="token bold"><span class="token punctuation">**</span><span class="token content">残業の考え方</span><span class="token punctuation">**</span></span>: [方針を記述]
+</span><span class="code-line"><span class="token list punctuation">-</span> <span class="token bold"><span class="token punctuation">**</span><span class="token content">休暇取得</span><span class="token punctuation">**</span></span>: [推奨される取得方法]
+</span><span class="code-line"><span class="token list punctuation">-</span> <span class="token bold"><span class="token punctuation">**</span><span class="token content">緊急時連絡</span><span class="token punctuation">**</span></span>: [範囲と方法]
+</span><span class="code-line">
+</span><span class="code-line"><span class="token hr punctuation">---</span>
+</span><span class="code-line">
+</span><span class="code-line"><span class="token title important"><span class="token punctuation">##</span> 🔧 紛争解決・エスカレーション</span>
+</span><span class="code-line">
+</span><span class="code-line"><span class="token title important"><span class="token punctuation">###</span> 問題解決の手順</span>
+</span><span class="code-line"><span class="token list punctuation">1.</span> <span class="token bold"><span class="token punctuation">**</span><span class="token content">当事者間での話し合い</span><span class="token punctuation">**</span></span>
+</span><span class="code-line">   <span class="token list punctuation">-</span> まずは直接対話で解決を試みる
+</span><span class="code-line">
+</span><span class="code-line"><span class="token list punctuation">2.</span> <span class="token bold"><span class="token punctuation">**</span><span class="token content">チームリーダーへの相談</span><span class="token punctuation">**</span></span>
+</span><span class="code-line">   <span class="token list punctuation">-</span> 解決が困難な場合はリーダーが仲介
+</span><span class="code-line">
+</span><span class="code-line"><span class="token list punctuation">3.</span> <span class="token bold"><span class="token punctuation">**</span><span class="token content">上位管理者へのエスカレーション</span><span class="token punctuation">**</span></span>
+</span><span class="code-line">   <span class="token list punctuation">-</span> 重大な問題は[担当者名]に報告
+</span><span class="code-line">
+</span><span class="code-line"><span class="token title important"><span class="token punctuation">###</span> 対応すべき問題の例</span>
+</span><span class="code-line"><span class="token list punctuation">-</span> 価値観の相違によるコンフリクト
+</span><span class="code-line"><span class="token list punctuation">-</span> 作業品質・進捗に関する課題
+</span><span class="code-line"><span class="token list punctuation">-</span> コミュニケーション上の問題
+</span><span class="code-line">
+</span><span class="code-line"><span class="token hr punctuation">---</span>
+</span><span class="code-line">
+</span><span class="code-line"><span class="token title important"><span class="token punctuation">##</span> 🔄 振り返り・改善</span>
+</span><span class="code-line">
+</span><span class="code-line"><span class="token title important"><span class="token punctuation">###</span> 定期見直し</span>
+</span><span class="code-line"><span class="token list punctuation">-</span> <span class="token bold"><span class="token punctuation">**</span><span class="token content">頻度</span><span class="token punctuation">**</span></span>: [月次/四半期等]
+</span><span class="code-line"><span class="token list punctuation">-</span> <span class="token bold"><span class="token punctuation">**</span><span class="token content">方法</span><span class="token punctuation">**</span></span>: [レトロスペクティブ/アンケート等]
+</span><span class="code-line"><span class="token list punctuation">-</span> <span class="token bold"><span class="token punctuation">**</span><span class="token content">更新プロセス</span><span class="token punctuation">**</span></span>: [更新方法を記述]
+</span><span class="code-line">
+</span><span class="code-line"><span class="token title important"><span class="token punctuation">###</span> 改善提案</span>
+</span><span class="code-line"><span class="token list punctuation">-</span> <span class="token bold"><span class="token punctuation">**</span><span class="token content">提案方法</span><span class="token punctuation">**</span></span>: [提案の仕方]
+</span><span class="code-line"><span class="token list punctuation">-</span> <span class="token bold"><span class="token punctuation">**</span><span class="token content">検討プロセス</span><span class="token punctuation">**</span></span>: [検討方法]
+</span><span class="code-line"><span class="token list punctuation">-</span> <span class="token bold"><span class="token punctuation">**</span><span class="token content">実施決定</span><span class="token punctuation">**</span></span>: [決定プロセス]
+</span><span class="code-line">
+</span><span class="code-line"><span class="token hr punctuation">---</span>
+</span><span class="code-line">
+</span><span class="code-line"><span class="token title important"><span class="token punctuation">##</span> 📝 承認・合意</span>
+</span><span class="code-line">
+</span><span class="code-line"><span class="token title important"><span class="token punctuation">###</span> チームメンバーの合意</span>
+</span><span class="code-line">
+</span><span class="code-line"><span class="token table"><span class="token table-header-row"><span class="token punctuation">|</span><span class="token table-header important"> 名前 </span><span class="token punctuation">|</span><span class="token table-header important"> 署名 </span><span class="token punctuation">|</span><span class="token table-header important"> 日付 </span><span class="token punctuation">|</span>
+</span></span></span><span class="code-line"><span class="token table"><span class="token table-header-row"></span><span class="token table-line"><span class="token punctuation">|</span><span class="token punctuation">------</span><span class="token punctuation">|</span><span class="token punctuation">------</span><span class="token punctuation">|</span><span class="token punctuation">------</span><span class="token punctuation">|</span>
+</span></span></span><span class="code-line"><span class="token table"><span class="token table-line"></span><span class="token table-data-rows"><span class="token punctuation">|</span><span class="token table-data"> [名前] </span><span class="token punctuation">|</span><span class="token table-data"> [署名] </span><span class="token punctuation">|</span><span class="token table-data"> [日付] </span><span class="token punctuation">|</span>
+</span></span></span><span class="code-line"><span class="token table"><span class="token table-data-rows"><span class="token punctuation">|</span><span class="token table-data"> [名前] </span><span class="token punctuation">|</span><span class="token table-data"> [署名] </span><span class="token punctuation">|</span><span class="token table-data"> [日付] </span><span class="token punctuation">|</span>
+</span></span></span><span class="code-line"><span class="token table"><span class="token table-data-rows"><span class="token punctuation">|</span><span class="token table-data"> [名前] </span><span class="token punctuation">|</span><span class="token table-data"> [署名] </span><span class="token punctuation">|</span><span class="token table-data"> [日付] </span><span class="token punctuation">|</span>
+</span></span></span><span class="code-line"><span class="token table"><span class="token table-data-rows"></span></span>
+</span><span class="code-line"><span class="token title important"><span class="token punctuation">###</span> 次回見直し予定日</span>
+</span><span class="code-line"><span class="token bold"><span class="token punctuation">**</span><span class="token content">予定日</span><span class="token punctuation">**</span></span>: [YYYY-MM-DD]
+</span><span class="code-line">
+</span><span class="code-line"><span class="token hr punctuation">---</span>
+</span><span class="code-line">
+</span><span class="code-line"><span class="token title important"><span class="token punctuation">##</span> 📚 関連文書・リソース</span>
+</span><span class="code-line">
+</span><span class="code-line"><span class="token list punctuation">-</span> [関連文書1へのリンク]
+</span><span class="code-line"><span class="token list punctuation">-</span> [関連文書2へのリンク]
+</span><span class="code-line"><span class="token list punctuation">-</span> [参考リソースへのリンク]
+</span><span class="code-line">
+</span><span class="code-line"><span class="token hr punctuation">---</span>
+</span><span class="code-line">
+</span><span class="code-line"><span class="token italic"><span class="token punctuation">*</span><span class="token content">このチーム憲章は、チームの成長に合わせて継続的に更新していく「生きた文書」です。</span><span class="token punctuation">*</span></span>
+</span></code></pre>
+<h2>テンプレート活用のコツ</h2>
+<h3>カスタマイズポイント</h3>
+<ol>
+<li>
+<p><strong>チーム特性に合わせた項目調整</strong></p>
+<ul>
+<li>不要な項目は削除</li>
+<li>重要な項目は詳細化</li>
+</ul>
+</li>
+<li>
+<p><strong>業界・職種に応じた用語変更</strong></p>
+<ul>
+<li>エンジニアチーム：技術スタック、コードレビュー等</li>
+<li>営業チーム：KPI、顧客対応基準等</li>
+</ul>
+</li>
+<li>
+<p><strong>組織文化との整合性</strong></p>
+<ul>
+<li>会社のバリューとの一貫性確保</li>
+<li>既存のプロセスとの整合性</li>
+</ul>
+</li>
+</ol>
+<h3>記入例</h3>
+<pre class="language-markdown"><code class="language-markdown code-highlight"><span class="code-line"><span class="token title important"><span class="token punctuation">##</span> 実際の記入例（開発チームの場合）</span>
+</span><span class="code-line">
+</span><span class="code-line"><span class="token bold"><span class="token punctuation">**</span><span class="token content">チーム名</span><span class="token punctuation">**</span></span>: WebアプリUIチーム
+</span><span class="code-line"><span class="token bold"><span class="token punctuation">**</span><span class="token content">作成日</span><span class="token punctuation">**</span></span>: 2025-06-14
+</span><span class="code-line"><span class="token bold"><span class="token punctuation">**</span><span class="token content">有効期間</span><span class="token punctuation">**</span></span>: 2025年6月〜2026年3月
+</span><span class="code-line">
+</span><span class="code-line"><span class="token title important"><span class="token punctuation">###</span> ミッション</span>
+</span><span class="code-line"><span class="token blockquote punctuation">></span> ユーザーが直感的に使えるWebアプリケーションのUI/UXを提供し、
+</span><span class="code-line"><span class="token blockquote punctuation">></span> ユーザー満足度の向上とビジネス成果の最大化を実現する
+</span><span class="code-line">
+</span><span class="code-line"><span class="token title important"><span class="token punctuation">###</span> 価値観</span>
+</span><span class="code-line"><span class="token list punctuation">1.</span> <span class="token bold"><span class="token punctuation">**</span><span class="token content">ユーザーファースト</span><span class="token punctuation">**</span></span>
+</span><span class="code-line">   <span class="token list punctuation">-</span> 機能追加前に必ずユーザビリティテストを実施
+</span><span class="code-line">   <span class="token list punctuation">-</span> データに基づいた改善提案を積極的に行う
+</span><span class="code-line">
+</span><span class="code-line"><span class="token list punctuation">2.</span> <span class="token bold"><span class="token punctuation">**</span><span class="token content">品質重視</span><span class="token punctuation">**</span></span>
+</span><span class="code-line">   <span class="token list punctuation">-</span> コードレビューは24時間以内に実施
+</span><span class="code-line">   <span class="token list punctuation">-</span> バグ発生時は原因分析と再発防止策を必ず検討
+</span><span class="code-line">
+</span><span class="code-line"><span class="token title important"><span class="token punctuation">###</span> 成功指標</span>
+</span><span class="code-line"><span class="token table"><span class="token table-header-row"><span class="token punctuation">|</span><span class="token table-header important"> 指標名 </span><span class="token punctuation">|</span><span class="token table-header important"> 目標値 </span><span class="token punctuation">|</span><span class="token table-header important"> 測定方法 </span><span class="token punctuation">|</span><span class="token table-header important"> 測定頻度 </span><span class="token punctuation">|</span>
+</span></span></span><span class="code-line"><span class="token table"><span class="token table-header-row"></span><span class="token table-line"><span class="token punctuation">|</span><span class="token punctuation">--------</span><span class="token punctuation">|</span><span class="token punctuation">--------</span><span class="token punctuation">|</span><span class="token punctuation">----------</span><span class="token punctuation">|</span><span class="token punctuation">----------</span><span class="token punctuation">|</span>
+</span></span></span><span class="code-line"><span class="token table"><span class="token table-line"></span><span class="token table-data-rows"><span class="token punctuation">|</span><span class="token table-data"> ユーザビリティスコア </span><span class="token punctuation">|</span><span class="token table-data"> 80点以上 </span><span class="token punctuation">|</span><span class="token table-data"> SUSスケール </span><span class="token punctuation">|</span><span class="token table-data"> 月次 </span><span class="token punctuation">|</span>
+</span></span></span><span class="code-line"><span class="token table"><span class="token table-data-rows"><span class="token punctuation">|</span><span class="token table-data"> バグ発生率 </span><span class="token punctuation">|</span><span class="token table-data"> 5件/月以下 </span><span class="token punctuation">|</span><span class="token table-data"> Jira集計 </span><span class="token punctuation">|</span><span class="token table-data"> 週次 </span><span class="token punctuation">|</span>
+</span></span></span><span class="code-line"><span class="token table"><span class="token table-data-rows"><span class="token punctuation">|</span><span class="token table-data"> デプロイ頻度 </span><span class="token punctuation">|</span><span class="token table-data"> 週2回以上 </span><span class="token punctuation">|</span><span class="token table-data"> CI/CD統計 </span><span class="token punctuation">|</span><span class="token table-data"> 日次 </span><span class="token punctuation">|</span>
+</span></span></span></code></pre>
+<hr>
+<p><em>この記事の内容は、複数のアジャイル開発チームでの実践結果に基づいています。チームの特性に合わせて適切にカスタマイズしてご活用ください。</em></p>2:["$","article",null,{"className":"min-h-screen","children":[["$","div",null,{"className":"bg-gradient-to-b from-green-50/60 to-transparent dark:from-gray-900 dark:to-transparent","children":["$","div",null,{"className":"max-w-4xl mx-auto px-6 md:px-8 pt-28 md:pt-32 pb-10 md:pb-14","children":[["$","h1",null,{"className":"font-katyou text-4xl md:text-5xl lg:text-6xl text-gray-900 dark:text-white leading-tight mb-6","children":"効果的なチーム憲章の作り方と活用法"}],["$","time",null,{"className":"text-base font-medium text-gray-600 dark:text-gray-400","children":"2025-06-14"}]]}]}],["$","div",null,{"className":"max-w-4xl mx-auto px-6 md:px-8 pb-16 md:pb-24","children":[["$","div",null,{"id":"post-content","className":"prose prose-lg dark:prose-invert max-w-none prose-headings:font-katyou prose-headings:tracking-tight prose-h2:text-3xl prose-h2:mt-12 prose-h2:mb-6 prose-h3:text-2xl prose-h3:mt-10 prose-h3:mb-5 prose-h4:text-xl prose-h4:mt-8 prose-h4:mb-4 prose-p:leading-relaxed prose-p:mb-6 prose-li:my-2 prose-a:text-green-600 prose-a:no-underline prose-a:font-medium hover:prose-a:text-green-700 hover:prose-a:underline dark:prose-a:text-green-400 dark:hover:prose-a:text-green-300 prose-code:text-green-700 prose-code:bg-green-50 dark:prose-code:text-green-300 dark:prose-code:bg-green-900/20 prose-pre:bg-gray-900 dark:prose-pre:bg-gray-950 prose-img:rounded-lg prose-img:shadow-md prose-hr:my-12 prose-hr:border-gray-300 dark:prose-hr:border-gray-700 border-t border-gray-200 dark:border-gray-800 pt-8","dangerouslySetInnerHTML":{"__html":"$d"}}],["$","$Le",null,{}],["$","div",null,{"className":"mt-16 pt-10 border-t border-gray-200 dark:border-gray-800","children":[["$","p",null,{"className":"text-sm font-semibold text-gray-500 dark:text-gray-400 mb-4","children":"タグ"}],["$","div",null,{"className":"flex flex-wrap gap-2.5","children":[["$","$L9","チーム憲章",{"href":"/tags/チーム憲章","className":"inline-flex items-center px-4 py-1.5 rounded-full text-sm font-medium bg-green-100 text-green-800 dark:bg-green-900/30 dark:text-green-300 hover:bg-green-200 dark:hover:bg-green-800/50 transition-colors duration-200 shadow-sm","children":"チーム憲章"}],["$","$L9","プロジェクト管理",{"href":"/tags/プロジェクト管理","className":"inline-flex items-center px-4 py-1.5 rounded-full text-sm font-medium bg-green-100 text-green-800 dark:bg-green-900/30 dark:text-green-300 hover:bg-green-200 dark:hover:bg-green-800/50 transition-colors duration-200 shadow-sm","children":"プロジェクト管理"}],["$","$L9","チームビルディング",{"href":"/tags/チームビルディング","className":"inline-flex items-center px-4 py-1.5 rounded-full text-sm font-medium bg-green-100 text-green-800 dark:bg-green-900/30 dark:text-green-300 hover:bg-green-200 dark:hover:bg-green-800/50 transition-colors duration-200 shadow-sm","children":"チームビルディング"}],["$","$L9","アジャイル",{"href":"/tags/アジャイル","className":"inline-flex items-center px-4 py-1.5 rounded-full text-sm font-medium bg-green-100 text-green-800 dark:bg-green-900/30 dark:text-green-300 hover:bg-green-200 dark:hover:bg-green-800/50 transition-colors duration-200 shadow-sm","children":"アジャイル"}]]}]]}]]}]]}]
+c:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"効果的なチーム憲章の作り方と活用法 | ブログタイトル"}],["$","meta","3",{"name":"description","content":"チームの生産性と協働を向上させるチーム憲章の作成から運用まで、実践的な手順を詳しく解説"}],["$","meta","4",{"property":"og:title","content":"効果的なチーム憲章の作り方と活用法"}],["$","meta","5",{"property":"og:description","content":"チームの生産性と協働を向上させるチーム憲章の作成から運用まで、実践的な手順を詳しく解説"}],["$","meta","6",{"property":"og:url","content":"https://maemaemae.blog/posts/pmp_20250614"}],["$","meta","7",{"property":"og:image","content":"https://maemaemae.blog/images/team-charter-guide.jpg"}],["$","meta","8",{"property":"og:type","content":"article"}],["$","meta","9",{"property":"article:published_time","content":"2025-06-14"}],["$","meta","10",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","11",{"name":"twitter:title","content":"効果的なチーム憲章の作り方と活用法"}],["$","meta","12",{"name":"twitter:description","content":"チームの生産性と協働を向上させるチーム憲章の作成から運用まで、実践的な手順を詳しく解説"}],["$","meta","13",{"name":"twitter:image","content":"https://maemaemae.blog/images/team-charter-guide.jpg"}],["$","link","14",{"rel":"icon","href":"/favicon.ico","type":"image/x-icon","sizes":"16x16"}],["$","meta","15",{"name":"next-size-adjust"}]]
+1:null

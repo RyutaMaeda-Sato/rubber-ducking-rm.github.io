@@ -1,0 +1,355 @@
+3:I[4707,[],""]
+5:I[6423,[],""]
+6:I[4888,["972","static/chunks/972-f241a8fd644428c6.js","70","static/chunks/70-f52c2ad284c6cd86.js","185","static/chunks/app/layout-97d049cf0fc78146.js"],"GoogleAnalytics"]
+7:I[6806,["972","static/chunks/972-f241a8fd644428c6.js","70","static/chunks/70-f52c2ad284c6cd86.js","185","static/chunks/app/layout-97d049cf0fc78146.js"],"default"]
+8:I[7213,["972","static/chunks/972-f241a8fd644428c6.js","70","static/chunks/70-f52c2ad284c6cd86.js","185","static/chunks/app/layout-97d049cf0fc78146.js"],"default"]
+9:I[2972,["972","static/chunks/972-f241a8fd644428c6.js","333","static/chunks/app/posts/%5Bslug%5D/page-acd6669982df1354.js"],""]
+a:I[5878,["972","static/chunks/972-f241a8fd644428c6.js","70","static/chunks/70-f52c2ad284c6cd86.js","185","static/chunks/app/layout-97d049cf0fc78146.js"],"Image"]
+b:I[2374,["972","static/chunks/972-f241a8fd644428c6.js","70","static/chunks/70-f52c2ad284c6cd86.js","185","static/chunks/app/layout-97d049cf0fc78146.js"],"default"]
+4:["slug","godot_20250512","d"]
+0:["0oJGNGFmzz_LorUWHIimP",[[["",{"children":["posts",{"children":[["slug","godot_20250512","d"],{"children":["__PAGE__?{\"slug\":\"godot_20250512\"}",{}]}]}]},"$undefined","$undefined",true],["",{"children":["posts",{"children":[["slug","godot_20250512","d"],{"children":["__PAGE__",{},[["$L1","$L2",null],null],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","posts","children","$4","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","posts","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/3add334ee59f67ac.css","precedence":"next","crossOrigin":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/css/cec3dd424af6abe7.css","precedence":"next","crossOrigin":"$undefined"}],["$","link","2",{"rel":"stylesheet","href":"/_next/static/css/31924b81bd2c71c2.css","precedence":"next","crossOrigin":"$undefined"}]],["$","html",null,{"lang":"jp","className":"__variable_f367f3 __variable_8c8862 __variable_6beb74 __variable_b784c9 __variable_d575de","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){try{var s=localStorage.getItem('darkMode');var p=window.matchMedia('(prefers-color-scheme: dark)').matches;if(s!==null?s==='true':p){document.documentElement.classList.add('dark');}}catch(e){}})();"}}],["$","$L6",null,{"gaId":"G-FWRP8962MB"}]]}],["$","body",null,{"className":"__className_f367f3","children":["$","$L7",null,{"children":[["$","header",null,{"children":["$","$L8",null,{"children":["$","div",null,{"className":"fixed top-0 left-0 w-full z-50 bg-green-700 dark:bg-gray-900 shadow-md border-b border-green-600/50 dark:border-gray-800","children":["$","div",null,{"className":"max-w-7xl mx-auto","children":["$","div",null,{"className":"flex items-center justify-between px-6 md:px-8 h-20 md:h-24","children":[["$","$L9",null,{"href":"/","className":"group flex items-center gap-3 transition-opacity hover:opacity-80","children":[["$","$La",null,{"alt":"Maemaemae","src":"/header.jpg","width":44,"height":44,"className":"rounded-full object-cover ring-2 ring-white/20 group-hover:ring-white/40 transition-all"}],["$","span",null,{"className":"text-xl md:text-2xl font-katyou text-[#fffef9] tracking-wide","children":"Maemaemae"}]]}],["$","div",null,{"className":"flex items-center gap-2","children":[["$","a",null,{"href":"https://x.com/maemaemae_rm","target":"_blank","rel":"noopener noreferrer","className":"p-2.5 rounded-full hover:bg-white/10 transition-colors","aria-label":"X (Twitter)","children":["$","$La",null,{"src":"/x-logo-white.png","width":24,"height":24,"alt":""}]}],["$","$Lb",null,{}]]}]]}]}]}]}]}],["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[]}]]}]}]]}]],null],null],["$Lc",null]]]]
+e:I[7426,["972","static/chunks/972-f241a8fd644428c6.js","333","static/chunks/app/posts/%5Bslug%5D/page-acd6669982df1354.js"],"default"]
+d:Tb4bd,<p>レイキャストは現代ゲーム開発において不可欠の技術です。Godotの<code>RayCast2D</code>ノードを使いこなせば、敵の探知、照準システム、地形検出など多彩な機能を実装できます。この記事では、Godot 4.4.1における<code>RayCast2D</code>の基本から実践的な活用例まで解説します。</p>
+<h2>RayCast2Dとは</h2>
+<p><code>RayCast2D</code>は指定した方向にレイ（光線）を飛ばし、何かに衝突したかを検出するノードです。障害物の検知、視線の通り具合の確認、射撃の命中判定など、様々な用途に使えます。</p>
+<h3>主な特徴</h3>
+<ul>
+<li>指定方向への直線的な衝突検出</li>
+<li>コリジョンレイヤーによるフィルタリング</li>
+<li>衝突点や衝突オブジェクトの情報取得</li>
+<li>処理が軽量で高速</li>
+</ul>
+<h2>基本的な使い方</h2>
+<h3>RayCast2Dノードの追加</h3>
+<p>まず、シーンにRayCast2Dノードを追加します。</p>
+<ol>
+<li>シーンタブで親ノードを選択</li>
+<li>「+」ボタンをクリックまたはCtrl+A</li>
+<li>検索欄に「RayCast2D」と入力</li>
+<li>RayCast2Dを選択して追加</li>
+</ol>
+<h3>主要プロパティの設定</h3>
+<p>インスペクタでこれらの重要なプロパティを設定します：</p>
+<ul>
+<li><strong>Enabled</strong>: レイキャストの有効/無効（デフォルトは有効）</li>
+<li><strong>Target Position</strong>: レイの方向と長さ（ローカル座標系）</li>
+<li><strong>Collision Mask</strong>: 衝突を検出するレイヤー</li>
+<li><strong>Exclude Parent</strong>: 親ノードとの衝突を無視するか（デフォルトはtrue）</li>
+</ul>
+<pre class="language-gdscript"><code class="language-gdscript code-highlight"><span class="code-line"><span class="token comment"># コードでプロパティを設定する例</span>
+</span><span class="code-line"><span class="token variable">$RayCast2D</span><span class="token punctuation">.</span>enabled <span class="token operator">=</span> <span class="token boolean">true</span>
+</span><span class="code-line"><span class="token variable">$RayCast2D</span><span class="token punctuation">.</span>target_position <span class="token operator">=</span> <span class="token function">Vector2</span><span class="token punctuation">(</span><span class="token number">100</span><span class="token punctuation">,</span> <span class="token number">0</span><span class="token punctuation">)</span>  <span class="token comment"># 右方向に100ピクセル</span>
+</span><span class="code-line"><span class="token variable">$RayCast2D</span><span class="token punctuation">.</span>collision_mask <span class="token operator">=</span> <span class="token number">1</span>  <span class="token comment"># 1番目のコリジョンレイヤーのみ</span>
+</span></code></pre>
+<h3>衝突検出の基本</h3>
+<p><code>RayCast2D</code>の主要なメソッドを使った衝突検出：</p>
+<pre class="language-gdscript"><code class="language-gdscript code-highlight"><span class="code-line"><span class="token keyword">func</span> <span class="token function">_physics_process</span><span class="token punctuation">(</span>delta<span class="token punctuation">)</span><span class="token punctuation">:</span>
+</span><span class="code-line">    <span class="token comment"># レイの方向を更新（例：マウス方向）</span>
+</span><span class="code-line">    <span class="token variable">$RayCast2D</span><span class="token punctuation">.</span>target_position <span class="token operator">=</span> <span class="token function">get_local_mouse_position</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">.</span><span class="token function">normalized</span><span class="token punctuation">(</span><span class="token punctuation">)</span> <span class="token operator">*</span> <span class="token number">100</span>
+</span><span class="code-line">
+</span><span class="code-line">    <span class="token comment"># 衝突検出</span>
+</span><span class="code-line">    <span class="token keyword">if</span> <span class="token variable">$RayCast2D</span><span class="token punctuation">.</span><span class="token function">is_colliding</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">:</span>
+</span><span class="code-line">        <span class="token comment"># 衝突点を取得</span>
+</span><span class="code-line">        <span class="token keyword">var</span> collision_point <span class="token operator">=</span> <span class="token variable">$RayCast2D</span><span class="token punctuation">.</span><span class="token function">get_collision_point</span><span class="token punctuation">(</span><span class="token punctuation">)</span>
+</span><span class="code-line">
+</span><span class="code-line">        <span class="token comment"># 衝突したオブジェクトを取得</span>
+</span><span class="code-line">        <span class="token keyword">var</span> collider <span class="token operator">=</span> <span class="token variable">$RayCast2D</span><span class="token punctuation">.</span><span class="token function">get_collider</span><span class="token punctuation">(</span><span class="token punctuation">)</span>
+</span><span class="code-line">
+</span><span class="code-line">        <span class="token comment"># 衝突点の法線（面の向き）</span>
+</span><span class="code-line">        <span class="token keyword">var</span> normal <span class="token operator">=</span> <span class="token variable">$RayCast2D</span><span class="token punctuation">.</span><span class="token function">get_collision_normal</span><span class="token punctuation">(</span><span class="token punctuation">)</span>
+</span><span class="code-line">
+</span><span class="code-line">        <span class="token function">print</span><span class="token punctuation">(</span><span class="token string">"衝突検出: "</span><span class="token punctuation">,</span> collider<span class="token punctuation">.</span>name<span class="token punctuation">)</span>
+</span><span class="code-line">        <span class="token function">print</span><span class="token punctuation">(</span><span class="token string">"衝突点: "</span><span class="token punctuation">,</span> collision_point<span class="token punctuation">)</span>
+</span><span class="code-line">        <span class="token function">print</span><span class="token punctuation">(</span><span class="token string">"法線: "</span><span class="token punctuation">,</span> normal<span class="token punctuation">)</span>
+</span></code></pre>
+<h2>実践的な活用例</h2>
+<h3>例1: プレイヤーの視界と壁の検出</h3>
+<p>壁を通り抜けない視界システムの実装：</p>
+<pre class="language-gdscript"><code class="language-gdscript code-highlight"><span class="code-line"><span class="token keyword">extends</span> <span class="token class-name">CharacterBody2D</span>
+</span><span class="code-line">
+</span><span class="code-line">@<span class="token keyword">onready</span> <span class="token keyword">var</span> ray_cast <span class="token operator">=</span> <span class="token variable">$RayCast2D</span>
+</span><span class="code-line">@<span class="token keyword">onready</span> <span class="token keyword">var</span> vision_area <span class="token operator">=</span> <span class="token variable">$VisionArea</span>
+</span><span class="code-line">
+</span><span class="code-line"><span class="token keyword">func</span> <span class="token function">_physics_process</span><span class="token punctuation">(</span>delta<span class="token punctuation">)</span><span class="token punctuation">:</span>
+</span><span class="code-line">    <span class="token comment"># プレイヤーの向きに応じてレイの方向を更新</span>
+</span><span class="code-line">    ray_cast<span class="token punctuation">.</span>target_position <span class="token operator">=</span> <span class="token function">Vector2</span><span class="token punctuation">(</span><span class="token function">cos</span><span class="token punctuation">(</span>rotation<span class="token punctuation">)</span><span class="token punctuation">,</span> <span class="token function">sin</span><span class="token punctuation">(</span>rotation<span class="token punctuation">)</span><span class="token punctuation">)</span> <span class="token operator">*</span> <span class="token number">200</span>
+</span><span class="code-line">
+</span><span class="code-line">    <span class="token comment"># 壁との衝突をチェック</span>
+</span><span class="code-line">    <span class="token keyword">if</span> ray_cast<span class="token punctuation">.</span><span class="token function">is_colliding</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">:</span>
+</span><span class="code-line">        <span class="token comment"># 壁までの距離を計算</span>
+</span><span class="code-line">        <span class="token keyword">var</span> distance <span class="token operator">=</span> global_position<span class="token punctuation">.</span><span class="token function">distance_to</span><span class="token punctuation">(</span>ray_cast<span class="token punctuation">.</span><span class="token function">get_collision_point</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">)</span>
+</span><span class="code-line">
+</span><span class="code-line">        <span class="token comment"># 視界の範囲を壁までに制限</span>
+</span><span class="code-line">        vision_area<span class="token punctuation">.</span>scale <span class="token operator">=</span> <span class="token function">Vector2</span><span class="token punctuation">(</span>distance <span class="token operator">/</span> <span class="token number">200</span><span class="token punctuation">,</span> distance <span class="token operator">/</span> <span class="token number">200</span><span class="token punctuation">)</span>
+</span><span class="code-line">    <span class="token keyword">else</span><span class="token punctuation">:</span>
+</span><span class="code-line">        <span class="token comment"># 壁がなければ最大視界</span>
+</span><span class="code-line">        vision_area<span class="token punctuation">.</span>scale <span class="token operator">=</span> <span class="token function">Vector2</span><span class="token punctuation">(</span><span class="token number">1</span><span class="token punctuation">,</span> <span class="token number">1</span><span class="token punctuation">)</span>
+</span></code></pre>
+<h3>例2: 射撃システム</h3>
+<p>シンプルな射撃システムの実装：</p>
+<pre class="language-gdscript"><code class="language-gdscript code-highlight"><span class="code-line"><span class="token keyword">extends</span> <span class="token class-name">Node2D</span>
+</span><span class="code-line">
+</span><span class="code-line">@<span class="token keyword">onready</span> <span class="token keyword">var</span> ray_cast <span class="token operator">=</span> <span class="token variable">$RayCast2D</span>
+</span><span class="code-line">@<span class="token keyword">onready</span> <span class="token keyword">var</span> gun_sprite <span class="token operator">=</span> <span class="token variable">$GunSprite</span>
+</span><span class="code-line">@<span class="token keyword">onready</span> <span class="token keyword">var</span> muzzle_position <span class="token operator">=</span> <span class="token variable">$MuzzlePosition</span>
+</span><span class="code-line">
+</span><span class="code-line"><span class="token keyword">func</span> <span class="token function">_process</span><span class="token punctuation">(</span>delta<span class="token punctuation">)</span><span class="token punctuation">:</span>
+</span><span class="code-line">    <span class="token comment"># 銃をマウス方向に向ける</span>
+</span><span class="code-line">    gun_sprite<span class="token punctuation">.</span><span class="token function">look_at</span><span class="token punctuation">(</span><span class="token function">get_global_mouse_position</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">)</span>
+</span><span class="code-line">
+</span><span class="code-line">    <span class="token comment"># レイの方向も更新</span>
+</span><span class="code-line">    ray_cast<span class="token punctuation">.</span>global_position <span class="token operator">=</span> muzzle_position<span class="token punctuation">.</span>global_position
+</span><span class="code-line">    ray_cast<span class="token punctuation">.</span>target_position <span class="token operator">=</span> <span class="token function">get_local_mouse_position</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">.</span><span class="token function">normalized</span><span class="token punctuation">(</span><span class="token punctuation">)</span> <span class="token operator">*</span> <span class="token number">1000</span>
+</span><span class="code-line">
+</span><span class="code-line"><span class="token keyword">func</span> <span class="token function">_input</span><span class="token punctuation">(</span>event<span class="token punctuation">)</span><span class="token punctuation">:</span>
+</span><span class="code-line">    <span class="token keyword">if</span> event <span class="token keyword">is</span> InputEventMouseButton <span class="token keyword">and</span> event<span class="token punctuation">.</span>button_index <span class="token operator">==</span> <span class="token constant">MOUSE_BUTTON_LEFT</span> <span class="token keyword">and</span> event<span class="token punctuation">.</span>pressed<span class="token punctuation">:</span>
+</span><span class="code-line">        <span class="token function">shoot</span><span class="token punctuation">(</span><span class="token punctuation">)</span>
+</span><span class="code-line">
+</span><span class="code-line"><span class="token keyword">func</span> <span class="token function">shoot</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">:</span>
+</span><span class="code-line">    <span class="token keyword">if</span> ray_cast<span class="token punctuation">.</span><span class="token function">is_colliding</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">:</span>
+</span><span class="code-line">        <span class="token keyword">var</span> target <span class="token operator">=</span> ray_cast<span class="token punctuation">.</span><span class="token function">get_collider</span><span class="token punctuation">(</span><span class="token punctuation">)</span>
+</span><span class="code-line">
+</span><span class="code-line">        <span class="token comment"># 敵に当たったか確認</span>
+</span><span class="code-line">        <span class="token keyword">if</span> target<span class="token punctuation">.</span><span class="token function">is_in_group</span><span class="token punctuation">(</span><span class="token string">"enemies"</span><span class="token punctuation">)</span><span class="token punctuation">:</span>
+</span><span class="code-line">            target<span class="token punctuation">.</span><span class="token function">take_damage</span><span class="token punctuation">(</span><span class="token number">10</span><span class="token punctuation">)</span>
+</span><span class="code-line">
+</span><span class="code-line">            <span class="token comment"># ヒットエフェクト</span>
+</span><span class="code-line">            <span class="token keyword">var</span> hit_effect <span class="token operator">=</span> <span class="token keyword">preload</span><span class="token punctuation">(</span><span class="token string">"res://hit_effect.tscn"</span><span class="token punctuation">)</span><span class="token punctuation">.</span><span class="token function">instantiate</span><span class="token punctuation">(</span><span class="token punctuation">)</span>
+</span><span class="code-line">            <span class="token function">get_tree</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">.</span>root<span class="token punctuation">.</span><span class="token function">add_child</span><span class="token punctuation">(</span>hit_effect<span class="token punctuation">)</span>
+</span><span class="code-line">            hit_effect<span class="token punctuation">.</span>global_position <span class="token operator">=</span> ray_cast<span class="token punctuation">.</span><span class="token function">get_collision_point</span><span class="token punctuation">(</span><span class="token punctuation">)</span>
+</span></code></pre>
+<h3>例3: 地形傾斜の検出</h3>
+<p>プレイヤーキャラクターが立っている地面の傾斜を検出：</p>
+<pre class="language-gdscript"><code class="language-gdscript code-highlight"><span class="code-line"><span class="token keyword">extends</span> <span class="token class-name">CharacterBody2D</span>
+</span><span class="code-line">
+</span><span class="code-line">@<span class="token keyword">onready</span> <span class="token keyword">var</span> floor_ray <span class="token operator">=</span> <span class="token variable">$FloorRayCast2D</span>
+</span><span class="code-line">
+</span><span class="code-line"><span class="token keyword">func</span> <span class="token function">_physics_process</span><span class="token punctuation">(</span>delta<span class="token punctuation">)</span><span class="token punctuation">:</span>
+</span><span class="code-line">    <span class="token comment"># 重力と移動の処理...</span>
+</span><span class="code-line">
+</span><span class="code-line">    <span class="token comment"># 地面との接触を確認</span>
+</span><span class="code-line">    <span class="token keyword">if</span> <span class="token function">is_on_floor</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">:</span>
+</span><span class="code-line">        <span class="token comment"># 地面の傾斜角度を計算</span>
+</span><span class="code-line">        <span class="token keyword">var</span> floor_normal <span class="token operator">=</span> floor_ray<span class="token punctuation">.</span><span class="token function">get_collision_normal</span><span class="token punctuation">(</span><span class="token punctuation">)</span>
+</span><span class="code-line">        <span class="token keyword">var</span> slope_angle <span class="token operator">=</span> <span class="token function">rad_to_deg</span><span class="token punctuation">(</span><span class="token function">acos</span><span class="token punctuation">(</span>floor_normal<span class="token punctuation">.</span><span class="token function">dot</span><span class="token punctuation">(</span>Vector2<span class="token punctuation">.</span><span class="token constant">UP</span><span class="token punctuation">)</span><span class="token punctuation">)</span><span class="token punctuation">)</span>
+</span><span class="code-line">
+</span><span class="code-line">        <span class="token function">print</span><span class="token punctuation">(</span><span class="token string">"地面の傾斜: "</span><span class="token punctuation">,</span> slope_angle<span class="token punctuation">,</span> <span class="token string">"度"</span><span class="token punctuation">)</span>
+</span><span class="code-line">
+</span><span class="code-line">        <span class="token comment"># 傾斜に応じた処理（例：急な坂では減速）</span>
+</span><span class="code-line">        <span class="token keyword">if</span> slope_angle <span class="token operator">></span> <span class="token number">20</span><span class="token punctuation">:</span>
+</span><span class="code-line">            velocity<span class="token punctuation">.</span>x <span class="token operator">*=</span> <span class="token number">0.8</span>
+</span></code></pre>
+<h2>高度なテクニック</h2>
+<h3>複数のレイキャストを使用したセンサー</h3>
+<p>プレイヤー周囲の状況を把握するためのセンサーシステム：</p>
+<pre class="language-gdscript"><code class="language-gdscript code-highlight"><span class="code-line"><span class="token keyword">extends</span> <span class="token class-name">CharacterBody2D</span>
+</span><span class="code-line">
+</span><span class="code-line"><span class="token keyword">var</span> rays <span class="token operator">=</span> <span class="token punctuation">[</span><span class="token punctuation">]</span>
+</span><span class="code-line"><span class="token keyword">var</span> ray_count <span class="token operator">=</span> <span class="token number">8</span>
+</span><span class="code-line"><span class="token keyword">var</span> ray_length <span class="token operator">=</span> <span class="token number">100</span>
+</span><span class="code-line">
+</span><span class="code-line"><span class="token keyword">func</span> <span class="token function">_ready</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">:</span>
+</span><span class="code-line">    <span class="token comment"># 周囲に8方向のレイを配置</span>
+</span><span class="code-line">    <span class="token keyword">for</span> i <span class="token keyword">in</span> <span class="token function">range</span><span class="token punctuation">(</span>ray_count<span class="token punctuation">)</span><span class="token punctuation">:</span>
+</span><span class="code-line">        <span class="token keyword">var</span> ray <span class="token operator">=</span> RayCast2D<span class="token punctuation">.</span><span class="token function">new</span><span class="token punctuation">(</span><span class="token punctuation">)</span>
+</span><span class="code-line">        <span class="token function">add_child</span><span class="token punctuation">(</span>ray<span class="token punctuation">)</span>
+</span><span class="code-line">        ray<span class="token punctuation">.</span>enabled <span class="token operator">=</span> <span class="token boolean">true</span>
+</span><span class="code-line">
+</span><span class="code-line">        <span class="token comment"># レイの角度を計算（円周上に均等配置）</span>
+</span><span class="code-line">        <span class="token keyword">var</span> angle <span class="token operator">=</span> i <span class="token operator">*</span> <span class="token number">2</span> <span class="token operator">*</span> <span class="token number">PI</span> <span class="token operator">/</span> ray_count
+</span><span class="code-line">        ray<span class="token punctuation">.</span>target_position <span class="token operator">=</span> <span class="token function">Vector2</span><span class="token punctuation">(</span><span class="token function">cos</span><span class="token punctuation">(</span>angle<span class="token punctuation">)</span><span class="token punctuation">,</span> <span class="token function">sin</span><span class="token punctuation">(</span>angle<span class="token punctuation">)</span><span class="token punctuation">)</span> <span class="token operator">*</span> ray_length
+</span><span class="code-line">
+</span><span class="code-line">        rays<span class="token punctuation">.</span><span class="token function">append</span><span class="token punctuation">(</span>ray<span class="token punctuation">)</span>
+</span><span class="code-line">
+</span><span class="code-line"><span class="token keyword">func</span> <span class="token function">_physics_process</span><span class="token punctuation">(</span>delta<span class="token punctuation">)</span><span class="token punctuation">:</span>
+</span><span class="code-line">    <span class="token comment"># 各レイの状態をチェック</span>
+</span><span class="code-line">    <span class="token keyword">for</span> i <span class="token keyword">in</span> <span class="token function">range</span><span class="token punctuation">(</span>ray_count<span class="token punctuation">)</span><span class="token punctuation">:</span>
+</span><span class="code-line">        <span class="token keyword">if</span> rays<span class="token punctuation">[</span>i<span class="token punctuation">]</span><span class="token punctuation">.</span><span class="token function">is_colliding</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">:</span>
+</span><span class="code-line">            <span class="token keyword">var</span> obj <span class="token operator">=</span> rays<span class="token punctuation">[</span>i<span class="token punctuation">]</span><span class="token punctuation">.</span><span class="token function">get_collider</span><span class="token punctuation">(</span><span class="token punctuation">)</span>
+</span><span class="code-line">            <span class="token keyword">var</span> dist <span class="token operator">=</span> global_position<span class="token punctuation">.</span><span class="token function">distance_to</span><span class="token punctuation">(</span>rays<span class="token punctuation">[</span>i<span class="token punctuation">]</span><span class="token punctuation">.</span><span class="token function">get_collision_point</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">)</span>
+</span><span class="code-line">
+</span><span class="code-line">            <span class="token comment"># 方向に応じた処理</span>
+</span><span class="code-line">            <span class="token keyword">if</span> obj<span class="token punctuation">.</span><span class="token function">is_in_group</span><span class="token punctuation">(</span><span class="token string">"dangers"</span><span class="token punctuation">)</span><span class="token punctuation">:</span>
+</span><span class="code-line">                <span class="token comment"># その方向に障害物があれば回避行動</span>
+</span><span class="code-line">                <span class="token function">avoid_danger</span><span class="token punctuation">(</span>i<span class="token punctuation">,</span> dist<span class="token punctuation">)</span>
+</span></code></pre>
+<h3>レイキャストの結果の可視化</h3>
+<p>デバッグ用にレイキャストの結果を描画：</p>
+<pre class="language-gdscript"><code class="language-gdscript code-highlight"><span class="code-line"><span class="token keyword">extends</span> <span class="token class-name">Node2D</span>
+</span><span class="code-line">
+</span><span class="code-line">@<span class="token keyword">onready</span> <span class="token keyword">var</span> ray_cast <span class="token operator">=</span> <span class="token variable">$RayCast2D</span>
+</span><span class="code-line">
+</span><span class="code-line"><span class="token keyword">func</span> <span class="token function">_draw</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">:</span>
+</span><span class="code-line">    <span class="token keyword">if</span> ray_cast<span class="token punctuation">.</span>enabled<span class="token punctuation">:</span>
+</span><span class="code-line">        <span class="token keyword">var</span> color <span class="token operator">=</span> Color<span class="token punctuation">.</span><span class="token constant">GREEN</span>
+</span><span class="code-line">        <span class="token keyword">var</span> target <span class="token operator">=</span> ray_cast<span class="token punctuation">.</span>target_position
+</span><span class="code-line">
+</span><span class="code-line">        <span class="token comment"># レイが何かに当たっていれば赤色に</span>
+</span><span class="code-line">        <span class="token keyword">if</span> ray_cast<span class="token punctuation">.</span><span class="token function">is_colliding</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">:</span>
+</span><span class="code-line">            color <span class="token operator">=</span> Color<span class="token punctuation">.</span><span class="token constant">RED</span>
+</span><span class="code-line">            <span class="token comment"># ローカル座標系に変換</span>
+</span><span class="code-line">            <span class="token keyword">var</span> collision_point <span class="token operator">=</span> <span class="token function">to_local</span><span class="token punctuation">(</span>ray_cast<span class="token punctuation">.</span><span class="token function">get_collision_point</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">)</span>
+</span><span class="code-line">            target <span class="token operator">=</span> collision_point
+</span><span class="code-line">
+</span><span class="code-line">        <span class="token comment"># レイを描画</span>
+</span><span class="code-line">        <span class="token function">draw_line</span><span class="token punctuation">(</span>Vector2<span class="token punctuation">.</span><span class="token constant">ZERO</span><span class="token punctuation">,</span> target<span class="token punctuation">,</span> color<span class="token punctuation">,</span> <span class="token number">2</span><span class="token punctuation">)</span>
+</span><span class="code-line">
+</span><span class="code-line">        <span class="token comment"># 衝突点に円を描画</span>
+</span><span class="code-line">        <span class="token keyword">if</span> ray_cast<span class="token punctuation">.</span><span class="token function">is_colliding</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">:</span>
+</span><span class="code-line">            <span class="token function">draw_circle</span><span class="token punctuation">(</span>target<span class="token punctuation">,</span> <span class="token number">5</span><span class="token punctuation">,</span> Color<span class="token punctuation">.</span><span class="token constant">YELLOW</span><span class="token punctuation">)</span>
+</span><span class="code-line">
+</span><span class="code-line"><span class="token keyword">func</span> <span class="token function">_process</span><span class="token punctuation">(</span>delta<span class="token punctuation">)</span><span class="token punctuation">:</span>
+</span><span class="code-line">    <span class="token comment"># 描画を更新</span>
+</span><span class="code-line">    <span class="token function">queue_redraw</span><span class="token punctuation">(</span><span class="token punctuation">)</span>
+</span></code></pre>
+<h2>よくあるエラーと解決策</h2>
+<h3>レイキャストが機能しない場合</h3>
+<ol>
+<li>
+<p><strong>Enabled プロパティの確認</strong></p>
+<ul>
+<li><code>enabled = true</code> になっているか確認する</li>
+</ul>
+</li>
+<li>
+<p><strong>コリジョンマスクの設定</strong></p>
+<ul>
+<li>対象オブジェクトのコリジョンレイヤーがレイキャストのマスクに含まれているか確認</li>
+</ul>
+</li>
+<li>
+<p><strong>ターゲットポジションの設定</strong></p>
+<ul>
+<li>長さが0になっていないか（<code>target_position = Vector2.ZERO</code>）</li>
+</ul>
+</li>
+<li>
+<p><strong>物理エンジンのタイミング</strong></p>
+<ul>
+<li>レイキャストの結果は <code>_physics_process()</code> で確認する</li>
+</ul>
+</li>
+</ol>
+<h3>パフォーマンスの問題</h3>
+<ul>
+<li>多数のレイキャストを使用する場合は、本当に必要なものだけ有効にする</li>
+<li>更新頻度を下げる（毎フレーム更新が必要ない場合）</li>
+<li>レイの長さを必要最小限にする</li>
+</ul>
+<pre class="language-gdscript"><code class="language-gdscript code-highlight"><span class="code-line"><span class="token comment"># パフォーマンス最適化の例</span>
+</span><span class="code-line"><span class="token keyword">var</span> update_interval <span class="token operator">=</span> <span class="token number">0.1</span>  <span class="token comment"># 0.1秒ごとに更新</span>
+</span><span class="code-line"><span class="token keyword">var</span> timer <span class="token operator">=</span> <span class="token number">0</span>
+</span><span class="code-line">
+</span><span class="code-line"><span class="token keyword">func</span> <span class="token function">_physics_process</span><span class="token punctuation">(</span>delta<span class="token punctuation">)</span><span class="token punctuation">:</span>
+</span><span class="code-line">    timer <span class="token operator">+=</span> delta
+</span><span class="code-line">    <span class="token keyword">if</span> timer <span class="token operator">>=</span> update_interval<span class="token punctuation">:</span>
+</span><span class="code-line">        <span class="token function">update_raycasts</span><span class="token punctuation">(</span><span class="token punctuation">)</span>
+</span><span class="code-line">        timer <span class="token operator">=</span> <span class="token number">0</span>
+</span><span class="code-line">
+</span><span class="code-line"><span class="token keyword">func</span> <span class="token function">update_raycasts</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">:</span>
+</span><span class="code-line">    <span class="token comment"># 重要な処理だけを実行</span>
+</span><span class="code-line">    <span class="token comment"># ...</span>
+</span></code></pre>
+<h2>ベストプラクティス</h2>
+<ol>
+<li>
+<p><strong>目的に応じたレイの長さ設定</strong></p>
+<ul>
+<li>必要以上に長いレイは避け、目的に合った長さに設定</li>
+</ul>
+</li>
+<li>
+<p><strong>適切なコリジョンマスク</strong></p>
+<ul>
+<li>検出したいオブジェクトのレイヤーのみをマスクに含める</li>
+</ul>
+</li>
+<li>
+<p><strong>ローカル・グローバル座標の理解</strong></p>
+<ul>
+<li><code>target_position</code>はローカル座標であることに注意</li>
+<li>グローバル座標での操作が必要な場合は変換を行う</li>
+</ul>
+</li>
+<li>
+<p><strong>デバッグ表示の活用</strong></p>
+<ul>
+<li>開発中はレイを可視化して動作を確認する</li>
+</ul>
+</li>
+</ol>
+<h2>サンプルプロジェクト：敵探知システム</h2>
+<p>敵を探知してプレイヤーを追跡するAIの例：</p>
+<pre class="language-gdscript"><code class="language-gdscript code-highlight"><span class="code-line"><span class="token keyword">extends</span> <span class="token class-name">CharacterBody2D</span>
+</span><span class="code-line">
+</span><span class="code-line">@<span class="token keyword">export</span> <span class="token keyword">var</span> detection_range <span class="token operator">=</span> <span class="token number">300</span>
+</span><span class="code-line">@<span class="token keyword">export</span> <span class="token keyword">var</span> fov_angle <span class="token operator">=</span> <span class="token number">60</span>  <span class="token comment"># 視野角（度）</span>
+</span><span class="code-line">@<span class="token keyword">export</span> <span class="token keyword">var</span> speed <span class="token operator">=</span> <span class="token number">100</span>
+</span><span class="code-line">
+</span><span class="code-line">@<span class="token keyword">onready</span> <span class="token keyword">var</span> ray_cast <span class="token operator">=</span> <span class="token variable">$RayCast2D</span>
+</span><span class="code-line">@<span class="token keyword">onready</span> <span class="token keyword">var</span> player <span class="token operator">=</span> <span class="token function">get_tree</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">.</span><span class="token function">get_nodes_in_group</span><span class="token punctuation">(</span><span class="token string">"player"</span><span class="token punctuation">)</span><span class="token punctuation">[</span><span class="token number">0</span><span class="token punctuation">]</span>
+</span><span class="code-line">
+</span><span class="code-line"><span class="token keyword">var</span> detected <span class="token operator">=</span> <span class="token boolean">false</span>
+</span><span class="code-line">
+</span><span class="code-line"><span class="token keyword">func</span> <span class="token function">_physics_process</span><span class="token punctuation">(</span>delta<span class="token punctuation">)</span><span class="token punctuation">:</span>
+</span><span class="code-line">    <span class="token keyword">if</span> player<span class="token punctuation">:</span>
+</span><span class="code-line">        <span class="token comment"># プレイヤーへの方向ベクトル</span>
+</span><span class="code-line">        <span class="token keyword">var</span> to_player <span class="token operator">=</span> player<span class="token punctuation">.</span>global_position <span class="token operator">-</span> global_position
+</span><span class="code-line">        <span class="token keyword">var</span> distance <span class="token operator">=</span> to_player<span class="token punctuation">.</span><span class="token function">length</span><span class="token punctuation">(</span><span class="token punctuation">)</span>
+</span><span class="code-line">
+</span><span class="code-line">        <span class="token comment"># 探知範囲内かつ視野角内にいるか確認</span>
+</span><span class="code-line">        <span class="token keyword">if</span> distance <span class="token operator">&#x3C;</span> detection_range<span class="token punctuation">:</span>
+</span><span class="code-line">            <span class="token keyword">var</span> angle_to_player <span class="token operator">=</span> <span class="token function">rad_to_deg</span><span class="token punctuation">(</span>to_player<span class="token punctuation">.</span><span class="token function">angle</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">)</span>
+</span><span class="code-line">            <span class="token keyword">var</span> my_angle <span class="token operator">=</span> <span class="token function">rad_to_deg</span><span class="token punctuation">(</span>rotation<span class="token punctuation">)</span>
+</span><span class="code-line">            <span class="token keyword">var</span> angle_diff <span class="token operator">=</span> <span class="token function">abs</span><span class="token punctuation">(</span>angle_to_player <span class="token operator">-</span> my_angle<span class="token punctuation">)</span> <span class="token operator">%</span> <span class="token number">360</span>
+</span><span class="code-line">            <span class="token keyword">if</span> angle_diff <span class="token operator">></span> <span class="token number">180</span><span class="token punctuation">:</span>
+</span><span class="code-line">                angle_diff <span class="token operator">=</span> <span class="token number">360</span> <span class="token operator">-</span> angle_diff
+</span><span class="code-line">
+</span><span class="code-line">            <span class="token keyword">if</span> angle_diff <span class="token operator">&#x3C;</span> fov_angle <span class="token operator">/</span> <span class="token number">2</span><span class="token punctuation">:</span>
+</span><span class="code-line">                <span class="token comment"># レイキャストでプレイヤーまでの視線が通るか確認</span>
+</span><span class="code-line">                ray_cast<span class="token punctuation">.</span>target_position <span class="token operator">=</span> to_player
+</span><span class="code-line">                ray_cast<span class="token punctuation">.</span><span class="token function">force_raycast_update</span><span class="token punctuation">(</span><span class="token punctuation">)</span>
+</span><span class="code-line">
+</span><span class="code-line">                <span class="token keyword">if</span> ray_cast<span class="token punctuation">.</span><span class="token function">is_colliding</span><span class="token punctuation">(</span><span class="token punctuation">)</span> <span class="token keyword">and</span> ray_cast<span class="token punctuation">.</span><span class="token function">get_collider</span><span class="token punctuation">(</span><span class="token punctuation">)</span> <span class="token operator">==</span> player<span class="token punctuation">:</span>
+</span><span class="code-line">                    detected <span class="token operator">=</span> <span class="token boolean">true</span>
+</span><span class="code-line">                    <span class="token comment"># プレイヤー発見！追跡開始</span>
+</span><span class="code-line">                    velocity <span class="token operator">=</span> to_player<span class="token punctuation">.</span><span class="token function">normalized</span><span class="token punctuation">(</span><span class="token punctuation">)</span> <span class="token operator">*</span> speed
+</span><span class="code-line">                <span class="token keyword">else</span><span class="token punctuation">:</span>
+</span><span class="code-line">                    detected <span class="token operator">=</span> <span class="token boolean">false</span>
+</span><span class="code-line">                    <span class="token comment"># 視界が遮られている</span>
+</span><span class="code-line">                    velocity <span class="token operator">=</span> Vector2<span class="token punctuation">.</span><span class="token constant">ZERO</span>
+</span><span class="code-line">            <span class="token keyword">else</span><span class="token punctuation">:</span>
+</span><span class="code-line">                detected <span class="token operator">=</span> <span class="token boolean">false</span>
+</span><span class="code-line">                <span class="token comment"># 視野角外</span>
+</span><span class="code-line">                velocity <span class="token operator">=</span> Vector2<span class="token punctuation">.</span><span class="token constant">ZERO</span>
+</span><span class="code-line">        <span class="token keyword">else</span><span class="token punctuation">:</span>
+</span><span class="code-line">            detected <span class="token operator">=</span> <span class="token boolean">false</span>
+</span><span class="code-line">            <span class="token comment"># 探知範囲外</span>
+</span><span class="code-line">            velocity <span class="token operator">=</span> Vector2<span class="token punctuation">.</span><span class="token constant">ZERO</span>
+</span><span class="code-line">
+</span><span class="code-line">        <span class="token comment"># 状態に応じた表示の更新</span>
+</span><span class="code-line">        <span class="token variable">$DetectionIndicator</span><span class="token punctuation">.</span>modulate <span class="token operator">=</span> Color<span class="token punctuation">.</span><span class="token constant">RED</span> <span class="token keyword">if</span> detected <span class="token keyword">else</span> Color<span class="token punctuation">.</span><span class="token constant">GREEN</span>
+</span><span class="code-line">
+</span><span class="code-line">        <span class="token comment"># 移動を適用</span>
+</span><span class="code-line">        <span class="token function">move_and_slide</span><span class="token punctuation">(</span><span class="token punctuation">)</span>
+</span></code></pre>
+<h2>まとめ</h2>
+<p>Godot 4.4.1の<code>RayCast2D</code>ノードは、2Dゲーム開発における強力なツールです。本記事で解説した基本から応用までの技術を活用すれば、以下のようなさまざまな機能を実装できます：</p>
+<ul>
+<li>敵の視界システム</li>
+<li>射撃と命中判定</li>
+<li>地形検出と地形に応じた動作</li>
+<li>障害物回避</li>
+<li>複雑なセンサーシステム</li>
+</ul>
+<p>効率的なレイキャストの使用は、よりリアルでインタラクティブなゲームプレイを実現する鍵となります。ぜひ自分のプロジェクトに取り入れてみてください。</p>
+<h2>参考資料</h2>
+<ul>
+<li><a href="https://docs.godotengine.org/en/stable/classes/class_raycast2d.html" rel="nofollow" target="_blank">Godot 4.4.1公式ドキュメント - RayCast2D</a></li>
+<li><a href="https://docs.godotengine.org/en/stable/tutorials/physics/ray-casting.html" rel="nofollow" target="_blank">Godot公式チュートリアル - 衝突検出</a></li>
+<li><a href="https://godotengine.org/community/" rel="nofollow" target="_blank">Godotコミュニティリソース</a></li>
+</ul>
+<hr>
+<p><em>本記事はGodot 4.4.1を基準としています。将来のバージョンでは一部の機能や使い方が変更される可能性があります。</em></p>2:["$","article",null,{"className":"min-h-screen","children":[["$","div",null,{"className":"bg-gradient-to-b from-green-50/60 to-transparent dark:from-gray-900 dark:to-transparent","children":["$","div",null,{"className":"max-w-4xl mx-auto px-6 md:px-8 pt-28 md:pt-32 pb-10 md:pb-14","children":[["$","h1",null,{"className":"font-katyou text-4xl md:text-5xl lg:text-6xl text-gray-900 dark:text-white leading-tight mb-6","children":"Godot 4.4.1 RayCast2D 実践ガイド"}],["$","time",null,{"className":"text-base font-medium text-gray-600 dark:text-gray-400","children":"2025-05-12"}]]}]}],["$","div",null,{"className":"max-w-4xl mx-auto px-6 md:px-8 pb-16 md:pb-24","children":[["$","div",null,{"id":"post-content","className":"prose prose-lg dark:prose-invert max-w-none prose-headings:font-katyou prose-headings:tracking-tight prose-h2:text-3xl prose-h2:mt-12 prose-h2:mb-6 prose-h3:text-2xl prose-h3:mt-10 prose-h3:mb-5 prose-h4:text-xl prose-h4:mt-8 prose-h4:mb-4 prose-p:leading-relaxed prose-p:mb-6 prose-li:my-2 prose-a:text-green-600 prose-a:no-underline prose-a:font-medium hover:prose-a:text-green-700 hover:prose-a:underline dark:prose-a:text-green-400 dark:hover:prose-a:text-green-300 prose-code:text-green-700 prose-code:bg-green-50 dark:prose-code:text-green-300 dark:prose-code:bg-green-900/20 prose-pre:bg-gray-900 dark:prose-pre:bg-gray-950 prose-img:rounded-lg prose-img:shadow-md prose-hr:my-12 prose-hr:border-gray-300 dark:prose-hr:border-gray-700 border-t border-gray-200 dark:border-gray-800 pt-8","dangerouslySetInnerHTML":{"__html":"$d"}}],["$","$Le",null,{}],["$","div",null,{"className":"mt-16 pt-10 border-t border-gray-200 dark:border-gray-800","children":[["$","p",null,{"className":"text-sm font-semibold text-gray-500 dark:text-gray-400 mb-4","children":"タグ"}],["$","div",null,{"className":"flex flex-wrap gap-2.5","children":[["$","$L9","Godot",{"href":"/tags/Godot","className":"inline-flex items-center px-4 py-1.5 rounded-full text-sm font-medium bg-green-100 text-green-800 dark:bg-green-900/30 dark:text-green-300 hover:bg-green-200 dark:hover:bg-green-800/50 transition-colors duration-200 shadow-sm","children":"Godot"}],["$","$L9","RayCast2D",{"href":"/tags/RayCast2D","className":"inline-flex items-center px-4 py-1.5 rounded-full text-sm font-medium bg-green-100 text-green-800 dark:bg-green-900/30 dark:text-green-300 hover:bg-green-200 dark:hover:bg-green-800/50 transition-colors duration-200 shadow-sm","children":"RayCast2D"}],["$","$L9","2Dゲーム開発",{"href":"/tags/2Dゲーム開発","className":"inline-flex items-center px-4 py-1.5 rounded-full text-sm font-medium bg-green-100 text-green-800 dark:bg-green-900/30 dark:text-green-300 hover:bg-green-200 dark:hover:bg-green-800/50 transition-colors duration-200 shadow-sm","children":"2Dゲーム開発"}],["$","$L9","衝突検知",{"href":"/tags/衝突検知","className":"inline-flex items-center px-4 py-1.5 rounded-full text-sm font-medium bg-green-100 text-green-800 dark:bg-green-900/30 dark:text-green-300 hover:bg-green-200 dark:hover:bg-green-800/50 transition-colors duration-200 shadow-sm","children":"衝突検知"}]]}]]}]]}]]}]
+c:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"Godot 4.4.1 RayCast2D 実践ガイド | ブログタイトル"}],["$","meta","3",{"name":"description","content":"Godot 4.4.1でのRayCast2Dの使い方と実践的な活用例"}],["$","meta","4",{"property":"og:title","content":"Godot 4.4.1 RayCast2D 実践ガイド"}],["$","meta","5",{"property":"og:description","content":"Godot 4.4.1でのRayCast2Dの使い方と実践的な活用例"}],["$","meta","6",{"property":"og:url","content":"https://maemaemae.blog/posts/godot_20250512"}],["$","meta","7",{"property":"og:image","content":"https://maemaemae.blog/images/godot-raycast2d.jpg"}],["$","meta","8",{"property":"og:type","content":"article"}],["$","meta","9",{"property":"article:published_time","content":"2025-05-12"}],["$","meta","10",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","11",{"name":"twitter:title","content":"Godot 4.4.1 RayCast2D 実践ガイド"}],["$","meta","12",{"name":"twitter:description","content":"Godot 4.4.1でのRayCast2Dの使い方と実践的な活用例"}],["$","meta","13",{"name":"twitter:image","content":"https://maemaemae.blog/images/godot-raycast2d.jpg"}],["$","link","14",{"rel":"icon","href":"/favicon.ico","type":"image/x-icon","sizes":"16x16"}],["$","meta","15",{"name":"next-size-adjust"}]]
+1:null

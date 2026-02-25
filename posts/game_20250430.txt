@@ -1,0 +1,224 @@
+3:I[4707,[],""]
+5:I[6423,[],""]
+6:I[4888,["972","static/chunks/972-f241a8fd644428c6.js","70","static/chunks/70-f52c2ad284c6cd86.js","185","static/chunks/app/layout-97d049cf0fc78146.js"],"GoogleAnalytics"]
+7:I[6806,["972","static/chunks/972-f241a8fd644428c6.js","70","static/chunks/70-f52c2ad284c6cd86.js","185","static/chunks/app/layout-97d049cf0fc78146.js"],"default"]
+8:I[7213,["972","static/chunks/972-f241a8fd644428c6.js","70","static/chunks/70-f52c2ad284c6cd86.js","185","static/chunks/app/layout-97d049cf0fc78146.js"],"default"]
+9:I[2972,["972","static/chunks/972-f241a8fd644428c6.js","333","static/chunks/app/posts/%5Bslug%5D/page-acd6669982df1354.js"],""]
+a:I[5878,["972","static/chunks/972-f241a8fd644428c6.js","70","static/chunks/70-f52c2ad284c6cd86.js","185","static/chunks/app/layout-97d049cf0fc78146.js"],"Image"]
+b:I[2374,["972","static/chunks/972-f241a8fd644428c6.js","70","static/chunks/70-f52c2ad284c6cd86.js","185","static/chunks/app/layout-97d049cf0fc78146.js"],"default"]
+4:["slug","game_20250430","d"]
+0:["0oJGNGFmzz_LorUWHIimP",[[["",{"children":["posts",{"children":[["slug","game_20250430","d"],{"children":["__PAGE__?{\"slug\":\"game_20250430\"}",{}]}]}]},"$undefined","$undefined",true],["",{"children":["posts",{"children":[["slug","game_20250430","d"],{"children":["__PAGE__",{},[["$L1","$L2",null],null],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","posts","children","$4","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","posts","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/3add334ee59f67ac.css","precedence":"next","crossOrigin":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/css/cec3dd424af6abe7.css","precedence":"next","crossOrigin":"$undefined"}],["$","link","2",{"rel":"stylesheet","href":"/_next/static/css/31924b81bd2c71c2.css","precedence":"next","crossOrigin":"$undefined"}]],["$","html",null,{"lang":"jp","className":"__variable_f367f3 __variable_8c8862 __variable_6beb74 __variable_b784c9 __variable_d575de","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){try{var s=localStorage.getItem('darkMode');var p=window.matchMedia('(prefers-color-scheme: dark)').matches;if(s!==null?s==='true':p){document.documentElement.classList.add('dark');}}catch(e){}})();"}}],["$","$L6",null,{"gaId":"G-FWRP8962MB"}]]}],["$","body",null,{"className":"__className_f367f3","children":["$","$L7",null,{"children":[["$","header",null,{"children":["$","$L8",null,{"children":["$","div",null,{"className":"fixed top-0 left-0 w-full z-50 bg-green-700 dark:bg-gray-900 shadow-md border-b border-green-600/50 dark:border-gray-800","children":["$","div",null,{"className":"max-w-7xl mx-auto","children":["$","div",null,{"className":"flex items-center justify-between px-6 md:px-8 h-20 md:h-24","children":[["$","$L9",null,{"href":"/","className":"group flex items-center gap-3 transition-opacity hover:opacity-80","children":[["$","$La",null,{"alt":"Maemaemae","src":"/header.jpg","width":44,"height":44,"className":"rounded-full object-cover ring-2 ring-white/20 group-hover:ring-white/40 transition-all"}],["$","span",null,{"className":"text-xl md:text-2xl font-katyou text-[#fffef9] tracking-wide","children":"Maemaemae"}]]}],["$","div",null,{"className":"flex items-center gap-2","children":[["$","a",null,{"href":"https://x.com/maemaemae_rm","target":"_blank","rel":"noopener noreferrer","className":"p-2.5 rounded-full hover:bg-white/10 transition-colors","aria-label":"X (Twitter)","children":["$","$La",null,{"src":"/x-logo-white.png","width":24,"height":24,"alt":""}]}],["$","$Lb",null,{}]]}]]}]}]}]}]}],["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[]}]]}]}]]}]],null],null],["$Lc",null]]]]
+e:I[7426,["972","static/chunks/972-f241a8fd644428c6.js","333","static/chunks/app/posts/%5Bslug%5D/page-acd6669982df1354.js"],"default"]
+d:T2fdf,<h2>はじめに</h2>
+<p>ゲーム開発において素材の利用は必須といえますが、その際に注意すべきなのがライセンスです。適切なライセンスの素材を選ばなければ、せっかく作ったゲームが公開できなくなったり、法的トラブルに発展したりする可能性があります。</p>
+<p>この記事では、ゲーム開発で使用する素材のライセンス種類と特徴について解説し、開発者がトラブルなく安心して素材を活用できるようサポートします。</p>
+<p>昔から伝わる龍の伝説では、「宝を守る龍は常に掟（ルール）を大切にした」と言われています。ゲーム開発の世界でも、ライセンスというルールを守ることが、あなたの作品という宝を守ることにつながるのです。</p>
+<h2>主要なライセンスの種類</h2>
+<h3>1. 商用利用可能な無償ライセンス</h3>
+<h4>CC0 (パブリックドメイン)</h4>
+<p>CC0は最も自由度の高いライセンスで、作者が著作権を放棄し、誰でも自由に使用できる状態にしたものです。</p>
+<ul>
+<li><strong>特徴</strong>:
+<ul>
+<li>著作権表示不要</li>
+<li>商用利用可能</li>
+<li>改変自由</li>
+<li>再配布自由</li>
+</ul>
+</li>
+</ul>
+<h4>CC BY (表示)</h4>
+<p>CC BYは、作品のクレジット表示をすることで、商用利用や改変が可能なライセンスです。</p>
+<ul>
+<li><strong>特徴</strong>:
+<ul>
+<li>著作権表示必須</li>
+<li>商用利用可能</li>
+<li>改変自由</li>
+<li>再配布可能</li>
+</ul>
+</li>
+</ul>
+<h3>2. 商用利用制限付きの無償ライセンス</h3>
+<h4>CC BY-NC (表示-非営利)</h4>
+<p>非営利目的での使用に限り許可されるライセンスです。</p>
+<ul>
+<li><strong>特徴</strong>:
+<ul>
+<li>著作権表示必須</li>
+<li>商用利用不可</li>
+<li>改変自由</li>
+<li>再配布可能（非営利目的のみ）</li>
+</ul>
+</li>
+</ul>
+<h4>CC BY-ND (表示-改変禁止)</h4>
+<p>原作のままであれば使用可能ですが、改変は禁止されているライセンスです。</p>
+<ul>
+<li><strong>特徴</strong>:
+<ul>
+<li>著作権表示必須</li>
+<li>商用利用可能</li>
+<li>改変不可</li>
+<li>再配布可能（原作のままであれば）</li>
+</ul>
+</li>
+</ul>
+<h3>3. 商用ゲームエンジンのライセンス</h3>
+<h4>Unity Personal/Pro</h4>
+<p>Unityの場合、個人開発者向けと商用向けでライセンスが分かれています。</p>
+<ul>
+<li><strong>Unity Personal</strong>:
+<ul>
+<li>年間収益20万ドル未満の個人・小規模企業向け</li>
+<li>基本無料</li>
+<li>アセットストアの素材は別途ライセンス確認が必要</li>
+</ul>
+</li>
+</ul>
+<h4>Unreal Engine</h4>
+<p>Epic GamesのUnreal Engineのライセンスは基本無料ですが、収益に応じたロイヤリティが発生します。</p>
+<ul>
+<li><strong>特徴</strong>:
+<ul>
+<li>基本無料</li>
+<li>総収入100万米ドル超で5%のロイヤリティが発生</li>
+<li>マーケットプレイス素材は別途ライセンス確認が必要</li>
+</ul>
+</li>
+</ul>
+<h3>4. オープンソースのライセンス</h3>
+<h4>MIT License</h4>
+<p>オープンソースの代表的なライセンスで、Godotなどのゲームエンジンで採用されています。</p>
+<ul>
+<li><strong>特徴</strong>:
+<ul>
+<li>著作権表示義務あり</li>
+<li>商用利用可能</li>
+<li>改変自由</li>
+<li>再配布可能</li>
+</ul>
+</li>
+</ul>
+<h2>ゲーム素材ごとのライセンス注意点</h2>
+<h3>3Dモデルと2Dグラフィック</h3>
+<p>グラフィック素材は視覚的に目立つため、ライセンス違反が発見されやすい傾向があります。</p>
+<pre><code class="code-highlight"><span class="code-line">注意ポイント：
+</span><span class="code-line">- 「商用可」表記でも、アダルトコンテンツやNFTへの利用制限がある場合あり
+</span><span class="code-line">- 改変の範囲が明確に定義されているか確認
+</span><span class="code-line">- キャラクターデザインには二次創作の制限が厳しい場合も
+</span></code></pre>
+<h3>音楽・効果音</h3>
+<p>BGMや効果音は、シーンの印象を決定づける重要な要素です。</p>
+<pre><code class="code-highlight"><span class="code-line">注意ポイント：
+</span><span class="code-line">- ループ音源か一度きりの使用かで条件が異なる場合あり
+</span><span class="code-line">- 「商用利用可」でも、CD販売やストリーミング配信では別途許可が必要なケースも
+</span><span class="code-line">- ボイス素材は特に使用範囲の制限が厳しいことが多い
+</span></code></pre>
+<h3>フォント</h3>
+<p>テキストで使用するフォントは、ライセンスの見落としが多い素材です。</p>
+<pre><code class="code-highlight"><span class="code-line">注意ポイント：
+</span><span class="code-line">- 「商用利用可」でもゲーム内埋め込みに制限がある場合あり
+</span><span class="code-line">- Web表示とアプリ内での使用条件が異なるケースも
+</span><span class="code-line">- フリーフォントでも有料ライセンスが必要なウェイトがある場合も
+</span></code></pre>
+<h2>ライセンス表記の方法</h2>
+<p>ライセンスによっては著作権表記が必須となるため、適切な表記方法を知っておく必要があります。</p>
+<h3>ゲーム内での表記例</h3>
+<pre><code class="code-highlight"><span class="code-line">クレジット画面例：
+</span><span class="code-line">- 3Dモデル：「キャラクターモデル by [作者名]」(CC BY 4.0)
+</span><span class="code-line">- BGM：「タイトル曲 by [作者名]」© [年] All Rights Reserved
+</span><span class="code-line">- フォント：「メインフォント」(SIL Open Font License)
+</span></code></pre>
+<h3>配布サイトでの表記例</h3>
+<pre><code class="code-highlight"><span class="code-line">素材利用表記例：
+</span><span class="code-line">本ゲームでは以下の素材を利用しています。
+</span><span class="code-line">- [素材名] by [作者名] ([ライセンス名]) - [素材URL]
+</span><span class="code-line">- [素材名] © [年] [権利者] - 利用許諾を得て使用
+</span></code></pre>
+<h2>マーケットプレイス別のライセンス特徴</h2>
+<h3>Unity Asset Store</h3>
+<p>Unityの公式マーケットプレイスであるAsset Storeでは、素材ごとに異なるライセンスが設定されています。</p>
+<ul>
+<li>基本的に商用利用可能な素材が多い</li>
+<li>Asset単位での購入ライセンスが基本</li>
+<li>再配布やリセールに制限あり</li>
+</ul>
+<h3>Unreal Marketplace</h3>
+<p>Unreal Engineの公式マーケットプレイスでも、素材ごとにライセンスが異なります。</p>
+<ul>
+<li>基本的に商用利用可能</li>
+<li>Unreal Engine制作物内での使用に限定されることが多い</li>
+<li>再配布は原則禁止</li>
+</ul>
+<h3>その他の素材サイト</h3>
+<p>itch.ioやGameDevMarketなどの第三者系マーケットプレイスも人気です。</p>
+<ul>
+<li>サイトによってライセンス体系が大きく異なる</li>
+<li>同一サイト内でも素材ごとに条件が異なるケースが多い</li>
+<li>利用前に必ず各素材の詳細ライセンスを確認すること</li>
+</ul>
+<h2>ライセンストラブルを避けるための対策</h2>
+<h3>プロジェクト開始時のチェックリスト</h3>
+<p>プロジェクト開始前に以下の点を確認しておくと安心です。</p>
+<ol>
+<li>使用予定の全素材リストを作成する</li>
+<li>各素材のライセンス条件を詳細に記録する</li>
+<li>必要な表記内容をまとめておく</li>
+<li>商用展開時の追加ライセンスの有無を確認する</li>
+</ol>
+<h3>素材管理の効率化テクニック</h3>
+<pre><code class="code-highlight"><span class="code-line">おすすめの管理方法：
+</span><span class="code-line">- 素材フォルダにREADME.txtでライセンス情報を記載
+</span><span class="code-line">- スプレッドシートで素材一覧とライセンスを管理
+</span><span class="code-line">- GitのREADMEに利用ライセンス一覧を記載して更新
+</span></code></pre>
+<h3>自作素材と外部素材の区別方法</h3>
+<pre><code class="code-highlight"><span class="code-line">管理のコツ：
+</span><span class="code-line">- ファイル名の先頭に「ext_」など外部素材を示す接頭辞をつける
+</span><span class="code-line">- フォルダ構造で自作/外部を明確に分ける
+</span><span class="code-line">- メタデータにライセンス情報を記録する習慣をつける
+</span></code></pre>
+<h2>素材ライセンスの選び方と決め方</h2>
+<h3>個人開発とチーム開発での違い</h3>
+<pre><code class="code-highlight"><span class="code-line">個人開発の場合：
+</span><span class="code-line">- 自分の責任で素材選定が可能
+</span><span class="code-line">- 素材コストを最小限に抑えやすい
+</span><span class="code-line">- 将来の展開も考慮したライセンス選びが重要
+</span><span class="code-line">
+</span><span class="code-line">チーム開発の場合：
+</span><span class="code-line">- 全メンバーにライセンス条件の共有が必須
+</span><span class="code-line">- 商用展開の可能性を考慮した素材選択を
+</span><span class="code-line">- 外部発注時の権利関係を明確にしておく
+</span></code></pre>
+<h3>商用・非商用での選択基準</h3>
+<pre><code class="code-highlight"><span class="code-line">商用開発の場合：
+</span><span class="code-line">- 将来的な収益化を見据えたライセンス選び
+</span><span class="code-line">- 売上規模に応じた段階的なライセンス更新の検討
+</span><span class="code-line">- 権利関係の証明書類保管は必須
+</span><span class="code-line">
+</span><span class="code-line">非商用開発の場合：
+</span><span class="code-line">- CC BY-NCなど非商用ライセンスの活用も選択肢に
+</span><span class="code-line">- 後から商用化する可能性があれば商用可能素材を選ぶ
+</span><span class="code-line">- 学習用なら使用範囲の広い素材がおすすめ
+</span></code></pre>
+<h2>まとめ</h2>
+<p>ゲーム開発において、素材ライセンスは非常に重要な要素です。適切なライセンスの素材を選び、正しく利用することで、法的トラブルを回避し、安心してゲーム開発に集中できます。</p>
+<ul>
+<li>使用する素材のライセンスを必ず確認する</li>
+<li>必要に応じて適切なクレジット表記を行う</li>
+<li>商用利用の場合は特に注意して素材を選ぶ</li>
+<li>プロジェクトの成長に合わせたライセンス見直しを行う</li>
+</ul>
+<p>昔の龍の言い伝えでは「許可なく宝を奪う者には災いが、正しく交渉する者には幸運が訪れる」と言われています。素材ライセンスを尊重することは、開発者コミュニティへの敬意であり、自分自身の作品を守ることにもつながります。</p>
+<h2>参考資料</h2>
+<ul>
+<li><a href="https://creativecommons.jp/" rel="nofollow" target="_blank">クリエイティブ・コモンズ・ジャパン</a></li>
+<li><a href="https://unity.com/legal/as-terms" rel="nofollow" target="_blank">Unity Asset Store EULA</a></li>
+<li><a href="https://www.unrealengine.com/eula" rel="nofollow" target="_blank">Unreal Engine EULA</a></li>
+<li><a href="https://godotengine.org/license/" rel="nofollow" target="_blank">Godot ライセンス</a></li>
+</ul>
+<hr>
+<p><em>記事内容は2025年4月現在の情報に基づいています。各ゲームエンジンやマーケットプレイスのライセンスは変更される可能性があるため、最新情報は公式サイトでご確認ください。</em></p>2:["$","article",null,{"className":"min-h-screen","children":[["$","div",null,{"className":"bg-gradient-to-b from-green-50/60 to-transparent dark:from-gray-900 dark:to-transparent","children":["$","div",null,{"className":"max-w-4xl mx-auto px-6 md:px-8 pt-28 md:pt-32 pb-10 md:pb-14","children":[["$","h1",null,{"className":"font-katyou text-4xl md:text-5xl lg:text-6xl text-gray-900 dark:text-white leading-tight mb-6","children":"ゲーム素材ライセンスの種類と特徴"}],["$","time",null,{"className":"text-base font-medium text-gray-600 dark:text-gray-400","children":"2025-04-30"}]]}]}],["$","div",null,{"className":"max-w-4xl mx-auto px-6 md:px-8 pb-16 md:pb-24","children":[["$","div",null,{"id":"post-content","className":"prose prose-lg dark:prose-invert max-w-none prose-headings:font-katyou prose-headings:tracking-tight prose-h2:text-3xl prose-h2:mt-12 prose-h2:mb-6 prose-h3:text-2xl prose-h3:mt-10 prose-h3:mb-5 prose-h4:text-xl prose-h4:mt-8 prose-h4:mb-4 prose-p:leading-relaxed prose-p:mb-6 prose-li:my-2 prose-a:text-green-600 prose-a:no-underline prose-a:font-medium hover:prose-a:text-green-700 hover:prose-a:underline dark:prose-a:text-green-400 dark:hover:prose-a:text-green-300 prose-code:text-green-700 prose-code:bg-green-50 dark:prose-code:text-green-300 dark:prose-code:bg-green-900/20 prose-pre:bg-gray-900 dark:prose-pre:bg-gray-950 prose-img:rounded-lg prose-img:shadow-md prose-hr:my-12 prose-hr:border-gray-300 dark:prose-hr:border-gray-700 border-t border-gray-200 dark:border-gray-800 pt-8","dangerouslySetInnerHTML":{"__html":"$d"}}],["$","$Le",null,{}],["$","div",null,{"className":"mt-16 pt-10 border-t border-gray-200 dark:border-gray-800","children":[["$","p",null,{"className":"text-sm font-semibold text-gray-500 dark:text-gray-400 mb-4","children":"タグ"}],["$","div",null,{"className":"flex flex-wrap gap-2.5","children":[["$","$L9","ゲーム開発",{"href":"/tags/ゲーム開発","className":"inline-flex items-center px-4 py-1.5 rounded-full text-sm font-medium bg-green-100 text-green-800 dark:bg-green-900/30 dark:text-green-300 hover:bg-green-200 dark:hover:bg-green-800/50 transition-colors duration-200 shadow-sm","children":"ゲーム開発"}],["$","$L9","素材",{"href":"/tags/素材","className":"inline-flex items-center px-4 py-1.5 rounded-full text-sm font-medium bg-green-100 text-green-800 dark:bg-green-900/30 dark:text-green-300 hover:bg-green-200 dark:hover:bg-green-800/50 transition-colors duration-200 shadow-sm","children":"素材"}],["$","$L9","ライセンス",{"href":"/tags/ライセンス","className":"inline-flex items-center px-4 py-1.5 rounded-full text-sm font-medium bg-green-100 text-green-800 dark:bg-green-900/30 dark:text-green-300 hover:bg-green-200 dark:hover:bg-green-800/50 transition-colors duration-200 shadow-sm","children":"ライセンス"}],["$","$L9","著作権",{"href":"/tags/著作権","className":"inline-flex items-center px-4 py-1.5 rounded-full text-sm font-medium bg-green-100 text-green-800 dark:bg-green-900/30 dark:text-green-300 hover:bg-green-200 dark:hover:bg-green-800/50 transition-colors duration-200 shadow-sm","children":"著作権"}],["$","$L9","Unity",{"href":"/tags/Unity","className":"inline-flex items-center px-4 py-1.5 rounded-full text-sm font-medium bg-green-100 text-green-800 dark:bg-green-900/30 dark:text-green-300 hover:bg-green-200 dark:hover:bg-green-800/50 transition-colors duration-200 shadow-sm","children":"Unity"}],["$","$L9","Unreal Engine",{"href":"/tags/Unreal Engine","className":"inline-flex items-center px-4 py-1.5 rounded-full text-sm font-medium bg-green-100 text-green-800 dark:bg-green-900/30 dark:text-green-300 hover:bg-green-200 dark:hover:bg-green-800/50 transition-colors duration-200 shadow-sm","children":"Unreal Engine"}]]}]]}]]}]]}]
+c:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"ゲーム素材ライセンスの種類と特徴 | ブログタイトル"}],["$","meta","3",{"name":"description","content":"ゲーム開発に使用する素材ライセンスの種類と選び方について解説"}],["$","meta","4",{"property":"og:title","content":"ゲーム素材ライセンスの種類と特徴"}],["$","meta","5",{"property":"og:description","content":"ゲーム開発に使用する素材ライセンスの種類と選び方について解説"}],["$","meta","6",{"property":"og:url","content":"https://maemaemae.blog/posts/game_20250430"}],["$","meta","7",{"property":"og:image","content":"https://maemaemae.blog/images/game-assets-license.jpg"}],["$","meta","8",{"property":"og:type","content":"article"}],["$","meta","9",{"property":"article:published_time","content":"2025-04-30"}],["$","meta","10",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","11",{"name":"twitter:title","content":"ゲーム素材ライセンスの種類と特徴"}],["$","meta","12",{"name":"twitter:description","content":"ゲーム開発に使用する素材ライセンスの種類と選び方について解説"}],["$","meta","13",{"name":"twitter:image","content":"https://maemaemae.blog/images/game-assets-license.jpg"}],["$","link","14",{"rel":"icon","href":"/favicon.ico","type":"image/x-icon","sizes":"16x16"}],["$","meta","15",{"name":"next-size-adjust"}]]
+1:null

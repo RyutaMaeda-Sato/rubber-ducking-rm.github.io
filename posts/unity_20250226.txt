@@ -1,0 +1,438 @@
+3:I[4707,[],""]
+5:I[6423,[],""]
+6:I[4888,["972","static/chunks/972-f241a8fd644428c6.js","70","static/chunks/70-f52c2ad284c6cd86.js","185","static/chunks/app/layout-97d049cf0fc78146.js"],"GoogleAnalytics"]
+7:I[6806,["972","static/chunks/972-f241a8fd644428c6.js","70","static/chunks/70-f52c2ad284c6cd86.js","185","static/chunks/app/layout-97d049cf0fc78146.js"],"default"]
+8:I[7213,["972","static/chunks/972-f241a8fd644428c6.js","70","static/chunks/70-f52c2ad284c6cd86.js","185","static/chunks/app/layout-97d049cf0fc78146.js"],"default"]
+9:I[2972,["972","static/chunks/972-f241a8fd644428c6.js","333","static/chunks/app/posts/%5Bslug%5D/page-acd6669982df1354.js"],""]
+a:I[5878,["972","static/chunks/972-f241a8fd644428c6.js","70","static/chunks/70-f52c2ad284c6cd86.js","185","static/chunks/app/layout-97d049cf0fc78146.js"],"Image"]
+b:I[2374,["972","static/chunks/972-f241a8fd644428c6.js","70","static/chunks/70-f52c2ad284c6cd86.js","185","static/chunks/app/layout-97d049cf0fc78146.js"],"default"]
+4:["slug","unity_20250226","d"]
+0:["0oJGNGFmzz_LorUWHIimP",[[["",{"children":["posts",{"children":[["slug","unity_20250226","d"],{"children":["__PAGE__?{\"slug\":\"unity_20250226\"}",{}]}]}]},"$undefined","$undefined",true],["",{"children":["posts",{"children":[["slug","unity_20250226","d"],{"children":["__PAGE__",{},[["$L1","$L2",null],null],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","posts","children","$4","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","posts","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/3add334ee59f67ac.css","precedence":"next","crossOrigin":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/css/cec3dd424af6abe7.css","precedence":"next","crossOrigin":"$undefined"}],["$","link","2",{"rel":"stylesheet","href":"/_next/static/css/31924b81bd2c71c2.css","precedence":"next","crossOrigin":"$undefined"}]],["$","html",null,{"lang":"jp","className":"__variable_f367f3 __variable_8c8862 __variable_6beb74 __variable_b784c9 __variable_d575de","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){try{var s=localStorage.getItem('darkMode');var p=window.matchMedia('(prefers-color-scheme: dark)').matches;if(s!==null?s==='true':p){document.documentElement.classList.add('dark');}}catch(e){}})();"}}],["$","$L6",null,{"gaId":"G-FWRP8962MB"}]]}],["$","body",null,{"className":"__className_f367f3","children":["$","$L7",null,{"children":[["$","header",null,{"children":["$","$L8",null,{"children":["$","div",null,{"className":"fixed top-0 left-0 w-full z-50 bg-green-700 dark:bg-gray-900 shadow-md border-b border-green-600/50 dark:border-gray-800","children":["$","div",null,{"className":"max-w-7xl mx-auto","children":["$","div",null,{"className":"flex items-center justify-between px-6 md:px-8 h-20 md:h-24","children":[["$","$L9",null,{"href":"/","className":"group flex items-center gap-3 transition-opacity hover:opacity-80","children":[["$","$La",null,{"alt":"Maemaemae","src":"/header.jpg","width":44,"height":44,"className":"rounded-full object-cover ring-2 ring-white/20 group-hover:ring-white/40 transition-all"}],["$","span",null,{"className":"text-xl md:text-2xl font-katyou text-[#fffef9] tracking-wide","children":"Maemaemae"}]]}],["$","div",null,{"className":"flex items-center gap-2","children":[["$","a",null,{"href":"https://x.com/maemaemae_rm","target":"_blank","rel":"noopener noreferrer","className":"p-2.5 rounded-full hover:bg-white/10 transition-colors","aria-label":"X (Twitter)","children":["$","$La",null,{"src":"/x-logo-white.png","width":24,"height":24,"alt":""}]}],["$","$Lb",null,{}]]}]]}]}]}]}]}],["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[]}]]}]}]]}]],null],null],["$Lc",null]]]]
+e:I[7426,["972","static/chunks/972-f241a8fd644428c6.js","333","static/chunks/app/posts/%5Bslug%5D/page-acd6669982df1354.js"],"default"]
+d:Tde51,<p>ゲームプレイ中に「一時停止」機能を提供することは、現代のゲーム開発において不可欠な要素です。プレイヤーがゲームを中断したり、設定を調整したり、必要に応じて終了したりできるようにすることで、ユーザーエクスペリエンスが大幅に向上します。</p>
+<p>この記事では、Unityでプロフェッショナルなポーズメニューを実装する方法を、ステップバイステップで解説します。ESCキーでの一時停止、再開ボタン、終了機能を備えた基本的なポーズシステムの構築から始め、さらに発展的な機能についても触れていきます。</p>
+<h2>目次</h2>
+<ol>
+<li><a href="#%E5%9F%BA%E6%9C%AC%E7%9A%84%E3%81%AA%E3%83%9D%E3%83%BC%E3%82%BA%E6%A9%9F%E8%83%BD%E3%81%AE%E4%BB%95%E7%B5%84%E3%81%BF">基本的なポーズ機能の仕組み</a></li>
+<li><a href="#%E5%AE%9F%E8%A3%85%E6%89%8B%E9%A0%86">実装手順</a></li>
+<li><a href="#%E3%82%B3%E3%83%BC%E3%83%89%E8%A7%A3%E8%AA%AC">コード解説</a></li>
+<li><a href="#UI%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3%E3%81%AE%E3%83%9D%E3%82%A4%E3%83%B3%E3%83%88">UIデザインのポイント</a></li>
+<li><a href="#%E6%8B%A1%E5%BC%B5%E3%82%A2%E3%82%A4%E3%83%87%E3%82%A2">拡張アイデア</a></li>
+<li><a href="#%E3%82%88%E3%81%8F%E3%81%82%E3%82%8B%E5%95%8F%E9%A1%8C%E3%81%A8%E8%A7%A3%E6%B1%BA%E6%B3%95">よくある問題と解決法</a></li>
+<li><a href="#%E3%81%BE%E3%81%A8%E3%82%81">まとめ</a></li>
+</ol>
+<h2>基本的なポーズ機能の仕組み</h2>
+<p>Unityでゲームを一時停止するための基本的なメカニズムは、<code>Time.timeScale</code>プロパティを操作することです。このプロパティは、ゲーム内時間の進行速度を制御します：</p>
+<ul>
+<li><code>Time.timeScale = 1.0f</code> - 通常速度（デフォルト）</li>
+<li><code>Time.timeScale = 0.0f</code> - 完全停止（ポーズ状態）</li>
+<li><code>Time.timeScale = 0.5f</code> - 半分の速度（スローモーション）</li>
+</ul>
+<p>ポーズ状態では、物理演算、アニメーション、時間ベースの処理が停止しますが、入力検出やUIの操作は引き続き機能します。これにより、ポーズメニューのボタンを操作して、ゲームを再開したり終了したりすることが可能になります。</p>
+<h2>実装手順</h2>
+<h3>1. ポーズメニューUIの作成</h3>
+<p>まず、ポーズメニュー用のUIを作成します：</p>
+<ol>
+<li>Hierarchyウィンドウで右クリック → UI → Canvas を選択してキャンバスを作成</li>
+<li>作成したCanvasの子として、Panel（背景用）を追加</li>
+<li>Panelの子として以下のUI要素を追加：
+<ul>
+<li>Text - "PAUSED"（タイトル）</li>
+<li>Button - "RESUME"（再開ボタン）</li>
+<li>Button - "QUIT"（終了ボタン）</li>
+</ul>
+</li>
+</ol>
+<p>ポーズメニューのCanvasは初期状態で非アクティブ（非表示）にしておきます。</p>
+<h3>2. PauseMenuスクリプトの作成</h3>
+<p>次に、ポーズ機能を管理するC#スクリプトを作成します：</p>
+<pre class="language-csharp"><code class="language-csharp code-highlight"><span class="code-line"><span class="token keyword">using</span> <span class="token namespace">UnityEngine</span><span class="token punctuation">;</span>
+</span><span class="code-line"><span class="token keyword">using</span> <span class="token namespace">UnityEngine<span class="token punctuation">.</span>UI</span><span class="token punctuation">;</span>
+</span><span class="code-line"><span class="token keyword">using</span> <span class="token namespace">UnityEngine<span class="token punctuation">.</span>SceneManagement</span><span class="token punctuation">;</span>
+</span><span class="code-line">
+</span><span class="code-line"><span class="token keyword">public</span> <span class="token keyword">class</span> <span class="token class-name">PauseMenu</span> <span class="token punctuation">:</span> <span class="token type-list"><span class="token class-name">MonoBehaviour</span></span>
+</span><span class="code-line"><span class="token punctuation">{</span>
+</span><span class="code-line">    <span class="token punctuation">[</span><span class="token attribute"><span class="token class-name">SerializeField</span></span><span class="token punctuation">]</span> <span class="token keyword">private</span> <span class="token class-name">GameObject</span> pauseMenuUI<span class="token punctuation">;</span>  <span class="token comment">// ポーズメニューのUIパネル</span>
+</span><span class="code-line">    <span class="token punctuation">[</span><span class="token attribute"><span class="token class-name">SerializeField</span></span><span class="token punctuation">]</span> <span class="token keyword">private</span> <span class="token class-name">Button</span> resumeButton<span class="token punctuation">;</span>     <span class="token comment">// 再開ボタン</span>
+</span><span class="code-line">    <span class="token punctuation">[</span><span class="token attribute"><span class="token class-name">SerializeField</span></span><span class="token punctuation">]</span> <span class="token keyword">private</span> <span class="token class-name">Button</span> quitButton<span class="token punctuation">;</span>       <span class="token comment">// 終了ボタン</span>
+</span><span class="code-line">
+</span><span class="code-line">    <span class="token keyword">private</span> <span class="token class-name"><span class="token keyword">bool</span></span> isPaused <span class="token operator">=</span> <span class="token boolean">false</span><span class="token punctuation">;</span>
+</span><span class="code-line">
+</span><span class="code-line">    <span class="token keyword">private</span> <span class="token return-type class-name"><span class="token keyword">void</span></span> <span class="token function">Start</span><span class="token punctuation">(</span><span class="token punctuation">)</span>
+</span><span class="code-line">    <span class="token punctuation">{</span>
+</span><span class="code-line">        <span class="token comment">// パネルを初期状態で非表示に</span>
+</span><span class="code-line">        pauseMenuUI<span class="token punctuation">.</span><span class="token function">SetActive</span><span class="token punctuation">(</span><span class="token boolean">false</span><span class="token punctuation">)</span><span class="token punctuation">;</span>
+</span><span class="code-line">
+</span><span class="code-line">        <span class="token comment">// ボタンにリスナーを追加</span>
+</span><span class="code-line">        resumeButton<span class="token punctuation">.</span>onClick<span class="token punctuation">.</span><span class="token function">AddListener</span><span class="token punctuation">(</span>ResumeGame<span class="token punctuation">)</span><span class="token punctuation">;</span>
+</span><span class="code-line">        quitButton<span class="token punctuation">.</span>onClick<span class="token punctuation">.</span><span class="token function">AddListener</span><span class="token punctuation">(</span>QuitGame<span class="token punctuation">)</span><span class="token punctuation">;</span>
+</span><span class="code-line">    <span class="token punctuation">}</span>
+</span><span class="code-line">
+</span><span class="code-line">    <span class="token keyword">private</span> <span class="token return-type class-name"><span class="token keyword">void</span></span> <span class="token function">Update</span><span class="token punctuation">(</span><span class="token punctuation">)</span>
+</span><span class="code-line">    <span class="token punctuation">{</span>
+</span><span class="code-line">        <span class="token comment">// ESCキーでポーズ切り替え</span>
+</span><span class="code-line">        <span class="token keyword">if</span> <span class="token punctuation">(</span>Input<span class="token punctuation">.</span><span class="token function">GetKeyDown</span><span class="token punctuation">(</span>KeyCode<span class="token punctuation">.</span>Escape<span class="token punctuation">)</span><span class="token punctuation">)</span>
+</span><span class="code-line">        <span class="token punctuation">{</span>
+</span><span class="code-line">            <span class="token function">TogglePause</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">;</span>
+</span><span class="code-line">        <span class="token punctuation">}</span>
+</span><span class="code-line">    <span class="token punctuation">}</span>
+</span><span class="code-line">
+</span><span class="code-line">    <span class="token keyword">public</span> <span class="token return-type class-name"><span class="token keyword">void</span></span> <span class="token function">TogglePause</span><span class="token punctuation">(</span><span class="token punctuation">)</span>
+</span><span class="code-line">    <span class="token punctuation">{</span>
+</span><span class="code-line">        <span class="token keyword">if</span> <span class="token punctuation">(</span>isPaused<span class="token punctuation">)</span>
+</span><span class="code-line">        <span class="token punctuation">{</span>
+</span><span class="code-line">            <span class="token function">ResumeGame</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">;</span>
+</span><span class="code-line">        <span class="token punctuation">}</span>
+</span><span class="code-line">        <span class="token keyword">else</span>
+</span><span class="code-line">        <span class="token punctuation">{</span>
+</span><span class="code-line">            <span class="token function">PauseGame</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">;</span>
+</span><span class="code-line">        <span class="token punctuation">}</span>
+</span><span class="code-line">    <span class="token punctuation">}</span>
+</span><span class="code-line">
+</span><span class="code-line">    <span class="token keyword">private</span> <span class="token return-type class-name"><span class="token keyword">void</span></span> <span class="token function">PauseGame</span><span class="token punctuation">(</span><span class="token punctuation">)</span>
+</span><span class="code-line">    <span class="token punctuation">{</span>
+</span><span class="code-line">        <span class="token comment">// ゲーム時間を停止</span>
+</span><span class="code-line">        Time<span class="token punctuation">.</span>timeScale <span class="token operator">=</span> <span class="token number">0f</span><span class="token punctuation">;</span>
+</span><span class="code-line">
+</span><span class="code-line">        <span class="token comment">// UIを表示</span>
+</span><span class="code-line">        pauseMenuUI<span class="token punctuation">.</span><span class="token function">SetActive</span><span class="token punctuation">(</span><span class="token boolean">true</span><span class="token punctuation">)</span><span class="token punctuation">;</span>
+</span><span class="code-line">
+</span><span class="code-line">        <span class="token comment">// ポーズ状態を更新</span>
+</span><span class="code-line">        isPaused <span class="token operator">=</span> <span class="token boolean">true</span><span class="token punctuation">;</span>
+</span><span class="code-line">    <span class="token punctuation">}</span>
+</span><span class="code-line">
+</span><span class="code-line">    <span class="token keyword">public</span> <span class="token return-type class-name"><span class="token keyword">void</span></span> <span class="token function">ResumeGame</span><span class="token punctuation">(</span><span class="token punctuation">)</span>
+</span><span class="code-line">    <span class="token punctuation">{</span>
+</span><span class="code-line">        <span class="token comment">// ゲーム時間を通常に戻す</span>
+</span><span class="code-line">        Time<span class="token punctuation">.</span>timeScale <span class="token operator">=</span> <span class="token number">1f</span><span class="token punctuation">;</span>
+</span><span class="code-line">
+</span><span class="code-line">        <span class="token comment">// UIを非表示</span>
+</span><span class="code-line">        pauseMenuUI<span class="token punctuation">.</span><span class="token function">SetActive</span><span class="token punctuation">(</span><span class="token boolean">false</span><span class="token punctuation">)</span><span class="token punctuation">;</span>
+</span><span class="code-line">
+</span><span class="code-line">        <span class="token comment">// ポーズ状態を更新</span>
+</span><span class="code-line">        isPaused <span class="token operator">=</span> <span class="token boolean">false</span><span class="token punctuation">;</span>
+</span><span class="code-line">    <span class="token punctuation">}</span>
+</span><span class="code-line">
+</span><span class="code-line">    <span class="token keyword">public</span> <span class="token return-type class-name"><span class="token keyword">void</span></span> <span class="token function">QuitGame</span><span class="token punctuation">(</span><span class="token punctuation">)</span>
+</span><span class="code-line">    <span class="token punctuation">{</span>
+</span><span class="code-line">        <span class="token comment">// ゲーム時間を元に戻す</span>
+</span><span class="code-line">        Time<span class="token punctuation">.</span>timeScale <span class="token operator">=</span> <span class="token number">1f</span><span class="token punctuation">;</span>
+</span><span class="code-line">
+</span><span class="code-line">        <span class="token comment">// アプリケーション終了（エディタでは動作しない）</span>
+</span><span class="code-line">        <span class="token preprocessor property">#<span class="token directive keyword">if</span> UNITY_EDITOR</span>
+</span><span class="code-line">            UnityEditor<span class="token punctuation">.</span>EditorApplication<span class="token punctuation">.</span>isPlaying <span class="token operator">=</span> <span class="token boolean">false</span><span class="token punctuation">;</span>
+</span><span class="code-line">        <span class="token preprocessor property">#<span class="token directive keyword">else</span></span>
+</span><span class="code-line">            Application<span class="token punctuation">.</span><span class="token function">Quit</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">;</span>
+</span><span class="code-line">        <span class="token preprocessor property">#<span class="token directive keyword">endif</span></span>
+</span><span class="code-line">    <span class="token punctuation">}</span>
+</span><span class="code-line">
+</span><span class="code-line">    <span class="token comment">// シーンをロードする機能も追加可能</span>
+</span><span class="code-line">    <span class="token keyword">public</span> <span class="token return-type class-name"><span class="token keyword">void</span></span> <span class="token function">LoadMainMenu</span><span class="token punctuation">(</span><span class="token punctuation">)</span>
+</span><span class="code-line">    <span class="token punctuation">{</span>
+</span><span class="code-line">        Time<span class="token punctuation">.</span>timeScale <span class="token operator">=</span> <span class="token number">1f</span><span class="token punctuation">;</span>
+</span><span class="code-line">        SceneManager<span class="token punctuation">.</span><span class="token function">LoadScene</span><span class="token punctuation">(</span><span class="token string">"MainMenu"</span><span class="token punctuation">)</span><span class="token punctuation">;</span> <span class="token comment">// メインメニューシーンの名前を指定</span>
+</span><span class="code-line">    <span class="token punctuation">}</span>
+</span><span class="code-line"><span class="token punctuation">}</span>
+</span></code></pre>
+<h3>3. スクリプトの適用</h3>
+<ol>
+<li>空のGameObjectを作成し、「GameManager」と名前を付ける</li>
+<li>作成したPauseMenuスクリプトをGameManagerにアタッチ</li>
+<li>インスペクターで以下の参照を設定：
+<ul>
+<li>Pause Menu UI: 作成したポーズメニューのパネルをドラッグ＆ドロップ</li>
+<li>Resume Button: 再開ボタンをドラッグ＆ドロップ</li>
+<li>Quit Button: 終了ボタンをドラッグ＆ドロップ</li>
+</ul>
+</li>
+</ol>
+<h2>コード解説</h2>
+<h3>重要なメソッド</h3>
+<h4>TogglePause()</h4>
+<p>このメソッドは、現在の状態（ポーズ中か通常プレイ中か）を切り替えます。ESCキーが押されたときに呼び出されます。</p>
+<h4>PauseGame()</h4>
+<p>ゲームを一時停止する主要な処理を行います：</p>
+<ul>
+<li><code>Time.timeScale = 0f</code>でゲーム内時間を停止</li>
+<li>ポーズメニューUIを表示</li>
+<li>ポーズ状態フラグを更新</li>
+</ul>
+<h4>ResumeGame()</h4>
+<p>ゲームを再開する処理を行います：</p>
+<ul>
+<li><code>Time.timeScale = 1f</code>でゲーム内時間を通常に戻す</li>
+<li>ポーズメニューUIを非表示</li>
+<li>ポーズ状態フラグを更新</li>
+</ul>
+<h4>QuitGame()</h4>
+<p>ゲームを終了する処理を行います：</p>
+<ul>
+<li>エディターの場合は再生モードを停止</li>
+<li>ビルド済みアプリケーションの場合はアプリケーションを終了</li>
+</ul>
+<h2>UIデザインのポイント</h2>
+<p>効果的なポーズメニューを設計するためのヒント：</p>
+<ol>
+<li><strong>シンプルさを保つ</strong> - 必要最小限の機能に絞り、視覚的にもシンプルに</li>
+<li><strong>コントラスト</strong> - 背景とテキスト/ボタンのコントラストを高くし、視認性を確保</li>
+<li><strong>半透明の背景</strong> - ゲーム画面が少し見えるよう、背景パネルは半透明にすると良い</li>
+<li><strong>アニメーション</strong> - 表示/非表示時に軽いアニメーション効果を加えるとより洗練された印象に</li>
+<li><strong>フォーカス管理</strong> - ポーズメニュー表示時に「再開」ボタンに自動的にフォーカスを設定</li>
+</ol>
+<h2>拡張アイデア</h2>
+<p>基本機能を実装したら、以下の機能を追加してポーズメニューを強化することができます：</p>
+<h3>1. 設定オプション</h3>
+<p>ポーズメニューに設定パネルを追加し、音量調整、グラフィック設定などのオプションを提供します。</p>
+<pre class="language-csharp"><code class="language-csharp code-highlight"><span class="code-line"><span class="token punctuation">[</span><span class="token attribute"><span class="token class-name">SerializeField</span></span><span class="token punctuation">]</span> <span class="token keyword">private</span> <span class="token class-name">Slider</span> volumeSlider<span class="token punctuation">;</span>
+</span><span class="code-line">
+</span><span class="code-line"><span class="token keyword">private</span> <span class="token return-type class-name"><span class="token keyword">void</span></span> <span class="token function">Start</span><span class="token punctuation">(</span><span class="token punctuation">)</span>
+</span><span class="code-line"><span class="token punctuation">{</span>
+</span><span class="code-line">    <span class="token comment">// 既存のコード...</span>
+</span><span class="code-line">
+</span><span class="code-line">    <span class="token comment">// ボリュームスライダーの初期値設定</span>
+</span><span class="code-line">    volumeSlider<span class="token punctuation">.</span><span class="token keyword">value</span> <span class="token operator">=</span> AudioListener<span class="token punctuation">.</span>volume<span class="token punctuation">;</span>
+</span><span class="code-line">    volumeSlider<span class="token punctuation">.</span>onValueChanged<span class="token punctuation">.</span><span class="token function">AddListener</span><span class="token punctuation">(</span>SetVolume<span class="token punctuation">)</span><span class="token punctuation">;</span>
+</span><span class="code-line"><span class="token punctuation">}</span>
+</span><span class="code-line">
+</span><span class="code-line"><span class="token keyword">private</span> <span class="token return-type class-name"><span class="token keyword">void</span></span> <span class="token function">SetVolume</span><span class="token punctuation">(</span><span class="token class-name"><span class="token keyword">float</span></span> volume<span class="token punctuation">)</span>
+</span><span class="code-line"><span class="token punctuation">{</span>
+</span><span class="code-line">    AudioListener<span class="token punctuation">.</span>volume <span class="token operator">=</span> volume<span class="token punctuation">;</span>
+</span><span class="code-line"><span class="token punctuation">}</span>
+</span></code></pre>
+<h3>2. 保存オプション</h3>
+<p>ポーズメニューからゲームの進行状況を保存できる機能も便利です：</p>
+<pre class="language-csharp"><code class="language-csharp code-highlight"><span class="code-line"><span class="token keyword">public</span> <span class="token return-type class-name"><span class="token keyword">void</span></span> <span class="token function">SaveGame</span><span class="token punctuation">(</span><span class="token punctuation">)</span>
+</span><span class="code-line"><span class="token punctuation">{</span>
+</span><span class="code-line">    <span class="token comment">// セーブゲーム処理</span>
+</span><span class="code-line">    Debug<span class="token punctuation">.</span><span class="token function">Log</span><span class="token punctuation">(</span><span class="token string">"ゲームを保存しました"</span><span class="token punctuation">)</span><span class="token punctuation">;</span>
+</span><span class="code-line">
+</span><span class="code-line">    <span class="token comment">// 任意: 保存確認メッセージを表示</span>
+</span><span class="code-line">    <span class="token function">ShowSaveConfirmation</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">;</span>
+</span><span class="code-line"><span class="token punctuation">}</span>
+</span></code></pre>
+<h3>3. 背景ぼかし効果</h3>
+<p>UIパネルの背景だけでなく、ポーズ中はゲーム画面全体をぼかす効果を追加すると、没入感が高まります。これはポストプロセッシングエフェクト（Blur）を使用して実現できます。</p>
+<h2>よくある問題と解決法</h2>
+<h3>一時停止中に他のスクリプトも停止する方法</h3>
+<p><strong>問題</strong>: <code>Time.timeScale = 0f</code>を設定しても、すべてのスクリプト処理が自動的に停止するわけではありません。</p>
+<p><strong>解決策1</strong>: シングルトンパターンを使用したグローバルなポーズ状態の管理</p>
+<pre class="language-csharp"><code class="language-csharp code-highlight"><span class="code-line"><span class="token comment">// PauseManager.cs - シングルトンとして実装</span>
+</span><span class="code-line"><span class="token keyword">public</span> <span class="token keyword">class</span> <span class="token class-name">PauseManager</span> <span class="token punctuation">:</span> <span class="token type-list"><span class="token class-name">MonoBehaviour</span></span>
+</span><span class="code-line"><span class="token punctuation">{</span>
+</span><span class="code-line">    <span class="token keyword">public</span> <span class="token keyword">static</span> <span class="token return-type class-name">PauseManager</span> Instance <span class="token punctuation">{</span> <span class="token keyword">get</span><span class="token punctuation">;</span> <span class="token keyword">private</span> <span class="token keyword">set</span><span class="token punctuation">;</span> <span class="token punctuation">}</span>
+</span><span class="code-line">
+</span><span class="code-line">    <span class="token keyword">public</span> <span class="token return-type class-name"><span class="token keyword">bool</span></span> IsPaused <span class="token punctuation">{</span> <span class="token keyword">get</span><span class="token punctuation">;</span> <span class="token keyword">private</span> <span class="token keyword">set</span><span class="token punctuation">;</span> <span class="token punctuation">}</span>
+</span><span class="code-line">
+</span><span class="code-line">    <span class="token keyword">private</span> <span class="token return-type class-name"><span class="token keyword">void</span></span> <span class="token function">Awake</span><span class="token punctuation">(</span><span class="token punctuation">)</span>
+</span><span class="code-line">    <span class="token punctuation">{</span>
+</span><span class="code-line">        <span class="token keyword">if</span> <span class="token punctuation">(</span>Instance <span class="token operator">==</span> <span class="token keyword">null</span><span class="token punctuation">)</span>
+</span><span class="code-line">        <span class="token punctuation">{</span>
+</span><span class="code-line">            Instance <span class="token operator">=</span> <span class="token keyword">this</span><span class="token punctuation">;</span>
+</span><span class="code-line">            <span class="token function">DontDestroyOnLoad</span><span class="token punctuation">(</span>gameObject<span class="token punctuation">)</span><span class="token punctuation">;</span>
+</span><span class="code-line">        <span class="token punctuation">}</span>
+</span><span class="code-line">        <span class="token keyword">else</span>
+</span><span class="code-line">        <span class="token punctuation">{</span>
+</span><span class="code-line">            <span class="token function">Destroy</span><span class="token punctuation">(</span>gameObject<span class="token punctuation">)</span><span class="token punctuation">;</span>
+</span><span class="code-line">        <span class="token punctuation">}</span>
+</span><span class="code-line">    <span class="token punctuation">}</span>
+</span><span class="code-line">
+</span><span class="code-line">    <span class="token keyword">public</span> <span class="token return-type class-name"><span class="token keyword">void</span></span> <span class="token function">SetPauseState</span><span class="token punctuation">(</span><span class="token class-name"><span class="token keyword">bool</span></span> paused<span class="token punctuation">)</span>
+</span><span class="code-line">    <span class="token punctuation">{</span>
+</span><span class="code-line">        IsPaused <span class="token operator">=</span> paused<span class="token punctuation">;</span>
+</span><span class="code-line">        Time<span class="token punctuation">.</span>timeScale <span class="token operator">=</span> paused <span class="token punctuation">?</span> <span class="token number">0f</span> <span class="token punctuation">:</span> <span class="token number">1f</span><span class="token punctuation">;</span>
+</span><span class="code-line">    <span class="token punctuation">}</span>
+</span><span class="code-line"><span class="token punctuation">}</span>
+</span><span class="code-line">
+</span><span class="code-line"><span class="token comment">// 他のスクリプトでの使用例</span>
+</span><span class="code-line"><span class="token keyword">public</span> <span class="token keyword">class</span> <span class="token class-name">EnemyController</span> <span class="token punctuation">:</span> <span class="token type-list"><span class="token class-name">MonoBehaviour</span></span>
+</span><span class="code-line"><span class="token punctuation">{</span>
+</span><span class="code-line">    <span class="token keyword">private</span> <span class="token return-type class-name"><span class="token keyword">void</span></span> <span class="token function">Update</span><span class="token punctuation">(</span><span class="token punctuation">)</span>
+</span><span class="code-line">    <span class="token punctuation">{</span>
+</span><span class="code-line">        <span class="token comment">// ポーズ中は処理をスキップ</span>
+</span><span class="code-line">        <span class="token keyword">if</span> <span class="token punctuation">(</span>PauseManager<span class="token punctuation">.</span>Instance<span class="token punctuation">.</span>IsPaused<span class="token punctuation">)</span>
+</span><span class="code-line">            <span class="token keyword">return</span><span class="token punctuation">;</span>
+</span><span class="code-line">
+</span><span class="code-line">        <span class="token comment">// 通常の処理</span>
+</span><span class="code-line">        <span class="token function">MoveEnemy</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">;</span>
+</span><span class="code-line">        <span class="token function">CheckCollisions</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">;</span>
+</span><span class="code-line">    <span class="token punctuation">}</span>
+</span><span class="code-line"><span class="token punctuation">}</span>
+</span></code></pre>
+<p><strong>解決策2</strong>: インターフェースを使用した統一的な一時停止機能</p>
+<pre class="language-csharp"><code class="language-csharp code-highlight"><span class="code-line"><span class="token comment">// IPausable.cs - 一時停止可能なオブジェクト用インターフェース</span>
+</span><span class="code-line"><span class="token keyword">public</span> <span class="token keyword">interface</span> <span class="token class-name">IPausable</span>
+</span><span class="code-line"><span class="token punctuation">{</span>
+</span><span class="code-line">    <span class="token return-type class-name"><span class="token keyword">void</span></span> <span class="token function">OnGamePaused</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">;</span>
+</span><span class="code-line">    <span class="token return-type class-name"><span class="token keyword">void</span></span> <span class="token function">OnGameResumed</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">;</span>
+</span><span class="code-line"><span class="token punctuation">}</span>
+</span><span class="code-line">
+</span><span class="code-line"><span class="token comment">// PauseMenu.cs - ポーズ処理の一部を変更</span>
+</span><span class="code-line"><span class="token keyword">public</span> <span class="token keyword">class</span> <span class="token class-name">PauseMenu</span> <span class="token punctuation">:</span> <span class="token type-list"><span class="token class-name">MonoBehaviour</span></span>
+</span><span class="code-line"><span class="token punctuation">{</span>
+</span><span class="code-line">    <span class="token comment">// 既存のコード...</span>
+</span><span class="code-line">
+</span><span class="code-line">    <span class="token keyword">private</span> <span class="token return-type class-name"><span class="token keyword">void</span></span> <span class="token function">PauseGame</span><span class="token punctuation">(</span><span class="token punctuation">)</span>
+</span><span class="code-line">    <span class="token punctuation">{</span>
+</span><span class="code-line">        Time<span class="token punctuation">.</span>timeScale <span class="token operator">=</span> <span class="token number">0f</span><span class="token punctuation">;</span>
+</span><span class="code-line">        pauseMenuUI<span class="token punctuation">.</span><span class="token function">SetActive</span><span class="token punctuation">(</span><span class="token boolean">true</span><span class="token punctuation">)</span><span class="token punctuation">;</span>
+</span><span class="code-line">        isPaused <span class="token operator">=</span> <span class="token boolean">true</span><span class="token punctuation">;</span>
+</span><span class="code-line">
+</span><span class="code-line">        <span class="token comment">// シーン内のすべてのIPausable実装オブジェクトを検索して通知</span>
+</span><span class="code-line">        <span class="token class-name">IPausable<span class="token punctuation">[</span><span class="token punctuation">]</span></span> pausableObjects <span class="token operator">=</span> <span class="token generic-method"><span class="token function">FindObjectsOfType</span><span class="token generic class-name"><span class="token punctuation">&#x3C;</span>MonoBehaviour<span class="token punctuation">></span></span></span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">.</span><span class="token generic-method"><span class="token function">OfType</span><span class="token generic class-name"><span class="token punctuation">&#x3C;</span>IPausable<span class="token punctuation">></span></span></span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">.</span><span class="token function">ToArray</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">;</span>
+</span><span class="code-line">        <span class="token keyword">foreach</span> <span class="token punctuation">(</span><span class="token class-name">IPausable</span> obj <span class="token keyword">in</span> pausableObjects<span class="token punctuation">)</span>
+</span><span class="code-line">        <span class="token punctuation">{</span>
+</span><span class="code-line">            obj<span class="token punctuation">.</span><span class="token function">OnGamePaused</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">;</span>
+</span><span class="code-line">        <span class="token punctuation">}</span>
+</span><span class="code-line">    <span class="token punctuation">}</span>
+</span><span class="code-line">
+</span><span class="code-line">    <span class="token keyword">public</span> <span class="token return-type class-name"><span class="token keyword">void</span></span> <span class="token function">ResumeGame</span><span class="token punctuation">(</span><span class="token punctuation">)</span>
+</span><span class="code-line">    <span class="token punctuation">{</span>
+</span><span class="code-line">        Time<span class="token punctuation">.</span>timeScale <span class="token operator">=</span> <span class="token number">1f</span><span class="token punctuation">;</span>
+</span><span class="code-line">        pauseMenuUI<span class="token punctuation">.</span><span class="token function">SetActive</span><span class="token punctuation">(</span><span class="token boolean">false</span><span class="token punctuation">)</span><span class="token punctuation">;</span>
+</span><span class="code-line">        isPaused <span class="token operator">=</span> <span class="token boolean">false</span><span class="token punctuation">;</span>
+</span><span class="code-line">
+</span><span class="code-line">        <span class="token comment">// シーン内のすべてのIPausable実装オブジェクトを検索して通知</span>
+</span><span class="code-line">        <span class="token class-name">IPausable<span class="token punctuation">[</span><span class="token punctuation">]</span></span> pausableObjects <span class="token operator">=</span> <span class="token generic-method"><span class="token function">FindObjectsOfType</span><span class="token generic class-name"><span class="token punctuation">&#x3C;</span>MonoBehaviour<span class="token punctuation">></span></span></span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">.</span><span class="token generic-method"><span class="token function">OfType</span><span class="token generic class-name"><span class="token punctuation">&#x3C;</span>IPausable<span class="token punctuation">></span></span></span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">.</span><span class="token function">ToArray</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">;</span>
+</span><span class="code-line">        <span class="token keyword">foreach</span> <span class="token punctuation">(</span><span class="token class-name">IPausable</span> obj <span class="token keyword">in</span> pausableObjects<span class="token punctuation">)</span>
+</span><span class="code-line">        <span class="token punctuation">{</span>
+</span><span class="code-line">            obj<span class="token punctuation">.</span><span class="token function">OnGameResumed</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">;</span>
+</span><span class="code-line">        <span class="token punctuation">}</span>
+</span><span class="code-line">    <span class="token punctuation">}</span>
+</span><span class="code-line"><span class="token punctuation">}</span>
+</span><span class="code-line">
+</span><span class="code-line"><span class="token comment">// 実装例</span>
+</span><span class="code-line"><span class="token keyword">public</span> <span class="token keyword">class</span> <span class="token class-name">EnemyAI</span> <span class="token punctuation">:</span> <span class="token type-list"><span class="token class-name">MonoBehaviour</span><span class="token punctuation">,</span> <span class="token class-name">IPausable</span></span>
+</span><span class="code-line"><span class="token punctuation">{</span>
+</span><span class="code-line">    <span class="token keyword">private</span> <span class="token class-name"><span class="token keyword">bool</span></span> isPaused <span class="token operator">=</span> <span class="token boolean">false</span><span class="token punctuation">;</span>
+</span><span class="code-line">
+</span><span class="code-line">    <span class="token keyword">private</span> <span class="token return-type class-name"><span class="token keyword">void</span></span> <span class="token function">Update</span><span class="token punctuation">(</span><span class="token punctuation">)</span>
+</span><span class="code-line">    <span class="token punctuation">{</span>
+</span><span class="code-line">        <span class="token keyword">if</span> <span class="token punctuation">(</span>isPaused<span class="token punctuation">)</span>
+</span><span class="code-line">            <span class="token keyword">return</span><span class="token punctuation">;</span>
+</span><span class="code-line">
+</span><span class="code-line">        <span class="token comment">// 通常のAI処理</span>
+</span><span class="code-line">    <span class="token punctuation">}</span>
+</span><span class="code-line">
+</span><span class="code-line">    <span class="token keyword">public</span> <span class="token return-type class-name"><span class="token keyword">void</span></span> <span class="token function">OnGamePaused</span><span class="token punctuation">(</span><span class="token punctuation">)</span>
+</span><span class="code-line">    <span class="token punctuation">{</span>
+</span><span class="code-line">        isPaused <span class="token operator">=</span> <span class="token boolean">true</span><span class="token punctuation">;</span>
+</span><span class="code-line">        <span class="token comment">// 必要に応じて追加の一時停止処理</span>
+</span><span class="code-line">    <span class="token punctuation">}</span>
+</span><span class="code-line">
+</span><span class="code-line">    <span class="token keyword">public</span> <span class="token return-type class-name"><span class="token keyword">void</span></span> <span class="token function">OnGameResumed</span><span class="token punctuation">(</span><span class="token punctuation">)</span>
+</span><span class="code-line">    <span class="token punctuation">{</span>
+</span><span class="code-line">        isPaused <span class="token operator">=</span> <span class="token boolean">false</span><span class="token punctuation">;</span>
+</span><span class="code-line">        <span class="token comment">// 必要に応じて追加の再開処理</span>
+</span><span class="code-line">    <span class="token punctuation">}</span>
+</span><span class="code-line"><span class="token punctuation">}</span>
+</span></code></pre>
+<p><strong>解決策3</strong>: イベントシステムを使用した方法</p>
+<pre class="language-csharp"><code class="language-csharp code-highlight"><span class="code-line"><span class="token comment">// PauseEvents.cs</span>
+</span><span class="code-line"><span class="token keyword">public</span> <span class="token keyword">static</span> <span class="token keyword">class</span> <span class="token class-name">PauseEvents</span>
+</span><span class="code-line"><span class="token punctuation">{</span>
+</span><span class="code-line">    <span class="token keyword">public</span> <span class="token keyword">static</span> <span class="token keyword">event</span> <span class="token class-name">Action</span> OnGamePaused<span class="token punctuation">;</span>
+</span><span class="code-line">    <span class="token keyword">public</span> <span class="token keyword">static</span> <span class="token keyword">event</span> <span class="token class-name">Action</span> OnGameResumed<span class="token punctuation">;</span>
+</span><span class="code-line">
+</span><span class="code-line">    <span class="token keyword">public</span> <span class="token keyword">static</span> <span class="token return-type class-name"><span class="token keyword">void</span></span> <span class="token function">TriggerPause</span><span class="token punctuation">(</span><span class="token punctuation">)</span>
+</span><span class="code-line">    <span class="token punctuation">{</span>
+</span><span class="code-line">        OnGamePaused<span class="token punctuation">?.</span><span class="token function">Invoke</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">;</span>
+</span><span class="code-line">    <span class="token punctuation">}</span>
+</span><span class="code-line">
+</span><span class="code-line">    <span class="token keyword">public</span> <span class="token keyword">static</span> <span class="token return-type class-name"><span class="token keyword">void</span></span> <span class="token function">TriggerResume</span><span class="token punctuation">(</span><span class="token punctuation">)</span>
+</span><span class="code-line">    <span class="token punctuation">{</span>
+</span><span class="code-line">        OnGameResumed<span class="token punctuation">?.</span><span class="token function">Invoke</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">;</span>
+</span><span class="code-line">    <span class="token punctuation">}</span>
+</span><span class="code-line"><span class="token punctuation">}</span>
+</span><span class="code-line">
+</span><span class="code-line"><span class="token comment">// PauseMenu.cs内で</span>
+</span><span class="code-line"><span class="token keyword">private</span> <span class="token return-type class-name"><span class="token keyword">void</span></span> <span class="token function">PauseGame</span><span class="token punctuation">(</span><span class="token punctuation">)</span>
+</span><span class="code-line"><span class="token punctuation">{</span>
+</span><span class="code-line">    Time<span class="token punctuation">.</span>timeScale <span class="token operator">=</span> <span class="token number">0f</span><span class="token punctuation">;</span>
+</span><span class="code-line">    pauseMenuUI<span class="token punctuation">.</span><span class="token function">SetActive</span><span class="token punctuation">(</span><span class="token boolean">true</span><span class="token punctuation">)</span><span class="token punctuation">;</span>
+</span><span class="code-line">    isPaused <span class="token operator">=</span> <span class="token boolean">true</span><span class="token punctuation">;</span>
+</span><span class="code-line">
+</span><span class="code-line">    <span class="token comment">// イベント発行</span>
+</span><span class="code-line">    PauseEvents<span class="token punctuation">.</span><span class="token function">TriggerPause</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">;</span>
+</span><span class="code-line"><span class="token punctuation">}</span>
+</span><span class="code-line">
+</span><span class="code-line"><span class="token comment">// 各スクリプトで</span>
+</span><span class="code-line"><span class="token keyword">private</span> <span class="token return-type class-name"><span class="token keyword">void</span></span> <span class="token function">Awake</span><span class="token punctuation">(</span><span class="token punctuation">)</span>
+</span><span class="code-line"><span class="token punctuation">{</span>
+</span><span class="code-line">    PauseEvents<span class="token punctuation">.</span>OnGamePaused <span class="token operator">+=</span> HandleGamePaused<span class="token punctuation">;</span>
+</span><span class="code-line">    PauseEvents<span class="token punctuation">.</span>OnGameResumed <span class="token operator">+=</span> HandleGameResumed<span class="token punctuation">;</span>
+</span><span class="code-line"><span class="token punctuation">}</span>
+</span><span class="code-line">
+</span><span class="code-line"><span class="token keyword">private</span> <span class="token return-type class-name"><span class="token keyword">void</span></span> <span class="token function">OnDestroy</span><span class="token punctuation">(</span><span class="token punctuation">)</span>
+</span><span class="code-line"><span class="token punctuation">{</span>
+</span><span class="code-line">    PauseEvents<span class="token punctuation">.</span>OnGamePaused <span class="token operator">-=</span> HandleGamePaused<span class="token punctuation">;</span>
+</span><span class="code-line">    PauseEvents<span class="token punctuation">.</span>OnGameResumed <span class="token operator">-=</span> HandleGameResumed<span class="token punctuation">;</span>
+</span><span class="code-line"><span class="token punctuation">}</span>
+</span><span class="code-line">
+</span><span class="code-line"><span class="token keyword">private</span> <span class="token return-type class-name"><span class="token keyword">void</span></span> <span class="token function">HandleGamePaused</span><span class="token punctuation">(</span><span class="token punctuation">)</span>
+</span><span class="code-line"><span class="token punctuation">{</span>
+</span><span class="code-line">    <span class="token comment">// 一時停止時の処理</span>
+</span><span class="code-line">    enabled <span class="token operator">=</span> <span class="token boolean">false</span><span class="token punctuation">;</span> <span class="token comment">// Monobehaviourを無効化する方法もある</span>
+</span><span class="code-line"><span class="token punctuation">}</span>
+</span><span class="code-line">
+</span><span class="code-line"><span class="token keyword">private</span> <span class="token return-type class-name"><span class="token keyword">void</span></span> <span class="token function">HandleGameResumed</span><span class="token punctuation">(</span><span class="token punctuation">)</span>
+</span><span class="code-line"><span class="token punctuation">{</span>
+</span><span class="code-line">    <span class="token comment">// ゲーム再開時の処理</span>
+</span><span class="code-line">    enabled <span class="token operator">=</span> <span class="token boolean">true</span><span class="token punctuation">;</span>
+</span><span class="code-line"><span class="token punctuation">}</span>
+</span></code></pre>
+<h3>ポーズ中にもアニメーションが続く</h3>
+<p><strong>問題</strong>: <code>Time.timeScale = 0f</code>を設定しても特定のアニメーションが停止しない。</p>
+<p><strong>解決策</strong>: Animatorコンポーネントで「Update Mode」を「Normal」から「AnimatePhysics」に変更します。これにより、アニメーションがtime scaleの影響を受けるようになります。</p>
+<h3>オーディオが停止しない</h3>
+<p><strong>問題</strong>: ゲームを一時停止してもBGMや効果音が鳴り続ける。</p>
+<p><strong>解決策</strong>: Time.timeScaleはオーディオには自動的に影響しないため、明示的に一時停止する必要があります：</p>
+<pre class="language-csharp"><code class="language-csharp code-highlight"><span class="code-line"><span class="token punctuation">[</span><span class="token attribute"><span class="token class-name">SerializeField</span></span><span class="token punctuation">]</span> <span class="token keyword">private</span> <span class="token class-name">AudioSource<span class="token punctuation">[</span><span class="token punctuation">]</span></span> sourcesToPause<span class="token punctuation">;</span>
+</span><span class="code-line">
+</span><span class="code-line"><span class="token keyword">private</span> <span class="token return-type class-name"><span class="token keyword">void</span></span> <span class="token function">PauseGame</span><span class="token punctuation">(</span><span class="token punctuation">)</span>
+</span><span class="code-line"><span class="token punctuation">{</span>
+</span><span class="code-line">    <span class="token comment">// 既存のコード...</span>
+</span><span class="code-line">
+</span><span class="code-line">    <span class="token comment">// すべてのオーディオソースを一時停止</span>
+</span><span class="code-line">    <span class="token keyword">foreach</span> <span class="token punctuation">(</span><span class="token class-name"><span class="token keyword">var</span></span> source <span class="token keyword">in</span> sourcesToPause<span class="token punctuation">)</span>
+</span><span class="code-line">    <span class="token punctuation">{</span>
+</span><span class="code-line">        source<span class="token punctuation">.</span><span class="token function">Pause</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">;</span>
+</span><span class="code-line">    <span class="token punctuation">}</span>
+</span><span class="code-line"><span class="token punctuation">}</span>
+</span><span class="code-line">
+</span><span class="code-line"><span class="token keyword">private</span> <span class="token return-type class-name"><span class="token keyword">void</span></span> <span class="token function">ResumeGame</span><span class="token punctuation">(</span><span class="token punctuation">)</span>
+</span><span class="code-line"><span class="token punctuation">{</span>
+</span><span class="code-line">    <span class="token comment">// 既存のコード...</span>
+</span><span class="code-line">
+</span><span class="code-line">    <span class="token comment">// すべてのオーディオソースを再開</span>
+</span><span class="code-line">    <span class="token keyword">foreach</span> <span class="token punctuation">(</span><span class="token class-name"><span class="token keyword">var</span></span> source <span class="token keyword">in</span> sourcesToPause<span class="token punctuation">)</span>
+</span><span class="code-line">    <span class="token punctuation">{</span>
+</span><span class="code-line">        source<span class="token punctuation">.</span><span class="token function">UnPause</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">;</span>
+</span><span class="code-line">    <span class="token punctuation">}</span>
+</span><span class="code-line"><span class="token punctuation">}</span>
+</span></code></pre>
+<h3>モバイル対応</h3>
+<p><strong>問題</strong>: モバイルゲームではESCキーが使えない。</p>
+<p><strong>解決策</strong>: UI上に専用のポーズボタンを追加し、それをタップできるようにします：</p>
+<pre class="language-csharp"><code class="language-csharp code-highlight"><span class="code-line"><span class="token punctuation">[</span><span class="token attribute"><span class="token class-name">SerializeField</span></span><span class="token punctuation">]</span> <span class="token keyword">private</span> <span class="token class-name">Button</span> pauseButton<span class="token punctuation">;</span>
+</span><span class="code-line">
+</span><span class="code-line"><span class="token keyword">private</span> <span class="token return-type class-name"><span class="token keyword">void</span></span> <span class="token function">Start</span><span class="token punctuation">(</span><span class="token punctuation">)</span>
+</span><span class="code-line"><span class="token punctuation">{</span>
+</span><span class="code-line">    <span class="token comment">// 既存のコード...</span>
+</span><span class="code-line">
+</span><span class="code-line">    <span class="token comment">// ポーズボタンのリスナー追加</span>
+</span><span class="code-line">    pauseButton<span class="token punctuation">.</span>onClick<span class="token punctuation">.</span><span class="token function">AddListener</span><span class="token punctuation">(</span>PauseGame<span class="token punctuation">)</span><span class="token punctuation">;</span>
+</span><span class="code-line"><span class="token punctuation">}</span>
+</span></code></pre>
+<h2>まとめ</h2>
+<p>プロフェッショナルなポーズメニューは、ゲームプレイ体験を大きく向上させる重要な要素です。基本的な実装は比較的シンプルですが、細部にこだわることで、ユーザーフレンドリーで直感的なポーズシステムを構築することができます。</p>
+<p>この記事で紹介した手法を基本として、自分のゲームに最適なポーズ機能をカスタマイズしてください。ゲームのジャンルや対象プラットフォームによって、ポーズメニューに必要な機能は変わってくるでしょう。プレイヤーの視点に立ち、使いやすさを優先したデザインを心がけることが成功の鍵です。</p>
+<hr>
+<p><em>この記事は、Unity 2022.3以降のバージョンを前提に作成されています。新しいバージョンでは仕様が変更されている可能性があるため、適宜公式ドキュメントを参照してください。</em></p>
+<h2>参考リンク</h2>
+<ul>
+<li><a href="https://docs.unity3d.com/ScriptReference/Time-timeScale.html" rel="nofollow" target="_blank">Unity公式ドキュメント - Time.timeScale</a></li>
+<li><a href="https://docs.unity3d.com/Manual/UISystem.html" rel="nofollow" target="_blank">Unity公式ドキュメント - UI システム</a></li>
+<li><a href="https://docs.unity3d.com/Packages/com.unity.postprocessing@latest" rel="nofollow" target="_blank">ポストプロセッシングスタックの使い方</a></li>
+</ul>2:["$","article",null,{"className":"min-h-screen","children":[["$","div",null,{"className":"bg-gradient-to-b from-green-50/60 to-transparent dark:from-gray-900 dark:to-transparent","children":["$","div",null,{"className":"max-w-4xl mx-auto px-6 md:px-8 pt-28 md:pt-32 pb-10 md:pb-14","children":[["$","h1",null,{"className":"font-katyou text-4xl md:text-5xl lg:text-6xl text-gray-900 dark:text-white leading-tight mb-6","children":"Unityでプロフェッショナルなポーズメニューを実装する方法"}],["$","time",null,{"className":"text-base font-medium text-gray-600 dark:text-gray-400","children":"2025-02-26"}]]}]}],["$","div",null,{"className":"max-w-4xl mx-auto px-6 md:px-8 pb-16 md:pb-24","children":[["$","div",null,{"id":"post-content","className":"prose prose-lg dark:prose-invert max-w-none prose-headings:font-katyou prose-headings:tracking-tight prose-h2:text-3xl prose-h2:mt-12 prose-h2:mb-6 prose-h3:text-2xl prose-h3:mt-10 prose-h3:mb-5 prose-h4:text-xl prose-h4:mt-8 prose-h4:mb-4 prose-p:leading-relaxed prose-p:mb-6 prose-li:my-2 prose-a:text-green-600 prose-a:no-underline prose-a:font-medium hover:prose-a:text-green-700 hover:prose-a:underline dark:prose-a:text-green-400 dark:hover:prose-a:text-green-300 prose-code:text-green-700 prose-code:bg-green-50 dark:prose-code:text-green-300 dark:prose-code:bg-green-900/20 prose-pre:bg-gray-900 dark:prose-pre:bg-gray-950 prose-img:rounded-lg prose-img:shadow-md prose-hr:my-12 prose-hr:border-gray-300 dark:prose-hr:border-gray-700 border-t border-gray-200 dark:border-gray-800 pt-8","dangerouslySetInnerHTML":{"__html":"$d"}}],["$","$Le",null,{}],["$","div",null,{"className":"mt-16 pt-10 border-t border-gray-200 dark:border-gray-800","children":[["$","p",null,{"className":"text-sm font-semibold text-gray-500 dark:text-gray-400 mb-4","children":"タグ"}],["$","div",null,{"className":"flex flex-wrap gap-2.5","children":[["$","$L9","Unity",{"href":"/tags/Unity","className":"inline-flex items-center px-4 py-1.5 rounded-full text-sm font-medium bg-green-100 text-green-800 dark:bg-green-900/30 dark:text-green-300 hover:bg-green-200 dark:hover:bg-green-800/50 transition-colors duration-200 shadow-sm","children":"Unity"}],["$","$L9","C#",{"href":"/tags/C#","className":"inline-flex items-center px-4 py-1.5 rounded-full text-sm font-medium bg-green-100 text-green-800 dark:bg-green-900/30 dark:text-green-300 hover:bg-green-200 dark:hover:bg-green-800/50 transition-colors duration-200 shadow-sm","children":"C#"}],["$","$L9","ゲーム開発",{"href":"/tags/ゲーム開発","className":"inline-flex items-center px-4 py-1.5 rounded-full text-sm font-medium bg-green-100 text-green-800 dark:bg-green-900/30 dark:text-green-300 hover:bg-green-200 dark:hover:bg-green-800/50 transition-colors duration-200 shadow-sm","children":"ゲーム開発"}],["$","$L9","UI",{"href":"/tags/UI","className":"inline-flex items-center px-4 py-1.5 rounded-full text-sm font-medium bg-green-100 text-green-800 dark:bg-green-900/30 dark:text-green-300 hover:bg-green-200 dark:hover:bg-green-800/50 transition-colors duration-200 shadow-sm","children":"UI"}]]}]]}]]}]]}]
+c:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"Unityでプロフェッショナルなポーズメニューを実装する方法 | ブログタイトル"}],["$","meta","3",{"name":"description","content":"Unity開発者向けに、ゲームを一時停止して再開・終了ボタンを表示する完全ガイド。初心者から中級者まで、コード例付きで解説します。"}],["$","meta","4",{"property":"og:title","content":"Unityでプロフェッショナルなポーズメニューを実装する方法"}],["$","meta","5",{"property":"og:description","content":"Unity開発者向けに、ゲームを一時停止して再開・終了ボタンを表示する完全ガイド。初心者から中級者まで、コード例付きで解説します。"}],["$","meta","6",{"property":"og:url","content":"https://maemaemae.blog/posts/unity_20250226"}],["$","meta","7",{"property":"og:image","content":"https://maemaemae.blog/images/unity-pause-menu.jpg"}],["$","meta","8",{"property":"og:type","content":"article"}],["$","meta","9",{"property":"article:published_time","content":"2025-02-26"}],["$","meta","10",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","11",{"name":"twitter:title","content":"Unityでプロフェッショナルなポーズメニューを実装する方法"}],["$","meta","12",{"name":"twitter:description","content":"Unity開発者向けに、ゲームを一時停止して再開・終了ボタンを表示する完全ガイド。初心者から中級者まで、コード例付きで解説します。"}],["$","meta","13",{"name":"twitter:image","content":"https://maemaemae.blog/images/unity-pause-menu.jpg"}],["$","link","14",{"rel":"icon","href":"/favicon.ico","type":"image/x-icon","sizes":"16x16"}],["$","meta","15",{"name":"next-size-adjust"}]]
+1:null

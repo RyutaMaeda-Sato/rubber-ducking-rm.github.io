@@ -1,0 +1,284 @@
+3:I[4707,[],""]
+5:I[6423,[],""]
+6:I[4888,["972","static/chunks/972-f241a8fd644428c6.js","70","static/chunks/70-f52c2ad284c6cd86.js","185","static/chunks/app/layout-97d049cf0fc78146.js"],"GoogleAnalytics"]
+7:I[6806,["972","static/chunks/972-f241a8fd644428c6.js","70","static/chunks/70-f52c2ad284c6cd86.js","185","static/chunks/app/layout-97d049cf0fc78146.js"],"default"]
+8:I[7213,["972","static/chunks/972-f241a8fd644428c6.js","70","static/chunks/70-f52c2ad284c6cd86.js","185","static/chunks/app/layout-97d049cf0fc78146.js"],"default"]
+9:I[2972,["972","static/chunks/972-f241a8fd644428c6.js","333","static/chunks/app/posts/%5Bslug%5D/page-acd6669982df1354.js"],""]
+a:I[5878,["972","static/chunks/972-f241a8fd644428c6.js","70","static/chunks/70-f52c2ad284c6cd86.js","185","static/chunks/app/layout-97d049cf0fc78146.js"],"Image"]
+b:I[2374,["972","static/chunks/972-f241a8fd644428c6.js","70","static/chunks/70-f52c2ad284c6cd86.js","185","static/chunks/app/layout-97d049cf0fc78146.js"],"default"]
+4:["slug","godot_202505020","d"]
+0:["0oJGNGFmzz_LorUWHIimP",[[["",{"children":["posts",{"children":[["slug","godot_202505020","d"],{"children":["__PAGE__?{\"slug\":\"godot_202505020\"}",{}]}]}]},"$undefined","$undefined",true],["",{"children":["posts",{"children":[["slug","godot_202505020","d"],{"children":["__PAGE__",{},[["$L1","$L2",null],null],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","posts","children","$4","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","posts","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/3add334ee59f67ac.css","precedence":"next","crossOrigin":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/css/cec3dd424af6abe7.css","precedence":"next","crossOrigin":"$undefined"}],["$","link","2",{"rel":"stylesheet","href":"/_next/static/css/31924b81bd2c71c2.css","precedence":"next","crossOrigin":"$undefined"}]],["$","html",null,{"lang":"jp","className":"__variable_f367f3 __variable_8c8862 __variable_6beb74 __variable_b784c9 __variable_d575de","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){try{var s=localStorage.getItem('darkMode');var p=window.matchMedia('(prefers-color-scheme: dark)').matches;if(s!==null?s==='true':p){document.documentElement.classList.add('dark');}}catch(e){}})();"}}],["$","$L6",null,{"gaId":"G-FWRP8962MB"}]]}],["$","body",null,{"className":"__className_f367f3","children":["$","$L7",null,{"children":[["$","header",null,{"children":["$","$L8",null,{"children":["$","div",null,{"className":"fixed top-0 left-0 w-full z-50 bg-green-700 dark:bg-gray-900 shadow-md border-b border-green-600/50 dark:border-gray-800","children":["$","div",null,{"className":"max-w-7xl mx-auto","children":["$","div",null,{"className":"flex items-center justify-between px-6 md:px-8 h-20 md:h-24","children":[["$","$L9",null,{"href":"/","className":"group flex items-center gap-3 transition-opacity hover:opacity-80","children":[["$","$La",null,{"alt":"Maemaemae","src":"/header.jpg","width":44,"height":44,"className":"rounded-full object-cover ring-2 ring-white/20 group-hover:ring-white/40 transition-all"}],["$","span",null,{"className":"text-xl md:text-2xl font-katyou text-[#fffef9] tracking-wide","children":"Maemaemae"}]]}],["$","div",null,{"className":"flex items-center gap-2","children":[["$","a",null,{"href":"https://x.com/maemaemae_rm","target":"_blank","rel":"noopener noreferrer","className":"p-2.5 rounded-full hover:bg-white/10 transition-colors","aria-label":"X (Twitter)","children":["$","$La",null,{"src":"/x-logo-white.png","width":24,"height":24,"alt":""}]}],["$","$Lb",null,{}]]}]]}]}]}]}]}],["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[]}]]}]}]]}]],null],null],["$Lc",null]]]]
+e:I[7426,["972","static/chunks/972-f241a8fd644428c6.js","333","static/chunks/app/posts/%5Bslug%5D/page-acd6669982df1354.js"],"default"]
+d:Ta76d,<h2>はじめに</h2>
+<p>ゲーム開発において、プレイヤーの入力を適切に処理することは最も基本的かつ重要な要素の一つです。Godotエンジンでは、柔軟で強力な入力システムが提供されており、キーボード、マウス、ゲームパッドなどさまざまな入力デバイスからの操作を簡単に処理できます。</p>
+<p>この記事では、Godot 4の入力システムの基礎から応用まで、実例を交えながら解説します。この記事を読むことで、以下のことができるようになります：</p>
+<ul>
+<li>基本的な入力イベントの処理方法の理解</li>
+<li>InputMapシステムの効果的な活用方法の習得</li>
+<li>デバッグに役立つ入力情報の取得テクニック</li>
+<li>マルチプラットフォーム対応のための入力設計のコツ</li>
+</ul>
+<h2>基本的な入力処理の仕組み</h2>
+<p>Godotでは、入力処理の方法として主に2つのアプローチがあります：</p>
+<ol>
+<li>入力イベントの直接処理 (<code>_input</code> や <code>_unhandled_input</code> 関数を使用)</li>
+<li>InputMapを活用したアクション処理 (<code>Input.is_action_pressed</code> などの関数を使用)</li>
+</ol>
+<p>まずは基本となる入力イベントの処理方法から見ていきましょう。</p>
+<h3>入力イベント処理の基本</h3>
+<p>Godotでは、<code>_input</code>関数をオーバーライドすることで、あらゆる入力イベントをキャッチできます。</p>
+<pre class="language-gdscript"><code class="language-gdscript code-highlight"><span class="code-line"><span class="token keyword">func</span> <span class="token function">_input</span><span class="token punctuation">(</span>event<span class="token punctuation">)</span><span class="token punctuation">:</span>
+</span><span class="code-line">    <span class="token comment"># キー入力イベントを処理</span>
+</span><span class="code-line">    <span class="token keyword">if</span> event <span class="token keyword">is</span> InputEventKey <span class="token keyword">and</span> event<span class="token punctuation">.</span>pressed <span class="token keyword">and</span> <span class="token keyword">not</span> event<span class="token punctuation">.</span>echo<span class="token punctuation">:</span>
+</span><span class="code-line">        <span class="token keyword">var</span> keycode <span class="token operator">=</span> event<span class="token punctuation">.</span>keycode
+</span><span class="code-line">        <span class="token function">print</span><span class="token punctuation">(</span><span class="token string">"押されたキー: "</span><span class="token punctuation">,</span> <span class="token constant">OS</span><span class="token punctuation">.</span><span class="token function">get_keycode_string</span><span class="token punctuation">(</span>keycode<span class="token punctuation">)</span><span class="token punctuation">)</span>
+</span></code></pre>
+<p>このコードでは、キーが押されたときにそのキーの文字列表現をコンソールに出力します。<code>event.echo</code>をチェックすることで、キーの長押しによる連続入力を無視しています。</p>
+<h3>InputMapを活用したアクション処理</h3>
+<p>実際のゲーム開発では、特定のキーコードに直接依存するよりも、InputMapを使ったアクション名でのマッピングがより柔軟です。これにより、プラットフォーム間の違いを吸収したり、プレイヤーによるキー設定のカスタマイズが容易になります。</p>
+<p>以下は、現在押されたキーに対応するアクションを確認するコードです：</p>
+<pre class="language-gdscript"><code class="language-gdscript code-highlight"><span class="code-line"><span class="token keyword">func</span> <span class="token function">_input</span><span class="token punctuation">(</span>event<span class="token punctuation">)</span><span class="token punctuation">:</span>
+</span><span class="code-line">    <span class="token keyword">if</span> event <span class="token keyword">is</span> InputEventKey <span class="token keyword">and</span> event<span class="token punctuation">.</span>pressed <span class="token keyword">and</span> <span class="token keyword">not</span> event<span class="token punctuation">.</span>echo<span class="token punctuation">:</span>
+</span><span class="code-line">        <span class="token keyword">var</span> keycode <span class="token operator">=</span> event<span class="token punctuation">.</span>keycode
+</span><span class="code-line">        <span class="token function">print</span><span class="token punctuation">(</span><span class="token string">"押されたキー: "</span><span class="token punctuation">,</span> <span class="token constant">OS</span><span class="token punctuation">.</span><span class="token function">get_keycode_string</span><span class="token punctuation">(</span>keycode<span class="token punctuation">)</span><span class="token punctuation">)</span>
+</span><span class="code-line">
+</span><span class="code-line">        <span class="token comment"># すべてのアクションを確認</span>
+</span><span class="code-line">        <span class="token keyword">var</span> actions <span class="token operator">=</span> InputMap<span class="token punctuation">.</span><span class="token function">get_actions</span><span class="token punctuation">(</span><span class="token punctuation">)</span>
+</span><span class="code-line">        <span class="token keyword">var</span> matching_actions <span class="token operator">=</span> <span class="token punctuation">[</span><span class="token punctuation">]</span>
+</span><span class="code-line">
+</span><span class="code-line">        <span class="token keyword">for</span> action <span class="token keyword">in</span> actions<span class="token punctuation">:</span>
+</span><span class="code-line">            <span class="token keyword">if</span> Input<span class="token punctuation">.</span><span class="token function">is_action_just_pressed</span><span class="token punctuation">(</span>action<span class="token punctuation">)</span><span class="token punctuation">:</span>
+</span><span class="code-line">                matching_actions<span class="token punctuation">.</span><span class="token function">append</span><span class="token punctuation">(</span>action<span class="token punctuation">)</span>
+</span><span class="code-line">
+</span><span class="code-line">        <span class="token keyword">if</span> matching_actions<span class="token punctuation">.</span><span class="token function">size</span><span class="token punctuation">(</span><span class="token punctuation">)</span> <span class="token operator">></span> <span class="token number">0</span><span class="token punctuation">:</span>
+</span><span class="code-line">            <span class="token function">print</span><span class="token punctuation">(</span><span class="token string">"このキーに対応するアクション: "</span><span class="token punctuation">,</span> matching_actions<span class="token punctuation">)</span>
+</span><span class="code-line">        <span class="token keyword">else</span><span class="token punctuation">:</span>
+</span><span class="code-line">            <span class="token function">print</span><span class="token punctuation">(</span><span class="token string">"このキーに対応するアクションはありません"</span><span class="token punctuation">)</span>
+</span></code></pre>
+<p>このコードは、キーが押されたときに以下の情報を提供します：</p>
+<ol>
+<li>押されたキーの文字列表現</li>
+<li>そのキーに対応するInputMapのアクション一覧</li>
+</ol>
+<h2>入力デバッグの実践テクニック</h2>
+<p>開発中のゲームで入力関連の問題をトラブルシューティングする場合、上記のコードは非常に役立ちます。ここでは、さらに実践的なデバッグテクニックを紹介します。</p>
+<h3>デバッグ用のオーバーレイ表示</h3>
+<p>開発中は、現在の入力状態を画面上に表示すると便利です。以下は簡単なオーバーレイ表示の実装例です：</p>
+<pre class="language-gdscript"><code class="language-gdscript code-highlight"><span class="code-line"><span class="token keyword">extends</span> <span class="token class-name">CanvasLayer</span>
+</span><span class="code-line">
+</span><span class="code-line"><span class="token keyword">var</span> active_actions <span class="token operator">=</span> <span class="token punctuation">[</span><span class="token punctuation">]</span>
+</span><span class="code-line">
+</span><span class="code-line"><span class="token keyword">func</span> <span class="token function">_process</span><span class="token punctuation">(</span>_delta<span class="token punctuation">)</span><span class="token punctuation">:</span>
+</span><span class="code-line">    <span class="token comment"># 更新のたびにアクティブなアクションをクリア</span>
+</span><span class="code-line">    active_actions<span class="token punctuation">.</span><span class="token function">clear</span><span class="token punctuation">(</span><span class="token punctuation">)</span>
+</span><span class="code-line">
+</span><span class="code-line">    <span class="token comment"># すべてのアクションを確認</span>
+</span><span class="code-line">    <span class="token keyword">var</span> actions <span class="token operator">=</span> InputMap<span class="token punctuation">.</span><span class="token function">get_actions</span><span class="token punctuation">(</span><span class="token punctuation">)</span>
+</span><span class="code-line">    <span class="token keyword">for</span> action <span class="token keyword">in</span> actions<span class="token punctuation">:</span>
+</span><span class="code-line">        <span class="token keyword">if</span> Input<span class="token punctuation">.</span><span class="token function">is_action_pressed</span><span class="token punctuation">(</span>action<span class="token punctuation">)</span><span class="token punctuation">:</span>
+</span><span class="code-line">            active_actions<span class="token punctuation">.</span><span class="token function">append</span><span class="token punctuation">(</span>action<span class="token punctuation">)</span>
+</span><span class="code-line">
+</span><span class="code-line">    <span class="token comment"># 表示更新</span>
+</span><span class="code-line">    <span class="token variable">$Label</span><span class="token punctuation">.</span>text <span class="token operator">=</span> <span class="token string">"アクティブなアクション: "</span> <span class="token operator">+</span> <span class="token function">str</span><span class="token punctuation">(</span>active_actions<span class="token punctuation">)</span>
+</span></code></pre>
+<p>このスクリプトをCanvasLayerノードにアタッチし、子ノードとしてLabelを追加することで、現在アクティブなアクションをリアルタイムで表示できます。</p>
+<h3>入力イベントの詳細情報取得</h3>
+<p>より詳細な入力情報が必要な場合は、イベントオブジェクトから追加情報を取得できます：</p>
+<pre class="language-gdscript"><code class="language-gdscript code-highlight"><span class="code-line"><span class="token keyword">func</span> <span class="token function">_input</span><span class="token punctuation">(</span>event<span class="token punctuation">)</span><span class="token punctuation">:</span>
+</span><span class="code-line">    <span class="token keyword">if</span> event <span class="token keyword">is</span> InputEventKey <span class="token keyword">and</span> event<span class="token punctuation">.</span>pressed<span class="token punctuation">:</span>
+</span><span class="code-line">        <span class="token keyword">var</span> info <span class="token operator">=</span> <span class="token punctuation">{</span>
+</span><span class="code-line">            <span class="token string">"keycode"</span><span class="token punctuation">:</span> event<span class="token punctuation">.</span>keycode<span class="token punctuation">,</span>
+</span><span class="code-line">            <span class="token string">"scancode"</span><span class="token punctuation">:</span> event<span class="token punctuation">.</span>physical_keycode<span class="token punctuation">,</span>
+</span><span class="code-line">            <span class="token string">"unicode"</span><span class="token punctuation">:</span> event<span class="token punctuation">.</span>unicode<span class="token punctuation">,</span>
+</span><span class="code-line">            <span class="token string">"echo"</span><span class="token punctuation">:</span> event<span class="token punctuation">.</span>echo<span class="token punctuation">,</span>
+</span><span class="code-line">            <span class="token string">"alt"</span><span class="token punctuation">:</span> event<span class="token punctuation">.</span>alt_pressed<span class="token punctuation">,</span>
+</span><span class="code-line">            <span class="token string">"shift"</span><span class="token punctuation">:</span> event<span class="token punctuation">.</span>shift_pressed<span class="token punctuation">,</span>
+</span><span class="code-line">            <span class="token string">"ctrl"</span><span class="token punctuation">:</span> event<span class="token punctuation">.</span>ctrl_pressed
+</span><span class="code-line">        <span class="token punctuation">}</span>
+</span><span class="code-line">        <span class="token function">print</span><span class="token punctuation">(</span><span class="token string">"キー詳細情報: "</span><span class="token punctuation">,</span> info<span class="token punctuation">)</span>
+</span></code></pre>
+<p>これにより、修飾キー（Alt、Shift、Ctrl）の状態や、物理キーコードなどの追加情報も取得できます。</p>
+<h2>InputMapの効率的な設定と管理</h2>
+<p>Godotのプロジェクト設定からInputMapを設定することもできますが、大規模なプロジェクトでは、コードでプログラム的に設定することも有効です。</p>
+<h3>コードによるInputMapの設定</h3>
+<pre class="language-gdscript"><code class="language-gdscript code-highlight"><span class="code-line"><span class="token keyword">func</span> <span class="token function">setup_input_mapping</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">:</span>
+</span><span class="code-line">    <span class="token comment"># 既存のマッピングをクリア</span>
+</span><span class="code-line">    InputMap<span class="token punctuation">.</span><span class="token function">action_erase_events</span><span class="token punctuation">(</span><span class="token string">"move_right"</span><span class="token punctuation">)</span>
+</span><span class="code-line">
+</span><span class="code-line">    <span class="token comment"># 新しいキーボード入力イベントを作成</span>
+</span><span class="code-line">    <span class="token keyword">var</span> event <span class="token operator">=</span> InputEventKey<span class="token punctuation">.</span><span class="token function">new</span><span class="token punctuation">(</span><span class="token punctuation">)</span>
+</span><span class="code-line">    event<span class="token punctuation">.</span>keycode <span class="token operator">=</span> <span class="token constant">KEY_D</span>
+</span><span class="code-line">
+</span><span class="code-line">    <span class="token comment"># アクションに追加</span>
+</span><span class="code-line">    InputMap<span class="token punctuation">.</span><span class="token function">action_add_event</span><span class="token punctuation">(</span><span class="token string">"move_right"</span><span class="token punctuation">,</span> event<span class="token punctuation">)</span>
+</span><span class="code-line">
+</span><span class="code-line">    <span class="token comment"># ゲームパッド入力も追加</span>
+</span><span class="code-line">    <span class="token keyword">var</span> pad_event <span class="token operator">=</span> InputEventJoypadMotion<span class="token punctuation">.</span><span class="token function">new</span><span class="token punctuation">(</span><span class="token punctuation">)</span>
+</span><span class="code-line">    pad_event<span class="token punctuation">.</span>axis <span class="token operator">=</span> <span class="token constant">JOY_AXIS_0</span>
+</span><span class="code-line">    pad_event<span class="token punctuation">.</span>axis_value <span class="token operator">=</span> <span class="token number">1.0</span>
+</span><span class="code-line">    InputMap<span class="token punctuation">.</span><span class="token function">action_add_event</span><span class="token punctuation">(</span><span class="token string">"move_right"</span><span class="token punctuation">,</span> pad_event<span class="token punctuation">)</span>
+</span></code></pre>
+<p>このアプローチを使用すると、ゲーム開始時に動的にキー設定を行ったり、プレイヤーが好みに合わせてカスタマイズできる設定画面を実装したりすることが可能です。</p>
+<h3>InputMapの共通パターン</h3>
+<p>複数のプラットフォームで一貫した体験を提供するために、以下のような命名規則を採用するとよいでしょう：</p>
+<pre><code class="code-highlight"><span class="code-line"># 移動系
+</span><span class="code-line">"move_up", "move_down", "move_left", "move_right"
+</span><span class="code-line">
+</span><span class="code-line"># アクション系
+</span><span class="code-line">"action_primary", "action_secondary", "action_dodge"
+</span><span class="code-line">
+</span><span class="code-line"># UI操作系
+</span><span class="code-line">"ui_accept", "ui_cancel", "ui_menu"
+</span></code></pre>
+<p>このようなアクション名を使用することで、実際のキー割り当てに依存せず、意図を明確にしたコードが書けます。</p>
+<h2>マルチプラットフォーム対応のためのベストプラクティス</h2>
+<p>Godotは複数のプラットフォームに対応していますが、入力処理においてはいくつかの考慮点があります。</p>
+<h3>デバイス検出と入力切替</h3>
+<pre class="language-gdscript"><code class="language-gdscript code-highlight"><span class="code-line"><span class="token keyword">func</span> <span class="token function">_ready</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">:</span>
+</span><span class="code-line">    <span class="token comment"># 初期化時にデバイスタイプを検出</span>
+</span><span class="code-line">    <span class="token function">update_input_device_type</span><span class="token punctuation">(</span><span class="token punctuation">)</span>
+</span><span class="code-line">
+</span><span class="code-line"><span class="token keyword">func</span> <span class="token function">_input</span><span class="token punctuation">(</span>event<span class="token punctuation">)</span><span class="token punctuation">:</span>
+</span><span class="code-line">    <span class="token comment"># 入力デバイスの種類を検出</span>
+</span><span class="code-line">    <span class="token keyword">if</span> event <span class="token keyword">is</span> InputEventKey <span class="token keyword">or</span> event <span class="token keyword">is</span> InputEventMouse<span class="token punctuation">:</span>
+</span><span class="code-line">        <span class="token keyword">if</span> current_device_type <span class="token operator">!=</span> <span class="token string">"keyboard_mouse"</span><span class="token punctuation">:</span>
+</span><span class="code-line">            current_device_type <span class="token operator">=</span> <span class="token string">"keyboard_mouse"</span>
+</span><span class="code-line">            <span class="token function">update_ui_for_device</span><span class="token punctuation">(</span><span class="token punctuation">)</span>
+</span><span class="code-line">    <span class="token keyword">elif</span> event <span class="token keyword">is</span> InputEventJoypadButton <span class="token keyword">or</span> event <span class="token keyword">is</span> InputEventJoypadMotion<span class="token punctuation">:</span>
+</span><span class="code-line">        <span class="token keyword">if</span> current_device_type <span class="token operator">!=</span> <span class="token string">"gamepad"</span><span class="token punctuation">:</span>
+</span><span class="code-line">            current_device_type <span class="token operator">=</span> <span class="token string">"gamepad"</span>
+</span><span class="code-line">            <span class="token function">update_ui_for_device</span><span class="token punctuation">(</span><span class="token punctuation">)</span>
+</span><span class="code-line">
+</span><span class="code-line"><span class="token keyword">func</span> <span class="token function">update_ui_for_device</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">:</span>
+</span><span class="code-line">    <span class="token comment"># 現在のデバイスに基づいてUIのプロンプトを更新</span>
+</span><span class="code-line">    <span class="token keyword">if</span> current_device_type <span class="token operator">==</span> <span class="token string">"keyboard_mouse"</span><span class="token punctuation">:</span>
+</span><span class="code-line">        <span class="token variable">$Prompts</span><span class="token punctuation">.</span>texture <span class="token operator">=</span> keyboard_prompts
+</span><span class="code-line">    <span class="token keyword">else</span><span class="token punctuation">:</span>
+</span><span class="code-line">        <span class="token variable">$Prompts</span><span class="token punctuation">.</span>texture <span class="token operator">=</span> gamepad_prompts
+</span></code></pre>
+<p>このコードは、プレイヤーが途中でキーボードからゲームパッドに切り替えた場合など、現在使用している入力デバイスを検出し、それに合わせてUIを更新します。</p>
+<h3>タッチスクリーン対応</h3>
+<p>モバイルデバイス向けにタッチ入力を処理する例：</p>
+<pre class="language-gdscript"><code class="language-gdscript code-highlight"><span class="code-line"><span class="token keyword">func</span> <span class="token function">_input</span><span class="token punctuation">(</span>event<span class="token punctuation">)</span><span class="token punctuation">:</span>
+</span><span class="code-line">    <span class="token keyword">if</span> event <span class="token keyword">is</span> InputEventScreenTouch<span class="token punctuation">:</span>
+</span><span class="code-line">        <span class="token keyword">if</span> event<span class="token punctuation">.</span>pressed<span class="token punctuation">:</span>
+</span><span class="code-line">            <span class="token function">print</span><span class="token punctuation">(</span><span class="token string">"タッチ開始位置: "</span><span class="token punctuation">,</span> event<span class="token punctuation">.</span>position<span class="token punctuation">)</span>
+</span><span class="code-line">        <span class="token keyword">else</span><span class="token punctuation">:</span>
+</span><span class="code-line">            <span class="token function">print</span><span class="token punctuation">(</span><span class="token string">"タッチ終了位置: "</span><span class="token punctuation">,</span> event<span class="token punctuation">.</span>position<span class="token punctuation">)</span>
+</span><span class="code-line">
+</span><span class="code-line">    <span class="token keyword">elif</span> event <span class="token keyword">is</span> InputEventScreenDrag<span class="token punctuation">:</span>
+</span><span class="code-line">        <span class="token function">print</span><span class="token punctuation">(</span><span class="token string">"ドラッグ位置: "</span><span class="token punctuation">,</span> event<span class="token punctuation">.</span>position<span class="token punctuation">)</span>
+</span><span class="code-line">        <span class="token function">print</span><span class="token punctuation">(</span><span class="token string">"相対移動量: "</span><span class="token punctuation">,</span> event<span class="token punctuation">.</span>relative<span class="token punctuation">)</span>
+</span></code></pre>
+<p>タッチ入力では、従来のキーボードやゲームパッドとは異なる設計アプローチが必要です。オンスクリーンコントロールを実装するか、スワイプやジェスチャーを活用するかを検討しましょう。</p>
+<h2>よくある問題と解決策</h2>
+<h3>キー入力の競合</h3>
+<p>複数のシステムで同じキーを使用している場合、意図しない動作が発生することがあります。</p>
+<pre class="language-gdscript"><code class="language-gdscript code-highlight"><span class="code-line"><span class="token comment"># 優先順位を付けて処理する例</span>
+</span><span class="code-line"><span class="token keyword">func</span> <span class="token function">_unhandled_input</span><span class="token punctuation">(</span>event<span class="token punctuation">)</span><span class="token punctuation">:</span>
+</span><span class="code-line">    <span class="token keyword">if</span> is_in_menu<span class="token punctuation">:</span>
+</span><span class="code-line">        <span class="token function">handle_menu_input</span><span class="token punctuation">(</span>event<span class="token punctuation">)</span>
+</span><span class="code-line">    <span class="token keyword">elif</span> is_in_dialog<span class="token punctuation">:</span>
+</span><span class="code-line">        <span class="token function">handle_dialog_input</span><span class="token punctuation">(</span>event<span class="token punctuation">)</span>
+</span><span class="code-line">    <span class="token keyword">else</span><span class="token punctuation">:</span>
+</span><span class="code-line">        <span class="token function">handle_gameplay_input</span><span class="token punctuation">(</span>event<span class="token punctuation">)</span>
+</span></code></pre>
+<p><code>_input</code>ではなく<code>_unhandled_input</code>を使用することで、UIなどの優先度の高いシステムがイベントを処理した後の残りの入力のみを処理できます。</p>
+<h3>入力の遅延やバッファリング</h3>
+<p>アクションゲームなどでは、入力の正確なタイミングが重要です。以下はシンプルな入力バッファリングの実装例です：</p>
+<pre class="language-gdscript"><code class="language-gdscript code-highlight"><span class="code-line"><span class="token keyword">var</span> input_buffer <span class="token operator">=</span> <span class="token punctuation">[</span><span class="token punctuation">]</span>
+</span><span class="code-line"><span class="token keyword">var</span> buffer_timeout <span class="token operator">=</span> <span class="token number">0.2</span>  <span class="token comment"># 秒</span>
+</span><span class="code-line">
+</span><span class="code-line"><span class="token keyword">func</span> <span class="token function">_input</span><span class="token punctuation">(</span>event<span class="token punctuation">)</span><span class="token punctuation">:</span>
+</span><span class="code-line">    <span class="token keyword">if</span> event <span class="token keyword">is</span> InputEventKey <span class="token keyword">and</span> event<span class="token punctuation">.</span>pressed <span class="token keyword">and</span> <span class="token keyword">not</span> event<span class="token punctuation">.</span>echo<span class="token punctuation">:</span>
+</span><span class="code-line">        <span class="token comment"># 入力をバッファに追加</span>
+</span><span class="code-line">        input_buffer<span class="token punctuation">.</span><span class="token function">append</span><span class="token punctuation">(</span><span class="token punctuation">{</span>
+</span><span class="code-line">            <span class="token string">"action"</span><span class="token punctuation">:</span> <span class="token function">get_action_for_key</span><span class="token punctuation">(</span>event<span class="token punctuation">.</span>keycode<span class="token punctuation">)</span><span class="token punctuation">,</span>
+</span><span class="code-line">            <span class="token string">"time"</span><span class="token punctuation">:</span> Time<span class="token punctuation">.</span><span class="token function">get_ticks_msec</span><span class="token punctuation">(</span><span class="token punctuation">)</span> <span class="token operator">/</span> <span class="token number">1000.0</span>
+</span><span class="code-line">        <span class="token punctuation">}</span><span class="token punctuation">)</span>
+</span><span class="code-line">
+</span><span class="code-line"><span class="token keyword">func</span> <span class="token function">_process</span><span class="token punctuation">(</span>delta<span class="token punctuation">)</span><span class="token punctuation">:</span>
+</span><span class="code-line">    <span class="token keyword">var</span> current_time <span class="token operator">=</span> Time<span class="token punctuation">.</span><span class="token function">get_ticks_msec</span><span class="token punctuation">(</span><span class="token punctuation">)</span> <span class="token operator">/</span> <span class="token number">1000.0</span>
+</span><span class="code-line">
+</span><span class="code-line">    <span class="token comment"># 古い入力を削除</span>
+</span><span class="code-line">    <span class="token keyword">while</span> input_buffer<span class="token punctuation">.</span><span class="token function">size</span><span class="token punctuation">(</span><span class="token punctuation">)</span> <span class="token operator">></span> <span class="token number">0</span> <span class="token keyword">and</span> current_time <span class="token operator">-</span> input_buffer<span class="token punctuation">[</span><span class="token number">0</span><span class="token punctuation">]</span><span class="token punctuation">.</span>time <span class="token operator">></span> buffer_timeout<span class="token punctuation">:</span>
+</span><span class="code-line">        input_buffer<span class="token punctuation">.</span><span class="token function">pop_front</span><span class="token punctuation">(</span><span class="token punctuation">)</span>
+</span><span class="code-line">
+</span><span class="code-line">    <span class="token comment"># バッファ内の入力を処理</span>
+</span><span class="code-line">    <span class="token function">process_buffered_inputs</span><span class="token punctuation">(</span><span class="token punctuation">)</span>
+</span></code></pre>
+<p>このテクニックを使用すると、プレイヤーの入力をより寛容に処理できます。たとえば、ジャンプ直前に走るアクションを入力した場合でも、短時間であればジャンプ中に走り始めるなどの処理が可能になります。</p>
+<h2>実践的なユースケース</h2>
+<h3>プレイヤーキャラクターの移動制御</h3>
+<p>典型的なプレイヤー移動制御の例：</p>
+<pre class="language-gdscript"><code class="language-gdscript code-highlight"><span class="code-line"><span class="token keyword">func</span> <span class="token function">_physics_process</span><span class="token punctuation">(</span>delta<span class="token punctuation">)</span><span class="token punctuation">:</span>
+</span><span class="code-line">    <span class="token keyword">var</span> direction <span class="token operator">=</span> Vector2<span class="token punctuation">.</span><span class="token constant">ZERO</span>
+</span><span class="code-line">
+</span><span class="code-line">    <span class="token keyword">if</span> Input<span class="token punctuation">.</span><span class="token function">is_action_pressed</span><span class="token punctuation">(</span><span class="token string">"move_right"</span><span class="token punctuation">)</span><span class="token punctuation">:</span>
+</span><span class="code-line">        direction<span class="token punctuation">.</span>x <span class="token operator">+=</span> <span class="token number">1</span>
+</span><span class="code-line">    <span class="token keyword">if</span> Input<span class="token punctuation">.</span><span class="token function">is_action_pressed</span><span class="token punctuation">(</span><span class="token string">"move_left"</span><span class="token punctuation">)</span><span class="token punctuation">:</span>
+</span><span class="code-line">        direction<span class="token punctuation">.</span>x <span class="token operator">-=</span> <span class="token number">1</span>
+</span><span class="code-line">    <span class="token keyword">if</span> Input<span class="token punctuation">.</span><span class="token function">is_action_pressed</span><span class="token punctuation">(</span><span class="token string">"move_down"</span><span class="token punctuation">)</span><span class="token punctuation">:</span>
+</span><span class="code-line">        direction<span class="token punctuation">.</span>y <span class="token operator">+=</span> <span class="token number">1</span>
+</span><span class="code-line">    <span class="token keyword">if</span> Input<span class="token punctuation">.</span><span class="token function">is_action_pressed</span><span class="token punctuation">(</span><span class="token string">"move_up"</span><span class="token punctuation">)</span><span class="token punctuation">:</span>
+</span><span class="code-line">        direction<span class="token punctuation">.</span>y <span class="token operator">-=</span> <span class="token number">1</span>
+</span><span class="code-line">
+</span><span class="code-line">    <span class="token comment"># 方向を正規化して斜め移動が速くなりすぎないようにする</span>
+</span><span class="code-line">    <span class="token keyword">if</span> direction<span class="token punctuation">.</span><span class="token function">length</span><span class="token punctuation">(</span><span class="token punctuation">)</span> <span class="token operator">></span> <span class="token number">0</span><span class="token punctuation">:</span>
+</span><span class="code-line">        direction <span class="token operator">=</span> direction<span class="token punctuation">.</span><span class="token function">normalized</span><span class="token punctuation">(</span><span class="token punctuation">)</span>
+</span><span class="code-line">
+</span><span class="code-line">    <span class="token comment"># 移動速度を適用</span>
+</span><span class="code-line">    velocity <span class="token operator">=</span> direction <span class="token operator">*</span> speed
+</span><span class="code-line">
+</span><span class="code-line">    <span class="token comment"># 実際の移動を適用</span>
+</span><span class="code-line">    <span class="token function">move_and_slide</span><span class="token punctuation">(</span><span class="token punctuation">)</span>
+</span></code></pre>
+<h3>カスタム入力システムの実装</h3>
+<p>より複雑なゲームでは、カスタム入力システムを実装するとよいでしょう：</p>
+<pre class="language-gdscript"><code class="language-gdscript code-highlight"><span class="code-line"><span class="token keyword">class_name</span> <span class="token class-name">InputManager</span>
+</span><span class="code-line"><span class="token keyword">extends</span> <span class="token class-name">Node</span>
+</span><span class="code-line">
+</span><span class="code-line"><span class="token keyword">signal</span> <span class="token function">action_pressed</span><span class="token punctuation">(</span>action_name<span class="token punctuation">)</span>
+</span><span class="code-line"><span class="token keyword">signal</span> <span class="token function">action_released</span><span class="token punctuation">(</span>action_name<span class="token punctuation">)</span>
+</span><span class="code-line">
+</span><span class="code-line"><span class="token keyword">var</span> active_actions <span class="token operator">=</span> <span class="token punctuation">{</span><span class="token punctuation">}</span>
+</span><span class="code-line"><span class="token keyword">var</span> previous_actions <span class="token operator">=</span> <span class="token punctuation">{</span><span class="token punctuation">}</span>
+</span><span class="code-line">
+</span><span class="code-line"><span class="token keyword">func</span> <span class="token function">_process</span><span class="token punctuation">(</span>_delta<span class="token punctuation">)</span><span class="token punctuation">:</span>
+</span><span class="code-line">    previous_actions <span class="token operator">=</span> active_actions<span class="token punctuation">.</span><span class="token function">duplicate</span><span class="token punctuation">(</span><span class="token punctuation">)</span>
+</span><span class="code-line">    active_actions<span class="token punctuation">.</span><span class="token function">clear</span><span class="token punctuation">(</span><span class="token punctuation">)</span>
+</span><span class="code-line">
+</span><span class="code-line">    <span class="token keyword">for</span> action <span class="token keyword">in</span> InputMap<span class="token punctuation">.</span><span class="token function">get_actions</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">:</span>
+</span><span class="code-line">        <span class="token keyword">if</span> Input<span class="token punctuation">.</span><span class="token function">is_action_pressed</span><span class="token punctuation">(</span>action<span class="token punctuation">)</span><span class="token punctuation">:</span>
+</span><span class="code-line">            active_actions<span class="token punctuation">[</span>action<span class="token punctuation">]</span> <span class="token operator">=</span> <span class="token boolean">true</span>
+</span><span class="code-line">
+</span><span class="code-line">            <span class="token comment"># 新たに押されたアクション</span>
+</span><span class="code-line">            <span class="token keyword">if</span> <span class="token keyword">not</span> previous_actions<span class="token punctuation">.</span><span class="token function">has</span><span class="token punctuation">(</span>action<span class="token punctuation">)</span><span class="token punctuation">:</span>
+</span><span class="code-line">                <span class="token function">emit_signal</span><span class="token punctuation">(</span><span class="token string">"action_pressed"</span><span class="token punctuation">,</span> action<span class="token punctuation">)</span>
+</span><span class="code-line">        <span class="token keyword">elif</span> previous_actions<span class="token punctuation">.</span><span class="token function">has</span><span class="token punctuation">(</span>action<span class="token punctuation">)</span><span class="token punctuation">:</span>
+</span><span class="code-line">            <span class="token comment"># 離されたアクション</span>
+</span><span class="code-line">            <span class="token function">emit_signal</span><span class="token punctuation">(</span><span class="token string">"action_released"</span><span class="token punctuation">,</span> action<span class="token punctuation">)</span>
+</span></code></pre>
+<p>このようなマネージャークラスを使用すると、入力の変化をシグナルとして他のシステムに通知できるため、コードの分離と再利用性が向上します。</p>
+<h2>まとめ</h2>
+<p>Godot 4の入力システムは非常に柔軟で強力です。この記事で紹介した基本的な入力処理から、デバッグテクニック、マルチプラットフォーム対応、そして実践的なユースケースまでを理解することで、よりレスポンシブでユーザーフレンドリーなゲームを開発することができます。</p>
+<p>ポイントをまとめると：</p>
+<ol>
+<li>基本的な入力処理には<code>_input</code>や<code>_unhandled_input</code>関数を活用する</li>
+<li>InputMapシステムでキーコードへの直接依存を避ける</li>
+<li>デバッグ用のツールや表示を活用して開発を効率化する</li>
+<li>マルチプラットフォーム対応を初期段階から考慮する</li>
+<li>ゲームのジャンルに合わせた適切な入力処理を実装する</li>
+</ol>
+<p>これらの知識とテクニックを活用して、プレイヤーにとって直感的で快適な操作感を実現しましょう！</p>
+<h2>参考資料</h2>
+<ul>
+<li><a href="https://docs.godotengine.org/en/stable/tutorials/inputs/index.html" rel="nofollow" target="_blank">Godot 4 公式ドキュメント - 入力</a></li>
+<li><a href="https://docs.godotengine.org/en/stable/classes/class_inputmap.html" rel="nofollow" target="_blank">InputMap クラスリファレンス</a></li>
+<li><a href="https://docs.godotengine.org/en/stable/classes/class_input.html" rel="nofollow" target="_blank">Input クラスリファレンス</a></li>
+<li><a href="https://gamedevacademy.org" rel="nofollow" target="_blank">ゲーム開発者のための入力システム設計ガイド</a></li>
+</ul>
+<hr>
+<p><em>Godot 4 以上を前提とした記事です。記載されているコードは、Godot 4 で動作確認済みです。</em></p>2:["$","article",null,{"className":"min-h-screen","children":[["$","div",null,{"className":"bg-gradient-to-b from-green-50/60 to-transparent dark:from-gray-900 dark:to-transparent","children":["$","div",null,{"className":"max-w-4xl mx-auto px-6 md:px-8 pt-28 md:pt-32 pb-10 md:pb-14","children":[["$","h1",null,{"className":"font-katyou text-4xl md:text-5xl lg:text-6xl text-gray-900 dark:text-white leading-tight mb-6","children":"Godot 4 入力システムの基本と活用テクニック"}],["$","time",null,{"className":"text-base font-medium text-gray-600 dark:text-gray-400","children":"2025-05-02"}]]}]}],["$","div",null,{"className":"max-w-4xl mx-auto px-6 md:px-8 pb-16 md:pb-24","children":[["$","div",null,{"id":"post-content","className":"prose prose-lg dark:prose-invert max-w-none prose-headings:font-katyou prose-headings:tracking-tight prose-h2:text-3xl prose-h2:mt-12 prose-h2:mb-6 prose-h3:text-2xl prose-h3:mt-10 prose-h3:mb-5 prose-h4:text-xl prose-h4:mt-8 prose-h4:mb-4 prose-p:leading-relaxed prose-p:mb-6 prose-li:my-2 prose-a:text-green-600 prose-a:no-underline prose-a:font-medium hover:prose-a:text-green-700 hover:prose-a:underline dark:prose-a:text-green-400 dark:hover:prose-a:text-green-300 prose-code:text-green-700 prose-code:bg-green-50 dark:prose-code:text-green-300 dark:prose-code:bg-green-900/20 prose-pre:bg-gray-900 dark:prose-pre:bg-gray-950 prose-img:rounded-lg prose-img:shadow-md prose-hr:my-12 prose-hr:border-gray-300 dark:prose-hr:border-gray-700 border-t border-gray-200 dark:border-gray-800 pt-8","dangerouslySetInnerHTML":{"__html":"$d"}}],["$","$Le",null,{}],["$","div",null,{"className":"mt-16 pt-10 border-t border-gray-200 dark:border-gray-800","children":[["$","p",null,{"className":"text-sm font-semibold text-gray-500 dark:text-gray-400 mb-4","children":"タグ"}],["$","div",null,{"className":"flex flex-wrap gap-2.5","children":[["$","$L9","Godot",{"href":"/tags/Godot","className":"inline-flex items-center px-4 py-1.5 rounded-full text-sm font-medium bg-green-100 text-green-800 dark:bg-green-900/30 dark:text-green-300 hover:bg-green-200 dark:hover:bg-green-800/50 transition-colors duration-200 shadow-sm","children":"Godot"}],["$","$L9","入力処理",{"href":"/tags/入力処理","className":"inline-flex items-center px-4 py-1.5 rounded-full text-sm font-medium bg-green-100 text-green-800 dark:bg-green-900/30 dark:text-green-300 hover:bg-green-200 dark:hover:bg-green-800/50 transition-colors duration-200 shadow-sm","children":"入力処理"}],["$","$L9","ゲーム開発",{"href":"/tags/ゲーム開発","className":"inline-flex items-center px-4 py-1.5 rounded-full text-sm font-medium bg-green-100 text-green-800 dark:bg-green-900/30 dark:text-green-300 hover:bg-green-200 dark:hover:bg-green-800/50 transition-colors duration-200 shadow-sm","children":"ゲーム開発"}],["$","$L9","InputMap",{"href":"/tags/InputMap","className":"inline-flex items-center px-4 py-1.5 rounded-full text-sm font-medium bg-green-100 text-green-800 dark:bg-green-900/30 dark:text-green-300 hover:bg-green-200 dark:hover:bg-green-800/50 transition-colors duration-200 shadow-sm","children":"InputMap"}]]}]]}]]}]]}]
+c:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"Godot 4 入力システムの基本と活用テクニック | ブログタイトル"}],["$","meta","3",{"name":"description","content":"Godotの入力処理システムを理解し、効率的なゲーム開発を実現するための実践的なガイド"}],["$","meta","4",{"property":"og:title","content":"Godot 4 入力システムの基本と活用テクニック"}],["$","meta","5",{"property":"og:description","content":"Godotの入力処理システムを理解し、効率的なゲーム開発を実現するための実践的なガイド"}],["$","meta","6",{"property":"og:url","content":"https://maemaemae.blog/posts/godot_202505020"}],["$","meta","7",{"property":"og:image","content":"https://maemaemae.blog/images/godot-input-system.jpg"}],["$","meta","8",{"property":"og:type","content":"article"}],["$","meta","9",{"property":"article:published_time","content":"2025-05-02"}],["$","meta","10",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","11",{"name":"twitter:title","content":"Godot 4 入力システムの基本と活用テクニック"}],["$","meta","12",{"name":"twitter:description","content":"Godotの入力処理システムを理解し、効率的なゲーム開発を実現するための実践的なガイド"}],["$","meta","13",{"name":"twitter:image","content":"https://maemaemae.blog/images/godot-input-system.jpg"}],["$","link","14",{"rel":"icon","href":"/favicon.ico","type":"image/x-icon","sizes":"16x16"}],["$","meta","15",{"name":"next-size-adjust"}]]
+1:null

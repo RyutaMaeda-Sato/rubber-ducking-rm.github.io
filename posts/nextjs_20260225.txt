@@ -1,0 +1,222 @@
+3:I[4707,[],""]
+5:I[6423,[],""]
+6:I[4888,["972","static/chunks/972-f241a8fd644428c6.js","70","static/chunks/70-f52c2ad284c6cd86.js","185","static/chunks/app/layout-97d049cf0fc78146.js"],"GoogleAnalytics"]
+7:I[6806,["972","static/chunks/972-f241a8fd644428c6.js","70","static/chunks/70-f52c2ad284c6cd86.js","185","static/chunks/app/layout-97d049cf0fc78146.js"],"default"]
+8:I[7213,["972","static/chunks/972-f241a8fd644428c6.js","70","static/chunks/70-f52c2ad284c6cd86.js","185","static/chunks/app/layout-97d049cf0fc78146.js"],"default"]
+9:I[2972,["972","static/chunks/972-f241a8fd644428c6.js","333","static/chunks/app/posts/%5Bslug%5D/page-acd6669982df1354.js"],""]
+a:I[5878,["972","static/chunks/972-f241a8fd644428c6.js","70","static/chunks/70-f52c2ad284c6cd86.js","185","static/chunks/app/layout-97d049cf0fc78146.js"],"Image"]
+b:I[2374,["972","static/chunks/972-f241a8fd644428c6.js","70","static/chunks/70-f52c2ad284c6cd86.js","185","static/chunks/app/layout-97d049cf0fc78146.js"],"default"]
+4:["slug","nextjs_20260225","d"]
+0:["0oJGNGFmzz_LorUWHIimP",[[["",{"children":["posts",{"children":[["slug","nextjs_20260225","d"],{"children":["__PAGE__?{\"slug\":\"nextjs_20260225\"}",{}]}]}]},"$undefined","$undefined",true],["",{"children":["posts",{"children":[["slug","nextjs_20260225","d"],{"children":["__PAGE__",{},[["$L1","$L2",null],null],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","posts","children","$4","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","posts","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/3add334ee59f67ac.css","precedence":"next","crossOrigin":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/css/cec3dd424af6abe7.css","precedence":"next","crossOrigin":"$undefined"}],["$","link","2",{"rel":"stylesheet","href":"/_next/static/css/31924b81bd2c71c2.css","precedence":"next","crossOrigin":"$undefined"}]],["$","html",null,{"lang":"jp","className":"__variable_f367f3 __variable_8c8862 __variable_6beb74 __variable_b784c9 __variable_d575de","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){try{var s=localStorage.getItem('darkMode');var p=window.matchMedia('(prefers-color-scheme: dark)').matches;if(s!==null?s==='true':p){document.documentElement.classList.add('dark');}}catch(e){}})();"}}],["$","$L6",null,{"gaId":"G-FWRP8962MB"}]]}],["$","body",null,{"className":"__className_f367f3","children":["$","$L7",null,{"children":[["$","header",null,{"children":["$","$L8",null,{"children":["$","div",null,{"className":"fixed top-0 left-0 w-full z-50 bg-green-700 dark:bg-gray-900 shadow-md border-b border-green-600/50 dark:border-gray-800","children":["$","div",null,{"className":"max-w-7xl mx-auto","children":["$","div",null,{"className":"flex items-center justify-between px-6 md:px-8 h-20 md:h-24","children":[["$","$L9",null,{"href":"/","className":"group flex items-center gap-3 transition-opacity hover:opacity-80","children":[["$","$La",null,{"alt":"Maemaemae","src":"/header.jpg","width":44,"height":44,"className":"rounded-full object-cover ring-2 ring-white/20 group-hover:ring-white/40 transition-all"}],["$","span",null,{"className":"text-xl md:text-2xl font-katyou text-[#fffef9] tracking-wide","children":"Maemaemae"}]]}],["$","div",null,{"className":"flex items-center gap-2","children":[["$","a",null,{"href":"https://x.com/maemaemae_rm","target":"_blank","rel":"noopener noreferrer","className":"p-2.5 rounded-full hover:bg-white/10 transition-colors","aria-label":"X (Twitter)","children":["$","$La",null,{"src":"/x-logo-white.png","width":24,"height":24,"alt":""}]}],["$","$Lb",null,{}]]}]]}]}]}]}]}],["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[]}]]}]}]]}]],null],null],["$Lc",null]]]]
+e:I[7426,["972","static/chunks/972-f241a8fd644428c6.js","333","static/chunks/app/posts/%5Bslug%5D/page-acd6669982df1354.js"],"default"]
+d:T8152,<p>Next.js で <code>posts/[slug]</code> のような動的ルートを静的ファイルとして書き出すには、<code>generateStaticParams</code> で生成対象のパスを列挙する必要がある。
+この記事では、ブログの記事ページを例に取りながら、この関数の実装パターンと <code>output: "export"</code> 時の挙動を整理する。</p>
+<h2>なぜ generateStaticParams が必要か</h2>
+<p>Next.js の動的ルートセグメント（<code>[slug]</code> など）は、ビルド時点で「どの値が存在するか」をフレームワークが知ることができない。
+そのため、静的エクスポートをする際には <code>generateStaticParams</code> で全パターンを列挙し、対応する HTML を事前に生成しておく必要がある。</p>
+<pre><code class="code-highlight"><span class="code-line">posts/
+</span><span class="code-line">  hello-world.md   →  /posts/hello-world
+</span><span class="code-line">  next-tips.md     →  /posts/next-tips
+</span></code></pre>
+<p>この例では <code>hello-world</code> と <code>next-tips</code> という2つのスラッグを、ビルド時に Next.js へ伝える必要がある。</p>
+<h2>基本的な実装</h2>
+<pre class="language-typescript"><code class="language-typescript code-highlight"><span class="code-line"><span class="token comment">// src/app/posts/[slug]/page.tsx</span>
+</span><span class="code-line">
+</span><span class="code-line"><span class="token keyword">import</span> <span class="token punctuation">{</span> getPostData<span class="token punctuation">,</span> getAllSlugs <span class="token punctuation">}</span> <span class="token keyword">from</span> <span class="token string">"@/app/lib/functions"</span><span class="token punctuation">;</span>
+</span><span class="code-line">
+</span><span class="code-line"><span class="token comment">// ビルド時に生成するパスを列挙する</span>
+</span><span class="code-line"><span class="token keyword">export</span> <span class="token keyword">async</span> <span class="token keyword">function</span> <span class="token function">generateStaticParams</span><span class="token punctuation">(</span><span class="token punctuation">)</span> <span class="token punctuation">{</span>
+</span><span class="code-line">  <span class="token keyword">const</span> slugs <span class="token operator">=</span> <span class="token keyword">await</span> <span class="token function">getAllSlugs</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">;</span>
+</span><span class="code-line">  <span class="token keyword">return</span> slugs<span class="token punctuation">.</span><span class="token function">map</span><span class="token punctuation">(</span><span class="token punctuation">(</span>slug<span class="token punctuation">)</span> <span class="token operator">=></span> <span class="token punctuation">(</span><span class="token punctuation">{</span> slug <span class="token punctuation">}</span><span class="token punctuation">)</span><span class="token punctuation">)</span><span class="token punctuation">;</span>
+</span><span class="code-line"><span class="token punctuation">}</span>
+</span></code></pre>
+<p><code>generateStaticParams</code> は <code>{ slug: string }[]</code> の配列を返す関数だ。
+<code>slug</code> の名前は動的セグメントのフォルダ名（<code>[slug]</code>）と一致させる必要がある。</p>
+<h2>getAllSlugs の実装</h2>
+<pre class="language-typescript"><code class="language-typescript code-highlight"><span class="code-line"><span class="token comment">// src/app/lib/functions.ts</span>
+</span><span class="code-line">
+</span><span class="code-line"><span class="token keyword">import</span> fs <span class="token keyword">from</span> <span class="token string">"fs"</span><span class="token punctuation">;</span>
+</span><span class="code-line"><span class="token keyword">import</span> path <span class="token keyword">from</span> <span class="token string">"path"</span><span class="token punctuation">;</span>
+</span><span class="code-line">
+</span><span class="code-line"><span class="token keyword">const</span> postsDirectory <span class="token operator">=</span> path<span class="token punctuation">.</span><span class="token function">join</span><span class="token punctuation">(</span>process<span class="token punctuation">.</span><span class="token function">cwd</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">,</span> <span class="token string">"posts"</span><span class="token punctuation">)</span><span class="token punctuation">;</span>
+</span><span class="code-line">
+</span><span class="code-line"><span class="token keyword">export</span> <span class="token keyword">function</span> <span class="token function">getAllSlugs</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token operator">:</span> <span class="token builtin">string</span><span class="token punctuation">[</span><span class="token punctuation">]</span> <span class="token punctuation">{</span>
+</span><span class="code-line">  <span class="token keyword">const</span> filenames <span class="token operator">=</span> fs<span class="token punctuation">.</span><span class="token function">readdirSync</span><span class="token punctuation">(</span>postsDirectory<span class="token punctuation">)</span><span class="token punctuation">;</span>
+</span><span class="code-line">  <span class="token keyword">return</span> filenames
+</span><span class="code-line">    <span class="token punctuation">.</span><span class="token function">filter</span><span class="token punctuation">(</span><span class="token punctuation">(</span>name<span class="token punctuation">)</span> <span class="token operator">=></span> name<span class="token punctuation">.</span><span class="token function">endsWith</span><span class="token punctuation">(</span><span class="token string">".md"</span><span class="token punctuation">)</span><span class="token punctuation">)</span>
+</span><span class="code-line">    <span class="token punctuation">.</span><span class="token function">map</span><span class="token punctuation">(</span><span class="token punctuation">(</span>name<span class="token punctuation">)</span> <span class="token operator">=></span> name<span class="token punctuation">.</span><span class="token function">replace</span><span class="token punctuation">(</span><span class="token regex"><span class="token regex-delimiter">/</span><span class="token regex-source language-regex"><span class="token special-escape escape">\.</span>md<span class="token anchor function">$</span></span><span class="token regex-delimiter">/</span></span><span class="token punctuation">,</span> <span class="token string">""</span><span class="token punctuation">)</span><span class="token punctuation">)</span><span class="token punctuation">;</span>
+</span><span class="code-line"><span class="token punctuation">}</span>
+</span></code></pre>
+<p><code>posts/</code> ディレクトリのファイル名から <code>.md</code> を取り除いたものがスラッグになる。
+ファイル名と URL スラッグを 1:1 対応させるのが、このブログのシンプルな設計方針だ。</p>
+<h2>ページコンポーネントとの連携</h2>
+<p><code>generateStaticParams</code> が返した各スラッグは、ページコンポーネントの <code>params</code> プロパティで受け取れる。</p>
+<p><strong>Next.js 15 以降</strong>では <code>params</code> が <code>Promise</code> 型に変更されたため、<code>await</code> して使う必要がある。</p>
+<pre class="language-typescript"><code class="language-typescript code-highlight"><span class="code-line"><span class="token comment">// src/app/posts/[slug]/page.tsx（Next.js 15 以降）</span>
+</span><span class="code-line">
+</span><span class="code-line"><span class="token keyword">type</span> <span class="token class-name">Props</span> <span class="token operator">=</span> <span class="token punctuation">{</span>
+</span><span class="code-line">  params<span class="token operator">:</span> <span class="token builtin">Promise</span><span class="token operator">&#x3C;</span><span class="token punctuation">{</span> slug<span class="token operator">:</span> <span class="token builtin">string</span> <span class="token punctuation">}</span><span class="token operator">></span><span class="token punctuation">;</span>
+</span><span class="code-line"><span class="token punctuation">}</span><span class="token punctuation">;</span>
+</span><span class="code-line">
+</span><span class="code-line"><span class="token keyword">export</span> <span class="token keyword">default</span> <span class="token keyword">async</span> <span class="token keyword">function</span> <span class="token function">PostPage</span><span class="token punctuation">(</span><span class="token punctuation">{</span> params <span class="token punctuation">}</span><span class="token operator">:</span> Props<span class="token punctuation">)</span> <span class="token punctuation">{</span>
+</span><span class="code-line">  <span class="token keyword">const</span> <span class="token punctuation">{</span> slug <span class="token punctuation">}</span> <span class="token operator">=</span> <span class="token keyword">await</span> params<span class="token punctuation">;</span> <span class="token comment">// Next.js 15 以降は await が必要</span>
+</span><span class="code-line">  <span class="token keyword">const</span> post <span class="token operator">=</span> <span class="token keyword">await</span> <span class="token function">getPostData</span><span class="token punctuation">(</span>slug<span class="token punctuation">)</span><span class="token punctuation">;</span>
+</span><span class="code-line">
+</span><span class="code-line">  <span class="token keyword">return</span> <span class="token punctuation">(</span>
+</span><span class="code-line">    <span class="token operator">&#x3C;</span>article<span class="token operator">></span>
+</span><span class="code-line">      <span class="token operator">&#x3C;</span>h1<span class="token operator">></span><span class="token punctuation">{</span>post<span class="token punctuation">.</span>title<span class="token punctuation">}</span><span class="token operator">&#x3C;</span><span class="token operator">/</span>h1<span class="token operator">></span>
+</span><span class="code-line">      <span class="token operator">&#x3C;</span>div dangerouslySetInnerHTML<span class="token operator">=</span><span class="token punctuation">{</span><span class="token punctuation">{</span> __html<span class="token operator">:</span> post<span class="token punctuation">.</span>contentHtml <span class="token punctuation">}</span><span class="token punctuation">}</span> <span class="token operator">/</span><span class="token operator">></span>
+</span><span class="code-line">    <span class="token operator">&#x3C;</span><span class="token operator">/</span>article<span class="token operator">></span>
+</span><span class="code-line">  <span class="token punctuation">)</span><span class="token punctuation">;</span>
+</span><span class="code-line"><span class="token punctuation">}</span>
+</span></code></pre>
+<p><strong>Next.js 14 以前</strong>では <code>params</code> は同期的に受け取れた。</p>
+<pre class="language-typescript"><code class="language-typescript code-highlight"><span class="code-line"><span class="token comment">// Next.js 14 以前のパターン</span>
+</span><span class="code-line"><span class="token keyword">type</span> <span class="token class-name">Props</span> <span class="token operator">=</span> <span class="token punctuation">{</span>
+</span><span class="code-line">  params<span class="token operator">:</span> <span class="token punctuation">{</span> slug<span class="token operator">:</span> <span class="token builtin">string</span> <span class="token punctuation">}</span><span class="token punctuation">;</span>
+</span><span class="code-line"><span class="token punctuation">}</span><span class="token punctuation">;</span>
+</span><span class="code-line">
+</span><span class="code-line"><span class="token keyword">export</span> <span class="token keyword">default</span> <span class="token keyword">async</span> <span class="token keyword">function</span> <span class="token function">PostPage</span><span class="token punctuation">(</span><span class="token punctuation">{</span> params <span class="token punctuation">}</span><span class="token operator">:</span> Props<span class="token punctuation">)</span> <span class="token punctuation">{</span>
+</span><span class="code-line">  <span class="token keyword">const</span> <span class="token punctuation">{</span> slug <span class="token punctuation">}</span> <span class="token operator">=</span> params<span class="token punctuation">;</span> <span class="token comment">// await 不要</span>
+</span><span class="code-line">  <span class="token keyword">const</span> post <span class="token operator">=</span> <span class="token keyword">await</span> <span class="token function">getPostData</span><span class="token punctuation">(</span>slug<span class="token punctuation">)</span><span class="token punctuation">;</span>
+</span><span class="code-line">  <span class="token comment">// ...</span>
+</span><span class="code-line"><span class="token punctuation">}</span>
+</span></code></pre>
+<p><code>generateStaticParams</code> 関数自体の書き方はバージョン間で変わらない。変更が必要なのはページコンポーネント側の型定義と <code>await</code> の有無だ。</p>
+<pre><code class="code-highlight"><span class="code-line">
+</span><span class="code-line">`params.slug` は `generateStaticParams` が返した配列の各要素の `slug` プロパティと対応している。
+</span><span class="code-line">
+</span><span class="code-line">## output: "export" との関係
+</span><span class="code-line">
+</span><span class="code-line">Next.js の `next.config.js` で `output: "export"` を設定すると、`npm run build` 実行時にすべてのページが HTML ファイルとして書き出される。
+</span><span class="code-line">
+</span><span class="code-line">```javascript
+</span><span class="code-line">// next.config.js
+</span><span class="code-line">const nextConfig = {
+</span><span class="code-line">  output: "export",
+</span><span class="code-line">};
+</span></code></pre>
+<p>このとき、動的ルートに対して <code>generateStaticParams</code> が定義されていないとビルドが失敗する。</p>
+<pre><code class="code-highlight"><span class="code-line">Error: Page "/posts/[slug]" is missing "generateStaticParams()" ...
+</span></code></pre>
+<p>逆に言えば、<code>generateStaticParams</code> さえ正しく実装されていれば、動的ルートも完全な静的ファイルとして出力できる。</p>
+<h3>dynamicParams で未知のパスをコントロールする</h3>
+<p><code>output: "export"</code> では関係ないが、サーバーありの構成では <code>dynamicParams</code> 設定で未定義パスの挙動を制御できる。</p>
+<pre class="language-typescript"><code class="language-typescript code-highlight"><span class="code-line"><span class="token comment">// generateStaticParams に含まれないパスを 404 にする</span>
+</span><span class="code-line"><span class="token keyword">export</span> <span class="token keyword">const</span> dynamicParams <span class="token operator">=</span> <span class="token boolean">false</span><span class="token punctuation">;</span>
+</span><span class="code-line">
+</span><span class="code-line"><span class="token keyword">export</span> <span class="token keyword">async</span> <span class="token keyword">function</span> <span class="token function">generateStaticParams</span><span class="token punctuation">(</span><span class="token punctuation">)</span> <span class="token punctuation">{</span>
+</span><span class="code-line">  <span class="token comment">// ...</span>
+</span><span class="code-line"><span class="token punctuation">}</span>
+</span></code></pre>
+<p><code>dynamicParams = false</code> にすると <code>generateStaticParams</code> で返したパス以外はすべて 404 になる（Pages Router の <code>fallback: false</code> 相当）。</p>
+<h2>複数のセグメントを持つルート</h2>
+<p>タグページのように <code>[tag]/[page]</code> など複数のセグメントがある場合は、すべての組み合わせを列挙する。</p>
+<pre class="language-typescript"><code class="language-typescript code-highlight"><span class="code-line"><span class="token comment">// src/app/tags/[tag]/[page]/page.tsx</span>
+</span><span class="code-line">
+</span><span class="code-line"><span class="token keyword">export</span> <span class="token keyword">async</span> <span class="token keyword">function</span> <span class="token function">generateStaticParams</span><span class="token punctuation">(</span><span class="token punctuation">)</span> <span class="token punctuation">{</span>
+</span><span class="code-line">  <span class="token keyword">const</span> posts <span class="token operator">=</span> <span class="token keyword">await</span> <span class="token function">getPostData</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">;</span>
+</span><span class="code-line">  <span class="token keyword">const</span> allTags <span class="token operator">=</span> <span class="token punctuation">[</span><span class="token operator">...</span><span class="token keyword">new</span> <span class="token class-name">Set</span><span class="token punctuation">(</span>posts<span class="token punctuation">.</span><span class="token function">flatMap</span><span class="token punctuation">(</span><span class="token punctuation">(</span>p<span class="token punctuation">)</span> <span class="token operator">=></span> p<span class="token punctuation">.</span>tags<span class="token punctuation">)</span><span class="token punctuation">)</span><span class="token punctuation">]</span><span class="token punctuation">;</span>
+</span><span class="code-line">
+</span><span class="code-line">  <span class="token keyword">const</span> params<span class="token operator">:</span> <span class="token punctuation">{</span> tag<span class="token operator">:</span> <span class="token builtin">string</span><span class="token punctuation">;</span> page<span class="token operator">:</span> <span class="token builtin">string</span> <span class="token punctuation">}</span><span class="token punctuation">[</span><span class="token punctuation">]</span> <span class="token operator">=</span> <span class="token punctuation">[</span><span class="token punctuation">]</span><span class="token punctuation">;</span>
+</span><span class="code-line">
+</span><span class="code-line">  <span class="token keyword">for</span> <span class="token punctuation">(</span><span class="token keyword">const</span> tag <span class="token keyword">of</span> allTags<span class="token punctuation">)</span> <span class="token punctuation">{</span>
+</span><span class="code-line">    <span class="token keyword">const</span> filtered <span class="token operator">=</span> posts<span class="token punctuation">.</span><span class="token function">filter</span><span class="token punctuation">(</span><span class="token punctuation">(</span>p<span class="token punctuation">)</span> <span class="token operator">=></span> p<span class="token punctuation">.</span>tags<span class="token punctuation">.</span><span class="token function">includes</span><span class="token punctuation">(</span>tag<span class="token punctuation">)</span><span class="token punctuation">)</span><span class="token punctuation">;</span>
+</span><span class="code-line">    <span class="token keyword">const</span> totalPages <span class="token operator">=</span> Math<span class="token punctuation">.</span><span class="token function">ceil</span><span class="token punctuation">(</span>filtered<span class="token punctuation">.</span>length <span class="token operator">/</span> <span class="token constant">POSTS_PER_PAGE</span><span class="token punctuation">)</span><span class="token punctuation">;</span>
+</span><span class="code-line">
+</span><span class="code-line">    <span class="token keyword">for</span> <span class="token punctuation">(</span><span class="token keyword">let</span> i <span class="token operator">=</span> <span class="token number">1</span><span class="token punctuation">;</span> i <span class="token operator">&#x3C;=</span> totalPages<span class="token punctuation">;</span> i<span class="token operator">++</span><span class="token punctuation">)</span> <span class="token punctuation">{</span>
+</span><span class="code-line">      params<span class="token punctuation">.</span><span class="token function">push</span><span class="token punctuation">(</span><span class="token punctuation">{</span> tag<span class="token punctuation">,</span> page<span class="token operator">:</span> <span class="token function">String</span><span class="token punctuation">(</span>i<span class="token punctuation">)</span> <span class="token punctuation">}</span><span class="token punctuation">)</span><span class="token punctuation">;</span>
+</span><span class="code-line">    <span class="token punctuation">}</span>
+</span><span class="code-line">  <span class="token punctuation">}</span>
+</span><span class="code-line">
+</span><span class="code-line">  <span class="token keyword">return</span> params<span class="token punctuation">;</span>
+</span><span class="code-line"><span class="token punctuation">}</span>
+</span></code></pre>
+<p>ネストしたループで全組み合わせを生成し、フラットな配列として返す。</p>
+<h2>業務での使いどころ</h2>
+<p><code>generateStaticParams</code> が真価を発揮するのは、<strong>外部データを元にページを生成したい</strong>ときだ。</p>
+<p><strong>CMSの記事一覧からパスを生成する例:</strong></p>
+<pre class="language-typescript"><code class="language-typescript code-highlight"><span class="code-line"><span class="token keyword">export</span> <span class="token keyword">async</span> <span class="token keyword">function</span> <span class="token function">generateStaticParams</span><span class="token punctuation">(</span><span class="token punctuation">)</span> <span class="token punctuation">{</span>
+</span><span class="code-line">  <span class="token comment">// Headless CMS の API を呼び出してスラッグ一覧を取得</span>
+</span><span class="code-line">  <span class="token keyword">const</span> res <span class="token operator">=</span> <span class="token keyword">await</span> <span class="token function">fetch</span><span class="token punctuation">(</span><span class="token string">"https://api.example.com/posts?fields=slug"</span><span class="token punctuation">)</span><span class="token punctuation">;</span>
+</span><span class="code-line">  <span class="token keyword">const</span> posts<span class="token operator">:</span> <span class="token punctuation">{</span> slug<span class="token operator">:</span> <span class="token builtin">string</span> <span class="token punctuation">}</span><span class="token punctuation">[</span><span class="token punctuation">]</span> <span class="token operator">=</span> <span class="token keyword">await</span> res<span class="token punctuation">.</span><span class="token function">json</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">;</span>
+</span><span class="code-line">
+</span><span class="code-line">  <span class="token keyword">return</span> posts<span class="token punctuation">.</span><span class="token function">map</span><span class="token punctuation">(</span><span class="token punctuation">(</span><span class="token punctuation">{</span> slug <span class="token punctuation">}</span><span class="token punctuation">)</span> <span class="token operator">=></span> <span class="token punctuation">(</span><span class="token punctuation">{</span> slug <span class="token punctuation">}</span><span class="token punctuation">)</span><span class="token punctuation">)</span><span class="token punctuation">;</span>
+</span><span class="code-line"><span class="token punctuation">}</span>
+</span></code></pre>
+<p><code>generateStaticParams</code> 内では <code>fetch</code> が使えるため、Contentful や microCMS などの Headless CMS と組み合わせると、CMS 上で記事を管理しながら静的ファイルとして配信するアーキテクチャが実現できる。</p>
+<p><strong>データベースの ID を使う例:</strong></p>
+<pre class="language-typescript"><code class="language-typescript code-highlight"><span class="code-line"><span class="token keyword">export</span> <span class="token keyword">async</span> <span class="token keyword">function</span> <span class="token function">generateStaticParams</span><span class="token punctuation">(</span><span class="token punctuation">)</span> <span class="token punctuation">{</span>
+</span><span class="code-line">  <span class="token keyword">const</span> db <span class="token operator">=</span> <span class="token keyword">await</span> <span class="token function">getDatabase</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">;</span>
+</span><span class="code-line">  <span class="token keyword">const</span> articles <span class="token operator">=</span> <span class="token keyword">await</span> db<span class="token punctuation">.</span><span class="token function">select</span><span class="token punctuation">(</span><span class="token string">"id"</span><span class="token punctuation">)</span><span class="token punctuation">.</span><span class="token function">from</span><span class="token punctuation">(</span><span class="token string">"articles"</span><span class="token punctuation">)</span><span class="token punctuation">.</span><span class="token function">where</span><span class="token punctuation">(</span><span class="token string">"published"</span><span class="token punctuation">,</span> <span class="token boolean">true</span><span class="token punctuation">)</span><span class="token punctuation">;</span>
+</span><span class="code-line">
+</span><span class="code-line">  <span class="token keyword">return</span> articles<span class="token punctuation">.</span><span class="token function">map</span><span class="token punctuation">(</span><span class="token punctuation">(</span><span class="token punctuation">{</span> id <span class="token punctuation">}</span><span class="token punctuation">)</span> <span class="token operator">=></span> <span class="token punctuation">(</span><span class="token punctuation">{</span> id<span class="token operator">:</span> <span class="token function">String</span><span class="token punctuation">(</span>id<span class="token punctuation">)</span> <span class="token punctuation">}</span><span class="token punctuation">)</span><span class="token punctuation">)</span><span class="token punctuation">;</span>
+</span><span class="code-line"><span class="token punctuation">}</span>
+</span></code></pre>
+<p>公開済みの記事のみパスを生成し、非公開記事の HTML は出力しない、という制御もシンプルに書ける。</p>
+<h2>ハマりやすいポイント</h2>
+<p><strong>セグメント名の不一致</strong></p>
+<p><code>generateStaticParams</code> が返すオブジェクトのキーと、フォルダ名のセグメント名が一致しないとエラーになる。</p>
+<pre><code class="code-highlight"><span class="code-line">フォルダ: app/posts/[postId]/page.tsx
+</span><span class="code-line">                      ^^^^^^
+</span><span class="code-line">返すキー: { postId: "..." }  ← postId に合わせる（slug ではない）
+</span></code></pre>
+<p><strong>数値スラッグは文字列に変換する</strong></p>
+<p>ページ番号など数値をスラッグに使う場合、必ず <code>String()</code> で文字列に変換する。オブジェクトの値は常に <code>string</code> 型でなければならない。</p>
+<pre class="language-typescript"><code class="language-typescript code-highlight"><span class="code-line"><span class="token comment">// NG: { page: 1 }</span>
+</span><span class="code-line"><span class="token comment">// OK: { page: "1" }</span>
+</span><span class="code-line">params<span class="token punctuation">.</span><span class="token function">push</span><span class="token punctuation">(</span><span class="token punctuation">{</span> page<span class="token operator">:</span> <span class="token function">String</span><span class="token punctuation">(</span>i<span class="token punctuation">)</span> <span class="token punctuation">}</span><span class="token punctuation">)</span><span class="token punctuation">;</span>
+</span></code></pre>
+<p><strong>ファイル名に含まれる拡張子</strong></p>
+<p><code>fs.readdirSync()</code> はファイル名をそのまま返すため、<code>.md</code> 拡張子を除去し忘れるとスラッグが <code>hello-world.md</code> になってしまう。</p>
+<pre class="language-typescript"><code class="language-typescript code-highlight"><span class="code-line"><span class="token comment">// 必ず拡張子を除去する</span>
+</span><span class="code-line"><span class="token punctuation">.</span><span class="token function">map</span><span class="token punctuation">(</span><span class="token punctuation">(</span>name<span class="token punctuation">)</span> <span class="token operator">=></span> name<span class="token punctuation">.</span><span class="token function">replace</span><span class="token punctuation">(</span><span class="token regex"><span class="token regex-delimiter">/</span><span class="token regex-source language-regex"><span class="token special-escape escape">\.</span>md<span class="token anchor function">$</span></span><span class="token regex-delimiter">/</span></span><span class="token punctuation">,</span> <span class="token string">""</span><span class="token punctuation">)</span><span class="token punctuation">)</span>
+</span></code></pre>
+<p><strong>generateStaticParams は Server Component 専用</strong></p>
+<p><code>generateStaticParams</code> はサーバーサイドでのみ実行される。クライアントコンポーネント（<code>"use client"</code> を持つファイル）に書いても動作しない。ページコンポーネント（<code>page.tsx</code>）に定義するのが基本だ。</p>
+<h2>Pages Router の getStaticPaths との比較</h2>
+<p>App Router の <code>generateStaticParams</code> と、Pages Router の <code>getStaticPaths</code> は役割が同じだが、書き方が異なる。</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th>項目</th><th>Pages Router (<code>getStaticPaths</code>)</th><th>App Router (<code>generateStaticParams</code>)</th></tr></thead><tbody><tr><td>関数名</td><td><code>getStaticPaths</code></td><td><code>generateStaticParams</code></td></tr><tr><td>戻り値の形式</td><td><code>{ paths: [{ params: { slug: "..." } }], fallback: false }</code></td><td><code>[{ slug: "..." }]</code></td></tr><tr><td><code>fallback</code> の指定</td><td>必要</td><td>不要（<code>output: "export"</code> では常に false 相当）</td></tr><tr><td>配置場所</td><td><code>pages/posts/[slug].tsx</code></td><td><code>app/posts/[slug]/page.tsx</code></td></tr></tbody></table>
+<p>App Router 版の方が戻り値がシンプルで、<code>fallback</code> の概念がないぶん記述量が減っている。
+<code>output: "export"</code> では動的なフォールバックは使えないため、App Router への移行時に迷うことは少ない。</p>
+<h2>まとめ</h2>
+<ul>
+<li><code>generateStaticParams</code> は動的ルートの全パスをビルド時に列挙する関数</li>
+<li><code>output: "export"</code> を使う場合は定義が必須。なければビルドが失敗する</li>
+<li>返すオブジェクトのキーはフォルダの <code>[セグメント名]</code> と一致させる</li>
+<li>数値は必ず <code>String()</code> で文字列に変換する</li>
+<li>Headless CMS や DB と組み合わせると、外部データを静的ファイルとして配信できる</li>
+<li>Pages Router の <code>getStaticPaths</code> と役割は同じだが、戻り値の形式がよりシンプル</li>
+</ul>2:["$","article",null,{"className":"min-h-screen","children":[["$","div",null,{"className":"bg-gradient-to-b from-green-50/60 to-transparent dark:from-gray-900 dark:to-transparent","children":["$","div",null,{"className":"max-w-4xl mx-auto px-6 md:px-8 pt-28 md:pt-32 pb-10 md:pb-14","children":[["$","h1",null,{"className":"font-katyou text-4xl md:text-5xl lg:text-6xl text-gray-900 dark:text-white leading-tight mb-6","children":"generateStaticParams で全記事を事前ビルド — Next.js 静的サイト生成の仕組み"}],["$","time",null,{"className":"text-base font-medium text-gray-600 dark:text-gray-400","children":"2026-02-25"}]]}]}],["$","div",null,{"className":"max-w-4xl mx-auto px-6 md:px-8 pb-16 md:pb-24","children":[["$","div",null,{"id":"post-content","className":"prose prose-lg dark:prose-invert max-w-none prose-headings:font-katyou prose-headings:tracking-tight prose-h2:text-3xl prose-h2:mt-12 prose-h2:mb-6 prose-h3:text-2xl prose-h3:mt-10 prose-h3:mb-5 prose-h4:text-xl prose-h4:mt-8 prose-h4:mb-4 prose-p:leading-relaxed prose-p:mb-6 prose-li:my-2 prose-a:text-green-600 prose-a:no-underline prose-a:font-medium hover:prose-a:text-green-700 hover:prose-a:underline dark:prose-a:text-green-400 dark:hover:prose-a:text-green-300 prose-code:text-green-700 prose-code:bg-green-50 dark:prose-code:text-green-300 dark:prose-code:bg-green-900/20 prose-pre:bg-gray-900 dark:prose-pre:bg-gray-950 prose-img:rounded-lg prose-img:shadow-md prose-hr:my-12 prose-hr:border-gray-300 dark:prose-hr:border-gray-700 border-t border-gray-200 dark:border-gray-800 pt-8","dangerouslySetInnerHTML":{"__html":"$d"}}],["$","$Le",null,{}],["$","div",null,{"className":"mt-16 pt-10 border-t border-gray-200 dark:border-gray-800","children":[["$","p",null,{"className":"text-sm font-semibold text-gray-500 dark:text-gray-400 mb-4","children":"タグ"}],["$","div",null,{"className":"flex flex-wrap gap-2.5","children":[["$","$L9","Next.js",{"href":"/tags/Next.js","className":"inline-flex items-center px-4 py-1.5 rounded-full text-sm font-medium bg-green-100 text-green-800 dark:bg-green-900/30 dark:text-green-300 hover:bg-green-200 dark:hover:bg-green-800/50 transition-colors duration-200 shadow-sm","children":"Next.js"}],["$","$L9","TypeScript",{"href":"/tags/TypeScript","className":"inline-flex items-center px-4 py-1.5 rounded-full text-sm font-medium bg-green-100 text-green-800 dark:bg-green-900/30 dark:text-green-300 hover:bg-green-200 dark:hover:bg-green-800/50 transition-colors duration-200 shadow-sm","children":"TypeScript"}],["$","$L9","フロントエンド",{"href":"/tags/フロントエンド","className":"inline-flex items-center px-4 py-1.5 rounded-full text-sm font-medium bg-green-100 text-green-800 dark:bg-green-900/30 dark:text-green-300 hover:bg-green-200 dark:hover:bg-green-800/50 transition-colors duration-200 shadow-sm","children":"フロントエンド"}]]}]]}]]}]]}]
+c:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"generateStaticParams で全記事を事前ビルド — Next.js 静的サイト生成の仕組み | ブログタイトル"}],["$","meta","3",{"name":"description","content":"Next.js App Router の generateStaticParams を使って動的ルートの全パターンを事前生成する方法と、output: export の静的エクスポートとの関係を実装例で解説する。"}],["$","meta","4",{"property":"og:title","content":"generateStaticParams で全記事を事前ビルド — Next.js 静的サイト生成の仕組み"}],["$","meta","5",{"property":"og:description","content":"Next.js App Router の generateStaticParams を使って動的ルートの全パターンを事前生成する方法と、output: export の静的エクスポートとの関係を実装例で解説する。"}],["$","meta","6",{"property":"og:url","content":"https://maemaemae.blog/posts/nextjs_20260225"}],["$","meta","7",{"property":"og:image","content":"https://maemaemae.blog/header.jpg"}],["$","meta","8",{"property":"og:type","content":"article"}],["$","meta","9",{"property":"article:published_time","content":"2026-02-25"}],["$","meta","10",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","11",{"name":"twitter:title","content":"generateStaticParams で全記事を事前ビルド — Next.js 静的サイト生成の仕組み"}],["$","meta","12",{"name":"twitter:description","content":"Next.js App Router の generateStaticParams を使って動的ルートの全パターンを事前生成する方法と、output: export の静的エクスポートとの関係を実装例で解説する。"}],["$","meta","13",{"name":"twitter:image","content":"https://maemaemae.blog/header.jpg"}],["$","link","14",{"rel":"icon","href":"/favicon.ico","type":"image/x-icon","sizes":"16x16"}],["$","meta","15",{"name":"next-size-adjust"}]]
+1:null

@@ -1,0 +1,255 @@
+3:I[4707,[],""]
+5:I[6423,[],""]
+6:I[4888,["972","static/chunks/972-f241a8fd644428c6.js","70","static/chunks/70-f52c2ad284c6cd86.js","185","static/chunks/app/layout-97d049cf0fc78146.js"],"GoogleAnalytics"]
+7:I[6806,["972","static/chunks/972-f241a8fd644428c6.js","70","static/chunks/70-f52c2ad284c6cd86.js","185","static/chunks/app/layout-97d049cf0fc78146.js"],"default"]
+8:I[7213,["972","static/chunks/972-f241a8fd644428c6.js","70","static/chunks/70-f52c2ad284c6cd86.js","185","static/chunks/app/layout-97d049cf0fc78146.js"],"default"]
+9:I[2972,["972","static/chunks/972-f241a8fd644428c6.js","333","static/chunks/app/posts/%5Bslug%5D/page-acd6669982df1354.js"],""]
+a:I[5878,["972","static/chunks/972-f241a8fd644428c6.js","70","static/chunks/70-f52c2ad284c6cd86.js","185","static/chunks/app/layout-97d049cf0fc78146.js"],"Image"]
+b:I[2374,["972","static/chunks/972-f241a8fd644428c6.js","70","static/chunks/70-f52c2ad284c6cd86.js","185","static/chunks/app/layout-97d049cf0fc78146.js"],"default"]
+4:["slug","godot_20250502","d"]
+0:["0oJGNGFmzz_LorUWHIimP",[[["",{"children":["posts",{"children":[["slug","godot_20250502","d"],{"children":["__PAGE__?{\"slug\":\"godot_20250502\"}",{}]}]}]},"$undefined","$undefined",true],["",{"children":["posts",{"children":[["slug","godot_20250502","d"],{"children":["__PAGE__",{},[["$L1","$L2",null],null],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","posts","children","$4","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","posts","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/3add334ee59f67ac.css","precedence":"next","crossOrigin":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/css/cec3dd424af6abe7.css","precedence":"next","crossOrigin":"$undefined"}],["$","link","2",{"rel":"stylesheet","href":"/_next/static/css/31924b81bd2c71c2.css","precedence":"next","crossOrigin":"$undefined"}]],["$","html",null,{"lang":"jp","className":"__variable_f367f3 __variable_8c8862 __variable_6beb74 __variable_b784c9 __variable_d575de","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){try{var s=localStorage.getItem('darkMode');var p=window.matchMedia('(prefers-color-scheme: dark)').matches;if(s!==null?s==='true':p){document.documentElement.classList.add('dark');}}catch(e){}})();"}}],["$","$L6",null,{"gaId":"G-FWRP8962MB"}]]}],["$","body",null,{"className":"__className_f367f3","children":["$","$L7",null,{"children":[["$","header",null,{"children":["$","$L8",null,{"children":["$","div",null,{"className":"fixed top-0 left-0 w-full z-50 bg-green-700 dark:bg-gray-900 shadow-md border-b border-green-600/50 dark:border-gray-800","children":["$","div",null,{"className":"max-w-7xl mx-auto","children":["$","div",null,{"className":"flex items-center justify-between px-6 md:px-8 h-20 md:h-24","children":[["$","$L9",null,{"href":"/","className":"group flex items-center gap-3 transition-opacity hover:opacity-80","children":[["$","$La",null,{"alt":"Maemaemae","src":"/header.jpg","width":44,"height":44,"className":"rounded-full object-cover ring-2 ring-white/20 group-hover:ring-white/40 transition-all"}],["$","span",null,{"className":"text-xl md:text-2xl font-katyou text-[#fffef9] tracking-wide","children":"Maemaemae"}]]}],["$","div",null,{"className":"flex items-center gap-2","children":[["$","a",null,{"href":"https://x.com/maemaemae_rm","target":"_blank","rel":"noopener noreferrer","className":"p-2.5 rounded-full hover:bg-white/10 transition-colors","aria-label":"X (Twitter)","children":["$","$La",null,{"src":"/x-logo-white.png","width":24,"height":24,"alt":""}]}],["$","$Lb",null,{}]]}]]}]}]}]}]}],["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[]}]]}]}]]}]],null],null],["$Lc",null]]]]
+e:I[7426,["972","static/chunks/972-f241a8fd644428c6.js","333","static/chunks/app/posts/%5Bslug%5D/page-acd6669982df1354.js"],"default"]
+d:T83e7,<h2>はじめに</h2>
+<p>Godotでゲーム開発を始める際、適切なフォルダ構造の構築は非常に重要です。しかし、新しいプロジェクトごとに同じフォルダ構造を手動で作成するのは時間の無駄です。この記事では、Godot 4でプロジェクトフォルダを自動生成するエディタプラグインの作成方法を解説します。</p>
+<p>このプラグインを使えば、ボタン一つでプロジェクトに必要な標準的なフォルダ構造を瞬時に作成でき、開発の初期段階での時間を節約できます。</p>
+<h2>なぜフォルダ構造が重要なのか</h2>
+<p>整理されたフォルダ構造は以下の理由で重要です：</p>
+<ul>
+<li><strong>開発効率の向上</strong>: 必要なファイルをすぐに見つけられる</li>
+<li><strong>チーム作業の効率化</strong>: 全員が同じフォルダ構造を理解できる</li>
+<li><strong>拡張性</strong>: プロジェクトが大きくなっても管理しやすい</li>
+<li><strong>ベストプラクティスの確立</strong>: 一貫したコード・アセット管理が可能に</li>
+</ul>
+<h2>プラグインの概要</h2>
+<p>今回作成するプラグインは、次の機能を提供します：</p>
+<ol>
+<li>Godotエディタのメニューに「フォルダ構造を生成」オプションを追加</li>
+<li>確認ダイアログを表示して誤操作を防止</li>
+<li>プロジェクトに標準的なフォルダ構造を自動生成</li>
+<li>生成結果のフィードバックを表示</li>
+</ol>
+<h2>プラグインの作成手順</h2>
+<h3>1. フォルダ構造の準備</h3>
+<p>まず、プラグイン用のフォルダを作成します：</p>
+<pre><code class="code-highlight"><span class="code-line">res://addons/folder_generator/
+</span></code></pre>
+<h3>2. プラグイン設定ファイルの作成</h3>
+<p><code>plugin.cfg</code>ファイルをプラグインフォルダに作成し、以下の内容を記述します：</p>
+<pre class="language-ini"><code class="language-ini code-highlight"><span class="code-line"><span class="token section"><span class="token punctuation">[</span><span class="token section-name selector">plugin</span><span class="token punctuation">]</span></span>
+</span><span class="code-line"><span class="token key attr-name">name</span><span class="token punctuation">=</span><span class="token value attr-value">"<span class="token inner-value">Folder Generator</span>"</span>
+</span><span class="code-line"><span class="token key attr-name">description</span><span class="token punctuation">=</span><span class="token value attr-value">"<span class="token inner-value">プロジェクト用の標準フォルダ構造を生成します</span>"</span>
+</span><span class="code-line"><span class="token key attr-name">author</span><span class="token punctuation">=</span><span class="token value attr-value">"<span class="token inner-value">Your Name</span>"</span>
+</span><span class="code-line"><span class="token key attr-name">version</span><span class="token punctuation">=</span><span class="token value attr-value">"<span class="token inner-value">1.0</span>"</span>
+</span><span class="code-line"><span class="token key attr-name">script</span><span class="token punctuation">=</span><span class="token value attr-value">"<span class="token inner-value">plugin.gd</span>"</span>
+</span></code></pre>
+<h3>3. プラグインスクリプトの実装</h3>
+<p><code>plugin.gd</code>ファイルをプラグインフォルダに作成し、以下のコードを記述します：</p>
+<pre class="language-gdscript"><code class="language-gdscript code-highlight"><span class="code-line">@<span class="token keyword">tool</span>
+</span><span class="code-line"><span class="token keyword">extends</span> <span class="token class-name">EditorPlugin</span>
+</span><span class="code-line">
+</span><span class="code-line"><span class="token keyword">var</span> dialog<span class="token punctuation">:</span> <span class="token class-name">ConfirmationDialog</span>
+</span><span class="code-line">
+</span><span class="code-line"><span class="token keyword">func</span> <span class="token function">_enter_tree</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">:</span>
+</span><span class="code-line">    <span class="token comment"># プラグインが有効化されたときに実行</span>
+</span><span class="code-line">    <span class="token function">add_tool_menu_item</span><span class="token punctuation">(</span><span class="token string">"フォルダ構造を生成"</span><span class="token punctuation">,</span> _on_create_folders_pressed<span class="token punctuation">)</span>
+</span><span class="code-line">
+</span><span class="code-line"><span class="token keyword">func</span> <span class="token function">_exit_tree</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">:</span>
+</span><span class="code-line">    <span class="token comment"># プラグインが無効化されたときに実行</span>
+</span><span class="code-line">    <span class="token function">remove_tool_menu_item</span><span class="token punctuation">(</span><span class="token string">"フォルダ構造を生成"</span><span class="token punctuation">)</span>
+</span><span class="code-line">
+</span><span class="code-line">    <span class="token keyword">if</span> dialog<span class="token punctuation">:</span>
+</span><span class="code-line">        dialog<span class="token punctuation">.</span><span class="token function">queue_free</span><span class="token punctuation">(</span><span class="token punctuation">)</span>
+</span><span class="code-line">
+</span><span class="code-line"><span class="token keyword">func</span> <span class="token function">_on_create_folders_pressed</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">:</span>
+</span><span class="code-line">    <span class="token comment"># 確認ダイアログを作成</span>
+</span><span class="code-line">    dialog <span class="token operator">=</span> ConfirmationDialog<span class="token punctuation">.</span><span class="token function">new</span><span class="token punctuation">(</span><span class="token punctuation">)</span>
+</span><span class="code-line">    dialog<span class="token punctuation">.</span>title <span class="token operator">=</span> <span class="token string">"フォルダ構造の作成"</span>
+</span><span class="code-line">    dialog<span class="token punctuation">.</span>dialog_text <span class="token operator">=</span> <span class="token string">"標準的なフォルダ構造を作成しますか？\n既存のファイルやフォルダは上書きされません。"</span>
+</span><span class="code-line">    dialog<span class="token punctuation">.</span>confirmed<span class="token punctuation">.</span><span class="token function">connect</span><span class="token punctuation">(</span>_on_dialog_confirmed<span class="token punctuation">)</span>
+</span><span class="code-line">    dialog<span class="token punctuation">.</span>canceled<span class="token punctuation">.</span><span class="token function">connect</span><span class="token punctuation">(</span>_on_dialog_canceled<span class="token punctuation">)</span>
+</span><span class="code-line">
+</span><span class="code-line">    <span class="token comment"># ダイアログをエディタに追加し表示</span>
+</span><span class="code-line">    <span class="token function">get_editor_interface</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">.</span><span class="token function">get_base_control</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">.</span><span class="token function">add_child</span><span class="token punctuation">(</span>dialog<span class="token punctuation">)</span>
+</span><span class="code-line">    dialog<span class="token punctuation">.</span><span class="token function">popup_centered</span><span class="token punctuation">(</span><span class="token punctuation">)</span>
+</span><span class="code-line">
+</span><span class="code-line"><span class="token keyword">func</span> <span class="token function">_on_dialog_confirmed</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">:</span>
+</span><span class="code-line">    <span class="token function">create_folder_structure</span><span class="token punctuation">(</span><span class="token punctuation">)</span>
+</span><span class="code-line">    dialog<span class="token punctuation">.</span><span class="token function">queue_free</span><span class="token punctuation">(</span><span class="token punctuation">)</span>
+</span><span class="code-line">
+</span><span class="code-line"><span class="token keyword">func</span> <span class="token function">_on_dialog_canceled</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">:</span>
+</span><span class="code-line">    dialog<span class="token punctuation">.</span><span class="token function">queue_free</span><span class="token punctuation">(</span><span class="token punctuation">)</span>
+</span><span class="code-line">
+</span><span class="code-line"><span class="token keyword">func</span> <span class="token function">create_folder_structure</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">:</span>
+</span><span class="code-line">    <span class="token comment"># 標準的なフォルダ構造を作成</span>
+</span><span class="code-line">    <span class="token keyword">var</span> folders <span class="token operator">=</span> <span class="token punctuation">[</span>
+</span><span class="code-line">        <span class="token string">"res://assets"</span><span class="token punctuation">,</span>
+</span><span class="code-line">        <span class="token string">"res://assets/sprites"</span><span class="token punctuation">,</span>
+</span><span class="code-line">        <span class="token string">"res://assets/textures"</span><span class="token punctuation">,</span>
+</span><span class="code-line">        <span class="token string">"res://assets/models"</span><span class="token punctuation">,</span>
+</span><span class="code-line">        <span class="token string">"res://assets/audio"</span><span class="token punctuation">,</span>
+</span><span class="code-line">        <span class="token string">"res://assets/fonts"</span><span class="token punctuation">,</span>
+</span><span class="code-line">        <span class="token string">"res://assets/data"</span><span class="token punctuation">,</span>
+</span><span class="code-line">        <span class="token string">"res://scenes"</span><span class="token punctuation">,</span>
+</span><span class="code-line">        <span class="token string">"res://scenes/levels"</span><span class="token punctuation">,</span>
+</span><span class="code-line">        <span class="token string">"res://scenes/ui"</span><span class="token punctuation">,</span>
+</span><span class="code-line">        <span class="token string">"res://scenes/characters"</span><span class="token punctuation">,</span>
+</span><span class="code-line">        <span class="token string">"res://scenes/objects"</span><span class="token punctuation">,</span>
+</span><span class="code-line">        <span class="token string">"res://src"</span><span class="token punctuation">,</span>
+</span><span class="code-line">        <span class="token string">"res://addons"</span><span class="token punctuation">,</span>
+</span><span class="code-line">        <span class="token string">"res://_debug"</span>
+</span><span class="code-line">    <span class="token punctuation">]</span>
+</span><span class="code-line">
+</span><span class="code-line">    <span class="token keyword">var</span> created_count <span class="token operator">=</span> <span class="token number">0</span>
+</span><span class="code-line">    <span class="token keyword">var</span> already_exists_count <span class="token operator">=</span> <span class="token number">0</span>
+</span><span class="code-line">
+</span><span class="code-line">    <span class="token keyword">for</span> folder <span class="token keyword">in</span> folders<span class="token punctuation">:</span>
+</span><span class="code-line">        <span class="token keyword">if</span> <span class="token function">create_directory</span><span class="token punctuation">(</span>folder<span class="token punctuation">)</span><span class="token punctuation">:</span>
+</span><span class="code-line">            created_count <span class="token operator">+=</span> <span class="token number">1</span>
+</span><span class="code-line">        <span class="token keyword">else</span><span class="token punctuation">:</span>
+</span><span class="code-line">            already_exists_count <span class="token operator">+=</span> <span class="token number">1</span>
+</span><span class="code-line">
+</span><span class="code-line">    <span class="token comment"># 結果を表示するダイアログ</span>
+</span><span class="code-line">    <span class="token keyword">var</span> result_dialog <span class="token operator">=</span> AcceptDialog<span class="token punctuation">.</span><span class="token function">new</span><span class="token punctuation">(</span><span class="token punctuation">)</span>
+</span><span class="code-line">    result_dialog<span class="token punctuation">.</span>title <span class="token operator">=</span> <span class="token string">"フォルダ作成完了"</span>
+</span><span class="code-line">    result_dialog<span class="token punctuation">.</span>dialog_text <span class="token operator">=</span> <span class="token string">"作成したフォルダ: %d\n既存のフォルダ: %d"</span> <span class="token operator">%</span> <span class="token punctuation">[</span>created_count<span class="token punctuation">,</span> already_exists_count<span class="token punctuation">]</span>
+</span><span class="code-line">
+</span><span class="code-line">    <span class="token function">get_editor_interface</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">.</span><span class="token function">get_base_control</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">.</span><span class="token function">add_child</span><span class="token punctuation">(</span>result_dialog<span class="token punctuation">)</span>
+</span><span class="code-line">    result_dialog<span class="token punctuation">.</span><span class="token function">popup_centered</span><span class="token punctuation">(</span><span class="token punctuation">)</span>
+</span><span class="code-line">
+</span><span class="code-line"><span class="token keyword">func</span> <span class="token function">create_directory</span><span class="token punctuation">(</span>path<span class="token punctuation">)</span> <span class="token operator">-></span> <span class="token class-name">bool</span><span class="token punctuation">:</span>
+</span><span class="code-line">    <span class="token keyword">var</span> dir <span class="token operator">=</span> DirAccess<span class="token punctuation">.</span><span class="token function">open</span><span class="token punctuation">(</span><span class="token string">"res://"</span><span class="token punctuation">)</span>
+</span><span class="code-line">    <span class="token keyword">if</span> dir<span class="token punctuation">:</span>
+</span><span class="code-line">        <span class="token keyword">if</span> <span class="token keyword">not</span> dir<span class="token punctuation">.</span><span class="token function">dir_exists</span><span class="token punctuation">(</span>path<span class="token punctuation">)</span><span class="token punctuation">:</span>
+</span><span class="code-line">            <span class="token keyword">var</span> error <span class="token operator">=</span> dir<span class="token punctuation">.</span><span class="token function">make_dir_recursive</span><span class="token punctuation">(</span>path<span class="token punctuation">)</span>
+</span><span class="code-line">            <span class="token keyword">if</span> error <span class="token operator">==</span> <span class="token constant">OK</span><span class="token punctuation">:</span>
+</span><span class="code-line">                <span class="token function">print</span><span class="token punctuation">(</span><span class="token string">"作成成功: "</span> <span class="token operator">+</span> path<span class="token punctuation">)</span>
+</span><span class="code-line">                <span class="token keyword">return</span> <span class="token boolean">true</span>
+</span><span class="code-line">            <span class="token keyword">else</span><span class="token punctuation">:</span>
+</span><span class="code-line">                <span class="token function">print</span><span class="token punctuation">(</span><span class="token string">"作成失敗: "</span> <span class="token operator">+</span> path <span class="token operator">+</span> <span class="token string">", エラーコード: "</span> <span class="token operator">+</span> <span class="token function">str</span><span class="token punctuation">(</span>error<span class="token punctuation">)</span><span class="token punctuation">)</span>
+</span><span class="code-line">                <span class="token keyword">return</span> <span class="token boolean">false</span>
+</span><span class="code-line">        <span class="token keyword">else</span><span class="token punctuation">:</span>
+</span><span class="code-line">            <span class="token function">print</span><span class="token punctuation">(</span><span class="token string">"フォルダはすでに存在します: "</span> <span class="token operator">+</span> path<span class="token punctuation">)</span>
+</span><span class="code-line">            <span class="token keyword">return</span> <span class="token boolean">false</span>
+</span><span class="code-line">    <span class="token keyword">else</span><span class="token punctuation">:</span>
+</span><span class="code-line">        <span class="token function">print</span><span class="token punctuation">(</span><span class="token string">"ディレクトリにアクセスできませんでした"</span><span class="token punctuation">)</span>
+</span><span class="code-line">        <span class="token keyword">return</span> <span class="token boolean">false</span>
+</span></code></pre>
+<h2>コードの解説</h2>
+<h3>プラグインの基本構造</h3>
+<p>このプラグインは<code>EditorPlugin</code>クラスを拡張しています。Godotのエディタプラグインを作成するには、<code>@tool</code>アノテーションと<code>EditorPlugin</code>の継承が必要です。</p>
+<pre class="language-gdscript"><code class="language-gdscript code-highlight"><span class="code-line">@<span class="token keyword">tool</span>
+</span><span class="code-line"><span class="token keyword">extends</span> <span class="token class-name">EditorPlugin</span>
+</span></code></pre>
+<h3>プラグインの初期化と終了</h3>
+<p>プラグインが有効化されたときと無効化されたときに実行されるメソッドです：</p>
+<pre class="language-gdscript"><code class="language-gdscript code-highlight"><span class="code-line"><span class="token keyword">func</span> <span class="token function">_enter_tree</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">:</span>
+</span><span class="code-line">    <span class="token function">add_tool_menu_item</span><span class="token punctuation">(</span><span class="token string">"フォルダ構造を生成"</span><span class="token punctuation">,</span> _on_create_folders_pressed<span class="token punctuation">)</span>
+</span><span class="code-line">
+</span><span class="code-line"><span class="token keyword">func</span> <span class="token function">_exit_tree</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">:</span>
+</span><span class="code-line">    <span class="token function">remove_tool_menu_item</span><span class="token punctuation">(</span><span class="token string">"フォルダ構造を生成"</span><span class="token punctuation">)</span>
+</span><span class="code-line">
+</span><span class="code-line">    <span class="token keyword">if</span> dialog<span class="token punctuation">:</span>
+</span><span class="code-line">        dialog<span class="token punctuation">.</span><span class="token function">queue_free</span><span class="token punctuation">(</span><span class="token punctuation">)</span>
+</span></code></pre>
+<p><code>add_tool_menu_item</code>メソッドにより、Godotエディタの「プロジェクト」メニューに新しい項目が追加されます。</p>
+<h3>ダイアログの表示</h3>
+<p>ユーザーがメニューオプションをクリックすると、確認ダイアログが表示されます：</p>
+<pre class="language-gdscript"><code class="language-gdscript code-highlight"><span class="code-line"><span class="token keyword">func</span> <span class="token function">_on_create_folders_pressed</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">:</span>
+</span><span class="code-line">    dialog <span class="token operator">=</span> ConfirmationDialog<span class="token punctuation">.</span><span class="token function">new</span><span class="token punctuation">(</span><span class="token punctuation">)</span>
+</span><span class="code-line">    dialog<span class="token punctuation">.</span>title <span class="token operator">=</span> <span class="token string">"フォルダ構造の作成"</span>
+</span><span class="code-line">    dialog<span class="token punctuation">.</span>dialog_text <span class="token operator">=</span> <span class="token string">"標準的なフォルダ構造を作成しますか？\n既存のファイルやフォルダは上書きされません。"</span>
+</span><span class="code-line">    dialog<span class="token punctuation">.</span>confirmed<span class="token punctuation">.</span><span class="token function">connect</span><span class="token punctuation">(</span>_on_dialog_confirmed<span class="token punctuation">)</span>
+</span><span class="code-line">    dialog<span class="token punctuation">.</span>canceled<span class="token punctuation">.</span><span class="token function">connect</span><span class="token punctuation">(</span>_on_dialog_canceled<span class="token punctuation">)</span>
+</span><span class="code-line">
+</span><span class="code-line">    <span class="token function">get_editor_interface</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">.</span><span class="token function">get_base_control</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">.</span><span class="token function">add_child</span><span class="token punctuation">(</span>dialog<span class="token punctuation">)</span>
+</span><span class="code-line">    dialog<span class="token punctuation">.</span><span class="token function">popup_centered</span><span class="token punctuation">(</span><span class="token punctuation">)</span>
+</span></code></pre>
+<h3>フォルダ構造の作成</h3>
+<p>フォルダ構造を定義し、各フォルダを順番に作成します：</p>
+<pre class="language-gdscript"><code class="language-gdscript code-highlight"><span class="code-line"><span class="token keyword">func</span> <span class="token function">create_folder_structure</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">:</span>
+</span><span class="code-line">    <span class="token keyword">var</span> folders <span class="token operator">=</span> <span class="token punctuation">[</span>
+</span><span class="code-line">        <span class="token string">"res://assets"</span><span class="token punctuation">,</span>
+</span><span class="code-line">        <span class="token string">"res://assets/sprites"</span><span class="token punctuation">,</span>
+</span><span class="code-line">        <span class="token operator">/</span><span class="token operator">/</span> 省略<span class="token punctuation">.</span><span class="token punctuation">.</span><span class="token punctuation">.</span>
+</span><span class="code-line">    <span class="token punctuation">]</span>
+</span><span class="code-line">
+</span><span class="code-line">    <span class="token keyword">var</span> created_count <span class="token operator">=</span> <span class="token number">0</span>
+</span><span class="code-line">    <span class="token keyword">var</span> already_exists_count <span class="token operator">=</span> <span class="token number">0</span>
+</span><span class="code-line">
+</span><span class="code-line">    <span class="token keyword">for</span> folder <span class="token keyword">in</span> folders<span class="token punctuation">:</span>
+</span><span class="code-line">        <span class="token keyword">if</span> <span class="token function">create_directory</span><span class="token punctuation">(</span>folder<span class="token punctuation">)</span><span class="token punctuation">:</span>
+</span><span class="code-line">            created_count <span class="token operator">+=</span> <span class="token number">1</span>
+</span><span class="code-line">        <span class="token keyword">else</span><span class="token punctuation">:</span>
+</span><span class="code-line">            already_exists_count <span class="token operator">+=</span> <span class="token number">1</span>
+</span></code></pre>
+<h3>ディレクトリの作成</h3>
+<p>実際にディレクトリを作成するためのヘルパーメソッドです：</p>
+<pre class="language-gdscript"><code class="language-gdscript code-highlight"><span class="code-line"><span class="token keyword">func</span> <span class="token function">create_directory</span><span class="token punctuation">(</span>path<span class="token punctuation">)</span> <span class="token operator">-></span> <span class="token class-name">bool</span><span class="token punctuation">:</span>
+</span><span class="code-line">    <span class="token keyword">var</span> dir <span class="token operator">=</span> DirAccess<span class="token punctuation">.</span><span class="token function">open</span><span class="token punctuation">(</span><span class="token string">"res://"</span><span class="token punctuation">)</span>
+</span><span class="code-line">    <span class="token keyword">if</span> dir<span class="token punctuation">:</span>
+</span><span class="code-line">        <span class="token keyword">if</span> <span class="token keyword">not</span> dir<span class="token punctuation">.</span><span class="token function">dir_exists</span><span class="token punctuation">(</span>path<span class="token punctuation">)</span><span class="token punctuation">:</span>
+</span><span class="code-line">            <span class="token keyword">var</span> error <span class="token operator">=</span> dir<span class="token punctuation">.</span><span class="token function">make_dir_recursive</span><span class="token punctuation">(</span>path<span class="token punctuation">)</span>
+</span><span class="code-line">            <span class="token operator">/</span><span class="token operator">/</span> 省略<span class="token punctuation">.</span><span class="token punctuation">.</span><span class="token punctuation">.</span>
+</span></code></pre>
+<p>Godot 4では<code>DirAccess</code>クラスを使用してファイルシステム操作を行います。<code>make_dir_recursive</code>メソッドにより、親ディレクトリも含めて一括で作成できます。</p>
+<h2>プラグインの使用方法</h2>
+<h3>1. プラグインのインストール</h3>
+<p>作成したプラグインをインストールするには、以下の手順に従います：</p>
+<ol>
+<li>プロジェクトの「addons」フォルダに「folder_generator」フォルダを作成</li>
+<li><code>plugin.cfg</code>と<code>plugin.gd</code>ファイルをこのフォルダに配置</li>
+</ol>
+<h3>2. プラグインの有効化</h3>
+<ol>
+<li>Godotエディタで「プロジェクト > プロジェクト設定」を開く</li>
+<li>「プラグイン」タブを選択</li>
+<li>リストから「Folder Generator」を探し、有効化のチェックボックスをオンにする</li>
+</ol>
+<h3>3. プラグインの実行</h3>
+<ol>
+<li>Godotエディタのトップメニューから「プロジェクト > フォルダ構造を生成」を選択</li>
+<li>確認ダイアログで「OK」をクリックすると、フォルダ構造が自動生成される</li>
+<li>生成結果のダイアログが表示される</li>
+</ol>
+<h2>カスタマイズ方法</h2>
+<h3>フォルダ構造のカスタマイズ</h3>
+<p>プロジェクトの要件に合わせてフォルダ構造をカスタマイズする場合は、<code>create_folder_structure</code>メソッド内の<code>folders</code>配列を変更します：</p>
+<pre class="language-gdscript"><code class="language-gdscript code-highlight"><span class="code-line"><span class="token keyword">var</span> folders <span class="token operator">=</span> <span class="token punctuation">[</span>
+</span><span class="code-line">    <span class="token string">"res://assets"</span><span class="token punctuation">,</span>
+</span><span class="code-line">    <span class="token string">"res://assets/sprites"</span><span class="token punctuation">,</span>
+</span><span class="code-line">    <span class="token operator">/</span><span class="token operator">/</span> 自分のプロジェクトに必要なフォルダを追加
+</span><span class="code-line">    <span class="token string">"res://assets/custom_folder"</span><span class="token punctuation">,</span>
+</span><span class="code-line">    <span class="token operator">/</span><span class="token operator">/</span> 省略<span class="token punctuation">.</span><span class="token punctuation">.</span><span class="token punctuation">.</span>
+</span><span class="code-line"><span class="token punctuation">]</span>
+</span></code></pre>
+<h3>ダイアログのカスタマイズ</h3>
+<p>確認ダイアログの内容をカスタマイズする場合は、<code>_on_create_folders_pressed</code>メソッド内のダイアログテキストを変更します：</p>
+<pre class="language-gdscript"><code class="language-gdscript code-highlight"><span class="code-line">dialog<span class="token punctuation">.</span>title <span class="token operator">=</span> <span class="token string">"カスタムタイトル"</span>
+</span><span class="code-line">dialog<span class="token punctuation">.</span>dialog_text <span class="token operator">=</span> <span class="token string">"カスタムメッセージをここに入力"</span>
+</span></code></pre>
+<h2>トラブルシューティング</h2>
+<h3>プラグインが表示されない場合</h3>
+<ul>
+<li>プラグインフォルダの構造が正しいか確認（<code>addons/folder_generator/plugin.cfg</code>と<code>plugin.gd</code>）</li>
+<li><code>plugin.cfg</code>の内容が正しいか確認</li>
+<li>Godotを再起動して、再度プラグインを有効化</li>
+</ul>
+<h3>フォルダ作成に失敗する場合</h3>
+<ul>
+<li>ログコンソールでエラーメッセージを確認</li>
+<li>ファイルシステムの権限に問題がないか確認</li>
+<li><code>DirAccess.open("res://")</code>が<code>null</code>を返していないか確認</li>
+</ul>
+<h2>まとめ</h2>
+<p>このエディタプラグインを使用することで、Godot 4プロジェクトのフォルダ構造を自動的に生成できるようになります。これにより、プロジェクト設定の時間を短縮し、一貫したフォルダ構造を保つことができます。</p>
+<p>プラグインは簡単に拡張でき、プロジェクトの要件に合わせてカスタマイズすることも可能です。エディタプラグインの開発を通じて、Godotのエディタ機能を拡張する方法も学ぶことができました。</p>
+<h2>参考資料</h2>
+<ul>
+<li><a href="https://docs.godotengine.org/" rel="nofollow" target="_blank">Godot 4.0 公式ドキュメント - プラグイン開発</a></li>
+<li><a href="https://docs.godotengine.org/" rel="nofollow" target="_blank">Godot 4.0 公式ドキュメント - ファイルシステムAPI</a></li>
+<li><a href="https://docs.godotengine.org/" rel="nofollow" target="_blank">Godot 4.0 公式ドキュメント - プロジェクト構成のベストプラクティス</a></li>
+</ul>
+<hr>
+<p><em>Godot 4.xを基準としています。このプラグインは特定のGodotバージョンで動作確認されていますが、将来のバージョンでは変更が必要になる可能性があります。</em></p>2:["$","article",null,{"className":"min-h-screen","children":[["$","div",null,{"className":"bg-gradient-to-b from-green-50/60 to-transparent dark:from-gray-900 dark:to-transparent","children":["$","div",null,{"className":"max-w-4xl mx-auto px-6 md:px-8 pt-28 md:pt-32 pb-10 md:pb-14","children":[["$","h1",null,{"className":"font-katyou text-4xl md:text-5xl lg:text-6xl text-gray-900 dark:text-white leading-tight mb-6","children":"Godot 4でプロジェクトフォルダを自動生成するプラグインの作成方法"}],["$","time",null,{"className":"text-base font-medium text-gray-600 dark:text-gray-400","children":"2025-05-01"}]]}]}],["$","div",null,{"className":"max-w-4xl mx-auto px-6 md:px-8 pb-16 md:pb-24","children":[["$","div",null,{"id":"post-content","className":"prose prose-lg dark:prose-invert max-w-none prose-headings:font-katyou prose-headings:tracking-tight prose-h2:text-3xl prose-h2:mt-12 prose-h2:mb-6 prose-h3:text-2xl prose-h3:mt-10 prose-h3:mb-5 prose-h4:text-xl prose-h4:mt-8 prose-h4:mb-4 prose-p:leading-relaxed prose-p:mb-6 prose-li:my-2 prose-a:text-green-600 prose-a:no-underline prose-a:font-medium hover:prose-a:text-green-700 hover:prose-a:underline dark:prose-a:text-green-400 dark:hover:prose-a:text-green-300 prose-code:text-green-700 prose-code:bg-green-50 dark:prose-code:text-green-300 dark:prose-code:bg-green-900/20 prose-pre:bg-gray-900 dark:prose-pre:bg-gray-950 prose-img:rounded-lg prose-img:shadow-md prose-hr:my-12 prose-hr:border-gray-300 dark:prose-hr:border-gray-700 border-t border-gray-200 dark:border-gray-800 pt-8","dangerouslySetInnerHTML":{"__html":"$d"}}],["$","$Le",null,{}],["$","div",null,{"className":"mt-16 pt-10 border-t border-gray-200 dark:border-gray-800","children":[["$","p",null,{"className":"text-sm font-semibold text-gray-500 dark:text-gray-400 mb-4","children":"タグ"}],["$","div",null,{"className":"flex flex-wrap gap-2.5","children":[["$","$L9","Godot",{"href":"/tags/Godot","className":"inline-flex items-center px-4 py-1.5 rounded-full text-sm font-medium bg-green-100 text-green-800 dark:bg-green-900/30 dark:text-green-300 hover:bg-green-200 dark:hover:bg-green-800/50 transition-colors duration-200 shadow-sm","children":"Godot"}],["$","$L9","プラグイン開発",{"href":"/tags/プラグイン開発","className":"inline-flex items-center px-4 py-1.5 rounded-full text-sm font-medium bg-green-100 text-green-800 dark:bg-green-900/30 dark:text-green-300 hover:bg-green-200 dark:hover:bg-green-800/50 transition-colors duration-200 shadow-sm","children":"プラグイン開発"}],["$","$L9","フォルダ構成",{"href":"/tags/フォルダ構成","className":"inline-flex items-center px-4 py-1.5 rounded-full text-sm font-medium bg-green-100 text-green-800 dark:bg-green-900/30 dark:text-green-300 hover:bg-green-200 dark:hover:bg-green-800/50 transition-colors duration-200 shadow-sm","children":"フォルダ構成"}],["$","$L9","ゲーム開発効率化",{"href":"/tags/ゲーム開発効率化","className":"inline-flex items-center px-4 py-1.5 rounded-full text-sm font-medium bg-green-100 text-green-800 dark:bg-green-900/30 dark:text-green-300 hover:bg-green-200 dark:hover:bg-green-800/50 transition-colors duration-200 shadow-sm","children":"ゲーム開発効率化"}]]}]]}]]}]]}]
+c:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"Godot 4でプロジェクトフォルダを自動生成するプラグインの作成方法 | ブログタイトル"}],["$","meta","3",{"name":"description","content":"効率的なゲーム開発のためのGodot 4フォルダ構造自動生成プラグインの実装方法"}],["$","meta","4",{"property":"og:title","content":"Godot 4でプロジェクトフォルダを自動生成するプラグインの作成方法"}],["$","meta","5",{"property":"og:description","content":"効率的なゲーム開発のためのGodot 4フォルダ構造自動生成プラグインの実装方法"}],["$","meta","6",{"property":"og:url","content":"https://maemaemae.blog/posts/godot_20250502"}],["$","meta","7",{"property":"og:image","content":"https://maemaemae.blog/images/godot-folder-plugin.jpg"}],["$","meta","8",{"property":"og:type","content":"article"}],["$","meta","9",{"property":"article:published_time","content":"2025-05-01"}],["$","meta","10",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","11",{"name":"twitter:title","content":"Godot 4でプロジェクトフォルダを自動生成するプラグインの作成方法"}],["$","meta","12",{"name":"twitter:description","content":"効率的なゲーム開発のためのGodot 4フォルダ構造自動生成プラグインの実装方法"}],["$","meta","13",{"name":"twitter:image","content":"https://maemaemae.blog/images/godot-folder-plugin.jpg"}],["$","link","14",{"rel":"icon","href":"/favicon.ico","type":"image/x-icon","sizes":"16x16"}],["$","meta","15",{"name":"next-size-adjust"}]]
+1:null

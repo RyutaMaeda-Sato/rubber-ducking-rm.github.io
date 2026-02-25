@@ -1,0 +1,247 @@
+3:I[4707,[],""]
+5:I[6423,[],""]
+6:I[4888,["972","static/chunks/972-f241a8fd644428c6.js","70","static/chunks/70-f52c2ad284c6cd86.js","185","static/chunks/app/layout-97d049cf0fc78146.js"],"GoogleAnalytics"]
+7:I[6806,["972","static/chunks/972-f241a8fd644428c6.js","70","static/chunks/70-f52c2ad284c6cd86.js","185","static/chunks/app/layout-97d049cf0fc78146.js"],"default"]
+8:I[7213,["972","static/chunks/972-f241a8fd644428c6.js","70","static/chunks/70-f52c2ad284c6cd86.js","185","static/chunks/app/layout-97d049cf0fc78146.js"],"default"]
+9:I[2972,["972","static/chunks/972-f241a8fd644428c6.js","333","static/chunks/app/posts/%5Bslug%5D/page-acd6669982df1354.js"],""]
+a:I[5878,["972","static/chunks/972-f241a8fd644428c6.js","70","static/chunks/70-f52c2ad284c6cd86.js","185","static/chunks/app/layout-97d049cf0fc78146.js"],"Image"]
+b:I[2374,["972","static/chunks/972-f241a8fd644428c6.js","70","static/chunks/70-f52c2ad284c6cd86.js","185","static/chunks/app/layout-97d049cf0fc78146.js"],"default"]
+4:["slug","windows_20250328","d"]
+0:["0oJGNGFmzz_LorUWHIimP",[[["",{"children":["posts",{"children":[["slug","windows_20250328","d"],{"children":["__PAGE__?{\"slug\":\"windows_20250328\"}",{}]}]}]},"$undefined","$undefined",true],["",{"children":["posts",{"children":[["slug","windows_20250328","d"],{"children":["__PAGE__",{},[["$L1","$L2",null],null],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","posts","children","$4","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","posts","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/3add334ee59f67ac.css","precedence":"next","crossOrigin":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/css/cec3dd424af6abe7.css","precedence":"next","crossOrigin":"$undefined"}],["$","link","2",{"rel":"stylesheet","href":"/_next/static/css/31924b81bd2c71c2.css","precedence":"next","crossOrigin":"$undefined"}]],["$","html",null,{"lang":"jp","className":"__variable_f367f3 __variable_8c8862 __variable_6beb74 __variable_b784c9 __variable_d575de","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){try{var s=localStorage.getItem('darkMode');var p=window.matchMedia('(prefers-color-scheme: dark)').matches;if(s!==null?s==='true':p){document.documentElement.classList.add('dark');}}catch(e){}})();"}}],["$","$L6",null,{"gaId":"G-FWRP8962MB"}]]}],["$","body",null,{"className":"__className_f367f3","children":["$","$L7",null,{"children":[["$","header",null,{"children":["$","$L8",null,{"children":["$","div",null,{"className":"fixed top-0 left-0 w-full z-50 bg-green-700 dark:bg-gray-900 shadow-md border-b border-green-600/50 dark:border-gray-800","children":["$","div",null,{"className":"max-w-7xl mx-auto","children":["$","div",null,{"className":"flex items-center justify-between px-6 md:px-8 h-20 md:h-24","children":[["$","$L9",null,{"href":"/","className":"group flex items-center gap-3 transition-opacity hover:opacity-80","children":[["$","$La",null,{"alt":"Maemaemae","src":"/header.jpg","width":44,"height":44,"className":"rounded-full object-cover ring-2 ring-white/20 group-hover:ring-white/40 transition-all"}],["$","span",null,{"className":"text-xl md:text-2xl font-katyou text-[#fffef9] tracking-wide","children":"Maemaemae"}]]}],["$","div",null,{"className":"flex items-center gap-2","children":[["$","a",null,{"href":"https://x.com/maemaemae_rm","target":"_blank","rel":"noopener noreferrer","className":"p-2.5 rounded-full hover:bg-white/10 transition-colors","aria-label":"X (Twitter)","children":["$","$La",null,{"src":"/x-logo-white.png","width":24,"height":24,"alt":""}]}],["$","$Lb",null,{}]]}]]}]}]}]}]}],["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[]}]]}]}]]}]],null],null],["$Lc",null]]]]
+e:I[7426,["972","static/chunks/972-f241a8fd644428c6.js","333","static/chunks/app/posts/%5Bslug%5D/page-acd6669982df1354.js"],"default"]
+d:T4418,<p>複数の作業を同時に進める現代のPC環境では、画面の整理が生産性向上の鍵となります。Windows 11では仮想デスクトップ機能が大幅に強化され、より直感的で柔軟な作業環境を実現できるようになりました。用途別に作業スペースを分け、集中力を高め、効率的に作業を進めるための具体的な活用法をご紹介します。</p>
+<h2>仮想デスクトップの基本操作</h2>
+<h3>Windows 11の仮想デスクトップとは</h3>
+<p>Windows 11の仮想デスクトップとは、物理的には1台のコンピュータと1つの画面でありながら、複数の独立したデスクトップ環境を切り替えて使用できる機能です。Windows 10から進化し、より視覚的で操作性が向上した仮想デスクトップ機能により、異なるプロジェクトやタスクごとにデスクトップを分けて、作業の整理と集中力の向上を実現します。</p>
+<h3>基本的なショートカットキー</h3>
+<pre><code class="code-highlight"><span class="code-line"># 新しい仮想デスクトップを作成
+</span><span class="code-line">Win + Ctrl + D
+</span><span class="code-line">
+</span><span class="code-line"># 仮想デスクトップ間を移動
+</span><span class="code-line">Win + Ctrl + 左右矢印
+</span><span class="code-line">
+</span><span class="code-line"># 現在の仮想デスクトップを閉じる
+</span><span class="code-line">Win + Ctrl + F4
+</span><span class="code-line">
+</span><span class="code-line"># すべてのデスクトップとアプリを表示（タスクビュー）
+</span><span class="code-line">Win + Tab
+</span></code></pre>
+<h3>Windows 11の改良されたマウス操作</h3>
+<ol>
+<li>タスクバーの「タスクビュー」ボタンをクリック（もしくは3本指でタッチパッドを上にスワイプ）</li>
+<li>画面中央に表示される「+ 新しいデスクトップ」をクリック</li>
+<li>サムネイルで各デスクトップのコンテンツを確認しながらクリックして切り替え</li>
+<li>デスクトップのサムネイルを右クリックして名前変更やカスタマイズオプションにアクセス</li>
+</ol>
+<h2>効果的な仮想デスクトップの設定方法</h2>
+<h3>目的別デスクトップの構成例</h3>
+<ol>
+<li>
+<p><strong>デスクトップ1: メインワーク</strong></p>
+<ul>
+<li>メール、カレンダー、主要なプロジェクトファイル</li>
+<li>常に最も使用頻度の高いアプリケーションを配置</li>
+</ul>
+</li>
+<li>
+<p><strong>デスクトップ2: コミュニケーション</strong></p>
+<ul>
+<li>Teams、Slack、Zoomなどの通信ツール</li>
+<li>メッセージ対応と会議に集中できる環境</li>
+</ul>
+</li>
+<li>
+<p><strong>デスクトップ3: リサーチ・情報収集</strong></p>
+<ul>
+<li>ブラウザ、PDFリーダー、メモアプリ</li>
+<li>情報収集と学習に特化した環境</li>
+</ul>
+</li>
+<li>
+<p><strong>デスクトップ4: クリエイティブ作業</strong></p>
+<ul>
+<li>デザインツール、動画編集ソフト</li>
+<li>創造的な作業に集中できるクリーンな環境</li>
+</ul>
+</li>
+</ol>
+<h3>Windows 11のデスクトップ視覚的カスタマイズ</h3>
+<p>Windows 11では、各仮想デスクトップのカスタマイズ性が向上し、より直感的に作業環境を識別できます：</p>
+<pre><code class="code-highlight"><span class="code-line"># 壁紙の個別設定
+</span><span class="code-line">1. Win + Tab キーを押してタスクビューを開く
+</span><span class="code-line">2. デスクトップサムネイルを右クリック
+</span><span class="code-line">3. 「背景の選択」を選択
+</span><span class="code-line">4. 好みの壁紙を設定
+</span><span class="code-line">
+</span><span class="code-line"># デスクトップの名前変更
+</span><span class="code-line">1. Win + Tab キーを押してタスクビューを開く
+</span><span class="code-line">2. デスクトップサムネイルを右クリック
+</span><span class="code-line">3. 「名前の変更」を選択
+</span><span class="code-line">4. 分かりやすい名前を入力（例：「仕事」「プライベート」「プロジェクトA」）
+</span></code></pre>
+<p>これらの視覚的・テキスト的な区別により、現在どのデスクトップを使用しているか一目で判別できます。Windows 11ではサムネイルのプレビュー品質も向上し、中身がより見やすくなっています。</p>
+<h2>仮想デスクトップの高度な活用テクニック</h2>
+<h3>Windows 11でのアプリケーション固定</h3>
+<p>Windows 11では、特定のアプリケーションをすべての仮想デスクトップに表示させる機能が改善され、より柔軟な設定が可能になりました：</p>
+<pre><code class="code-highlight"><span class="code-line">1. Win + Tab でタスクビューを開く
+</span><span class="code-line">2. 固定したいアプリのウィンドウを右クリック
+</span><span class="code-line">3. 「このアプリをすべてのデスクトップに表示」を選択
+</span><span class="code-line">
+</span><span class="code-line"># アプリごとに固定設定を管理
+</span><span class="code-line">1. 設定 > システム > マルチタスク を開く
+</span><span class="code-line">2. 「仮想デスクトップ」セクションで「デスクトップを切り替えたときに開いているウィンドウを表示する場所」を選択
+</span><span class="code-line">3. 「すべてのデスクトップ」「メインデスクトップのみ」「開いたデスクトップのみ」から選択可能
+</span></code></pre>
+<h3>Windows 11でのアプリケーション移動とスナップレイアウト</h3>
+<p>Windows 11では、アプリの移動がさらに直感的になり、スナップレイアウト機能との連携も強化されています：</p>
+<pre><code class="code-highlight"><span class="code-line"># デスクトップ間の移動（従来の方法）
+</span><span class="code-line">1. Win + Tab でタスクビューを開く
+</span><span class="code-line">2. 移動したいアプリを別のデスクトップへドラッグ＆ドロップ
+</span><span class="code-line">
+</span><span class="code-line"># ショートカットキーによる移動
+</span><span class="code-line">Win + Shift + 左右矢印（現在のウィンドウを左右のデスクトップへ移動）
+</span><span class="code-line">
+</span><span class="code-line"># タスクバーからの直接移動（Windows 11の新機能）
+</span><span class="code-line">1. タスクバー上のアプリアイコンを右クリック
+</span><span class="code-line">2. 「移動先 >」を選択
+</span><span class="code-line">3. 移動先のデスクトップを選択
+</span></code></pre>
+<p><strong>Windows 11のスナップレイアウトと仮想デスクトップの連携</strong></p>
+<pre><code class="code-highlight"><span class="code-line">1. ウィンドウ上部の最大化ボタンにマウスを合わせる（または Win + Z を押す）
+</span><span class="code-line">2. 表示されるスナップレイアウトからレイアウトを選択
+</span><span class="code-line">3. 残りのスペースに配置するアプリを選択
+</span><span class="code-line">4. これらの組み合わせを1つの仮想デスクトップとして保存
+</span></code></pre>
+<h3>トラブルシューティング：よくある問題と解決策</h3>
+<h4>問題: デスクトップ切り替え時にアプリが消える</h4>
+<p><strong>解決策</strong>: アプリが誤って閉じられたのではなく、別のデスクトップに配置されている可能性があります。Alt+Tabを押して全アプリを確認してください。</p>
+<h4>問題: デスクトップ設定がリセットされる</h4>
+<p><strong>解決策</strong>: Windows Updateまたはシステム再起動後に設定がリセットされることがあります。定期的なデスクトップ設定の確認をお勧めします。</p>
+<h2>生産性を高める仮想デスクトップの活用パターン</h2>
+<h3>時間ブロッキング法との組み合わせ</h3>
+<ol>
+<li>
+<p><strong>朝: デスクトップ1（集中作業）</strong></p>
+<ul>
+<li>最も集中力が高い朝の時間帯は、最も重要なタスクに専念するデスクトップで作業</li>
+</ul>
+</li>
+<li>
+<p><strong>昼: デスクトップ2（コミュニケーション）</strong></p>
+<ul>
+<li>ミーティングやメール対応など、コミュニケーション関連タスクに集中</li>
+</ul>
+</li>
+<li>
+<p><strong>午後: デスクトップ3（情報整理）</strong></p>
+<ul>
+<li>情報の整理やドキュメント作成など、比較的集中力が落ちる午後の作業に</li>
+</ul>
+</li>
+</ol>
+<h3>プロジェクト管理への応用</h3>
+<p>複数のプロジェクトを同時進行する場合、プロジェクトごとに仮想デスクトップを割り当てると効果的です：</p>
+<pre><code class="code-highlight"><span class="code-line">デスクトップ1: プロジェクトA関連のすべてのファイルとアプリ
+</span><span class="code-line">デスクトップ2: プロジェクトB関連のすべてのファイルとアプリ
+</span><span class="code-line">デスクトップ3: 共通リソースとコミュニケーションツール
+</span></code></pre>
+<h2>Windows 11での高度なカスタマイズと自動化</h2>
+<h3>PowerToysを活用したWindows 11の拡張</h3>
+<p>Microsoft PowerToysの機能を使って、Windows 11の仮想デスクトップをさらに強化できます：</p>
+<pre><code class="code-highlight"><span class="code-line"># Keyboard Managerによるカスタムショートカット
+</span><span class="code-line">1. Microsoft PowerToysをインストール
+</span><span class="code-line">2. Keyboard Managerを開く
+</span><span class="code-line">3. 独自のショートカットキーを設定
+</span><span class="code-line">   例: Alt + 1, 2, 3...で特定のデスクトップに直接ジャンプ
+</span><span class="code-line">
+</span><span class="code-line"># FancyZonesとの連携
+</span><span class="code-line">1. PowerToysのFancyZones機能を有効化
+</span><span class="code-line">2. 各仮想デスクトップに異なるゾーンレイアウトを設定
+</span><span class="code-line">3. Shift + ドラッグでウィンドウを定義済みゾーンに配置
+</span></code></pre>
+<h3>Windows 11のスタートアップと仮想デスクトップの統合</h3>
+<p>Windows 11ではタスクスケジューラを活用し、特定のアプリを特定の仮想デスクトップで起動する自動化が可能です：</p>
+<pre class="language-powershell"><code class="language-powershell code-highlight"><span class="code-line"><span class="token comment"># PowerShellスクリプトでの自動セットアップ例</span>
+</span><span class="code-line"><span class="token comment"># virtualdesktop.ps1として保存</span>
+</span><span class="code-line">
+</span><span class="code-line"><span class="token comment"># 必要なアセンブリの読み込み</span>
+</span><span class="code-line"><span class="token function">Add-Type</span> <span class="token operator">-</span>AssemblyName System<span class="token punctuation">.</span>Runtime<span class="token punctuation">.</span>WindowsRuntime
+</span><span class="code-line">
+</span><span class="code-line"><span class="token comment"># 新しい仮想デスクトップの作成とアプリの起動</span>
+</span><span class="code-line"><span class="token variable">$asyncAction</span> = <span class="token namespace">[Windows.System.Launcher,Windows.System,ContentType=WindowsRuntime]</span>::LaunchUriAsync<span class="token punctuation">(</span>
+</span><span class="code-line">    <span class="token namespace">[System.Uri]</span>::new<span class="token punctuation">(</span><span class="token string">"ms-settings:"</span><span class="token punctuation">)</span><span class="token punctuation">)</span>
+</span><span class="code-line"><span class="token variable">$asyncAction</span><span class="token punctuation">.</span>GetResults<span class="token punctuation">(</span><span class="token punctuation">)</span>
+</span><span class="code-line">
+</span><span class="code-line"><span class="token function">Start-Sleep</span> <span class="token operator">-</span>Seconds 2
+</span><span class="code-line"><span class="token comment"># 仮想デスクトップの作成</span>
+</span><span class="code-line"><span class="token namespace">[Windows.UI.Input.KeyboardInput.KeyboardAccelerator,Windows.UI,ContentType=WindowsRuntime]</span>::SendKey<span class="token punctuation">(</span>
+</span><span class="code-line">    <span class="token namespace">[Windows.System.VirtualKey]</span>::LWin<span class="token punctuation">,</span>
+</span><span class="code-line">    <span class="token namespace">[Windows.System.VirtualKey]</span>::Control<span class="token punctuation">,</span>
+</span><span class="code-line">    <span class="token namespace">[Windows.System.VirtualKey]</span>::D<span class="token punctuation">)</span>
+</span><span class="code-line">
+</span><span class="code-line"><span class="token comment"># 指定したアプリの起動</span>
+</span><span class="code-line"><span class="token function">Start-Process</span> <span class="token string">"C:\Program Files\Microsoft Office\root\Office16\OUTLOOK.EXE"</span>
+</span></code></pre>
+<p><strong>Windows 11のスタートアップフォルダでの自動化</strong></p>
+<pre><code class="code-highlight"><span class="code-line">1. Win + R を押して「shell:startup」と入力
+</span><span class="code-line">2. アプリケーションのショートカットをこのフォルダに配置
+</span><span class="code-line">3. ショートカットのプロパティで「管理者として実行」にチェック
+</span></code></pre>
+<h2>まとめ：Windows 11のデスクトップ管理ベストプラクティス</h2>
+<ol>
+<li>
+<p><strong>目的に応じたデスクトップ分けと命名</strong></p>
+<ul>
+<li>タスクの種類や集中度に合わせて適切に分割し、分かりやすい名前を設定</li>
+</ul>
+</li>
+<li>
+<p><strong>視覚的なカスタマイズの活用</strong></p>
+<ul>
+<li>壁紙や配色を活用し、各デスクトップの用途を視覚的に区別</li>
+</ul>
+</li>
+<li>
+<p><strong>スナップレイアウトとの連携</strong></p>
+<ul>
+<li>Windows 11のスナップレイアウト機能を活用し、各デスクトップで最適なウィンドウ配置を保存</li>
+</ul>
+</li>
+<li>
+<p><strong>ショートカットキーの習得と拡張</strong></p>
+<ul>
+<li>基本ショートカットに加え、PowerToysによるカスタムショートカットで操作性を向上</li>
+</ul>
+</li>
+<li>
+<p><strong>定期的な整理と構成の見直し</strong></p>
+<ul>
+<li>不要になったデスクトップは閉じて、定期的に配置を最適化</li>
+</ul>
+</li>
+<li>
+<p><strong>タスクバーの設定とアプリ固定の活用</strong></p>
+<ul>
+<li>頻繁に使用するアプリをすべてのデスクトップに表示し、タスクバー設定を最適化</li>
+</ul>
+</li>
+<li>
+<p><strong>自分なりのワークフローの確立</strong></p>
+<ul>
+<li>Windows 11の新機能を取り入れつつ、自分の作業スタイルに最適なセットアップを見つける</li>
+</ul>
+</li>
+</ol>
+<hr>
+<p>Windows 11の仮想デスクトップは、前バージョンから大幅に機能強化され、より直感的で柔軟な作業環境を実現できるようになりました。単なる画面整理のツールではなく、思考の整理と集中力の向上をもたらす強力な生産性向上ツールです。この記事で紹介した方法を実践し、Windows 11の新機能を最大限に活用した最適な作業環境を構築してみてください。</p>
+<h2>参考資料</h2>
+<ul>
+<li><a href="https://support.microsoft.com/ja-jp/windows/windows-11-%E3%81%A7%E4%BB%AE%E6%83%B3%E3%83%87%E3%82%B9%E3%82%AF%E3%83%88%E3%83%83%E3%83%97%E3%82%92%E4%BD%9C%E6%88%90%E3%81%8A%E3%82%88%E3%81%B3%E4%BD%BF%E7%94%A8%E3%81%99%E3%82%8B-36f52e38-5b4c-43bc-a359-b7b458fd3dd5" rel="nofollow" target="_blank">Windows 11仮想デスクトップ公式サポートページ</a></li>
+<li><a href="https://www.microsoft.com/ja-jp/windows/windows-11" rel="nofollow" target="_blank">Windows 11ユーザーガイド</a></li>
+<li><a href="https://docs.microsoft.com/ja-jp/windows/powertoys/" rel="nofollow" target="_blank">Microsoft PowerToys公式ページ</a></li>
+<li><a href="https://support.microsoft.com/ja-jp/windows/windows-%E3%81%AE%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89-%E3%82%B7%E3%83%A7%E3%83%BC%E3%83%88%E3%82%AB%E3%83%83%E3%83%88-dcc61a57-8ff0-cffe-9796-cb9706c75eec" rel="nofollow" target="_blank">Windows 11キーボードショートカット</a></li>
+</ul>
+<hr>
+<p><em>この記事はWindows 11バージョン22H2以降の機能を基準としています。今後のアップデートで機能が拡張される可能性があります。</em></p>2:["$","article",null,{"className":"min-h-screen","children":[["$","div",null,{"className":"bg-gradient-to-b from-green-50/60 to-transparent dark:from-gray-900 dark:to-transparent","children":["$","div",null,{"className":"max-w-4xl mx-auto px-6 md:px-8 pt-28 md:pt-32 pb-10 md:pb-14","children":[["$","h1",null,{"className":"font-katyou text-4xl md:text-5xl lg:text-6xl text-gray-900 dark:text-white leading-tight mb-6","children":"Windows 11の仮想デスクトップを活用した作業効率化ガイド"}],["$","time",null,{"className":"text-base font-medium text-gray-600 dark:text-gray-400","children":"2025-03-28"}]]}]}],["$","div",null,{"className":"max-w-4xl mx-auto px-6 md:px-8 pb-16 md:pb-24","children":[["$","div",null,{"id":"post-content","className":"prose prose-lg dark:prose-invert max-w-none prose-headings:font-katyou prose-headings:tracking-tight prose-h2:text-3xl prose-h2:mt-12 prose-h2:mb-6 prose-h3:text-2xl prose-h3:mt-10 prose-h3:mb-5 prose-h4:text-xl prose-h4:mt-8 prose-h4:mb-4 prose-p:leading-relaxed prose-p:mb-6 prose-li:my-2 prose-a:text-green-600 prose-a:no-underline prose-a:font-medium hover:prose-a:text-green-700 hover:prose-a:underline dark:prose-a:text-green-400 dark:hover:prose-a:text-green-300 prose-code:text-green-700 prose-code:bg-green-50 dark:prose-code:text-green-300 dark:prose-code:bg-green-900/20 prose-pre:bg-gray-900 dark:prose-pre:bg-gray-950 prose-img:rounded-lg prose-img:shadow-md prose-hr:my-12 prose-hr:border-gray-300 dark:prose-hr:border-gray-700 border-t border-gray-200 dark:border-gray-800 pt-8","dangerouslySetInnerHTML":{"__html":"$d"}}],["$","$Le",null,{}],["$","div",null,{"className":"mt-16 pt-10 border-t border-gray-200 dark:border-gray-800","children":[["$","p",null,{"className":"text-sm font-semibold text-gray-500 dark:text-gray-400 mb-4","children":"タグ"}],["$","div",null,{"className":"flex flex-wrap gap-2.5","children":[["$","$L9","Windows 11",{"href":"/tags/Windows 11","className":"inline-flex items-center px-4 py-1.5 rounded-full text-sm font-medium bg-green-100 text-green-800 dark:bg-green-900/30 dark:text-green-300 hover:bg-green-200 dark:hover:bg-green-800/50 transition-colors duration-200 shadow-sm","children":"Windows 11"}],["$","$L9","仮想デスクトップ",{"href":"/tags/仮想デスクトップ","className":"inline-flex items-center px-4 py-1.5 rounded-full text-sm font-medium bg-green-100 text-green-800 dark:bg-green-900/30 dark:text-green-300 hover:bg-green-200 dark:hover:bg-green-800/50 transition-colors duration-200 shadow-sm","children":"仮想デスクトップ"}],["$","$L9","生産性向上",{"href":"/tags/生産性向上","className":"inline-flex items-center px-4 py-1.5 rounded-full text-sm font-medium bg-green-100 text-green-800 dark:bg-green-900/30 dark:text-green-300 hover:bg-green-200 dark:hover:bg-green-800/50 transition-colors duration-200 shadow-sm","children":"生産性向上"}],["$","$L9","デスクトップ管理",{"href":"/tags/デスクトップ管理","className":"inline-flex items-center px-4 py-1.5 rounded-full text-sm font-medium bg-green-100 text-green-800 dark:bg-green-900/30 dark:text-green-300 hover:bg-green-200 dark:hover:bg-green-800/50 transition-colors duration-200 shadow-sm","children":"デスクトップ管理"}]]}]]}]]}]]}]
+c:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"Windows 11の仮想デスクトップを活用した作業効率化ガイド | ブログタイトル"}],["$","meta","3",{"name":"description","content":"Windows 11の強化された仮想デスクトップ機能を使いこなして、複数の作業を整理し効率を向上させる方法"}],["$","meta","4",{"property":"og:title","content":"Windows 11の仮想デスクトップを活用した作業効率化ガイド"}],["$","meta","5",{"property":"og:description","content":"Windows 11の強化された仮想デスクトップ機能を使いこなして、複数の作業を整理し効率を向上させる方法"}],["$","meta","6",{"property":"og:url","content":"https://maemaemae.blog/posts/windows_20250328"}],["$","meta","7",{"property":"og:image","content":"https://maemaemae.blog/images/windows11-virtual-desktop.jpg"}],["$","meta","8",{"property":"og:type","content":"article"}],["$","meta","9",{"property":"article:published_time","content":"2025-03-28"}],["$","meta","10",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","11",{"name":"twitter:title","content":"Windows 11の仮想デスクトップを活用した作業効率化ガイド"}],["$","meta","12",{"name":"twitter:description","content":"Windows 11の強化された仮想デスクトップ機能を使いこなして、複数の作業を整理し効率を向上させる方法"}],["$","meta","13",{"name":"twitter:image","content":"https://maemaemae.blog/images/windows11-virtual-desktop.jpg"}],["$","link","14",{"rel":"icon","href":"/favicon.ico","type":"image/x-icon","sizes":"16x16"}],["$","meta","15",{"name":"next-size-adjust"}]]
+1:null

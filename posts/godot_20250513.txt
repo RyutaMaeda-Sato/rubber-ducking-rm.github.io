@@ -1,0 +1,149 @@
+3:I[4707,[],""]
+5:I[6423,[],""]
+6:I[4888,["972","static/chunks/972-f241a8fd644428c6.js","70","static/chunks/70-f52c2ad284c6cd86.js","185","static/chunks/app/layout-97d049cf0fc78146.js"],"GoogleAnalytics"]
+7:I[6806,["972","static/chunks/972-f241a8fd644428c6.js","70","static/chunks/70-f52c2ad284c6cd86.js","185","static/chunks/app/layout-97d049cf0fc78146.js"],"default"]
+8:I[7213,["972","static/chunks/972-f241a8fd644428c6.js","70","static/chunks/70-f52c2ad284c6cd86.js","185","static/chunks/app/layout-97d049cf0fc78146.js"],"default"]
+9:I[2972,["972","static/chunks/972-f241a8fd644428c6.js","333","static/chunks/app/posts/%5Bslug%5D/page-acd6669982df1354.js"],""]
+a:I[5878,["972","static/chunks/972-f241a8fd644428c6.js","70","static/chunks/70-f52c2ad284c6cd86.js","185","static/chunks/app/layout-97d049cf0fc78146.js"],"Image"]
+b:I[2374,["972","static/chunks/972-f241a8fd644428c6.js","70","static/chunks/70-f52c2ad284c6cd86.js","185","static/chunks/app/layout-97d049cf0fc78146.js"],"default"]
+4:["slug","godot_20250513","d"]
+0:["0oJGNGFmzz_LorUWHIimP",[[["",{"children":["posts",{"children":[["slug","godot_20250513","d"],{"children":["__PAGE__?{\"slug\":\"godot_20250513\"}",{}]}]}]},"$undefined","$undefined",true],["",{"children":["posts",{"children":[["slug","godot_20250513","d"],{"children":["__PAGE__",{},[["$L1","$L2",null],null],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","posts","children","$4","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","posts","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/3add334ee59f67ac.css","precedence":"next","crossOrigin":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/css/cec3dd424af6abe7.css","precedence":"next","crossOrigin":"$undefined"}],["$","link","2",{"rel":"stylesheet","href":"/_next/static/css/31924b81bd2c71c2.css","precedence":"next","crossOrigin":"$undefined"}]],["$","html",null,{"lang":"jp","className":"__variable_f367f3 __variable_8c8862 __variable_6beb74 __variable_b784c9 __variable_d575de","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){try{var s=localStorage.getItem('darkMode');var p=window.matchMedia('(prefers-color-scheme: dark)').matches;if(s!==null?s==='true':p){document.documentElement.classList.add('dark');}}catch(e){}})();"}}],["$","$L6",null,{"gaId":"G-FWRP8962MB"}]]}],["$","body",null,{"className":"__className_f367f3","children":["$","$L7",null,{"children":[["$","header",null,{"children":["$","$L8",null,{"children":["$","div",null,{"className":"fixed top-0 left-0 w-full z-50 bg-green-700 dark:bg-gray-900 shadow-md border-b border-green-600/50 dark:border-gray-800","children":["$","div",null,{"className":"max-w-7xl mx-auto","children":["$","div",null,{"className":"flex items-center justify-between px-6 md:px-8 h-20 md:h-24","children":[["$","$L9",null,{"href":"/","className":"group flex items-center gap-3 transition-opacity hover:opacity-80","children":[["$","$La",null,{"alt":"Maemaemae","src":"/header.jpg","width":44,"height":44,"className":"rounded-full object-cover ring-2 ring-white/20 group-hover:ring-white/40 transition-all"}],["$","span",null,{"className":"text-xl md:text-2xl font-katyou text-[#fffef9] tracking-wide","children":"Maemaemae"}]]}],["$","div",null,{"className":"flex items-center gap-2","children":[["$","a",null,{"href":"https://x.com/maemaemae_rm","target":"_blank","rel":"noopener noreferrer","className":"p-2.5 rounded-full hover:bg-white/10 transition-colors","aria-label":"X (Twitter)","children":["$","$La",null,{"src":"/x-logo-white.png","width":24,"height":24,"alt":""}]}],["$","$Lb",null,{}]]}]]}]}]}]}]}],["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[]}]]}]}]]}]],null],null],["$Lc",null]]]]
+e:I[7426,["972","static/chunks/972-f241a8fd644428c6.js","333","static/chunks/app/posts/%5Bslug%5D/page-acd6669982df1354.js"],"default"]
+d:T4e1a,<h1>Godot 4.4 ボタン無効化の完全ガイド</h1>
+<p>ゲーム開発において、特定の条件下でプレイヤーの操作を制限するのは重要な要素です。Godot 4.4では、ボタンの無効化機能を活用することで、ユーザー体験を向上させることができます。この記事では、Godotでボタンを無効化する様々な方法と実践的なユースケースを紹介します。</p>
+<h2>基本的な無効化テクニック</h2>
+<h3>スクリプトからの無効化</h3>
+<p>最も一般的な方法は、GDScriptからボタンの<code>disabled</code>プロパティを制御することです。</p>
+<pre class="language-gdscript"><code class="language-gdscript code-highlight"><span class="code-line"><span class="token comment"># ボタンを無効化</span>
+</span><span class="code-line"><span class="token variable">$Button</span><span class="token punctuation">.</span>disabled <span class="token operator">=</span> <span class="token boolean">true</span>
+</span><span class="code-line">
+</span><span class="code-line"><span class="token comment"># ボタンを再び有効化</span>
+</span><span class="code-line"><span class="token variable">$Button</span><span class="token punctuation">.</span>disabled <span class="token operator">=</span> <span class="token boolean">false</span>
+</span></code></pre>
+<p>この方法は、ゲームの状態に応じて動的にボタンを制御したい場合に最適です。</p>
+<h3>エディタからの静的設定</h3>
+<p>開発時に特定のボタンを常に無効化しておきたい場合は、エディタから直接設定できます。</p>
+<ol>
+<li>ボタンノードを選択</li>
+<li>インスペクターパネルの「Control」セクションを展開</li>
+<li>「disabled」プロパティにチェックを入れる</li>
+</ol>
+<h2>状況に応じた無効化パターン</h2>
+<h3>条件付き無効化</h3>
+<p>プレイヤーの状態やゲームの進行状況に応じてボタンを無効化するパターンです。</p>
+<pre class="language-gdscript"><code class="language-gdscript code-highlight"><span class="code-line"><span class="token keyword">func</span> <span class="token function">_process</span><span class="token punctuation">(</span>delta<span class="token punctuation">)</span><span class="token punctuation">:</span>
+</span><span class="code-line">    <span class="token comment"># プレイヤーのMPが足りない場合、魔法ボタンを無効化</span>
+</span><span class="code-line">    <span class="token variable">$MagicButton</span><span class="token punctuation">.</span>disabled <span class="token operator">=</span> player<span class="token punctuation">.</span>mp <span class="token operator">&#x3C;</span> magic_cost
+</span><span class="code-line">
+</span><span class="code-line">    <span class="token comment"># ボスが無敵状態の場合、攻撃ボタンを無効化</span>
+</span><span class="code-line">    <span class="token variable">$AttackButton</span><span class="token punctuation">.</span>disabled <span class="token operator">=</span> boss<span class="token punctuation">.</span>invincible
+</span></code></pre>
+<h3>グループ管理による一括無効化</h3>
+<p>複数のボタンを同時に制御したい場合は、グループ機能を活用します。</p>
+<pre class="language-gdscript"><code class="language-gdscript code-highlight"><span class="code-line"><span class="token comment"># すべてのメニューボタンを無効化</span>
+</span><span class="code-line"><span class="token keyword">func</span> <span class="token function">disable_menu_buttons</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">:</span>
+</span><span class="code-line">    <span class="token keyword">for</span> button <span class="token keyword">in</span> <span class="token function">get_tree</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">.</span><span class="token function">get_nodes_in_group</span><span class="token punctuation">(</span><span class="token string">"menu_buttons"</span><span class="token punctuation">)</span><span class="token punctuation">:</span>
+</span><span class="code-line">        button<span class="token punctuation">.</span>disabled <span class="token operator">=</span> <span class="token boolean">true</span>
+</span><span class="code-line">
+</span><span class="code-line"><span class="token comment"># すべてのメニューボタンを有効化</span>
+</span><span class="code-line"><span class="token keyword">func</span> <span class="token function">enable_menu_buttons</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">:</span>
+</span><span class="code-line">    <span class="token keyword">for</span> button <span class="token keyword">in</span> <span class="token function">get_tree</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">.</span><span class="token function">get_nodes_in_group</span><span class="token punctuation">(</span><span class="token string">"menu_buttons"</span><span class="token punctuation">)</span><span class="token punctuation">:</span>
+</span><span class="code-line">        button<span class="token punctuation">.</span>disabled <span class="token operator">=</span> <span class="token boolean">false</span>
+</span></code></pre>
+<p>エディタでボタンを選択し、「Node」タブの「Groups」セクションで<code>menu_buttons</code>などのグループに追加しておきましょう。</p>
+<h2>無効化状態のビジュアルカスタマイズ</h2>
+<h3>テーマオーバーライドによる方法</h3>
+<p>デフォルトの灰色表示ではなく、独自のスタイルを適用できます。</p>
+<pre class="language-gdscript"><code class="language-gdscript code-highlight"><span class="code-line"><span class="token keyword">func</span> <span class="token function">_ready</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">:</span>
+</span><span class="code-line">    <span class="token keyword">var</span> disabled_style <span class="token operator">=</span> StyleBoxFlat<span class="token punctuation">.</span><span class="token function">new</span><span class="token punctuation">(</span><span class="token punctuation">)</span>
+</span><span class="code-line">    disabled_style<span class="token punctuation">.</span>bg_color <span class="token operator">=</span> <span class="token function">Color</span><span class="token punctuation">(</span><span class="token number">0.5</span><span class="token punctuation">,</span> <span class="token number">0</span><span class="token punctuation">,</span> <span class="token number">0</span><span class="token punctuation">,</span> <span class="token number">0.5</span><span class="token punctuation">)</span>  <span class="token comment"># 半透明の赤</span>
+</span><span class="code-line">    disabled_style<span class="token punctuation">.</span>border_width_all <span class="token operator">=</span> <span class="token number">2</span>
+</span><span class="code-line">    disabled_style<span class="token punctuation">.</span>border_color <span class="token operator">=</span> <span class="token function">Color</span><span class="token punctuation">(</span><span class="token number">0.7</span><span class="token punctuation">,</span> <span class="token number">0</span><span class="token punctuation">,</span> <span class="token number">0</span><span class="token punctuation">)</span>
+</span><span class="code-line">
+</span><span class="code-line">    <span class="token variable">$Button</span><span class="token punctuation">.</span><span class="token function">add_theme_stylebox_override</span><span class="token punctuation">(</span><span class="token string">"disabled"</span><span class="token punctuation">,</span> disabled_style<span class="token punctuation">)</span>
+</span></code></pre>
+<h3>エディタからのテーマ設定</h3>
+<p>エディタからもカスタマイズできます：</p>
+<ol>
+<li>ボタンを選択</li>
+<li>「Theme Overrides」→「Styles」を展開</li>
+<li>「disabled」項目にカスタムStyleBoxを割り当て</li>
+</ol>
+<h2>実装パターン集</h2>
+<h3>ロード中の無効化</h3>
+<p>アセットロード中などにユーザー操作を防止する例です。</p>
+<pre class="language-gdscript"><code class="language-gdscript code-highlight"><span class="code-line"><span class="token keyword">func</span> <span class="token function">start_loading</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">:</span>
+</span><span class="code-line">    <span class="token function">disable_all_buttons</span><span class="token punctuation">(</span><span class="token punctuation">)</span>
+</span><span class="code-line">    <span class="token variable">$LoadingScreen</span><span class="token punctuation">.</span>visible <span class="token operator">=</span> <span class="token boolean">true</span>
+</span><span class="code-line">    await <span class="token function">load_game_assets</span><span class="token punctuation">(</span><span class="token punctuation">)</span>
+</span><span class="code-line">    <span class="token variable">$LoadingScreen</span><span class="token punctuation">.</span>visible <span class="token operator">=</span> <span class="token boolean">false</span>
+</span><span class="code-line">    <span class="token function">enable_all_buttons</span><span class="token punctuation">(</span><span class="token punctuation">)</span>
+</span><span class="code-line">
+</span><span class="code-line"><span class="token keyword">func</span> <span class="token function">disable_all_buttons</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">:</span>
+</span><span class="code-line">    <span class="token keyword">for</span> button <span class="token keyword">in</span> <span class="token function">get_tree</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">.</span><span class="token function">get_nodes_in_group</span><span class="token punctuation">(</span><span class="token string">"ui_buttons"</span><span class="token punctuation">)</span><span class="token punctuation">:</span>
+</span><span class="code-line">        button<span class="token punctuation">.</span>disabled <span class="token operator">=</span> <span class="token boolean">true</span>
+</span><span class="code-line">
+</span><span class="code-line"><span class="token keyword">func</span> <span class="token function">enable_all_buttons</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">:</span>
+</span><span class="code-line">    <span class="token keyword">for</span> button <span class="token keyword">in</span> <span class="token function">get_tree</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">.</span><span class="token function">get_nodes_in_group</span><span class="token punctuation">(</span><span class="token string">"ui_buttons"</span><span class="token punctuation">)</span><span class="token punctuation">:</span>
+</span><span class="code-line">        button<span class="token punctuation">.</span>disabled <span class="token operator">=</span> <span class="token boolean">false</span>
+</span></code></pre>
+<h3>クールダウン実装</h3>
+<p>スキルボタンなどでクールダウン機能を実装する例です。</p>
+<pre class="language-gdscript"><code class="language-gdscript code-highlight"><span class="code-line"><span class="token keyword">func</span> <span class="token function">use_skill</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">:</span>
+</span><span class="code-line">    <span class="token variable">$SkillButton</span><span class="token punctuation">.</span>disabled <span class="token operator">=</span> <span class="token boolean">true</span>
+</span><span class="code-line">
+</span><span class="code-line">    <span class="token comment"># スキル実行ロジック</span>
+</span><span class="code-line">    <span class="token function">perform_skill</span><span class="token punctuation">(</span><span class="token punctuation">)</span>
+</span><span class="code-line">
+</span><span class="code-line">    <span class="token comment"># クールダウンタイマー開始</span>
+</span><span class="code-line">    <span class="token variable">$CooldownTimer</span><span class="token punctuation">.</span><span class="token function">start</span><span class="token punctuation">(</span><span class="token punctuation">)</span>
+</span><span class="code-line">
+</span><span class="code-line"><span class="token keyword">func</span> <span class="token function">_on_cooldown_timer_timeout</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">:</span>
+</span><span class="code-line">    <span class="token variable">$SkillButton</span><span class="token punctuation">.</span>disabled <span class="token operator">=</span> <span class="token boolean">false</span>
+</span></code></pre>
+<h2>よくある問題と解決策</h2>
+<h3>無効化されても押せてしまう問題</h3>
+<p><code>disabled = true</code>を設定しても反応してしまう場合、入力イベントをブロックする必要があります。</p>
+<pre class="language-gdscript"><code class="language-gdscript code-highlight"><span class="code-line"><span class="token keyword">func</span> <span class="token function">_input</span><span class="token punctuation">(</span>event<span class="token punctuation">)</span><span class="token punctuation">:</span>
+</span><span class="code-line">    <span class="token keyword">if</span> event <span class="token keyword">is</span> InputEventMouseButton <span class="token keyword">and</span> button_is_disabled<span class="token punctuation">:</span>
+</span><span class="code-line">        <span class="token comment"># イベントを消費して後続の処理を防止</span>
+</span><span class="code-line">        <span class="token function">get_viewport</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">.</span><span class="token function">set_input_as_handled</span><span class="token punctuation">(</span><span class="token punctuation">)</span>
+</span></code></pre>
+<h3>無効化状態の視覚的フィードバック不足</h3>
+<p>ユーザーに無効状態を明確に伝えるためのテクニックです。</p>
+<pre class="language-gdscript"><code class="language-gdscript code-highlight"><span class="code-line"><span class="token keyword">func</span> <span class="token function">disable_button_with_feedback</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">:</span>
+</span><span class="code-line">    <span class="token variable">$Button</span><span class="token punctuation">.</span>disabled <span class="token operator">=</span> <span class="token boolean">true</span>
+</span><span class="code-line">
+</span><span class="code-line">    <span class="token comment"># 視覚的フィードバックを追加</span>
+</span><span class="code-line">    <span class="token variable">$Button</span><span class="token operator">/</span>DisabledOverlay<span class="token punctuation">.</span>visible <span class="token operator">=</span> <span class="token boolean">true</span>
+</span><span class="code-line">    <span class="token variable">$Button</span><span class="token operator">/</span>DisabledIcon<span class="token punctuation">.</span>visible <span class="token operator">=</span> <span class="token boolean">true</span>
+</span><span class="code-line">
+</span><span class="code-line">    <span class="token comment"># ツールチップで理由を示す</span>
+</span><span class="code-line">    <span class="token variable">$Button</span><span class="token punctuation">.</span>tooltip_text <span class="token operator">=</span> <span class="token string">"条件を満たしていません"</span>
+</span></code></pre>
+<h2>パフォーマンスへの配慮</h2>
+<p>多数のボタンを頻繁に有効/無効化する場合、パフォーマンスに影響する可能性があります。</p>
+<pre class="language-gdscript"><code class="language-gdscript code-highlight"><span class="code-line"><span class="token comment"># 最適化のためにキャッシュを活用</span>
+</span><span class="code-line"><span class="token keyword">var</span> menu_buttons <span class="token operator">=</span> <span class="token punctuation">[</span><span class="token punctuation">]</span>
+</span><span class="code-line">
+</span><span class="code-line"><span class="token keyword">func</span> <span class="token function">_ready</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">:</span>
+</span><span class="code-line">    <span class="token comment"># 起動時に一度だけボタンを検索</span>
+</span><span class="code-line">    menu_buttons <span class="token operator">=</span> <span class="token function">get_tree</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">.</span><span class="token function">get_nodes_in_group</span><span class="token punctuation">(</span><span class="token string">"menu_buttons"</span><span class="token punctuation">)</span>
+</span><span class="code-line">
+</span><span class="code-line"><span class="token keyword">func</span> <span class="token function">toggle_buttons</span><span class="token punctuation">(</span>disabled<span class="token punctuation">:</span> <span class="token class-name">bool</span><span class="token punctuation">)</span><span class="token punctuation">:</span>
+</span><span class="code-line">    <span class="token keyword">for</span> button <span class="token keyword">in</span> menu_buttons<span class="token punctuation">:</span>
+</span><span class="code-line">        button<span class="token punctuation">.</span>disabled <span class="token operator">=</span> disabled
+</span></code></pre>
+<h2>まとめ</h2>
+<p>Godot 4.4でのボタン無効化は、単なる機能制限だけでなく、ユーザー体験を向上させる重要な要素です。適切なタイミングでボタンを無効化し、明確なフィードバックを提供することで、プレイヤーは何が起きているかを理解しやすくなります。</p>
+<p>本記事で紹介したテクニックを組み合わせて、あなたのゲームに最適なUI操作体験を実現してください。</p>
+<h2>参考資料</h2>
+<ul>
+<li><a href="https://docs.godotengine.org/en/stable/classes/class_button.html" rel="nofollow" target="_blank">Godot公式ドキュメント - Button クラス</a></li>
+<li><a href="https://docs.godotengine.org/en/stable/classes/class_control.html" rel="nofollow" target="_blank">Godot公式ドキュメント - Control ノード</a></li>
+<li><a href="https://docs.godotengine.org/en/stable/tutorials/ui/gui_skinning.html" rel="nofollow" target="_blank">GodotのUIデザインベストプラクティス</a></li>
+</ul>
+<hr>
+<p><em>この記事はGodot 4.4を基準に作成されています。最新バージョンでは一部の動作が異なる可能性があります。</em></p>2:["$","article",null,{"className":"min-h-screen","children":[["$","div",null,{"className":"bg-gradient-to-b from-green-50/60 to-transparent dark:from-gray-900 dark:to-transparent","children":["$","div",null,{"className":"max-w-4xl mx-auto px-6 md:px-8 pt-28 md:pt-32 pb-10 md:pb-14","children":[["$","h1",null,{"className":"font-katyou text-4xl md:text-5xl lg:text-6xl text-gray-900 dark:text-white leading-tight mb-6","children":"Godot 4.4 ボタン無効化の完全ガイド"}],["$","time",null,{"className":"text-base font-medium text-gray-600 dark:text-gray-400","children":"2025-05-13"}]]}]}],["$","div",null,{"className":"max-w-4xl mx-auto px-6 md:px-8 pb-16 md:pb-24","children":[["$","div",null,{"id":"post-content","className":"prose prose-lg dark:prose-invert max-w-none prose-headings:font-katyou prose-headings:tracking-tight prose-h2:text-3xl prose-h2:mt-12 prose-h2:mb-6 prose-h3:text-2xl prose-h3:mt-10 prose-h3:mb-5 prose-h4:text-xl prose-h4:mt-8 prose-h4:mb-4 prose-p:leading-relaxed prose-p:mb-6 prose-li:my-2 prose-a:text-green-600 prose-a:no-underline prose-a:font-medium hover:prose-a:text-green-700 hover:prose-a:underline dark:prose-a:text-green-400 dark:hover:prose-a:text-green-300 prose-code:text-green-700 prose-code:bg-green-50 dark:prose-code:text-green-300 dark:prose-code:bg-green-900/20 prose-pre:bg-gray-900 dark:prose-pre:bg-gray-950 prose-img:rounded-lg prose-img:shadow-md prose-hr:my-12 prose-hr:border-gray-300 dark:prose-hr:border-gray-700 border-t border-gray-200 dark:border-gray-800 pt-8","dangerouslySetInnerHTML":{"__html":"$d"}}],["$","$Le",null,{}],["$","div",null,{"className":"mt-16 pt-10 border-t border-gray-200 dark:border-gray-800","children":[["$","p",null,{"className":"text-sm font-semibold text-gray-500 dark:text-gray-400 mb-4","children":"タグ"}],["$","div",null,{"className":"flex flex-wrap gap-2.5","children":[["$","$L9","Godot",{"href":"/tags/Godot","className":"inline-flex items-center px-4 py-1.5 rounded-full text-sm font-medium bg-green-100 text-green-800 dark:bg-green-900/30 dark:text-green-300 hover:bg-green-200 dark:hover:bg-green-800/50 transition-colors duration-200 shadow-sm","children":"Godot"}],["$","$L9","UI",{"href":"/tags/UI","className":"inline-flex items-center px-4 py-1.5 rounded-full text-sm font-medium bg-green-100 text-green-800 dark:bg-green-900/30 dark:text-green-300 hover:bg-green-200 dark:hover:bg-green-800/50 transition-colors duration-200 shadow-sm","children":"UI"}],["$","$L9","ボタン",{"href":"/tags/ボタン","className":"inline-flex items-center px-4 py-1.5 rounded-full text-sm font-medium bg-green-100 text-green-800 dark:bg-green-900/30 dark:text-green-300 hover:bg-green-200 dark:hover:bg-green-800/50 transition-colors duration-200 shadow-sm","children":"ボタン"}],["$","$L9","無効化",{"href":"/tags/無効化","className":"inline-flex items-center px-4 py-1.5 rounded-full text-sm font-medium bg-green-100 text-green-800 dark:bg-green-900/30 dark:text-green-300 hover:bg-green-200 dark:hover:bg-green-800/50 transition-colors duration-200 shadow-sm","children":"無効化"}],["$","$L9","ゲーム開発",{"href":"/tags/ゲーム開発","className":"inline-flex items-center px-4 py-1.5 rounded-full text-sm font-medium bg-green-100 text-green-800 dark:bg-green-900/30 dark:text-green-300 hover:bg-green-200 dark:hover:bg-green-800/50 transition-colors duration-200 shadow-sm","children":"ゲーム開発"}]]}]]}]]}]]}]
+c:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"Godot 4.4 ボタン無効化の完全ガイド | ブログタイトル"}],["$","meta","3",{"name":"description","content":"Godot 4.4でボタンを効果的に無効化する方法とベストプラクティス"}],["$","meta","4",{"property":"og:title","content":"Godot 4.4 ボタン無効化の完全ガイド"}],["$","meta","5",{"property":"og:description","content":"Godot 4.4でボタンを効果的に無効化する方法とベストプラクティス"}],["$","meta","6",{"property":"og:url","content":"https://maemaemae.blog/posts/godot_20250513"}],["$","meta","7",{"property":"og:image","content":"https://maemaemae.blog/images/godot-button-disable.jpg"}],["$","meta","8",{"property":"og:type","content":"article"}],["$","meta","9",{"property":"article:published_time","content":"2025-05-13"}],["$","meta","10",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","11",{"name":"twitter:title","content":"Godot 4.4 ボタン無効化の完全ガイド"}],["$","meta","12",{"name":"twitter:description","content":"Godot 4.4でボタンを効果的に無効化する方法とベストプラクティス"}],["$","meta","13",{"name":"twitter:image","content":"https://maemaemae.blog/images/godot-button-disable.jpg"}],["$","link","14",{"rel":"icon","href":"/favicon.ico","type":"image/x-icon","sizes":"16x16"}],["$","meta","15",{"name":"next-size-adjust"}]]
+1:null
